@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/jate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

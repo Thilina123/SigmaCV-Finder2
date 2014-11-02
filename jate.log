@@ -1,0 +1,77 @@
+2014-11-02 23:23:01,776 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:23:01,796 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:23:01,838 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:23:03,855 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:23:04,281 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-02 23:23:04,283 [Thread-0] INFO Thread-0 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:23:04,290 [Thread-0] INFO Thread-0 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:23:06,287 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-02 23:23:06,290 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:23:06,293 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:23:11,293 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-02 23:23:11,295 [Thread-2] INFO Thread-2 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-02 23:23:11,295 [Thread-4] INFO Thread-4 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-02 23:23:11,305 [Thread-3] INFO Thread-3 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-02 23:23:11,322 [Thread-5] INFO Thread-5 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-02 23:23:11,324 [Thread-6] INFO Thread-6 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:38
+2014-11-02 23:23:16,323 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-02 23:23:16,324 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:23:16,326 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:23:18,333 [main] INFO main PhraseExtractor.AlgorithmTester - Running NP recognition...
+2014-11-02 23:23:18,333 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-02 23:23:18,352 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-02 23:23:18,358 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-02 23:23:18,366 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-02 23:23:18,370 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-02 23:23:18,382 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-02 23:23:18,401 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-02 23:23:18,412 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-02 23:38:08,582 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:38:08,605 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:38:08,656 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:38:10,487 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:38:10,980 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-02 23:38:10,983 [Thread-0] INFO Thread-0 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:38:10,990 [Thread-0] INFO Thread-0 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:38:12,988 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-02 23:38:12,994 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:38:13,000 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:38:17,993 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-02 23:38:17,994 [Thread-2] INFO Thread-2 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-02 23:38:17,994 [Thread-4] INFO Thread-4 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-02 23:38:18,002 [Thread-3] INFO Thread-3 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-02 23:38:18,009 [Thread-5] INFO Thread-5 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-02 23:38:18,013 [Thread-6] INFO Thread-6 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:38
+2014-11-02 23:38:23,000 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-02 23:38:23,000 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:38:23,003 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:39:10,633 [main] INFO main PhraseExtractor.AlgorithmTester - Running NP recognition...
+2014-11-02 23:39:10,633 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-02 23:45:00,431 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:45:00,453 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:45:00,495 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:45:02,432 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:45:02,858 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-02 23:45:02,859 [Thread-0] INFO Thread-0 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:45:02,865 [Thread-0] INFO Thread-0 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:45:04,864 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-02 23:45:04,866 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:45:04,869 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:45:09,870 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-02 23:45:09,871 [Thread-2] INFO Thread-2 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-02 23:45:09,872 [Thread-5] INFO Thread-5 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-02 23:45:09,874 [Thread-6] INFO Thread-6 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:38
+2014-11-02 23:45:09,881 [Thread-3] INFO Thread-3 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-02 23:45:09,894 [Thread-4] INFO Thread-4 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-02 23:45:14,875 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-02 23:45:14,877 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-02 23:45:14,880 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20Finder/src/PhraseExtractor/test/example/ip2.txt
+2014-11-02 23:45:16,883 [main] INFO main PhraseExtractor.AlgorithmTester - Running NP recognition...
+2014-11-02 23:45:16,884 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-02 23:45:16,914 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-02 23:45:16,929 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-02 23:45:16,935 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-02 23:45:16,944 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-02 23:45:16,972 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-02 23:45:16,979 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-02 23:45:16,987 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...TfIdf_ALGORITHM

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="pdfbox-app-1.8.6" level="application" />
+    <orderEntry type="library" name="jsoup-1.7.3" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../stanford-ner-2014-06-16/stanford-ner-2014-06-16/stanford-ner.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Lib/itext-2.1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
+    <orderEntry type="library" name="Mechaglot_Alpha2" level="project" />
+    <orderEntry type="library" name="scribe-1.3.0" level="project" />
+    <orderEntry type="library" name="linkedin-j" level="project" />
+    <orderEntry type="library" name="org.json-20120521" level="project" />
+    <orderEntry type="library" name="json-simple-1.1" level="project" />
+    <orderEntry type="library" name="jwnl-1.3.3" level="project" />
+    <orderEntry type="library" name="jate" level="project" />
+  </component>
+</module>
+

@@ -1,0 +1,92 @@
+ 
+ 
+ 
+ 
+ Intelligent Traffic Light System - This project focuses on developing a 
+dynamically adopting traffic light system depending on the traffic level. Also this 
+system has the manual override capability. 
+ 
+Technologies – Electro Magnetic Sensors, PIC, C, C# 
+Link - http://goo.gl/RyTeP 
+ 
+ IESL RoboGames 2010 – Successfully Competed  
+ 
+ Other Projects 
+ 
+ Lead Organizer: Careers Day 2013 of Department of Computer Science and 
+Engineering, University Of Moratuwa 
+ Lead Organizer: RoboCross 2011 Competition & CSE Exhibition Stall at 
+Mini Infotel 2011 organized by FITIS and Telecommunication and IT Ministry 
+and the Presidential Task Force for IT. 
+Link - http://www.fitis.lk/infotel-2011.jsp 
+ Organizer: Engineering Research Unit Symposium, University Of 
+Moratuwa. 
+ Organizer: Dayata Kirula 2011 CSE’s Exhibition Stall. 
+ Organizer: Gamana –The Media Day of the School. 
+ Lead Organizer: Vibez 2011 – The fresher’s welcome for the CSE Department.  
+ School’s Premier 3D animation creator, Video Editor from 2004 to 2008. 
+ 
+ Achievements 
+ 
+ Dean’s List of the faculty in 1st and 4th semester. 
+ Oracle Certified Java Programmer with 95 marks for the OCJP 1.5 exam. 
+ Successfully complete IEEEXtreme Programming Competition in 2010, 2011 
+and 2012 winning world ranks. 
+ Elected as a Batch Representative of the batch 09 of Department of Computer 
+Science and Engineering, University Of Moratuwa 
+ Was selected as student delegate for the WSO2 Con 2011, WSO2 Con 2013. 
+ Was selected as one of the best 50 students in the Combined Mathematics 
+subject in 2008 A/L examination.  
+ Won the school’s best performer medal in the mathematics stream in A/L 
+examination 2008 with a Z score of 2.5171. 
+ Elected as Junior Prefect of the school – 2003 to 2004 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interests 
+ 
+Technological Other 
+ Cloud Computing  Teaching 
+ SOA and Middleware  Compeering 
+ Data Mining  Buddhism 
+ Intelligent Systems  Learn about bringing Sinhala to a  
+ Big Data globally recognized position 
+ HCI  
+ Advanced applications of 
+robotics and automation 
+ 
+ Reverse Engineering  
+ Embedded Systems  
+  
+ Extra Curriculum Activities  
+ 
+ University Of Moratuwa 
+o Member of IEEE 
+o An active Member of the University’s Buddhist Society. 
+ St. Aloysius’ College Galle 
+o President of the Schools IT club – 2006 to 2007 
+o Vice President, Assistant Secretary, Chief Technical Officer of the 
+School’s Mass Media Unit -2003 to 2008 
+o Vice President of the school’s Science Society – 2006 to 2007 
+ 
+ Referees 
+ 
+ Mr. Samisa Abeysinghe, 
+Vice President - Engineering      E-mail: samisa@wso2.com 
+WSO2 Lanka (Pvt) Ltd        
+ 
+ Dr. Shahani Markus Weerawarana, 
+ Computer Scientist      Mobile: +94777876881 
+ Visiting Fellow, University of New South Wales, Australia. Email: shahani.w@gmail.com 
+ Visiting Scientist, Indiana University, USA. 
+ Visiting Lecturer, University of Moratuwa & Kotelawala Defense University, Sri Lanka. 
+   
+  I hereby certify that the above details are true and accurate to the best of 
+my knowledge. 
+ 
+                …………………………. 
+          Andun S.L. Gunawardana 
+2013- …. - ….. 
