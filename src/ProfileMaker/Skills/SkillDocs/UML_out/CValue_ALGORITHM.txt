@@ -1,0 +1,21 @@
+unified medical language system |Unified Medical Language System ,2.035623909730721
+article disambiguation page |article disambiguation pages ,1.632268215499513
+school user-mode linux |school User-mode Linux ,1.632268215499513
+virtual machine software |virtual machine software ,1.632268215499513
+medical informatics tool |medical informatics tool ,1.632268215499513
+massachusetts lowell |Massachusetts Lowell ,1.070389327891398
+internal link |internal link ,1.070389327891398
+en wikipedia |en wikipedia ,1.070389327891398
+intended article |intended article ,1.070389327891398
+encyclopedia jump |encyclopedia Jump ,1.070389327891398
+uml |UML ,0.5500140949997401
+title |title ,0.27500704749987004
+link |link ,0.13750352374993502
+dictionary |dictionary ,0.13750352374993502
+wiktionary |Wiktionary ,0.13750352374993502
+software |software ,0.13750352374993502
+search |search ,0.13750352374993502
+navigation |navigation ,0.13750352374993502
+article |articles ,0.0
+wikipedia |Wikipedia ,0.0
+language |language ,0.0

@@ -1,0 +1,1156 @@
+world wide web |World Wide Web ,-0.27097354505446536
+world wide web consortium |World Wide Web Consortium ,-0.46018301913999726
+markup language |markup language |Markup Language |markup languages ,-0.46396625095365174
+use cs |use CSS ,-0.5555550159669336
+html and html |html and html ,-0.7251447571004214
+hypertext markup language |Hypertext Markup Language |HyperText Markup Language ,-0.7306380509214978
+html document |HTML documents |HTML document ,-0.7443283766794809
+html element |HTML elements |HTML element ,-0.7699250233932273
+html and xhtml |HTML and XHTML ,-0.7875783267007819
+xhtml and html |XHTML and HTML ,-0.8021067297615073
+tim berners-lee |Tim Berners-Lee ,-0.8089056065109981
+html element html document |HTML element HTML documents ,-0.8089156853422524
+html tag |HTML Tags |HTML tags ,-0.8152488740215261
+web browser |Web browsers |web browsers |web browser ,-0.8268939056906548
+html and html draft |HTML and HTML drafts ,-0.8365444611743602
+html markup |HTML markup ,-0.8371842218042017
+html browser |HTML browser |HTML browsers ,-0.840274493267146
+html edit html |HTML edit HTML ,-0.850933150879729
+style sheet |style sheets |Style Sheets ,-0.8535933491268297
+html and cs |HTML and CSS ,-0.8602053756669298
+html specification |HTML specifications |HTML specification ,-0.8651489536842811
+text html |text html ,-0.8716755533108063
+sgml and html |SGML and HTML ,-0.8880863944913894
+html or xhtml |HTML or XHTML ,-0.8917254634003612
+web page |web page |Web pages |web pages ,-0.9104002739467427
+main article |Main article ,-0.9132080690894551
+html standard |HTML standard ,-0.9151419516455634
+web document |web documents ,-0.924934283957837
+xhtml document |XHTML Documents |XHTML documents ,-0.9275389316531089
+xhtml xhtml |XHTML XHTML ,-0.9285859974760661
+html draft |HTML drafts ,-0.9374236842714069
+markup element |markup elements ,-0.941232308809009
+tags and text |tags and text ,-0.9430611299782415
+html web page |HTML web pages ,-0.9440269385241379
+html and dynamic html |HTML and Dynamic HTML ,-0.9481871303879983
+html application |HTML Application ,-0.9487166600406904
+mime type |MIME Type |MIME type ,-0.9520003892065658
+xhtml tag |XHTML tag ,-0.9560780711443622
+edit main article |edit Main article ,-0.9589971835307987
+element and attribute content |element and attribute content ,-0.9617270359454427
+semantic html semantic html |Semantic HTML Semantic HTML ,-0.9661578004737791
+hypertext markup language html |HyperText Markup Language HTML ,-0.9667743864450047
+html language reference |HTML language reference ,-0.9772286082844681
+text element |text elements ,-0.9880695388116444
+html dtd |HTML DTD ,-0.9987468082683973
+cascading style sheet |Cascading style sheets |Cascading Style Sheets ,-1.000426467342572
+presentational html markup |presentational HTML markup ,-1.0007186870719897
+empty element |empty element |empty elements |Empty elements ,-1.0064523022324927
+html feature |HTML features ,-1.0066686502595548
+unicode and html |Unicode and HTML ,-1.0102015964097553
+doctype html |DOCTYPE html ,-1.0140989212154319
+xhtml version |XHTML versions ,-1.015041070633265
+end tag |end tag ,-1.0179125392846267
+html application edit |HTML Application edit ,-1.0219360160360522
+html heading |HTML headings ,-1.022073225736332
+html file |HTML files ,-1.022073225736332
+first html specification |first HTML specification ,-1.027910661627153
+element example |Element examples ,-1.0304236217168448
+element content |element content ,-1.030636162962746
+hypertext markup language specification |HyperText Markup Language Specification ,-1.0325195848014774
+application xhtml xml |application xhtml xml ,-1.0349086576337985
+hypertext document |hypertext documents ,-1.03651013792392
+whatwg html |WhatWG HTML ,-1.0368109489362312
+semantic web |Semantic Web ,-1.0379042149003088
+body html |body html ,-1.0402947490096996
+markup text |markup text ,-1.0411284017189777
+current html and xhtml recommendation |current HTML and XHTML recommendations ,-1.0429899445490127
+deprecated tag |deprecated tags ,-1.0460464831360383
+standard markup language |standard markup language ,-1.0463594010752608
+entity reference |entity references ,-1.0494922104754427
+document type declaration |Document Type Declaration |document type declaration ,-1.0518741828476483
+nested html element |nested HTML elements ,-1.0523890792318997
+structure and markup |structure and markup ,-1.0547408432860332
+type attribute |type attribute ,-1.0560079623531369
+hypertext markup language html internet-draft |Hypertext Markup Language HTML Internet-Draft ,-1.0571488183899524
+html working group |HTML Working Group ,-1.0590170078083365
+html mime type |HTML MIME type ,-1.0595988949616788
+document markup languages list |document markup languages List ,-1.0600661755326874
+html hypertext markup format |HTML Hypertext Markup Format ,-1.0613528446452318
+html browser or other agent |HTML browser or other agent ,-1.063018260415491
+text html mime type |text html MIME type ,-1.0655044315052198
+start tag |start tag ,-1.0661638679515266
+presentational markup element |presentational markup elements ,-1.0665680366685515
+data types edit html |Data types edit HTML ,-1.0671057727532456
+x html |X HTML ,-1.0678374742276724
+xml specification |XML specifications ,-1.068183260347128
+x html or x html |X HTML or X HTML ,-1.0699698465897916
+hypertext markup |Hypertext markup ,-1.0701690834203808
+markup edit |Markup edit ,-1.0701690834203808
+html tim berners-lee |HTML Tim Berners-Lee ,-1.0723392109577057
+link element |link element ,-1.07455479643622
+specification version |specification versions ,-1.0767958766774908
+presentational markup |Presentational markup |presentational markup ,-1.079002257345146
+hypertext markup language draft |Hypertext Markup Language draft ,-1.0806062263323266
+strict version |Strict version |strict version ,-1.0875344555606217
+world wide web application |World Wide Web application ,-1.087569924074019
+xml version |xml version ,-1.0893879251358107
+internet media type text html |Internet Media Type text html ,-1.0898654983421878
+attribute content |attribute content ,-1.0910186640291974
+html style empty element br |HTML style empty element br ,-1.0911354946113239
+presentational element |presentational elements ,-1.0912738586270994
+div html |div HTML ,-1.0913556155307553
+presentation and content |presentation and content ,-1.0913667292686928
+form element |form elements ,-1.0926994327952528
+frameset element |frameset element ,-1.0926994327952528
+presentational markup tag |Presentational markup tags ,-1.0941334693453837
+xml standard |XML standards ,-1.0948016266002245
+html character entity reference |HTML character entity references ,-1.0974518872638925
+semantic markup |semantic markup ,-1.0995025241426335
+transitional and frameset version |Transitional and Frameset versions ,-1.1000222528065775
+br and p |br and p ,-1.10134243505859
+specification versions edit |specification versions edit ,-1.1058447979949273
+semantic language |semantic language ,-1.106410909168455
+attribute value |attribute values ,-1.1088600408431142
+current html |current HTML ,-1.109582255314674
+title hypertext markup language |title Hypertext Markup Language ,-1.1114203890575158
+xhtml recommendation |XHTML recommendations ,-1.1127120241643036
+css standard |CSS standards ,-1.113255504082601
+content specification |content specification ,-1.1165534965879291
+doctype html declaration |DOCTYPE html declaration ,-1.1172708799939088
+document type declaration edit |Document type declaration edit ,-1.1179620055355182
+html document head head |HTML document head head ,-1.1191988730742222
+br tag |BR tag ,-1.121427921029544
+browser-specific element types and attribute |browser-specific element types and attributes ,-1.1219812539366363
+character and entity references edit |Character and entity references edit ,-1.122657503083221
+text content |text content ,-1.1230226067803133
+berners-lee specified html |Berners-Lee specified HTML ,-1.1230931397492059
+xhtml xml lang attribute |XHTML xml lang attribute ,-1.1231212967702993
+further tag markup |further tag markup ,-1.1234273159192691
+text or further tag |text or further tags ,-1.1236981010752896
+iso standard |ISO standards ,-1.1275546518822552
+html draft version timeline edit |HTML draft version timeline edit ,-1.1285480228263804
+latest html specification |latest HTML specifications ,-1.1305400175648386
+older html specification |older HTML specification ,-1.1305400175648386
+html implementation |HTML implementations ,-1.1318910570275191
+form tag |form tag ,-1.133822607043868
+xhtml mime type |XHTML MIME type ,-1.1338679921892296
+related element |related elements ,-1.1349564162847874
+closing tag |closing tags |closing tag ,-1.1376947598586296
+ted nelson |Ted Nelson ,-1.1377763931213725
+formatting and semantic markup |formatting and semantic markup ,-1.137867604938456
+sgml-based html versus xml-based html |SGML-based HTML versus XML-based HTML ,-1.1381401983054278
+wysiwyg editor |WYSIWYG editors ,-1.1383844729938146
+first tag |first tag ,-1.140658983012696
+character reference |character references ,-1.14373868488063
+head first html |Head First HTML ,-1.1442725756143952
+web agent |web agent ,-1.144957560677323
+style language |style languages ,-1.1461160418782501
+img element |img element ,-1.1466295691606803
+object element |object element ,-1.1466295691606803
+browser and server software |browser and server software ,-1.1471165012929683
+start and end |start and end ,-1.14765888364436
+hyper text markup language |Hyper Text Markup Language ,-1.148919772931122
+xhtml versions edit main article |XHTML versions edit Main article ,-1.1516781443750608
+strict transitional and frameset |strict transitional and frameset ,-1.1522889376167162
+elements edit main article |Elements edit Main article ,-1.1523409470380974
+title attribute |title attribute ,-1.1524853943441016
+document type definition |Document Type Definition ,-1.152832005310931
+map link and form element |map link and form elements ,-1.1534192728566197
+dynamic html |Dynamic HTML ,-1.1570866421548802
+web server |web server |web servers ,-1.1577807500514472
+data type |data types ,-1.1592377748659637
+well-formed xhtml document |well-formed XHTML document ,-1.1598452277598634
+frame element |frame element |frame elements ,-1.1598757904949042
+frameset specification |frameset specifications ,-1.1604483724352348
+html serialization |html serialization ,-1.1606536729468275
+html source |HTML source ,-1.1606536729468275
+html email |HTML email ,-1.1606536729468275
+published text |published text ,-1.1608144184142288
+xml lang and lang attribute |xml lang and lang attributes ,-1.1609743486115007
+transitional version |Transitional version ,-1.1612580947705449
+document structure |document structure ,-1.1624767364683195
+form and input element |form and input elements ,-1.162507802620579
+css and xsl |CSS and XSL ,-1.1634389085340362
+xhtml syntax |XHTML syntax ,-1.1635219556014338
+align deprecated |align Deprecated ,-1.1647309806570652
+xml declaration |XML declaration ,-1.1669305043885467
+web user |web users ,-1.167189321623189
+mode html frame |mode HTML Frames ,-1.1692220659838495
+body and body |body and body ,-1.1719156431366031
+transitional type |Transitional type ,-1.1729174469738992
+images and object |images and objects ,-1.1746371094379537
+sgml application |SGML application ,-1.175670164709544
+living standard html |living standard HTML ,-1.1757123717851168
+frameset version |Frameset versions ,-1.1778887245599723
+internet media type |Internet Media Type ,-1.1789869549767977
+contents or presentation |contents or presentation ,-1.1800702289390965
+sgml document type definition |SGML Document Type Definition ,-1.1812514839748116
+attributes edit main article |Attributes edit Main article ,-1.1812534191230482
+lang attribute |lang attribute |lang attributes ,-1.1827575312609773
+title text |title text ,-1.1839175364953323
+further tag |further tags ,-1.1845046860559474
+browser development |browser development ,-1.1858115027628482
+document description and processing language |Document description and processing languages ,-1.1867442704552629
+class attribute |class attribute |Class attributes ,-1.1878625674238088
+older or deprecated tag |older or deprecated tags ,-1.1913224885413813
+working group |working group ,-1.1917322856425505
+no content |no content ,-1.192037174379642
+no content or closing tag |no content or closing tag ,-1.1953966829215428
+internet explorer |Internet Explorer ,-1.195669256877111
+web author |web authors ,-1.1958717882376486
+html e-mail edit main article |HTML e-mail edit Main article ,-1.1972102243817833
+popular web browser |popular web browsers ,-1.1973084952684871
+requirements and recommendation |requirements and recommendations ,-1.1991705802341446
+html dave raggett |HTML Dave Raggett ,-1.200698162394123
+html wikiversity |HTML Wikiversity ,-1.2011945541350222
+presentational and semantic math language |presentational and semantic math language ,-1.2021437041028198
+similar element |similar elements ,-1.2022365160310913
+table element |table element ,-1.2022365160310913
+p this br |p This br ,-1.2027008797682555
+document author |document authors ,-1.2028772638502427
+first version |first version ,-1.2047052413960753
+loose and frameset |Loose and Frameset ,-1.2059572037538884
+working draft |working draft ,-1.2064186085653932
+world wide web project |World Wide Web project ,-1.2069061905049137
+character encoding |Character encoding |character encoding ,-1.208461186894062
+xml syntax |XML syntax ,-1.2088004644420525
+document type definition dtd |Document Type Definition DTD ,-1.2098092366400273
+x browser |X Browser ,-1.210792407071463
+opening tag |opening tag |opening tags ,-1.2115985223087966
+hypertext markup language wikiversity |HyperText Markup Language Wikiversity ,-1.2117076328219545
+main text |main text ,-1.2143178977892382
+web design group |Web Design Group ,-1.2165706543420203
+br element compact attribute |br element compact attribute ,-1.2171432115283678
+html versions timeline edit part |HTML versions timeline edit Parts ,-1.2176824654571254
+hypertext feature |hypertext features ,-1.2181969121310317
+format document file |format Document file ,-1.2191586328757817
+iec standard |IEC standards ,-1.2194249059111757
+working draft link |Working Draft link ,-1.2203283506821292
+html compatibility guideline |HTML Compatibility Guidelines ,-1.2225223380177064
+element formatting |element formatting ,-1.2245153828046385
+inline element |inline element ,-1.2245153828046385
+div tag |div tags ,-1.2248281428409555
+web design html challenge |Web Design HTML Challenges ,-1.2261748595566395
+element examples edit header |Element examples edit Header ,-1.2267723612246872
+menu elements type |menu elements type ,-1.2277537669636303
+common attribute |common attributes ,-1.2279325967737664
+character entity reference |character entity reference ,-1.2289604311409321
+bgcolor deprecated |bgcolor Deprecated ,-1.2299637319897938
+document description |Document description ,-1.2324345082764823
+xml-based specification |XML-based specification ,-1.2328843683232455
+entity references edit |entity references edit ,-1.2344442094497814
+document type declaration subset |document type declaration subset ,-1.2352648877126662
+web content accessibility guideline |Web Content Accessibility Guidelines ,-1.2365253958375646
+b c tag |b c Tags ,-1.2383363527577969
+loose transitional or frameset specification |loose transitional or frameset specifications ,-1.23964337923088
+user agent |user agents |user agent ,-1.2403948494291859
+sgml declaration |SGML declaration ,-1.2410035799289576
+hyperlink tag |hyperlink tag ,-1.2429821342890848
+current tag |current tags ,-1.2429821342890848
+sgml html doc |SGML HTML docs ,-1.2442767569629132
+id attribute |id attribute |ID Attributes ,-1.2452795500655454
+href attribute |href attribute ,-1.2452795500655454
+dave raggett |Dave Raggett ,-1.2456061743712739
+title title |title title ,-1.2466438698601583
+xml lang |xml lang ,-1.2477454493629008
+declaration reference |declaration references ,-1.2486741760369133
+version number |version number ,-1.2487643101314347
+closing end tag |closing end tag ,-1.2498754715092915
+browser vendor |Browser vendors |browser vendors ,-1.2527614799155733
+transitional and frameset dtds |Transitional and Frameset DTDs ,-1.252839089456355
+base element |base elements ,-1.25324748450311
+abbreviation element |abbreviation element ,-1.25324748450311
+frameset versus transitional edit |Frameset versus transitional edit ,-1.2533692400016887
+transitional versus strict edit |Transitional versus strict edit ,-1.2533692400016887
+ietf iiir working group |IETF IIIR Working Group ,-1.253582088543523
+simple markup |simple markup ,-1.253883640069214
+good semantic html |Good semantic HTML ,-1.2558710045191734
+audible web page |audible web pages ,-1.2590935509490024
+structural markup |Structural markup ,-1.260951318278088
+cascading style sheets cs |Cascading Style Sheets CSS ,-1.2617966807667622
+modern browser |modern browsers ,-1.263087163703958
+semantic structure |semantic structures |semantic structure ,-1.264079208574636
+strict transitional |strict transitional ,-1.264709254288364
+microsoft and netscape |Microsoft and Netscape ,-1.2669164585845312
+sgml-based specification |SGML-based specification ,-1.2678442959406035
+quirks mode |quirks mode ,-1.2680686833005903
+ietf html wg |IETF HTML WG ,-1.2699282045036808
+v t e web |v t e Web ,-1.2704630327100586
+html coder |HTML coders ,-1.2705036038768298
+early text formatting language |early text formatting languages ,-1.2713094197222532
+early version |early versions ,-1.2725174924505382
+informal cern document |informal CERN document ,-1.2729246492610358
+visual or audible web page |visual or audible web pages ,-1.2731165322225366
+further draft |further drafts ,-1.273186421840212
+browser-specific element type |browser-specific element types ,-1.273932916409092
+ul elements type |ul elements type ,-1.273932916409092
+semantic or presentation purpose |semantic or presentation purposes ,-1.2739380192562975
+web application hybrid |web application hybrids ,-1.2746524556342187
+character encodings dates and time |character encodings dates and times ,-1.2751014573211905
+appendix c |Appendix C ,-1.276728032030055
+existing html form |existing HTML forms ,-1.278257082738014
+standard number list |standard number List ,-1.279184669288383
+categories iso standard |Categories ISO standards ,-1.280015813366144
+pre element additional element |pre element Additional elements ,-1.2826368177482161
+dir attribute |dir attribute ,-1.2835572016915657
+ol and ul elements type |ol and ul elements type ,-1.2852983146063197
+different version |different versions ,-1.2876779896124066
+strict dtd |Strict DTD ,-1.2878275393607082
+b iso |b ISO ,-1.2888990588113474
+plain text |plain text ,-1.2903419522121924
+example img |example img ,-1.2912269185042216
+body required element |body required element ,-1.2920539844701326
+regular html file |regular HTML file ,-1.2931099430608703
+input element |input elements ,-1.2937572563365762
+empty-element tag |empty-element tags ,-1.293902197342788
+optional tag |optional tags ,-1.293902197342788
+audio browser |audio browser ,-1.2951970299081161
+arena browser |Arena browser ,-1.2951970299081161
+programming language |programming languages |programming language ,-1.2956164284298841
+obsolete attribute |Obsolete attribute ,-1.2956164284298841
+omitted opening or closing tag |omitted opening or closing tags ,-1.296040440164323
+standards mode rendering |standards mode rendering ,-1.2989050647210276
+web service |Web services ,-1.3055513488373922
+international standard |international standard ,-1.3058341910127693
+optional opening or closing tag |optional opening or closing tags ,-1.3074875832170914
+numeric character reference |numeric character reference ,-1.3080060697368285
+doctype declaration |doctype declaration ,-1.308225523166947
+semantic math language |semantic math language ,-1.3083080834146674
+software agent |software agents ,-1.3088086129315526
+visible or audible web page |visible or audible web pages ,-1.3096560390830767
+presentation related attributes background deprecated |Presentation related attributes background Deprecated ,-1.3101212779843858
+additional reference |additional references ,-1.3101254876845063
+iso iec international standard |ISO IEC international standard ,-1.310947975020672
+revised document format |revised document format ,-1.3110249683266888
+separate language |separate language ,-1.312205952589258
+title title define |title title defines ,-1.3130669224712306
+images and diagram |images and diagrams ,-1.3131696623329476
+inline img tag |inline IMG tag ,-1.3135674838550164
+text color |text color ,-1.314149566596394
+href http example |href http example ,-1.3144335546115693
+font deprecated |font Deprecated ,-1.3158773493414542
+web page designer |web page designer ,-1.3178988168334926
+search-engine spider |search-engine spiders |search-engine spider ,-1.3188204040296454
+angle bracket |angle brackets ,-1.3188204040296454
+html internet-draft abstract |HTML Internet-Draft Abstract ,-1.3201090519937635
+important type |important type ,-1.3206829170971095
+file system |file systems ,-1.3220968475821653
+transitional difference |transitional differences ,-1.323640591149673
+li element width attribute |li element width attribute ,-1.3237476039814153
+semantic web revisited |Semantic Web Revisited ,-1.3238665151709605
+wysiwyg editors edit |WYSIWYG editors edit ,-1.3243692598889352
+loose version |loose versions ,-1.3276781045150414
+paragraph br |paragraph br ,-1.3286154356212643
+br line |br line ,-1.3286154356212643
+html design constraint |HTML Design Constraints ,-1.3290030364653325
+html often ill-defined |HTML often ill-defined ,-1.3290030364653325
+valid document adhere |valid document adheres ,-1.3308255991947178
+similar extended xhtml |similar extended XHTML ,-1.3314826720167057
+no version management |no version management ,-1.3322459820389634
+legend and caption element |legend and caption elements ,-1.3324376909560498
+unicode character |Unicode character ,-1.3326326531163732
+unicode standard |Unicode Standard ,-1.3326326531163732
+specific application |specific application ,-1.3336649376207852
+transitional specification menu |Transitional specification menu ,-1.3340562762908117
+different content model |different content model ,-1.3342659326248045
+center tag |center tags ,-1.3343642085056993
+major browser |major browsers ,-1.335656757296759
+processing language |processing languages ,-1.3357720564923385
+well-formed xml |well-formed XML ,-1.3365919245228197
+width deprecated |width Deprecated ,-1.337849138332717
+dir deprecated |dir Deprecated ,-1.337849138332717
+character encodings date |character encodings dates ,-1.341146843093942
+hr element align deprecated |hr element align Deprecated ,-1.3415451830408602
+meaningful and well-presented document |meaningful and well-presented documents ,-1.3420800752328648
+map link |map link ,-1.3420807767838077
+content management system |content management systems ,-1.342499991233183
+text em |text em ,-1.3426949949363631
+markup counterpart |markup counterpart ,-1.3452046228559498
+href http www google |href http www google ,-1.345790479766037
+p hello world |p Hello world ,-1.347362285587295
+div form paragraph p |div form paragraph p ,-1.34758239902438
+visible page content |visible page content ,-1.3481255698329475
+software implementers and vendor |software implementers and vendors ,-1.3532406295804291
+no clear standard |no clear standards ,-1.3542788094020688
+mathematical formula |mathematical formulas ,-1.354613293973975
+entire specification |entire specification ,-1.355159902564483
+external links edit |External links edit ,-1.355302829059407
+p section |p sections ,-1.3557083454992687
+recent version |recent versions ,-1.3561526239595714
+img and object caution |img and object caution ,-1.359166843325279
+parsing and validation |parsing and validation ,-1.3592610969833496
+latest standard |latest standards ,-1.36107586171576
+separate standard |separate standard ,-1.36107586171576
+sgml extended |SGML Extended ,-1.3620212738336457
+caption element |caption elements ,-1.3630345851678338
+parent element |parent element ,-1.3630345851678338
+root element |root element ,-1.3630345851678338
+security model |security model ,-1.3633497181407594
+current variations edit |Current variations edit ,-1.364549617443311
+looser content model inline element |looser content model Inline elements ,-1.3659589901939706
+main difference |main difference ,-1.36606326809784
+size deprecated |size Deprecated ,-1.366255747985506
+design issue |Design Issues ,-1.367127482435942
+cs tcd |Cs Tcd ,-1.3679038095111582
+potentially dated statement |potentially dated statements ,-1.368034842936248
+advanced hypertext |Advanced Hypertext ,-1.368950653540227
+minor edit |minor edits ,-1.368950653540227
+dates wikipedia article |dates Wikipedia articles ,-1.369004208297024
+first proposal |first proposal ,-1.371982764379914
+dtd section |DTD section ,-1.371982764379914
+module-based xhtml second edition |Module-based XHTML Second Edition ,-1.372097430010903
+unsourced statement |unsourced statements ,-1.372543605352433
+older whatwg draft |older WhatWG draft ,-1.372632116422673
+further development |Further development ,-1.372943706613322
+date value |date values ,-1.3729886276745886
+head body |head body ,-1.3741859586131775
+b connolly |b Connolly ,-1.3741859586131775
+web developer |web developers ,-1.3748183789732817
+web location |web locations ,-1.3748183789732817
+web crawler |web crawler ,-1.3748183789732817
+character entity reference chart |Character Entity Reference Chart ,-1.3755146640036215
+full specification |full specification ,-1.376933653023661
+xml parser |XML parser ,-1.376933653023661
+parallel xml-based language |parallel XML-based language ,-1.3797827759167063
+script element redundant |script element redundant ,-1.3798281724060957
+commonly-used paragraph element |commonly-used paragraph element ,-1.3799799734964993
+no substitute |no substitute ,-1.3804398009776502
+legacy support |legacy support ,-1.3804665553385345
+following step |following steps ,-1.3804665553385345
+earlier hypertext system |earlier hypertext systems ,-1.3805216155569349
+embedded content |embedded content ,-1.3805281319987626
+well-presented document |well-presented documents ,-1.3817889755343704
+english-language document |English-language document ,-1.3817889755343704
+structured document |structured documents ,-1.3817889755343704
+transition document |transition documents ,-1.3817889755343704
+empty-element syntax |empty-element syntax ,-1.3823308227250213
+en wikipedia |en wikipedia ,-1.3825425504186677
+bold text |bold text ,-1.383008825557294
+text direction |text direction ,-1.383008825557294
+manually format document |manually format documents ,-1.384129574903508
+work end |Work End ,-1.3847220101789603
+xhtml-inspired new language |XHTML-inspired new language ,-1.3854307809439477
+activating browser mode |Activating Browser Modes ,-1.3855752274440984
+rfc number |RFC number ,-1.3859650848264065
+rfc standards process |RFC Standards Process ,-1.3870364104550335
+whatwg living standard |WhatWG living standard ,-1.3870364104550335
+loose transitional |loose transitional ,-1.3895871414220147
+in-browser web page editing |in-browser Web page editing ,-1.3900403199416866
+complex sgml |complex SGML ,-1.3901963185257913
+name-value pair |name-value pair |name-value pairs ,-1.3907757610318283
+example b boldface b |example b boldface b ,-1.3912574823112893
+mime type e g |MIME type e g ,-1.3928008118331292
+br break |br breaks ,-1.3942604546824977
+line break br |line break br ,-1.394304066899604
+server software |server software ,-1.394730371711813
+different opening declaration |different opening declarations ,-1.396521041830803
+search and indexing purpose |search and indexing purposes ,-1.3969572325911706
+learning material |learning materials ,-1.3998076770506993
+permitted and prohibited content |permitted and prohibited content ,-1.400726742748868
+slash character |slash character ,-1.4012798063864185
+literal character |literal character ,-1.4012798063864185
+presentation purpose |presentation purposes ,-1.4013801528091323
+tag soup |tag soup ,-1.40359214313952
+browser war |Browser wars ,-1.4048823143025755
+browser writer |Browser writers ,-1.4048823143025755
+targeting browser |targeting browsers ,-1.4048823143025755
+techniques and algorithm |techniques and algorithms ,-1.405455495298423
+major browser implementation |major browser implementations ,-1.4061438717992591
+center deprecated |center Deprecated ,-1.4064199984843682
+main change |main changes ,-1.408310525827719
+character-based data type |character-based data types ,-1.408845812227267
+delivery edit |Delivery edit ,-1.4090924181383864
+hypertext transfer protocol |Hypertext Transfer Protocol ,-1.4092003996541378
+unordered list |unordered list ,-1.4092160460392125
+fill-out form |fill-out forms ,-1.4092160460392125
+first conference |First conference ,-1.409853453007051
+sgml basic syntax |SGML basic syntax ,-1.4117950053554746
+file extension hta |file extension hta ,-1.4125985122852618
+single empty tag akin |single empty tag akin ,-1.4128856787783532
+ungrammatical markup |ungrammatical markup ,-1.4144104200632193
+generalized markup |generalized markup ,-1.4144104200632193
+invalid markup |invalid markup ,-1.4144104200632193
+tr element clear obsolete |tr element clear Obsolete ,-1.4161500846910766
+valid doctype activates standards mode |valid doctype activates standards mode ,-1.4184289533279701
+example class notation important |example class notation important ,-1.4191998369428234
+ismap attribute |ismap attribute ,-1.421816518956427
+natural language |natural language ,-1.421816518956427
+hspace attribute |hspace attributes ,-1.421816518956427
+default value |default values ,-1.421881880991813
+information management |Information Management ,-1.421923743260177
+simple structure |simple structure ,-1.4240771668644487
+www-talk mailing list |www-talk mailing list ,-1.4246504314292943
+single or double quote |single or double quotes ,-1.4254971352034624
+internet-based hypertext system |Internet-based hypertext system ,-1.4263824073094369
+default style |default styles ,-1.4266768484548715
+specific rendering |specific rendering ,-1.4283300364688452
+comparison history list |Comparison History List ,-1.428791679373886
+border vspace and hspace attribute |border vspace and hspace attributes ,-1.4290209696588543
+single clearly written specification |single clearly written specification ,-1.4301201389438682
+general form |general form ,-1.431722373103534
+physicist tim berners-lee |physicist Tim Berners-Lee ,-1.4335282461745513
+local file system |local file system ,-1.4338287610264977
+web crawler or search-engine spider |web crawler or search-engine spider ,-1.43412180888639
+separate feature |separate features ,-1.4370476472030056
+first step |first step ,-1.4370476472030056
+legacy or frame module |legacy or frame modules ,-1.4396496772909253
+div div |div div ,-1.4406576173165557
+semantically incorrect markup |semantically incorrect markup ,-1.4433828366034538
+rendering engine |rendering engine ,-1.4434747050132255
+syntax requirement |syntax requirements ,-1.443745104451571
+important class |important classes ,-1.443745104451571
+font size and font face |font size and font face ,-1.4468559038640054
+crl http http |CRL HTTP HTTPS ,-1.4475752570249827
+composing html e-mail message |composing HTML e-mail messages ,-1.4484372998556436
+image resource |image resource ,-1.4486850838675953
+naming conventions edit |Naming conventions edit ,-1.4504559268399488
+explicit close tag |explicit close tags ,-1.4513138373212076
+wysiwyg editing model |WYSIWYG editing model ,-1.4516722013558325
+right-to-left text |right-to-left text ,-1.4520802870511362
+text flow |text flow ,-1.4520802870511362
+cascading nature |cascading nature ,-1.452435920882194
+requirement level |Requirement Levels ,-1.452435920882194
+word wikipedia |word Wikipedia ,-1.452435920882194
+published fact |published facts ,-1.45245260922747
+higher version number |higher version numbers ,-1.4526367067019827
+b bold b |b bold b ,-1.453086050256879
+named character reference apo |Named Character Reference apos ,-1.4541556335409842
+date help |date help ,-1.4552409245636604
+entity reference eacute |entity reference eacute ,-1.4553590471579683
+www google com wikipedia |www google com Wikipedia ,-1.4556628469390727
+fat link |fat links ,-1.4567125504186347
+local link |local link ,-1.4567125504186347
+early year |early years ,-1.4621402117123556
+common test |common test ,-1.4621402117123556
+language-related attribute dir |language-related attribute dir ,-1.4626559620085102
+internet engineering task force |Internet Engineering Task Force ,-1.4628448872509217
+early operating system |early operating systems ,-1.4631458172145968
+bind style information |bind style information ,-1.4637343252214816
+aural user agent |aural user agent ,-1.464678323422098
+upcoming version |upcoming version ,-1.46538010546709
+internet engineering task force ietf |Internet Engineering Task Force IETF ,-1.467169465390446
+common filename extension |common filename extension ,-1.467226404276778
+substitute applet deprecated |substitute applet Deprecated ,-1.4675832877589505
+strong strong text strong |strong strong text strong ,-1.4677700720223785
+technical introduction |Technical Introduction ,-1.469094462124307
+opera opera |Opera Opera ,-1.469094462124307
+s usefulness |s usefulness ,-1.4702329268500238
+single-quote character |single-quote character ,-1.4702329268500238
+double-quote character |double-quote character ,-1.4702329268500238
+basing standard |basing standards ,-1.4702329268500238
+individual character |individual characters ,-1.4702329268500238
+frameset dtds |Frameset DTDs ,-1.470694870865127
+omitted opening |omitted opening ,-1.4731766615763324
+isindex deprecated |isindex Deprecated ,-1.4753299703277054
+noshade deprecated |noshade Deprecated ,-1.4753299703277054
+basefont deprecated |basefont Deprecated ,-1.4753299703277054
+fat data structure citation |FAT data structure citation ,-1.4757725446003427
+presentational counterpart |presentational counterparts ,-1.4758233933334457
+multiple class value |Multiple class values ,-1.4770260939877369
+frameset replacing body |frameset replacing body ,-1.477317106762477
+previous informal specification |previous informal specifications ,-1.4773183426337544
+working prototype implementation |working prototype implementation ,-1.477722957712566
+hypertext architecture |hypertext architecture ,-1.4779778599082287
+internet age |Internet Age ,-1.4806966236856507
+equivalent visual rendering |equivalent visual renderings ,-1.4807180212672924
+limited file extension |limited file extensions ,-1.4835237161785413
+target date |target date ,-1.4860571728883682
+intended meaning |intended meaning ,-1.4860571728883682
+accessibility issue |accessibility issues ,-1.4860571728883682
+current aggregation and hybridization |current aggregation and hybridization ,-1.4864470227532696
+common abbreviation |common abbreviation ,-1.4865298008387846
+computer file |computer file ,-1.4869380328066861
+embed image |embed images ,-1.4869380328066861
+prohibited content |prohibited content ,-1.4893178414149346
+optional opening |optional opening ,-1.496593224454151
+unsourced material |Unsourced material ,-1.496593224454151
+sgml-based validator |SGML-based validators ,-1.496593224454151
+different subset |different subsets ,-1.496593224454151
+competing proposal |competing proposal ,-1.496593224454151
+following part |following parts ,-1.496593224454151
+ncsa mosaic browser |NCSA Mosaic browser ,-1.4981929974177166
+section revision history |section Revision History ,-1.4984610008860204
+sgml concept |SGML concept ,-1.4987343386204528
+sgml tool |SGML tools ,-1.4987343386204528
+whatwg blog |WHATWG blog ,-1.4994362838067676
+img src image |img src image ,-1.5004535364102913
+compatibility issue |compatibility issues ,-1.5016819725605897
+extensible nature |extensible nature ,-1.5016819725605897
+client-side image-map map link form |client-side image-map map link form ,-1.5019293043238378
+repeated or irrelevant information |repeated or irrelevant information ,-1.5027439317697302
+generated code |generated code ,-1.5063234869402595
+software implementer |software implementers ,-1.5063234869402595
+syntax error |syntax errors ,-1.5063234869402595
+further explanation |further explanation ,-1.5063234869402595
+additional citation |additional citations ,-1.5081358246743468
+minor change |minor changes ,-1.5081358246743468
+font size |font size ,-1.5081358246743468
+google chrome |Google Chrome ,-1.5081358246743468
+semantic clarity |semantic clarity ,-1.5128015095512781
+iso romanization |ISO romanizations ,-1.5128015095512781
+webpage object |webpage objects ,-1.5137231723871492
+microsoft windows application |Microsoft Windows application ,-1.5138995011153522
+i italic i |i italic i ,-1.5153875047422727
+first publicly available description |first publicly available description ,-1.5172700310037042
+body blockquote form noscript |body blockquote form noscript ,-1.5195542921086707
+original design |Original Design ,-1.5217246672822418
+double quote |double quotes ,-1.5217246672822418
+frame module |frame modules ,-1.5217246672822418
+wysiwyg program |WYSIWYG programs ,-1.5217246672822418
+formatting command |formatting commands ,-1.521849322786797
+screen reader |screen reader ,-1.521849322786797
+newly available information |newly available information ,-1.5260532070140265
+edit breadcrumb navigation comparison |edit Breadcrumb navigation Comparison ,-1.5266483944745572
+ietf tradition |IETF tradition ,-1.5290672876749443
+server-side support |server-side support ,-1.530450179805768
+initial relatively simple design |initial relatively simple design ,-1.5318587236541026
+cs tut fi |Cs tut fi ,-1.5328100198594083
+ny new york |NY New York ,-1.5332322436829033
+interactive form |interactive forms ,-1.5382388242407452
+general case |general case ,-1.5391497206733473
+xml namespace xmlns uri |XML namespace xmlns URI ,-1.5396018778214156
+find filter |find filter ,-1.5400814784661925
+original purpose |original purpose ,-1.5400814784661925
+valid reason |valid reasons ,-1.5400814784661925
+no rights management |no rights management ,-1.541713035639883
+first mention |First mention ,-1.5431312447516805
+already-implemented feature |already-implemented features ,-1.5431312447516805
+acute-accented e |acute-accented e ,-1.5431312447516805
+browser manufacturers remedy |browser manufacturers remedy ,-1.5442726343217865
+graphical user interface gui |graphical user interface GUI ,-1.5467097019356566
+visually impaired user |visually impaired user ,-1.5478917845979194
+commercial software vendor |commercial software vendors ,-1.548640439239798
+aural device |aural devices ,-1.5509280242389856
+key word |Key words ,-1.5509280242389856
+structural semantics |structural semantics ,-1.5509280242389856
+structural rule |structural rules ,-1.5509280242389856
+important component |important component ,-1.5509280242389856
+associated protocol |associated protocols ,-1.5509280242389856
+irrelevant information |irrelevant information ,-1.553606333318382
+exe file |EXE file ,-1.553606333318382
+presentation detail |presentation details ,-1.553606333318382
+coloured heading |coloured headings ,-1.553606333318382
+second-level heading |second-level heading ,-1.553606333318382
+typographic information |typographic information ,-1.553606333318382
+cern researcher |CERN researchers ,-1.553606333318382
+in-line image |in-line images ,-1.553606333318382
+encoded information |encoded information ,-1.553606333318382
+language-defining functionality attribute |language-defining functionality attribute ,-1.554537765743522
+complex mathematical formula |complex mathematical formulas ,-1.5561463946917589
+proprietary extension |proprietary extensions ,-1.5592199838823297
+independent extension |independent extensions ,-1.5592199838823297
+modular extension |modular extensions ,-1.5592199838823297
+unix timeline usage share feature |Unix Timeline Usage share Features ,-1.5635835938465978
+mozilla firefox |Mozilla Firefox ,-1.563641298382085
+unix programming |Unix Programming ,-1.563641298382085
+default characteristic |Default characteristics ,-1.563641298382085
+recent event |recent events ,-1.563641298382085
+message size |message size ,-1.563641298382085
+clear milestone |clear milestones ,-1.563641298382085
+controversial topic |controversial topic ,-1.563641298382085
+designation class notation |designation class notation ,-1.5638496177534689
+classic hello world program |classic Hello world program ,-1.5647609529611435
+automated agent |automated agents ,-1.5651021534304714
+web platform milestone achieved |Web Platform Milestone Achieved ,-1.5653811041678343
+price comparison website |price comparison websites ,-1.5671841600544092
+semantically neutral span |semantically neutral span ,-1.5671841600544092
+visual output device |visual output devices ,-1.5671841600544092
+www-talk mailing list post |www-talk mailing list post ,-1.5682851229663397
+underlying syntax |underlying syntax ,-1.5712595868775052
+chaotic development |chaotic development ,-1.5712595868775052
+wysiwym model |WYSIWYM model ,-1.5712595868775052
+further action |further action ,-1.5712595868775052
+dan connolly |Dan Connolly ,-1.577686246075784
+object caution |object caution ,-1.577686246075784
+subtle difference |subtle differences ,-1.577686246075784
+human user |human users ,-1.577686246075784
+potentially dated statements commons category |potentially dated statements Commons category ,-1.5778572083407003
+ieee intelligent system |IEEE Intelligent Systems ,-1.5791117892545974
+key component |key components ,-1.5801054095397828
+api semantics |API semantics ,-1.5801054095397828
+in-house sgml-based documentation format |in-house SGML-based documentation format ,-1.5830331718171071
+required nor allowed |required nor allowed ,-1.58317740189897
+comprehensive test suite |comprehensive test suite ,-1.58317740189897
+media descriptor |media descriptors ,-1.5843498298790366
+wikimedia common |Wikimedia Commons ,-1.5843498298790366
+earlier software unfamiliar |earlier software unfamiliar ,-1.5862493942581568
+academic engineering community |academic engineering community ,-1.5894549212006324
+different course |different course ,-1.5911640408427918
+rough proposal |rough proposal ,-1.5911640408427918
+document-wide unique identifier |document-wide unique identifier ,-1.5973071235777245
+globally unique identifier |globally unique identifier ,-1.5973071235777245
+nested directional run |nested directional runs ,-1.5973071235777245
+technical soundness |technical soundness ,-1.597928387163559
+current aggregation |current aggregation ,-1.597928387163559
+traditional definition |traditional definition ,-1.597928387163559
+font face |font face ,-1.597928387163559
+five month |five months ,-1.597928387163559
+indexing purpose |indexing purposes ,-1.597928387163559
+direct access |direct access ,-1.5983228473861795
+doug engelbart |Doug Engelbart ,-1.5983228473861795
+stylistic aspect |stylistic aspects ,-1.5983228473861795
+standards-body-based approach |standards-body-based approach ,-1.5983228473861795
+nigel shadbolt |Nigel Shadbolt ,-1.5983228473861795
+pris sears freeman |Pris Sears Freeman ,-1.5983228473861795
+finally led |finally led ,-1.5983228473861795
+gradual roll |gradual roll ,-1.5983228473861795
+jakob nielsen |Jakob Nielsen ,-1.5983228473861795
+san francisco |San Francisco ,-1.5983228473861795
+addison wesley longman |Addison Wesley Longman ,-1.5983228473861795
+broad interoperability |broad interoperability ,-1.5983228473861795
+phishing attack |phishing attacks ,-1.5983228473861795
+focal point |focal points ,-1.5983228473861795
+invisiblerevolution net |Invisiblerevolution net ,-1.5983228473861795
+western european |Western European ,-1.5983228473861795
+h kon wium |H kon Wium ,-1.5983228473861795
+curie eme |CURIE EME ,-1.5983228473861795
+print effect |print effects ,-1.5983228473861795
+mutual agreement |mutual agreement ,-1.5983228473861795
+harvard university |Harvard University ,-1.5983228473861795
+james hendler |James Hendler ,-1.5983228473861795
+great deal |great deal ,-1.5983228473861795
+wendy hall |Wendy Hall ,-1.5983228473861795
+correlate previously unrelated |correlate previously unrelated ,-1.5983228473861795
+perceived flaw |perceived flaws ,-1.5983228473861795
+remote database |remote databases ,-1.5983228473861795
+primary achievement |primary achievement ,-1.5983228473861795
+perl hack |Perl Hack ,-1.5983228473861795
+ultimate destiny |Ultimate Destiny ,-1.5983228473861795
+low quality |low quality ,-1.5983228473861795
+creation editing removal |creation editing removal ,-1.5992842143699013
+visually impaired people |visually impaired people ,-1.602232821923994
+canvas webgl webcl |Canvas WebGL WebCL ,-1.602232821923994
+ad hoc styling |ad hoc styling ,-1.602232821923994
+south american keyboard |South American keyboards ,-1.602232821923994
+fully trusted application |fully trusted application ,-1.602974347460412
+dl dir |dl dir ,-1.6041878091929014
+test bed |test bed ,-1.6041878091929014
+word processor |word processors ,-1.6041878091929014
+osi protocol |OSI protocols ,-1.6041878091929014
+color purple |color purple ,-1.6041878091929014
+blind or visually impaired people |blind or visually impaired people ,-1.604884631373175
+runoff command |RUNOFF command ,-1.6088736167849609
+optionally noframe |optionally noframes ,-1.6088736167849609
+apple safari |Apple Safari ,-1.6088736167849609
+adjective recommended |adjective RECOMMENDED ,-1.6088736167849609
+source tracking |source tracking ,-1.6088736167849609
+index million |index millions ,-1.6088736167849609
+joint deliverable |joint deliverable ,-1.6088736167849609
+reliable source |reliable sources ,-1.6088736167849609
+joint request |joint request ,-1.6088736167849609
+url address |URL address ,-1.6088736167849609
+competing interest |competing interests ,-1.6088736167849609
+press release |Press release ,-1.6088736167849609
+minor restriction |minor restrictions ,-1.6088736167849609
+rcs revision |RCS revisions ,-1.6088736167849609
+full implication |full implications ,-1.6092827948405797
+subtextual explanation |subtextual explanation ,-1.6092827948405797
+captioned figure |captioned figures ,-1.6092827948405797
+field experience |field experience ,-1.6092827948405797
+spam filter |spam filters ,-1.6092827948405797
+building block |building blocks ,-1.6092827948405797
+encyclopedia jump |encyclopedia Jump ,-1.6092827948405797
+successful prototype |successful prototypes ,-1.6092827948405797
+rational foundation |rational foundation ,-1.6092827948405797
+supplemental rfcs |Supplemental RFCs ,-1.6092827948405797
+easy migration |easy migration ,-1.6092827948405797
+content-type header |Content-Type header ,-1.6092827948405797
+popular misconception |popular misconceptions ,-1.6092827948405797
+quicker migration |quicker migration ,-1.6092827948405797
+border vspace |border vspace ,-1.6092827948405797
+historic logo |historic logo ,-1.6092827948405797
+prior knowledge |prior knowledge ,-1.6092827948405797
+extensive knowledge |extensive knowledge ,-1.6092827948405797
+background texture |background texture ,-1.6092827948405797
+scientific american |Scientific American ,-1.6092827948405797
+creating mashup |creating mashups ,-1.6092827948405797
+corresponding dtds |corresponding DTDs ,-1.6092827948405797
+extra space |extra space ,-1.6092827948405797
+prevent ever-breaking link |PREVENT ever-breaking links ,-1.6103317939112753
+hsivonen iki fi |Hsivonen iki fi ,-1.612319034481646
+augmented browsing bookmark |Augmented browsing Bookmarks ,-1.6214116267541125
+video game console |video game console ,-1.6214116267541125
+wysiwiki questioning wysiwyg |WYSIWIKI Questioning WYSIWYG ,-1.629144835136615
+wml waptv xaml yaml list |WML WapTV XAML YAML List ,-1.6674500999440172
+html |HTML |html ,-2.92687866804708
+element |element |elements ,-3.833045686875422
+web |Web |web ,-3.940552932507008
+xhtml |XHTML |Xhtml ,-4.030486151128837
+document |document |documents ,-4.048190986537082
+tag |tags |Tags |tag ,-4.2278241286214895
+browser |Browsers |browser |browsers ,-4.308580028284665
+attribute |Attributes |attribute |attributes ,-4.412717708127172
+markup |markup ,-4.423088655242387
+language |languages |language ,-4.49048326651657
+use |use |Use ,-4.681240768756774
+specification |specification |specifications ,-4.694556715436235
+xml |XML ,-4.698947768903156
+text |text ,-4.750474984045777
+version |versions |version ,-4.879116872121702
+character |characters |Character |character ,-4.920717292210938
+type |types ,-4.93708443873681
+standard |standards |standard ,-4.9430342584936175
+world |world ,-4.974324085408934
+deprecated |Deprecated ,-5.016529877556386
+internet |Internet ,-5.041246988381738
+hypertext |Hypertext ,-5.095476039039471
+content |content |contents |Contents |Content ,-5.130936938680559
+example |example |examples ,-5.200737536992906
+draft |draft ,-5.229436309085876
+sgml |SGML ,-5.237675220449676
+berners-lee |Berners-Lee ,-5.358049806003894
+page |page ,-5.389434853449221
+iso |ISO ,-5.4018483355948375
+application |application ,-5.4047353953235975
+reference |reference ,-5.437299671761825
+article |article |Articles ,-5.450082033487349
+semantic |semantic ,-5.472436697830953
+link |link |links ,-5.565452978065744
+ietf |IETF ,-5.600741537467213
+transitional |Transitional ,-5.608876250485347
+list |list |List |lists ,-5.7185036183705575
+tim |Tim ,-5.7185036183705575
+frameset |frameset |Frameset ,-5.7185036183705575
+style |style ,-5.724580947612335
+recommendation |Recommendation |recommendation |recommendations ,-5.729147099124287
+title |title ,-5.729147099124287
+form |form ,-5.759775658592658
+strict |Strict ,-5.788022682799387
+empty |empty ,-5.794583026232854
+feature |features ,-5.794583026232854
+dtd |DTD ,-5.794583026232854
+presentational |presentational ,-5.805528342205248
+first |first ,-5.826624009177389
+doctype |DOCTYPE |Doctype |doctype ,-5.928350477588254
+start |start ,-5.928350477588254
+image |images |image |Images ,-5.928350477588254
+cern |CERN ,-5.928350477588254
+end |end ,-5.940819865264572
+presentation |presentation ,-5.952962089055752
+information |information ,-5.964744812818938
+system |system ,-6.016445812674404
+heading |headings ,-6.024693313035739
+file |files ,-6.024693313035739
+extension |extensions ,-6.060585689301027
+rfc |RFC ,-6.099694945417674
+mime |MIME ,-6.099694945417674
+body |body ,-6.099694945417674
+agent |agents |agent ,-6.099694945417674
+name |names ,-6.109380120205611
+whatwg |WhatWG ,-6.164926651414315
+code |code ,-6.1986586780255415
+syntax |syntax ,-6.1986586780255415
+development |development |Development ,-6.1986586780255415
+structure |structure ,-6.2138371216309345
+format |format ,-6.228418345703946
+model |model ,-6.228418345703946
+class |class ,-6.228418345703946
+raggett |Raggett ,-6.309239159172353
+internet-draft |Internet-Drafts |Internet-Draft ,-6.309239159172353
+connolly |Connolly ,-6.309239159172353
+daniel |Daniel ,-6.309239159172353
+difference |difference |differences ,-6.325643036254491
+head |head ,-6.325643036254491
+img |img ,-6.325643036254491
+set |set ,-6.341281057115217
+wikipedia |Wikipedia ,-6.341281057115217
+editor |editor ,-6.369714909899485
+guideline |guidelines ,-6.382086160441488
+paragraph |Paragraphs |paragraphs ,-6.382086160441488
+object |Objects |objects ,-6.382086160441488
+www |WWW ,-6.392735378748294
+early |early ,-6.434532664779161
+number |numbers |number ,-6.434532664779161
+rendering |rendering ,-6.452404688619991
+server |server ,-6.469259431308096
+quote |quotes ,-6.499039092421444
+frame |frames ,-6.520541234968871
+author |authors |author ,-6.579067471321463
+following |following ,-6.579067471321463
+support |support ,-6.579067471321463
+variation |variations ,-6.579067471321463
+netscape |Netscape ,-6.579067471321463
+search |search ,-6.579067471321463
+mathml |MathML ,-6.579067471321463
+proposal |Proposal |proposal ,-6.579067471321463
+div |div ,-6.579067471321463
+layout |layout ,-6.598731337790919
+work |work ,-6.598731337790919
+help |help ,-6.616979275033821
+material |Materials |material ,-6.616979275033821
+section |sections ,-6.6476732334989
+valid |valid ,-6.749851551399083
+visual |visual ,-6.749851551399083
+addition |addition ,-6.749851551399083
+hyperlink |hyperlink ,-6.749851551399083
+simple |simple ,-6.749851551399083
+pair |pairs |pair ,-6.749851551399083
+display |display ,-6.7717490760905665
+introduction |Introduction |introduction ,-6.7717490760905665
+month |months ,-6.7717490760905665
+compatible |compatible ,-6.7717490760905665
+table |tables ,-6.7717490760905665
+font |font ,-6.7717490760905665
+change |Change |change ,-6.791543076957771
+purpose |purpose ,-6.791543076957771
+google |Google ,-6.791543076957771
+accessibility |accessibility ,-6.808581826248662
+meaning |meaning ,-6.958598872186635
+vendor |vendors ,-6.958598872186635
+single |single ,-6.958598872186635
+e-mail |e-mail ,-6.958598872186635
+formatting |formatting ,-6.958598872186635
+microsoft |Microsoft ,-6.958598872186635
+convention |conventions |convention ,-6.958598872186635
+javascript |JavaScript ,-6.958598872186635
+nature |nature ,-6.958598872186635
+unicode |Unicode ,-6.958598872186635
+website |website |Website |websites ,-6.958598872186635
+year |years ,-6.9833413732706395
+requirement |requirements ,-6.9833413732706395
+word |word ,-6.9833413732706395
+extensible |extensible ,-7.004639809884254
+identifier |identifiers ,-7.004639809884254
+script |scripts ,-7.004639809884254
+color |colors ,-7.004639809884254
+mean |means ,-7.004639809884254
+typically |Typically ,-7.020970122728637
+loose |Loose ,-7.020970122728637
+abbreviation |abbreviation ,-7.227203738694044
+update |update ,-7.227203738694044
+obsolete |Obsolete ,-7.227203738694044
+vocabulary |vocabulary ,-7.227203738694044
+technique |Techniques |techniques ,-7.227203738694044
+favor |favor ,-7.227203738694044
+url |URL ,-7.227203738694044
+email |email ,-7.227203738694044
+case |case ,-7.227203738694044
+legacy |legacy ,-7.227203738694044
+modularization |Modularization |modularization ,-7.227203738694044
+noframe |noframes ,-7.227203738694044
+abbr |abbr ,-7.227203738694044
+screen |screen ,-7.227203738694044
+comment |Comments |comment ,-7.227203738694044
+item |items |item ,-7.227203738694044
+conformance |Conformance |conformance ,-7.227203738694044
+summary |summary |Summary ,-7.227203738694044
+serialization |serializations |serialization ,-7.227203738694044
+older |older ,-7.227203738694044
+stylesheet |stylesheet |stylesheets ,-7.227203738694044
+xsl |XSL ,-7.227203738694044
+instance |instance ,-7.227203738694044
+base |base ,-7.255601654178863
+day |day ,-7.255601654178863
+subset |subset ,-7.255601654178863
+validation |validation ,-7.255601654178863
+community |community ,-7.255601654178863
+topic |topic ,-7.255601654178863
+citation |citations ,-7.255601654178863
+state |state ,-7.255601654178863
+italic |italics ,-7.255601654178863
+resource |resources |Resources ,-7.255601654178863
+part |parts ,-7.255601654178863
+hta |HTA ,-7.255601654178863
+command |commands ,-7.255601654178863
+context |context ,-7.255601654178863
+namespace |namespaces ,-7.277375404638041
+index |Index ,-7.277375404638041
+project |project ,-7.604616209652223
+visible |visible ,-7.604616209652223
+client |clients ,-7.604616209652223
+compact |compact ,-7.604616209652223
+height |height ,-7.604616209652223
+large |large ,-7.604616209652223
+axis |axis ,-7.604616209652223
+reason |reasons ,-7.604616209652223
+border |border ,-7.604616209652223
+wilbur |Wilbur ,-7.604616209652223
+space |space ,-7.604616209652223
+rfcs |RFCs ,-7.604616209652223
+hybrid |hybrids ,-7.604616209652223
+grammar |grammar ,-7.604616209652223
+characteristic |characteristics ,-7.604616209652223
+discussion |discussion ,-7.604616209652223
+golf |Golf ,-7.604616209652223
+contrary |contrary ,-7.604616209652223
+math |math ,-7.604616209652223
+practice |practice ,-7.604616209652223
+removal |removal ,-7.604616209652223
+navigation |navigation ,-7.604616209652223
+circumstance |circumstances ,-7.604616209652223
+opposed |opposed ,-7.604616209652223
+module |modules ,-7.604616209652223
+slash |slash ,-7.604616209652223
+contrast |contrast ,-7.604616209652223
+limitation |limitations ,-7.604616209652223
+call |Call ,-7.604616209652223
+shortcut |shortcuts |shortcut ,-7.604616209652223
+idea |ideas ,-7.604616209652223
+keyboard |keyboards ,-7.604616209652223
+amp |amp ,-7.604616209652223
+experience |experience ,-7.604616209652223
+parallel |parallel ,-7.604616209652223
+inception |inception ,-7.604616209652223
+move |move ,-7.604616209652223
+encyclopedia |encyclopedia ,-7.604616209652223
+extent |extent ,-7.604616209652223
+intent |intent ,-7.604616209652223
+styling |styling ,-7.604616209652223
+figure |figures ,-7.604616209652223
+blockquote |blockquote ,-7.604616209652223
+htm |htm ,-7.604616209652223
+input |input ,-7.604616209652223
+art |Art |art ,-7.604616209652223
+apo |apos ,-7.604616209652223
+webpage |webpage ,-7.604616209652223
+contain |contains ,-7.604616209652223
+direction |direction ,-7.604616209652223
+order |order ,-7.604616209652223
+rule |rules ,-7.604616209652223
+parsing |parsing ,-7.604616209652223
+york |York ,-7.604616209652223
+separation |separation ,-7.604616209652223
+book |book ,-7.604616209652223
+literal |literal ,-7.604616209652223
+ensure |Ensure ,-7.637276835340989
+public |public ,-7.637276835340989
+wiki |wikis ,-7.637276835340989
+uri |URIs ,-7.637276835340989
+future |Future ,-7.637276835340989
+applet |Applets ,-7.637276835340989
+wikitext |wikitext ,-7.637276835340989
+fact |fact ,-7.637276835340989
+microformat |microformats ,-7.637276835340989
+logo |Logo ,-7.637276835340989
+role |role ,-8.246057798061742
+quot |quot ,-8.246057798061742
+distinction |distinction ,-8.246057798061742
+touch |touch ,-8.246057798061742
+prefix |prefix ,-8.246057798061742
+behavior |behavior ,-8.246057798061742
+wikibook |Wikibooks ,-8.246057798061742
+workaround |workarounds ,-8.246057798061742
+legend |legend ,-8.246057798061742
+business |business ,-8.246057798061742
+creator |creators ,-8.246057798061742
+transformation |transformation ,-8.246057798061742
+advantage |advantage ,-8.246057798061742
+bos |Bos ,-8.246057798061742
+appearance |appearance ,-8.246057798061742
+cue |cues ,-8.246057798061742
+permitted |permitted ,-8.246057798061742
+recently |recently ,-8.246057798061742
+smile |Smile ,-8.246057798061742
+verification |verification ,-8.246057798061742
+spiesser |Spiesser ,-8.246057798061742
+memo |memo ,-8.246057798061742
+one-liner |One-Liners ,-8.246057798061742
+snapshot |Snapshot ,-8.246057798061742
+omit |Omit ,-8.246057798061742
+hebrew |Hebrew ,-8.246057798061742
+timetable |timetable ,-8.246057798061742
+meaningful |meaningful ,-8.246057798061742
+problem |problems ,-8.246057798061742
+charter |charter ,-8.246057798061742
+hybridization |hybridization ,-8.246057798061742
+repeated |repeated ,-8.246057798061742
+presence |presence ,-8.246057798061742
+bert |Bert ,-8.246057798061742
+bower |Bowers ,-8.246057798061742
+practical |practical ,-8.246057798061742
+rtl |rtl ,-8.246057798061742
+belief |belief ,-8.246057798061742
+contractor |contractor ,-8.246057798061742
+connelly |Connelly ,-8.246057798061742
+attempt |attempt ,-8.246057798061742
+typesetter |typesetters ,-8.246057798061742
+wiktionary |Wiktionary ,-8.246057798061742
+child |children ,-8.246057798061742
+surfer |surfers ,-8.246057798061742
+wcag |WCAG ,-8.246057798061742
+unit |units ,-8.246057798061742
+tooltip |tooltip ,-8.246057798061742
+sam |SAMS ,-8.246057798061742
+significance |significance ,-8.246057798061742
+footnote |footnotes ,-8.246057798061742
+closure |closure ,-8.246057798061742
+wikidata |Wikidata ,-8.246057798061742
+range |ranges ,-8.246057798061742
+translation |translation ,-8.246057798061742
+sub-section |sub-section ,-8.246057798061742
+persian |Persian ,-8.246057798061742
+xanadu |Xanadu ,-8.246057798061742
+diagram |diagrams ,-8.246057798061742
+currently |currently ,-8.246057798061742
+raymond |Raymond ,-8.246057798061742
+acceptance |acceptance ,-8.246057798061742
+funding |funding ,-8.246057798061742
+lie |Lie ,-8.246057798061742
+benefit |benefit ,-8.246057798061742
+optimization |Optimization ,-8.246057798061742
+view |view ,-8.246057798061742
+domain |domain ,-8.246057798061742
+france |France ,-8.246057798061742
+apis |APIs ,-8.246057798061742
+maintainer |maintainer ,-8.246057798061742
+fischetti |Fischetti ,-8.246057798061742
+consequence |consequence ,-8.246057798061742
+thing |things ,-8.246057798061742
+understanding |understanding ,-8.246057798061742
+area |areas ,-8.246057798061742
+privilege |privileges ,-8.246057798061742
+reformulation |reformulation ,-8.246057798061742
+inclusive |inclusive ,-8.246057798061742
+eric |Eric ,-8.246057798061742
+eleven |Eleven ,-8.246057798061742
+algorithm |algorithms ,-8.246057798061742
+weblint |Weblint ,-8.246057798061742
+neil |Neil ,-8.246057798061742
+plethora |plethora ,-8.246057798061742
+xhtml-specified |XHTML-specified ,-8.246057798061742
+arabic |Arabic ,-8.246057798061742
+scope |scope ,-8.246057798061742
+screen-reader |screen-reader ,-8.246057798061742
+conjunction |conjunction ,-8.246057798061742
+acm |ACM ,-8.246057798061742
+animate |animate ,-8.246057798061742
+invitation |invitation ,-8.246057798061742
+place |place ,-8.246057798061742
+piece |pieces ,-8.246057798061742
+turn |turn ,-8.246057798061742
+kitchen |Kitchen ,-8.246057798061742
+ability |ability ,-8.246057798061742
+mixture |mixture ,-8.246057798061742
+questionnaire |questionnaires ,-8.246057798061742
+shorthand |shorthand ,-8.246057798061742
+alternative |alternative ,-8.246057798061742
+effort |efforts ,-8.246057798061742
+strike-through |strike-through ,-8.246057798061742
+sgmlguid |SGMLguid ,-8.246057798061742
+sauer |Sauer ,-8.246057798061742
+result |result ,-8.246057798061742
+hand |hand ,-8.246057798061742
+blind |blind ,-8.246057798061742
+cursor |cursor ,-8.246057798061742
+burden |burden ,-8.246057798061742
+present |present ,-8.246057798061742
+korpela |Korpela ,-8.246057798061742
+hickson |Hickson ,-8.246057798061742
+length |length ,-8.246057798061742
+specialization |specializations ,-8.246057798061742
+sub-specification |sub-specifications ,-8.246057798061742
+dictionary |dictionary ,-8.246057798061742
+visitor |visitor ,-8.246057798061742
+htas |HTAs ,-8.246057798061742
+pace |pace ,-8.246057798061742
+compliance |compliance ,-8.246057798061742
+enquire |ENQUIRE ,-8.246057798061742
+letter |letters ,-8.246057798061742
+rest |rest ,-8.246057798061742
+voice |voices ,-8.246057798061742
+fix |fix ,-8.246057798061742
+acknowledgment |acknowledgment ,-8.246057798061742
+origin |origins ,-8.246057798061742
+inventor |Inventor ,-8.246057798061742
+harper |Harper ,-8.246057798061742

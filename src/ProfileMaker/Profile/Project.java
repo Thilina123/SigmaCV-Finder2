@@ -49,4 +49,10 @@ public class Project {
         if (technology=="")
             p.getTechnology();
     }
+
+
+    @Override
+    public String toString() {
+        return name+"\n"+summary+"\n"+partners+"\n"+technology;
+    }
 }

@@ -72,4 +72,8 @@ public class Publication {
         if (link=="")
             link=p.getLink();
     }
+    @Override
+    public String toString() {
+        return name+"\n"+summary+"\n"+"\n"+authors+"\n"+link;
+    }
 }

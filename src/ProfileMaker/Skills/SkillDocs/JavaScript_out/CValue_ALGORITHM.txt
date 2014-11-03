@@ -1,0 +1,1380 @@
+javascript |Javascript |javascript |JavaScript ,43.672579357390866
+programming language |Programming languages |Programming Languages |programming languages |programming language ,27.29492786123065
+no longer supported |no longer supported ,19.587218585994155
+web browser |Web browsers |web browsers |web browser ,17.661423910208068
+web page |web page |Web pages |web pages ,13.486905531431615
+internet explorer |Internet Explorer ,12.309477270751078
+language |languages |Language |language ,11.501983946109428
+web |Web |web ,10.978570817297443
+browser |Browser |browsers |browser ,10.611684985049333
+javascript engine |JavaScript engine |JavaScript engines ,10.168698614968282
+mozilla developer network |Mozilla Developer Network ,9.793609292997077
+function |Functions |functions |Function |function ,9.05460703893322
+brendan eich |Brendan Eich ,8.563114623131185
+node j |Node js ,8.563114623131185
+scripting language |scripting languages |scripting language ,8.563114623131185
+object |object |objects |Object ,8.333546893935456
+document object model |Document Object Model ,6.529072861998052
+javascript and java |JavaScript and Java ,6.529072861998052
+netscape communications corporation |Netscape Communications Corporation ,6.529072861998052
+google web toolkit |Google Web Toolkit ,6.529072861998052
+douglas crockford |Douglas Crockford ,6.422335967348388
+javascript implementation |JavaScript implementations |JavaScript implementation ,6.422335967348388
+mozilla foundation |Mozilla Foundation ,5.35194663945699
+netscape communication |Netscape Communications ,5.35194663945699
+google chrome |Google Chrome ,5.35194663945699
+java |Java ,4.915205325156408
+potentially dated statement |potentially dated statements ,4.896804646498539
+microsoft visual studio |Microsoft Visual Studio ,4.896804646498539
+developer mozilla org |Developer mozilla org ,4.896804646498539
+java programming language |Java programming language ,4.896804646498539
+web page scripting |web page scripting ,4.896804646498539
+o reilly associate |O Reilly Associates ,4.896804646498539
+no starch press |No Starch Press ,4.896804646498539
+ecmascript language specification |ECMAScript Language Specification |ECMAScript language specification ,4.896804646498539
+microsoft visual web developer express |Microsoft Visual Web Developer Express ,4.700994494168267
+version |versions |Versions |version ,4.527794603480004
+script |scripts |Scripts |script ,4.473661156422304
+ecma international |Ecma International ,4.281557311565592
+javascript code |JavaScript code ,4.281557311565592
+asm j |asm js ,4.281557311565592
+john resig |John Resig ,4.281557311565592
+source code |source code ,4.281557311565592
+javascript interpreter |JavaScript interpreter |JavaScript interpreters ,4.281557311565592
+ecmascript standard |ECMAScript standard ,4.281557311565592
+netscape navigator web browser |Netscape Navigator web browser ,4.071247819461442
+secure ecma script se |Secure ECMA Script SES ,4.071247819461442
+application |application |applications |Applications ,3.9679588282124105
+ecmascript |ECMAScript ,3.8959331729148254
+microsoft |Microsoft ,3.8653768343037287
+prototype |Prototypes |prototypes |prototype ,3.7400958459982325
+page |page |pages ,3.6954072007795036
+mozilla |Mozilla ,3.6713440841232647
+user |users |user ,3.529257109581666
+code |code ,3.497745885388972
+scripting |scripting ,3.340526782866068
+netscape |Netscape ,3.33758553102115
+dead external link |dead external links ,3.264536430999026
+spidermonkey javascript engine |SpiderMonkey Javascript engine |SpiderMonkey JavaScript engine ,3.264536430999026
+functional programming language |functional programming language ,3.264536430999026
+common host environment |common host environment ,3.264536430999026
+microsoft internet explorer |Microsoft Internet Explorer ,3.264536430999026
+open-source programming language |open-source programming language ,3.264536430999026
+json or javascript |JSON or JavaScript ,3.264536430999026
+microsoft script editor |Microsoft Script Editor ,3.264536430999026
+google apps script |Google Apps Script ,3.264536430999026
+javascript frameworks list |JavaScript frameworks List ,3.264536430999026
+object property name |Object property names ,3.264536430999026
+microsoft script debugger |Microsoft Script Debugger ,3.264536430999026
+web pages edit |web pages edit ,3.264536430999026
+javascript object notation |JavaScript Object Notation ,3.264536430999026
+content security policy |Content Security Policy ,3.264536430999026
+mac os x |Mac OS X ,3.264536430999026
+properties and method |properties and methods ,3.264536430999026
+sandbox implementation error |Sandbox implementation errors ,3.264536430999026
+mozilla javascript engine |Mozilla JavaScript engine ,3.264536430999026
+open-source javascript shell |open-source JavaScript shell ,3.264536430999026
+prototype property |prototype property ,3.211167983674194
+dynamic typing |Dynamic typing |dynamic typing ,3.211167983674194
+dynamic html |Dynamic HTML ,3.211167983674194
+standard library |standard library ,3.211167983674194
+main article |Main articles |Main article ,3.211167983674194
+javascript syntax |JavaScript syntax ,3.211167983674194
+origin policy |origin policy ,3.211167983674194
+document body |document body ,3.211167983674194
+javax script |javax script ,3.211167983674194
+object prototype |Object prototype ,3.211167983674194
+peter-paul koch |Peter-Paul Koch ,3.211167983674194
+jscript net |JScript NET ,3.211167983674194
+web application |Web applications |web applications ,3.211167983674194
+outer function |outer function ,3.211167983674194
+prototype chain |prototype chain ,3.211167983674194
+eloquent javascript |Eloquent Javascript |Eloquent JavaScript ,3.211167983674194
+related language |Related languages ,3.211167983674194
+implementation |implementation |implementations ,2.9448671336444416
+google |Google ,2.912574639430442
+isbn |ISBN ,2.7500704749987004
+internet |Internet ,2.667568360748739
+method |methods |method ,2.4554200669631254
+site |site ,2.4375624664761206
+s javascript track douglas crockford |s JavaScript Track Douglas Crockford ,2.3504972470841334
+wakandadb kona cloud libraries list |WakandaDB KONA Cloud Libraries list ,2.3504972470841334
+java applet or flash plugin |Java applet or Flash plugin ,2.3504972470841334
+mac os x reference library |Mac OS X Reference Library ,2.3504972470841334
+mozilla cross-site scripting vulnerability reported |Mozilla Cross-Site Scripting Vulnerability Reported ,2.3504972470841334
+miscellaneous edit run-time environment javascript |Miscellaneous edit Run-time environment JavaScript ,2.3504972470841334
+prentice hall professional technical reference |Prentice Hall Professional Technical References ,2.3504972470841334
+javascript source code and execute |JavaScript source code and executes ,2.3504972470841334
+pda or mobile phone browser |PDA or mobile phone browser ,2.3504972470841334
+incomplete or unusual dom support |incomplete or unusual DOM support ,2.3504972470841334
+functional javascript flv tech talk |Functional JavaScript flv Tech talk ,2.3504972470841334
+anonymous function or lambda syntax |Anonymous function or lambda syntax ,2.3504972470841334
+concise navigable and semantically rich |concise navigable and semantically rich ,2.3504972470841334
+scripting references google apps script |Scripting References Google Apps Script ,2.3504972470841334
+local variables and argument value |local variables and argument values ,2.3504972470841334
+mouse or keyboard specific event |mouse or keyboard specific events ,2.3504972470841334
+object-oriented and functional programming language |object-oriented and functional programming language ,2.3504972470841334
+google code open scripting architecture |Google Code Open Scripting Architecture ,2.3504972470841334
+array literal mapping function return |array literal mapping function return ,2.3504972470841334
+return private information misplaced trust |return private information Misplaced trust ,2.3504972470841334
+secret information or transferring money |secret information or transferring money ,2.3504972470841334
+hot new web programming language |hot new web programming language ,2.3504972470841334
+macromedia flash activex buffer overflow |Macromedia Flash ActiveX Buffer Overflow ,2.3504972470841334
+version future release criticisms edit |version Future release Criticisms edit ,2.3504972470841334
+smalltalk objective-c style dynamic dispatch |Smalltalk Objective-C style dynamic dispatch ,2.3504972470841334
+download the clip or download |download the clip or download ,2.3504972470841334
+no built-in i o functionality |no built-in I O functionality ,2.3504972470841334
+comparative function return a lcm |comparative function return a lcm ,2.3504972470841334
+property getter and setter function |property getter and setter functions ,2.3504972470841334
+javascript unofficial javascript logo paradigm |JavaScript Unofficial JavaScript logo Paradigm ,2.3504972470841334
+built-in wifi development tools edit |built-in WiFi Development tools edit ,2.3504972470841334
+client-side and server-side network application |client-side and server-side network applications ,2.3504972470841334
+lambda syntax and closure example |lambda syntax and closure example ,2.3504972470841334
+iso standard prototype-based programming language |ISO standard Prototype-based programming languages ,2.3504972470841334
+open-source high-level multiplatform programming language |open-source high-level multiplatform programming language ,2.3504972470841334
+implicit and explicit delegation edit |Implicit and explicit delegation edit ,2.3504972470841334
+unix timeline usage share feature |Unix Timeline Usage share Features ,2.3504972470841334
+ecma standard based scripting engine |ECMA standard based scripting engine ,2.3504972470841334
+feature |features |feature ,2.3179165432131903
+server |servers |server ,2.2000563799989603
+support |support ,2.1863060276239668
+intermediate language |intermediate language ,2.140778655782796
+target site |target site ,2.140778655782796
+user agent |user agents ,2.140778655782796
+html page |HTML pages ,2.140778655782796
+professional programmer |professional programmers ,2.140778655782796
+mynfc org |myNFC org ,2.140778655782796
+variadic function |Variadic functions ,2.140778655782796
+minor update |minor updates ,2.140778655782796
+browser author |browser authors |Browser authors ,2.140778655782796
+runtime environment |runtime environments |runtime environment ,2.140778655782796
+static typing |static typing ,2.140778655782796
+javascript compiler |JavaScript compiler ,2.140778655782796
+java sun |Java sun ,2.140778655782796
+o reilly |O Reilly ,2.140778655782796
+user action |user actions ,2.140778655782796
+associative array |associative arrays ,2.140778655782796
+msdn microsoft |Msdn microsoft ,2.140778655782796
+sun microsystem |Sun Microsystems ,2.140778655782796
+style sheet |Style Sheets ,2.140778655782796
+function object |function object |Function Object ,2.140778655782796
+obj gcd |obj gcd ,2.140778655782796
+blink devtool |Blink DevTools ,2.140778655782796
+use javascript |use JavaScript ,2.140778655782796
+pearson education |Pearson Education ,2.140778655782796
+buffer overflow |Buffer overflow |buffer overflows ,2.140778655782796
+dom interface |DOM interfaces ,2.140778655782796
+release note |release notes |Release Notes ,2.140778655782796
+host object |host objects ,2.140778655782796
+interactive content |Interactive content |interactive content ,2.140778655782796
+effective javascript |Effective Javascript ,2.140778655782796
+web author |web authors ,2.140778655782796
+pattern matching |pattern matching ,2.140778655782796
+return x |return x ,2.140778655782796
+xss attack |XSS attacks ,2.140778655782796
+return function |return function ,2.140778655782796
+variable x |variable x ,2.140778655782796
+malicious script |malicious script ,2.140778655782796
+wide range |wide range ,2.140778655782796
+modified version |modified version ,2.140778655782796
+ajax framework |Ajax frameworks ,2.140778655782796
+definitive guide |Definitive Guide ,2.140778655782796
+language feature |language feature |language features ,2.140778655782796
+unsourced statement |unsourced statements ,2.140778655782796
+common misconception |common misconception ,2.140778655782796
+microsoft window |Microsoft Windows ,2.140778655782796
+generator expression |generator expressions ,2.140778655782796
+functional programming |functional programming ,2.140778655782796
+object constructor |object constructors ,2.140778655782796
+additional behavior |additional behavior ,2.140778655782796
+operating system |operating system ,2.140778655782796
+adobe flash |Adobe Flash ,2.140778655782796
+page content |page content ,2.140778655782796
+javascript unit |JavaScript unit ,2.140778655782796
+server-side scripting |server-side scripting ,2.140778655782796
+ajax programming |Ajax programming ,2.140778655782796
+ecmascript dialect |ECMAScript Dialects ,2.140778655782796
+jscript |JScript ,2.131304618123993
+environment |environment |environments ,2.1083873641656705
+example |example ,2.062552856249025
+video validating input value |video Validating input values ,2.035623909730721
+common javascript-related security problem |common JavaScript-related security problem ,2.035623909730721
+rare javascript trojan horse |rare JavaScript Trojan Horse ,2.035623909730721
+object composition and inheritance |Object Composition and Inheritance ,2.035623909730721
+python proper block scope |Python proper block scope ,2.035623909730721
+html pages and interact |HTML pages and interact ,2.035623909730721
+minimalist hello world program |minimalist Hello World program ,2.035623909730721
+object prototype older environment |Object prototype older environments ,2.035623909730721
+vendor-specific extensions edit javascript |Vendor-specific extensions edit JavaScript ,2.035623909730721
+format scripting language part |format Scripting language Part ,2.035623909730721
+prototype-based edit prototypes javascript |Prototype-based edit Prototypes JavaScript ,2.035623909730721
+css errors and warning |CSS errors and warnings ,2.035623909730721
+javascript engine module owner |JavaScript Engine Module Owner ,2.035623909730721
+concise and powerful syntax |concise and powerful syntax ,2.035623909730721
+wikibooks javascript filename extension |Wikibooks JavaScript Filename extension ,2.035623909730721
+plugin coding errors edit |plugin coding errors edit ,2.035623909730721
+popular browsers share support |popular browsers share support ,2.035623909730721
+clojure clojurescript git hub |clojure clojurescript Git Hub ,2.035623909730721
+currently two main implementation |currently two main implementations ,2.035623909730721
+constructor function var checkint |constructor function var checkInt ,2.035623909730721
+accessibility edit main article |Accessibility edit Main article ,2.035623909730721
+array and object literal |Array and object literals ,2.035623909730721
+blind and partially sighted |blind and partially sighted ,2.035623909730721
+graphical user interface gui |graphical user interface GUI ,2.035623909730721
+desktop and mobile application |desktop and mobile applications ,2.035623909730721
+web browsers host script |web browsers host scripts ,2.035623909730721
+function args expr ecmascript |function args expr ECMAScript ,2.035623909730721
+array and string generic |array and string generics ,2.035623909730721
+further reading edit bhangal |Further reading edit Bhangal ,2.035623909730721
+application platform edit actionscript |Application platform edit ActionScript ,2.035623909730721
+imperative and structured edit |Imperative and structured edit ,2.035623909730721
+potentially dated statements article |potentially dated statements Articles ,2.035623909730721
+math abs this b |Math abs this b ,2.035623909730721
+version release date equivalent |Version Release date Equivalent ,2.035623909730721
+object destructuring limited form |object destructuring limited form ,2.035623909730721
+javascript code reuse pattern |JavaScript Code Reuse Patterns ,2.035623909730721
+widely supported client-side language |widely supported client-side language ,2.035623909730721
+external data or output |external data or output ,2.035623909730721
+sandbox implementation errors edit |Sandbox implementation errors edit ,2.035623909730721
+server-side javascript edit netscape |Server-side JavaScript edit Netscape ,2.035623909730721
+web technologies and platform |web technologies and platforms ,2.035623909730721
+jvm net and javascript |JVM NET and JavaScript ,2.035623909730721
+javascript getters and setter |JavaScript Getters and Setters ,2.035623909730721
+netscape internet application framework |Netscape Internet Application Framework ,2.035623909730721
+brendan eich and javascript |Brendan Eich and JavaScript ,2.035623909730721
+game and simulation logic |game and simulation logic ,2.035623909730721
+maxwell render resourcer center |Maxwell Render Resourcer Center ,2.035623909730721
+run-time environment e g |run-time environment e g ,2.035623909730721
+operation system command invocation |operation system command invocation ,2.035623909730721
+s variables and object |s variables and objects ,2.035623909730721
+faster javascript virtual machine |faster JavaScript virtual machines ,2.035623909730721
+maxwell render rendering software |Maxwell Render rendering software ,2.035623909730721
+world wide web www |World Wide Web WWW ,2.035623909730721
+javascript and dhtml cookbook |JavaScript and DHTML Cookbook ,2.035623909730721
+simpler built-in error console |simpler built-in Error Console ,2.035623909730721
+vrml scene description file |VRML scene description files ,2.035623909730721
+complete concepts and technique |Complete Concepts and Techniques ,2.035623909730721
+programming interactive web site |Programming Interactive Web Sites ,2.035623909730721
+next-generation java plug-in technology |Next-Generation Java Plug-In Technology ,2.035623909730721
+ahead-of-time aot compiling engine |ahead-of-time AOT compiling engine ,2.035623909730721
+dot notation obj x |dot notation obj x ,2.035623909730721
+s document object model |s Document Object Model ,2.035623909730721
+default gui-centric programming model |default GUI-centric programming model ,2.035623909730721
+web browsers and server |web browsers and servers ,2.035623909730721
+independent standalone javascript debugger |independent standalone JavaScript Debugger ,2.035623909730721
+define generic output function |Define generic output function ,2.035623909730721
+dom-oriented client-side html scripting |DOM-oriented client-side HTML scripting ,2.035623909730721
+request and response object |request and response objects ,2.035623909730721
+google closure optimizing compiler |Google Closure optimizing compiler ,2.035623909730721
+post and get parameter |POST and GET parameters ,2.035623909730721
+jslint scans javascript code |JSLint scans JavaScript code ,2.035623909730721
+system-declared uniform type identifier |System-Declared Uniform Type Identifiers ,2.035623909730721
+dead external links article |dead external links Articles ,2.035623909730721
+functional edit first-class function |Functional edit First-class functions ,2.035623909730721
+double or single quote |double or single quotes ,2.035623909730721
+javascript and java edit |JavaScript and Java edit ,2.035623909730721
+lcm |lcm ,2.0350521514990385
+use |use |Use ,2.0350521514990385
+gcd |GCD |gcd ,2.0167183483323803
+client |client ,1.9250493324990903
+engine |engine ,1.9125490121581872
+syntax |syntax ,1.9021320785407678
+html |HTML ,1.8700479229991163
+source |source ,1.7125438867037361
+ecma |ECMA ,1.7089723666063352
+opera |Opera ,1.6500422849992202
+microsoft edit javascript |Microsoft edit JavaScript ,1.632268215499513
+common standard library |common standard library ,1.632268215499513
+first author content |first author content ,1.632268215499513
+common ancestor language |common ancestor language ,1.632268215499513
+created function form |created function forms ,1.632268215499513
+function factorial n |function factorial n ,1.632268215499513
+javascript source file |JavaScript source files ,1.632268215499513
+javascript programming practice |JavaScript programming practices ,1.632268215499513
+first javascript engine |first JavaScript engine ,1.632268215499513
+built-in string function |built-in string functions ,1.632268215499513
+objects and method |objects and methods ,1.632268215499513
+json data format |JSON data format ,1.632268215499513
+server-side javascript implementation |server-side JavaScript implementations ,1.632268215499513
+native xml support |native XML support ,1.632268215499513
+advanced compilation mode |advanced compilation mode ,1.632268215499513
+version history edit |Version history edit ,1.632268215499513
+scripting engine edit |Scripting engine edit ,1.632268215499513
+teach yourself javascript |Teach Yourself JavaScript ,1.632268215499513
+class-based object-oriented programming |class-based object-oriented programming ,1.632268215499513
+popular programming language |popular programming languages ,1.632268215499513
+optional type annotation |optional type annotations ,1.632268215499513
+ecmascript version correspondence |ECMAScript Version correspondence ,1.632268215499513
+onmouseover and onkeypres |onmouseover and onkeypress ,1.632268215499513
+legitimate login credential |legitimate login credentials ,1.632268215499513
+large non-trivial program |large non-trivial programs ,1.632268215499513
+netscape adding support |Netscape adding support ,1.632268215499513
+server-side javascript platform |server-side JavaScript platforms ,1.632268215499513
+javascript dispatches request |JavaScript dispatches requests ,1.632268215499513
+features edit json |features edit JSON ,1.632268215499513
+default programming language |default programming language ,1.632268215499513
+semantics and design |semantics and design ,1.632268215499513
+franklin beedle associate |Franklin Beedle Associates ,1.632268215499513
+server-side javascript guide |Server-Side JavaScript Guide ,1.632268215499513
+array or object |Array or Object ,1.632268215499513
+computerworld com au |computerworld com au ,1.632268215499513
+javascript based framework |JavaScript based framework ,1.632268215499513
+automatic semicolon insertion |automatic semicolon insertion ,1.632268215499513
+digital signage project |digital signage projects ,1.632268215499513
+augmented browsing bookmark |Augmented browsing Bookmarks ,1.632268215499513
+internet information server |Internet Information Server ,1.632268215499513
+computer programming portal |Computer programming portal ,1.632268215499513
+adobe creative suite |Adobe Creative Suite ,1.632268215499513
+general javascript adsafe |general JavaScript ADsafe ,1.632268215499513
+netscape enterprise server |Netscape Enterprise Server ,1.632268215499513
+unity game engine |Unity game engine ,1.632268215499513
+custom midi effect |custom MIDI effects ,1.632268215499513
+netscape and sun |Netscape and Sun ,1.632268215499513
+greater programmer discipline |greater programmer discipline ,1.632268215499513
+type safety violation |type safety violation ,1.632268215499513
+testing and debugging |testing and debugging ,1.632268215499513
+s bastien doeraene |S bastien Doeraene ,1.632268215499513
+javascript eloquent javascript |JavaScript Eloquent JavaScript ,1.632268215499513
+libraries or toolkit |libraries or toolkits ,1.632268215499513
+foundation web design |Foundation Web Design ,1.632268215499513
+professional programming attention |professional programming attention ,1.632268215499513
+netscape edit javascript |Netscape edit JavaScript ,1.632268215499513
+prototype inheritance chain |prototype inheritance chain ,1.632268215499513
+debate and opinion |debate and opinion ,1.632268215499513
+javascript debugging functionality |JavaScript debugging functionality ,1.632268215499513
+future ecmascript edition |future ECMAScript editions ,1.632268215499513
+mongodb and nodej |MongoDB and NodeJS ,1.632268215499513
+javascript code sample |JavaScript Code Samples ,1.632268215499513
+standards-conforming web page |standards-conforming web page ,1.632268215499513
+web archive org |Web archive org ,1.632268215499513
+extremely bad practice |extremely bad practice ,1.632268215499513
+core javascript language |core JavaScript language ,1.632268215499513
+special windows library |special Windows Library ,1.632268215499513
+document getelementbyid header |document getElementById header ,1.632268215499513
+ecmascript engines list |ECMAScript engines List ,1.632268215499513
+function return lcmcalculator |function return LCMCalculator ,1.632268215499513
+loosely typed language |loosely typed language ,1.632268215499513
+check int y |check Int y ,1.632268215499513
+javascript form validation |JavaScript form validation ,1.632268215499513
+explicit function-based delegation |explicit function-based delegation ,1.632268215499513
+c e g |C e g ,1.632268215499513
+web site author |Web site authors ,1.632268215499513
+embedded web page |embedded web page ,1.632268215499513
+onfocus and onchange |onfocus and onchange ,1.632268215499513
+prototype-based scripting language |prototype-based scripting language ,1.632268215499513
+server-side network programming |server-side network programming ,1.632268215499513
+conforming ecmascript implementation |conforming ECMAScript implementations ,1.632268215499513
+java software platform |Java software platform ,1.632268215499513
+general-purpose data interchange |general-purpose data interchange ,1.632268215499513
+backbone swfobject swfaddres |Backbone SWFObject SWFAddress ,1.632268215499513
+raw source code |raw source code ,1.632268215499513
+javascript microcontrollers advanced |Javascript Microcontrollers Advanced ,1.632268215499513
+function and date |Function and Date ,1.632268215499513
+dmoz js beginner |DMOZ JS Beginner ,1.632268215499513
+interfaces and module |interfaces and modules ,1.632268215499513
+provide greater level |provide greater level ,1.632268215499513
+standards and guideline |standards and guidelines ,1.632268215499513
+cross-site request forgery |cross-site request forgery ,1.632268215499513
+layout engines list |layout engines List ,1.632268215499513
+web application target |web application targets ,1.632268215499513
+lampwww epfl ch |Lampwww epfl ch ,1.632268215499513
+version information jscript |Version Information JScript ,1.632268215499513
+simple recursive function |simple recursive function ,1.632268215499513
+governing business rule |governing business rules ,1.632268215499513
+object constructors function |object constructors Functions ,1.632268215499513
+core javascript version |Core JavaScript versions ,1.632268215499513
+john wiley son |John Wiley Sons ,1.632268215499513
+environment e g |environment e g ,1.632268215499513
+c-style block scoping |C-style block scoping ,1.632268215499513
+scripting language edit |scripting language edit ,1.632268215499513
+run-time evaluation javascript |Run-time evaluation JavaScript ,1.632268215499513
+lightweight interpreted language |lightweight interpreted language ,1.632268215499513
+optional static typing |optional static typing ,1.632268215499513
+automate repetitive task |automate repetitive tasks ,1.632268215499513
+windows and linux |Windows and Linux ,1.632268215499513
+javascript douglas crockford |JavaScript Douglas Crockford ,1.632268215499513
+javascript like vbscript |JavaScript like VBScript ,1.632268215499513
+version information javascript |Version Information JavaScript ,1.632268215499513
+popular javascript library |popular JavaScript library ,1.632268215499513
+rapid application development |Rapid Application Development ,1.632268215499513
+general-purpose non-sandboxed program |general-purpose non-sandboxed programs ,1.632268215499513
+enhanced browsing security |Enhanced Browsing Security ,1.632268215499513
+conditional catch clause |conditional catch clauses ,1.632268215499513
+browser security javascript |Browser security JavaScript ,1.632268215499513
+javascript such flaw |JavaScript such flaws ,1.632268215499513
+hidden form field |hidden form field ,1.632268215499513
+file database email |file database email ,1.632268215499513
+client-side web javascript |client-side web JavaScript ,1.632268215499513
+splinetech javascript debugger |SplineTech JavaScript Debugger ,1.632268215499513
+spinetix support wiki |SpinetiX Support Wiki ,1.632268215499513
+greatest common divisor |greatest common divisor ,1.632268215499513
+scheme programming language |Scheme programming languages ,1.632268215499513
+project schedule impact |project schedule impact ,1.632268215499513
+html script element |HTML script elements ,1.632268215499513
+fp precision issue |FP precision issues ,1.632268215499513
+file i o |file I O ,1.632268215499513
+structured programming syntax |structured programming syntax ,1.632268215499513
+frequently asked question |Frequently Asked Questions ,1.632268215499513
+noscript your browser |noscript Your browser ,1.632268215499513
+javascript concepts technique |JavaScript Concepts Techniques ,1.632268215499513
+older venkman debugger |older Venkman debugger ,1.632268215499513
+function lcmcalculator x |function LCMCalculator x ,1.632268215499513
+client-side scripting language |client-side scripting language ,1.632268215499513
+javascript implicit delegation |JavaScript implicit delegation ,1.632268215499513
+b douglas crockford |b Douglas Crockford ,1.632268215499513
+compatibility considerations edit |Compatibility considerations edit ,1.632268215499513
+target web site |target web site ,1.632268215499513
+ruby and python |Ruby and Python ,1.632268215499513
+obj output obj |obj output obj ,1.632268215499513
+opera web browser |Opera web browser ,1.632268215499513
+qt c toolkit |Qt C toolkit ,1.632268215499513
+succinct shortcut syntax |succinct shortcut syntax ,1.632268215499513
+separate standardization effort |separate standardization effort ,1.632268215499513
+theoretically viable vector |theoretically viable vector ,1.632268215499513
+javascript execution disabled |JavaScript execution disabled ,1.632268215499513
+dynamic html dhtml |Dynamic HTML DHTML ,1.632268215499513
+ecmascript version history |ECMAScript version history ,1.632268215499513
+scalable network program |scalable network programs ,1.632268215499513
+simple examples edit |Simple examples edit ,1.632268215499513
+static type management |static type management ,1.632268215499513
+general-purpose programming task |general-purpose programming tasks ,1.632268215499513
+adobe integrated runtime |Adobe Integrated Runtime ,1.632268215499513
+internet explorer process |Internet Explorer process ,1.632268215499513
+newly created language |newly created languages ,1.632268215499513
+js seeker k |JS Seeker K ,1.632268215499513
+hypertalk influenced actionscript |HyperTalk Influenced ActionScript ,1.632268215499513
+windows script host |Windows Script Host ,1.632268215499513
+ample sdk atom |Ample SDK Atoms ,1.632268215499513
+lcmcalculator prototype gcd |LCMCalculator prototype gcd ,1.632268215499513
+mozilla foundation appeared |Mozilla Foundation Appeared ,1.632268215499513
+optional pseudo-static typing |optional pseudo-static typing ,1.632268215499513
+main intended method |main intended method ,1.632268215499513
+intermediate language edit |intermediate language edit ,1.632268215499513
+apps ietf org |Apps ietf org ,1.632268215499513
+role-oriented programming approach |Role-Oriented Programming approaches ,1.632268215499513
+comparison history list |Comparison History List ,1.632268215499513
+external links edit |External links edit ,1.632268215499513
+cond nast publication |Cond Nast Publications ,1.632268215499513
+google desktop gadget |Google Desktop Gadgets ,1.632268215499513
+object literal constructor |object literal constructor ,1.632268215499513
+python shallow generators-coroutine |Python shallow generators-coroutines ,1.632268215499513
+unreachable host code |unreachable host code ,1.632268215499513
+python array comprehension |Python array comprehensions ,1.632268215499513
+office application suite |office application suite ,1.632268215499513
+javascript - jscript |JavaScript - JScript ,1.632268215499513
+utility javascript library |utility JavaScript library ,1.632268215499513
+server-side web application |server-side web applications ,1.632268215499513
+example script edit |Example script edit ,1.632268215499513
+experimental scala-to-javascript compiler |experimental Scala-to-Javascript compiler ,1.632268215499513
+expressions and statement |expressions and statements ,1.632268215499513
+online banking website |online banking website ,1.632268215499513
+low power microcontroller |low power microcontrollers ,1.632268215499513
+regular expressions javascript |Regular expressions JavaScript ,1.632268215499513
+graphical rich content |graphical rich content ,1.632268215499513
+lcmcalculator object member |LCMCalculator object members ,1.632268215499513
+i arguments length |i arguments length ,1.632268215499513
+earlier web page |earlier web page ,1.632268215499513
+netscape browser version |Netscape browser version ,1.632268215499513
+document createtextnode x |document createTextNode x ,1.632268215499513
+javascript-related security bug |JavaScript-related security bugs ,1.632268215499513
+open-source re-animator framework |open-source Re-Animator framework ,1.632268215499513
+crl http http |CRL HTTP HTTPS ,1.632268215499513
+concise function expression |concise function expressions ,1.632268215499513
+human-readable source code |human-readable source code ,1.632268215499513
+wikibooks learning resource |Wikibooks Learning resources ,1.632268215499513
+complex web page |complex web page ,1.632268215499513
+concise and readable |concise and readable ,1.632268215499513
+video game console |video game console ,1.632268215499513
+unified usability interface |unified usability interface ,1.632268215499513
+safari books online |Safari Books Online ,1.632268215499513
+dom |DOM ,1.6271250310408978
+framework |Frameworks |frameworks ,1.6042077770825751
+firefox |Firefox ,1.512538761249285
+array |Array |arrays |array ,1.4781628803118014
+article |articles |article ,1.4437869993743178
+information |information ,1.3750352374993502
+safari |Safari ,1.3750352374993502
+lcmcalculator |LCMCalculator ,1.3475345327493633
+type |Type |types |type ,1.3250339561357376
+content |content |Contents ,1.3161051558922352
+development |development |Development ,1.2375317137494153
+comparison |comparison |Comparison ,1.2375317137494153
+attacker |attackers |attacker ,1.2375317137494153
+access |access ,1.2375317137494153
+statement |statements ,1.1550295994994542
+request |requests |request ,1.1000281899994802
+edition |edition ,1.1000281899994802
+constructor |constructor ,1.0771109360411577
+mozilla rhino |Mozilla Rhino ,1.070389327891398
+angus croll |Angus Croll ,1.070389327891398
+object-oriented language |object-oriented languages ,1.070389327891398
+en wikipedia |en wikipedia ,1.070389327891398
+javascript bible |JavaScript Bible ,1.070389327891398
+anonymous function |Anonymous function |anonymous functions ,1.070389327891398
+local argument |local arguments ,1.070389327891398
+netscape livewire |Netscape LiveWire ,1.070389327891398
+bracket notation |bracket notation ,1.070389327891398
+expression closure |expression closures ,1.070389327891398
+webpage dom |webpage DOM ,1.070389327891398
+info dl |info dl ,1.070389327891398
+partial exception |partial exception ,1.070389327891398
+function body |function body ,1.070389327891398
+function calling |function calling ,1.070389327891398
+application author |application author ,1.070389327891398
+javascript port |JavaScript port ,1.070389327891398
+nested function |nested function ,1.070389327891398
+coding error |coding errors ,1.070389327891398
+widespread adoption |widespread adoption ,1.070389327891398
+google site |Google Sites ,1.070389327891398
+constructor property |constructor property ,1.070389327891398
+distributed os |distributed OS ,1.070389327891398
+traditional inheritance |traditional inheritance ,1.070389327891398
+supported player |supported player ,1.070389327891398
+owen taylor |Owen Taylor ,1.070389327891398
+third-party application |third-party applications ,1.070389327891398
+microsoft corporation |Microsoft Corporation ,1.070389327891398
+browser window |browser window ,1.070389327891398
+dmoz link |DMOZ links ,1.070389327891398
+jsdb javascript |JSDB JavaScript ,1.070389327891398
+s variable |s variables ,1.070389327891398
+late reporting |late reporting ,1.070389327891398
+irc client |IRC clients ,1.070389327891398
+typeerror x |TypeError x ,1.070389327891398
+system-related task |system-related tasks ,1.070389327891398
+buffer-overflow bug |Buffer-overflow bug ,1.070389327891398
+different behavior |different behavior ,1.070389327891398
+increasing speed |increasing speed ,1.070389327891398
+embedded device |embedded devices ,1.070389327891398
+accessible javascript |Accessible JavaScript ,1.070389327891398
+chaplin j |Chaplin js ,1.070389327891398
+data manipulation |data manipulation ,1.070389327891398
+keyword array |keyword array ,1.070389327891398
+visible page |visible page ,1.070389327891398
+macos object |MacOS object ,1.070389327891398
+factorial n |factorial n ,1.070389327891398
+beta release |beta releases ,1.070389327891398
+client computer |client computer ,1.070389327891398
+web server |web server ,1.070389327891398
+video player |video players ,1.070389327891398
+internal state |internal state ,1.070389327891398
+var displayclosure |var displayClosure ,1.070389327891398
+built-in object |built-in objects ,1.070389327891398
+mozilla browser |Mozilla browsers ,1.070389327891398
+code google |Code google ,1.070389327891398
+target audience |target audience ,1.070389327891398
+stand-alone application |stand-alone applications ,1.070389327891398
+ars technica |Ars Technica ,1.070389327891398
+developer tool |developer tools ,1.070389327891398
+html escaping |HTML escaping ,1.070389327891398
+opera software |Opera Software ,1.070389327891398
+remote server |remote server ,1.070389327891398
+document content |document content ,1.070389327891398
+extra feature |extra features ,1.070389327891398
+partial ecmascript |partial ECMAScript ,1.070389327891398
+computer ieee |Computer IEEE ,1.070389327891398
+inspection tool |inspection tools ,1.070389327891398
+python translate |Python translates ,1.070389327891398
+web-related action |web-related actions ,1.070389327891398
+standardization edit |Standardization edit ,1.070389327891398
+var v |var v ,1.070389327891398
+var x |var x ,1.070389327891398
+livescript javascript |LiveScript JavaScript ,1.070389327891398
+webpage scripting |webpage scripting ,1.070389327891398
+desktop widget |desktop widgets ,1.070389327891398
+right-click protection |Right-click protection ,1.070389327891398
+var i |var i ,1.070389327891398
+symantec corporation |Symantec Corporation ,1.070389327891398
+empty title |empty title ,1.070389327891398
+eval function |eval function ,1.070389327891398
+wikiversity documentation |Wikiversity Documentation ,1.070389327891398
+qtscript module |QtScript module ,1.070389327891398
+fifth edition |fifth edition ,1.070389327891398
+roles trait |Roles Traits ,1.070389327891398
+loose typing |loose typing ,1.070389327891398
+audio file |audio file ,1.070389327891398
+wider trend |wider trend ,1.070389327891398
+firebug add-on |Firebug add-on ,1.070389327891398
+class-based feature |class-based features ,1.070389327891398
+javascript development |JavaScript development ,1.070389327891398
+technical specification |Technical Specification ,1.070389327891398
+explicit creation |explicit creation ,1.070389327891398
+freeware alternative |freeware alternative ,1.070389327891398
+mozilla platform |Mozilla platform ,1.070389327891398
+host environment |host environment ,1.070389327891398
+javascript language |JavaScript language ,1.070389327891398
+complete concept |Complete Concepts ,1.070389327891398
+javascript article |JavaScript article ,1.070389327891398
+pdf document |PDF documents ,1.070389327891398
+syntactic difference |syntactic difference ,1.070389327891398
+typing place |typing places ,1.070389327891398
+ecmascript specification |ECMAScript specification ,1.070389327891398
+block scoping |block scoping ,1.070389327891398
+svg file |SVG files ,1.070389327891398
+gcd gcd |gcd gcd ,1.070389327891398
+game development |game development ,1.070389327891398
+javascript functionality |JavaScript functionality ,1.070389327891398
+nonprofessional programmer |nonprofessional programmers ,1.070389327891398
+apply method |apply method ,1.070389327891398
+small number |small number ,1.070389327891398
+read uberflip |Read uberflip ,1.070389327891398
+browser difference |browser differences ,1.070389327891398
+comprehensive framework |comprehensive frameworks ,1.070389327891398
+program jslint |program JSLint ,1.070389327891398
+network object |network objects ,1.070389327891398
+safari oreilly |Safari oreilly ,1.070389327891398
+norris boyd |Norris Boyd ,1.070389327891398
+unpredictable rate |unpredictable rates ,1.070389327891398
+transferring money |transferring money ,1.070389327891398
+print output |print output ,1.070389327891398
+modern style |Modern style ,1.070389327891398
+microcontrollers edit |Microcontrollers edit ,1.070389327891398
+limited version |limited version ,1.070389327891398
+major browser |major browsers ,1.070389327891398
+unity scripting |Unity Scripting ,1.070389327891398
+dynamic edit |Dynamic edit ,1.070389327891398
+portable version |portable version ,1.070389327891398
+no provision |no provisions ,1.070389327891398
+javascript hijacking |JavaScript hijacking ,1.070389327891398
+underscore j |Underscore js ,1.070389327891398
+javascript getter |JavaScript Getters ,1.070389327891398
+spoken article |spoken articles ,1.070389327891398
+chatzilla hacksru |Chatzilla hacksrus ,1.070389327891398
+javascript reference |JavaScript References ,1.070389327891398
+var count |var count ,1.070389327891398
+encyclopedia jump |encyclopedia Jump ,1.070389327891398
+screen reader |Screen readers ,1.070389327891398
+example game |example games ,1.070389327891398
+object create |Object create ,1.070389327891398
+implementation mistake |implementation mistakes ,1.070389327891398
+object-oriented prototype-based |object-oriented prototype-based ,1.070389327891398
+following output |following output ,1.070389327891398
+compiled bytecode |compiled bytecode ,1.070389327891398
+mozilla corporation |Mozilla Corporation ,1.070389327891398
+mixins javascript |Mixins JavaScript ,1.070389327891398
+commonjs project |CommonJS project ,1.070389327891398
+objective-j qml |Objective-J QML ,1.070389327891398
+special edition |Special Edition ,1.070389327891398
+absolute beginner |Absolute Beginner ,1.070389327891398
+formal parameter |formal parameters ,1.070389327891398
+latest version |latest version ,1.070389327891398
+hashcollision org |Hashcollision org ,1.070389327891398
+javascript dart |JavaScript Dart ,1.070389327891398
+robert nyman |Robert Nyman ,1.070389327891398
+client side |client side ,1.070389327891398
+javascript support |JavaScript support ,1.070389327891398
+java keyword |Java keywords ,1.070389327891398
+william j |William J ,1.070389327891398
+umbrella term |umbrella term ,1.070389327891398
+caused confusion |caused confusion ,1.070389327891398
+daw software |DAW software ,1.070389327891398
+input device |input devices ,1.070389327891398
+standardized version |standardized version ,1.070389327891398
+spinetix product |SpinetiX products ,1.070389327891398
+original javascript |original JavaScript ,1.070389327891398
+scriptease product |ScriptEase product ,1.070389327891398
+commonjs effort |CommonJS effort ,1.070389327891398
+recent browser |recent browsers ,1.070389327891398
+audio help |Audio help ,1.070389327891398
+pr newswire |PR Newswire ,1.070389327891398
+invalid character |invalid characters ,1.070389327891398
+serence klipfolio |Serence Klipfolio ,1.070389327891398
+web interoperability |Web interoperability ,1.070389327891398
+misplaced trust |Misplaced trust ,1.070389327891398
+duck typing |duck typing ,1.070389327891398
+increased usage |increased usage ,1.070389327891398
+racket-to-javascript compiler |Racket-to-JavaScript compiler ,1.070389327891398
+ejohn org |Ejohn org ,1.070389327891398
+wrong result |wrong result ,1.070389327891398
+function definition |function definition ,1.070389327891398
+playing audio |playing audio ,1.070389327891398
+refresh button |refresh buttons ,1.070389327891398
+limited privilege |limited privileges ,1.070389327891398
+implementation difference |implementation differences ,1.070389327891398
+e-mail message |e-mail message ,1.070389327891398
+browser implementation |browser implementations ,1.070389327891398
+different platform |different platforms ,1.070389327891398
+mongodb database |MongoDB database ,1.070389327891398
+trademark edit |Trademark edit ,1.070389327891398
+equivalent syntax |equivalent syntaxes ,1.070389327891398
+duck major |duck Major ,1.070389327891398
+type bug |type bugs ,1.070389327891398
+progressive enhancement |progressive enhancement ,1.070389327891398
+css error |CSS errors ,1.070389327891398
+normal functionality |normal functionality ,1.070389327891398
+world domination |world domination ,1.070389327891398
+alternate syntax |alternate syntax ,1.070389327891398
+javascript work |JavaScript works ,1.070389327891398
+social network |social network ,1.070389327891398
+delegation automatism |delegation automatism ,1.070389327891398
+web site |web site ,1.070389327891398
+user-interface logic |user-interface logic ,1.070389327891398
+local variable |local variables ,1.070389327891398
+same-origin policy |same-origin policy ,1.070389327891398
+language extension |language extensions ,1.070389327891398
+webkit org |Webkit org ,1.070389327891398
+var getvalue |var getValue ,1.070389327891398
+object detection |Object detection ,1.070389327891398
+scala j |Scala js ,1.070389327891398
+javascript tracking |JavaScript tracking ,1.070389327891398
+titles page |titles Pages ,1.070389327891398
+webkit implementation |WebKit implementation ,1.070389327891398
+minimal example |minimal example ,1.070389327891398
+superuser privilege |superuser privileges ,1.070389327891398
+interactive debugger |interactive debugger ,1.070389327891398
+host code |host code ,1.070389327891398
+malicious author |malicious authors ,1.070389327891398
+alternative approach |alternative approach ,1.070389327891398
+existing language |existing languages ,1.070389327891398
+declarative syntax |declarative syntax ,1.070389327891398
+similarities end |similarities end ,1.070389327891398
+javascript application |JavaScript application ,1.070389327891398
+client-side list |Client-side list ,1.070389327891398
+device-agnostic event |device-agnostic events ,1.070389327891398
+javascript webserver |JavaScript webserver ,1.070389327891398
+return lcm |return lcm ,1.070389327891398
+web user |web user ,1.070389327891398
+referrer header |Referrer header ,1.070389327891398
+oracle corporation |Oracle Corporation ,1.070389327891398
+js host |JS host ,1.070389327891398
+essential html |Essential HTML ,1.070389327891398
+function scoping |function scoping ,1.070389327891398
+var sum |var sum ,1.070389327891398
+page element |page elements ,1.070389327891398
+premier press |Premier Press ,1.070389327891398
+human fallibility |human fallibility ,1.070389327891398
+no distinction |no distinction ,1.070389327891398
+client-side behavior |client-side behavior ,1.070389327891398
+speech browser |speech browser ,1.070389327891398
+standards-compliant code |standards-compliant code ,1.070389327891398
+arguments i |arguments i ,1.070389327891398
+debugging aid |debugging aids ,1.070389327891398
+developments edit |developments edit ,1.070389327891398
+custom class |custom classes ,1.070389327891398
+desktop application |desktop applications ,1.070389327891398
+chakra influenced |Chakra Influenced ,1.070389327891398
+output x |output x ,1.070389327891398
+c-like syntax |C-like syntax ,1.070389327891398
+interpreted language |interpreted language ,1.070389327891398
+forward slash |forward slashes ,1.070389327891398
+string key |string keys ,1.070389327891398
+javascript author |JavaScript authors ,1.070389327891398
+javascript safe |JavaScript Safe ,1.070389327891398
+commons textbook |Commons Textbooks ,1.070389327891398
+function call |function call ,1.070389327891398
+date method |date methods ,1.070389327891398
+windows vista |Windows Vista ,1.070389327891398
+cross-site scripting |cross-site scripting |Cross-site scripting ,1.070389327891398
+malicious code |malicious code ,1.070389327891398
+obsolete content |obsolete content ,1.070389327891398
+relevant information |relevant information ,1.070389327891398
+statically-typed language |statically-typed language ,1.070389327891398
+plain javascript |plain JavaScript ,1.070389327891398
+preprocessor-like extension |preprocessor-like extensions ,1.070389327891398
+c language |C language ,1.070389327891398
+different semantics |different semantics ,1.070389327891398
+euclidean algorithm |Euclidean algorithm ,1.070389327891398
+jscript development |JScript development ,1.070389327891398
+surfin safari |Surfin Safari ,1.070389327891398
+mike friedman |Mike Friedman ,1.070389327891398
+media wiley |media wiley ,1.070389327891398
+method definition |method definition ,1.070389327891398
+client-side script |client-side scripts ,1.070389327891398
+read write |Read Write ,1.070389327891398
+int x |Int x ,1.070389327891398
+security edit |Security edit ,1.070389327891398
+web accessibility |Web accessibility ,1.070389327891398
+javascript api |JavaScript API ,1.070389327891398
+pdf file |PDF files ,1.070389327891398
+activex control |ActiveX controls ,1.070389327891398
+function-based implementation |function-based implementations ,1.070389327891398
+document createtextnode |document createTextNode ,1.070389327891398
+typically sandboxed |typically sandboxed ,1.070389327891398
+jinjer l |Jinjer L ,1.070389327891398
+individual keystroke |individual keystrokes ,1.070389327891398
+marketing ploy |marketing ploy ,1.070389327891398
+current edition |current edition ,1.070389327891398
+openoffice org |OpenOffice org ,1.070389327891398
+client-server application |client-server applications ,1.070389327891398
+javascript release |JavaScript releases ,1.070389327891398
+var keyword |var keyword ,1.070389327891398
+course technology |Course Technology ,1.070389327891398
+switch statement |switch statements ,1.070389327891398
+partial protection |partial protection ,1.070389327891398
+trademark issue |trademark issues ,1.070389327891398
+gnome journal |GNOME Journal ,1.070389327891398
+fourth edition |fourth edition ,1.070389327891398
+protected mode |Protected Mode ,1.070389327891398
+nokia corporation |Nokia Corporation ,1.070389327891398
+javascript runtime |JavaScript runtime ,1.070389327891398
+dom property |DOM property ,1.070389327891398
+dead link |dead link ,1.070389327891398
+gary b |Gary B ,1.070389327891398
+technically correctly |technically correctly ,1.070389327891398
+programmer discipline |programmer discipline ,1.070389327891398
+server side |server side ,1.070389327891398
+lexical scope |lexical scope ,1.070389327891398
+run-time environment |run-time environment ,1.070389327891398
+subsequent edit |subsequent edits ,1.070389327891398
+custom formula |custom formulas ,1.070389327891398
+determined adversary |determined adversary ,1.070389327891398
+id header |id header ,1.070389327891398
+javascript programming |JavaScript Programming ,1.070389327891398
+mission impossible |Mission Impossible ,1.070389327891398
+correct design |correct design ,1.070389327891398
+dynamic nature |dynamic nature ,1.070389327891398
+smart phone |smart phones ,1.070389327891398
+mediawiki listen |MediaWiki Listen ,1.070389327891398
+ubuntu touch |Ubuntu Touch ,1.070389327891398
+application logic |application logic ,1.070389327891398
+subsequent work |subsequent work ,1.070389327891398
+node inspector |Node Inspector ,1.070389327891398
+status update |status updates ,1.070389327891398
+object instance |object instances ,1.070389327891398
+typical role |typical role ,1.070389327891398
+core component |core components ,1.070389327891398
+haudio microformat |hAudio microformats ,1.070389327891398
+visual application |visual applications ,1.070389327891398
+ts-script compile |TS-script compiles ,1.070389327891398
+lasting effect |lasting effects ,1.070389327891398
+ad tracking |ad tracking ,1.070389327891398
+java technology |Java technology ,1.070389327891398
+lcmcalculator prototype |LCMCalculator prototype ,1.070389327891398
+delete file |delete files ,1.070389327891398
+javascript disabled |JavaScript disabled ,1.070389327891398
+security precaution |security precaution ,1.070389327891398
+web form |web form ,1.070389327891398
+thomas j |Thomas J ,1.070389327891398
+first edition |first edition ,1.070389327891398
+regular expression |regular expressions ,1.070389327891398
+javascript list |JavaScript List ,1.070389327891398
+crypto signtext |crypto signText ,1.070389327891398
+untrusted client |untrusted clients ,1.070389327891398
+wiley pub |Wiley Pub ,1.070389327891398
+complete reference |Complete Reference ,1.070389327891398
+following feature |following features ,1.070389327891398
+delegation language |delegation language ,1.070389327891398
+nontrivial problem |nontrivial problem ,1.070389327891398
+night software |Night Software ,1.070389327891398
+final choice |final choice ,1.070389327891398
+java application |Java applications ,1.070389327891398
+qt quick |Qt Quick ,1.070389327891398
+professional javascript |Professional JavaScript ,1.070389327891398
+target language |target language ,1.070389327891398
+just-in-time compilation |just-in-time compilation ,1.070389327891398
+visual disability |visual disability ,1.070389327891398
+google spreadsheet |Google Spreadsheets ,1.070389327891398
+simple example |simple examples ,1.070389327891398
+vander veer |Vander Veer ,1.070389327891398
+text manipulation |text manipulation ,1.070389327891398
+spidermonkey implementation |SpiderMonkey implementation ,1.070389327891398
+special variable |special variable ,1.070389327891398
+coffeescript syntax |CoffeeScript syntax ,1.070389327891398
+user adoption |user adoption ,1.070389327891398
+javascript mixin |JavaScript Mixins ,1.070389327891398
+experimental feature |experimental features ,1.070389327891398
+references edit |References edit ,1.070389327891398
+redirected frame |redirected frame ,1.070389327891398
+industry standard |industry standard ,1.070389327891398
+command definition |command definition ,1.070389327891398
+languages web |languages Web ,1.070389327891398
+multiple browser |multiple browsers ,1.070389327891398
+privilege escalation |Privilege escalation ,1.070389327891398
+s sense |s sense ,1.070389327891398
+press release |Press release ,1.070389327891398
+andrew h |Andrew H ,1.070389327891398
+function x |function x ,1.070389327891398
+function method |function method ,1.070389327891398
+tasks automation |tasks automation ,1.070389327891398
+csrf attack |CSRF attack ,1.070389327891398
+performance limitation |performance limitations ,1.070389327891398
+obj lcm |obj lcm ,1.070389327891398
+standard javascript |standard JavaScript ,1.070389327891398
+web analytic |web analytics ,1.070389327891398
+scripting node |scripting nodes ,1.070389327891398
+paul festa |Paul Festa ,1.070389327891398
+bare url |bare URLs ,1.070389327891398
+mozilla-specific support |Mozilla-specific support ,1.070389327891398
+object-based javascript |Object-based JavaScript ,1.070389327891398
+computed result |computed results ,1.070389327891398
+processing j |Processing js ,1.070389327891398
+browser feature |browser features ,1.070389327891398
+trusted code |trusted code ,1.070389327891398
+banking application |banking application ,1.070389327891398
+multiple source |multiple sources ,1.070389327891398
+important part |important part ,1.070389327891398
+array comprehension |array comprehensions ,1.070389327891398
+solution stack |solution stack ,1.070389327891398
+google product |Google products ,1.070389327891398
+gnome shell |GNOME Shell ,1.070389327891398
+page renderer |page renderers ,1.070389327891398
+sensitive information |sensitive information ,1.070389327891398
+brent noorda |Brent Noorda ,1.070389327891398
+rare browser |rare browser ,1.070389327891398
+javascript model |JavaScript model ,1.070389327891398
+sun trademark |Sun Trademarks ,1.070389327891398
+javanese script |Javanese script ,1.070389327891398
+client edit |client edit ,1.070389327891398
+authentication token |authentication token ,1.070389327891398
+device-centric event |device-centric events ,1.070389327891398
+microcontroller board |microcontroller board ,1.070389327891398
+cross-site vulnerability |cross-site vulnerability ,1.070389327891398
+development environment |development environment ,1.070389327891398
+site-specific browser |site-specific browsers ,1.070389327891398
+window |Windows ,1.0541936820828353
+node |Node ,1.0450267804995061
+python |Python ,0.9625246662495451
+world |World |world ,0.9625246662495451
+bug |bugs |Bugs ,0.9625246662495451
+ferguson |Ferguson ,0.9625246662495451
+debugger |debuggers |debugger ,0.9428813057138402
+compiler |compiler ,0.9281487853120614
+author |authors ,0.9232379451781352
+dynamic |Dynamic ,0.8479383964579327
+history |History ,0.8250211424996101
+game |games |game ,0.8250211424996101
+privilege |privileges ,0.8250211424996101
+include |include ,0.8250211424996101
+client-side |client-side ,0.8250211424996101
+typescript |TypeScript ,0.8250211424996101
+security |security ,0.8053777819639052
+expression |expressions ,0.7975204377496231
+interface |interfaces |interface ,0.7906452615621263
+tool |tools |Tools ,0.7562693806246426
+spidermonkey |SpiderMonkey ,0.7562693806246426
+crockford |Crockford ,0.7562693806246426
+functional |functional ,0.7486302959718685
+ajax |AJAX |Ajax ,0.6875176187496751
+subset |subset |subsets ,0.6875176187496751
+output |output ,0.6875176187496751
+inheritance |Inheritance |inheritance ,0.6875176187496751
+number |numbers |number ,0.6875176187496751
+eich |Eich ,0.6875176187496751
+string |string |strings ,0.6875176187496751
+webkit |WebKit ,0.6875176187496751
+victim |victim ,0.6875176187496751
+file |files ,0.6875176187496751
+rhino |Rhino ,0.6875176187496751
+run-time |run-time ,0.6531417378121913
+adobe |Adobe ,0.6416831108330301
+json |JSON ,0.6416831108330301
+return |returns ,0.6285875371425601
+specification |specification |specifications ,0.5958486029163851
+standard |standards |Standard ,0.5843899759372239
+developer |Developers |developers ,0.5775147997497271
+event |Event |events ,0.5500140949997401
+role |Role |role ,0.5500140949997401
+object-oriented |object-oriented ,0.5500140949997401
+pdf |PDF ,0.5500140949997401
+change |Changes |change |changes ,0.5500140949997401
+argument |arguments ,0.5500140949997401
+apple |Apple ,0.5500140949997401
+nomba |Nombas ,0.5500140949997401
+control |control ,0.5500140949997401
+general |general ,0.5500140949997401
+keyword |keyword ,0.5500140949997401
+flaw |flaws ,0.5500140949997401
+part |part ,0.5500140949997401
+coffeescript |CoffeeScript ,0.5500140949997401
+haverbeke |Haverbeke ,0.5500140949997401
+release |release ,0.5270968410414175
+variable |variables ,0.5270968410414175
+compile |compiles |compile ,0.5225133902497531
+flash |Flash ,0.5156382140622563
+programmer |Programmers |programmers ,0.48126233312477257
+desktop |desktop ,0.41251057124980506
+interact |interact ,0.41251057124980506
+testing |testing ,0.41251057124980506
+concise |concise ,0.41251057124980506
+gnome |GNOME ,0.41251057124980506
+reason |reason |reasons ,0.41251057124980506
+category |Category ,0.41251057124980506
+console |console ,0.41251057124980506
+database |Databases |database ,0.41251057124980506
+year |years ,0.41251057124980506
+liveconnect |LiveConnect ,0.41251057124980506
+practice |practice ,0.41251057124980506
+difference |differences ,0.41251057124980506
+mixin |Mixins ,0.41251057124980506
+reference |Reference |reference ,0.41251057124980506
+csrf |CSRF ,0.41251057124980506
+platform |platforms ,0.41251057124980506
+microcontroller |Microcontrollers ,0.41251057124980506
+call |call ,0.41251057124980506
+solution |solutions |solution ,0.41251057124980506
+addition |addition ,0.41251057124980506
+loop |loops |loop ,0.41251057124980506
+mdn |MDN ,0.41251057124980506
+objective-j |Objective-J ,0.41251057124980506
+extension |extension |Extensions ,0.41251057124980506
+value |values ,0.41251057124980506
+trait |Traits ,0.41251057124980506
+imperative |imperative |Imperative ,0.41251057124980506
+scheme |Scheme ,0.41251057124980506
+intended |intended ,0.41251057124980506
+david |David ,0.41251057124980506
+pair |pair ,0.41251057124980506
+osa |OSA ,0.41251057124980506
+superset |superset ,0.41251057124980506
+livescript |LiveScript ,0.41251057124980506
+work |work ,0.41251057124980506
+class |classes ,0.41251057124980506
+default |default ,0.41251057124980506
+webpage |webpage ,0.41251057124980506
+action |actions ,0.3781346903123213
+sandbox |sandbox ,0.3666760633331601
+sun |Sun ,0.34375880937483755
+mac |Mac ,0.320841555416515
+distinction |distinction ,0.27500704749987004
+define |defines ,0.27500704749987004
+carakan |Carakan ,0.27500704749987004
+firebug |Firebug ,0.27500704749987004
+designing |Designing ,0.27500704749987004
+spinetix |SpinetiX ,0.27500704749987004
+package |package ,0.27500704749987004
+gmail |Gmail ,0.27500704749987004
+note |Note ,0.27500704749987004
+preferable |preferable ,0.27500704749987004
+scala |Scala ,0.27500704749987004
+redefine |redefine ,0.27500704749987004
+goodman |Goodman ,0.27500704749987004
+acrobat |Acrobat ,0.27500704749987004
+sort |sort ,0.27500704749987004
+archived |Archived ,0.27500704749987004
+math |Math ,0.27500704749987004
+original |original ,0.27500704749987004
+case |cases ,0.27500704749987004
+naming |naming ,0.27500704749987004
+citation |citations ,0.27500704749987004
+goal |goal ,0.27500704749987004
+port |port |ports ,0.27500704749987004
+foreach |forEach ,0.27500704749987004
+issue |issues ,0.27500704749987004
+first |First ,0.27500704749987004
+image |images |image ,0.27500704749987004
+computer |computer ,0.27500704749987004
+danny |Danny ,0.27500704749987004
+execution |execution ,0.27500704749987004
+redefinition |redefinition ,0.27500704749987004
+whalesong |Whalesong ,0.27500704749987004
+set |set ,0.27500704749987004
+product |products ,0.27500704749987004
+herman |Herman ,0.27500704749987004
+technology |technology ,0.27500704749987004
+jquery |jQuery ,0.27500704749987004
+risk |risk |risks ,0.27500704749987004
+uspto |USPTO ,0.27500704749987004
+addison-wesley |Addison-Wesley ,0.27500704749987004
+perl |Perl ,0.27500704749987004
+debugging |debugging ,0.27500704749987004
+photoshop |Photoshop |PhotoShop ,0.27500704749987004
+documentation |Documentation ,0.27500704749987004
+proliferation |proliferation ,0.27500704749987004
+dart |Dart ,0.27500704749987004
+instance |instance ,0.27500704749987004
+input |input ,0.27500704749987004
+result |result ,0.27500704749987004
+brenkoweb |Brenkoweb ,0.27500704749987004
+popularity |Popularity |popularity ,0.27500704749987004
+piwik |Piwik ,0.27500704749987004
+visitor |visitors ,0.27500704749987004
+pyjama |Pyjamas ,0.27500704749987004
+watt |Watt ,0.27500704749987004
+jslib |jslibs ,0.27500704749987004
+password |passwords ,0.27500704749987004
+parameter |parameters ,0.27500704749987004
+date |Date ,0.22000563799989603
+shell |shell ,0.20625528562490253
+visual |visual ,0.17187940468741877
+username |usernames ,0.13750352374993502
+semantics |semantics ,0.13750352374993502
+animation |animations ,0.13750352374993502
+librsvg |librsvg ,0.13750352374993502
+cocktailj |CocktailJS ,0.13750352374993502
+setter |Setters ,0.13750352374993502
+cashman |Cashman ,0.13750352374993502
+basis |basis ,0.13750352374993502
+exception |exception ,0.13750352374993502
+drosera |Drosera ,0.13750352374993502
+katz |Katz ,0.13750352374993502
+processing |Processing ,0.13750352374993502
+javascript-debugger |javascript-debugger ,0.13750352374993502
+double |double ,0.13750352374993502
+obfuscation |obfuscation ,0.13750352374993502
+make |MAKE ,0.13750352374993502
+fantom |Fantom ,0.13750352374993502
+tostring |toString ,0.13750352374993502
+response |response ,0.13750352374993502
+opengl |OpenGL ,0.13750352374993502
+constant |constants ,0.13750352374993502
+advantage |advantage ,0.13750352374993502
+bind |bind ,0.13750352374993502
+amateur |amateurs ,0.13750352374993502
+nspr |NSPR ,0.13750352374993502
+webdevelopersnote |Webdevelopersnotes ,0.13750352374993502
+newline |newline ,0.13750352374993502
+joe |Joe ,0.13750352374993502
+advertisement |advertisements ,0.13750352374993502
+tech |Tech ,0.13750352374993502
+emily |Emily ,0.13750352374993502
+chatzilla |ChatZilla ,0.13750352374993502
+restriction |restrictions ,0.13750352374993502
+richest |richest ,0.13750352374993502
+cambridge |Cambridge ,0.13750352374993502
+heinle |Heinle ,0.13750352374993502
+path |path ,0.13750352374993502
+getvalue |getValue ,0.13750352374993502
+dxstudio |dxstudio ,0.13750352374993502
+past |past ,0.13750352374993502
+technique |Techniques ,0.13750352374993502
+production |production ,0.13750352374993502
+webo |webOS ,0.13750352374993502
+nick |Nick ,0.13750352374993502
+zaka |Zakas ,0.13750352374993502
+favor |favor ,0.13750352374993502
+advertising |Advertising ,0.13750352374993502
+guideline |guidelines ,0.13750352374993502
+influential |influential ,0.13750352374993502
+syntactic |syntactic ,0.13750352374993502
+license |license ,0.13750352374993502
+presence |presence ,0.13750352374993502
+simon |Simon ,0.13750352374993502
+implicit |Implicit ,0.13750352374993502
+download |download ,0.13750352374993502
+re-introduction |Re-Introduction ,0.13750352374993502
+joyent |Joyent ,0.13750352374993502
+mcduffie |McDuffie ,0.13750352374993502
+navigation |navigation ,0.13750352374993502
+burn |Burns ,0.13750352374993502
+advent |advent ,0.13750352374993502
+mouse |mouse ,0.13750352374993502
+breach |breaches ,0.13750352374993502
+question |questions |question ,0.13750352374993502
+protocol |protocol ,0.13750352374993502
+strength |strength ,0.13750352374993502
+exploit |exploit ,0.13750352374993502
+mynfc |myNFC ,0.13750352374993502
+semicolon |semicolons ,0.13750352374993502
+authentication |authentication ,0.13750352374993502
+usage |usage ,0.13750352374993502
+unix |Unix ,0.13750352374993502
+revision |revision ,0.13750352374993502
+node-inspector |node-inspector ,0.13750352374993502
+closure |closures ,0.13750352374993502
+mind |mind ,0.13750352374993502
+end |end ,0.13750352374993502
+brent-noorda |Brent-noorda ,0.13750352374993502
+post |POST ,0.13750352374993502
+jsosa |JSOSA ,0.13750352374993502
+process |process ,0.13750352374993502
+schneider |Schneider ,0.13750352374993502
+securitytracker |SecurityTracker ,0.13750352374993502
+quora |Quora ,0.13750352374993502
+koman |Koman ,0.13750352374993502
+dreamweaver |Dreamweaver ,0.13750352374993502
+sqlite |SQLite ,0.13750352374993502
+wrox |Wrox ,0.13750352374993502
+magazine |Magazine ,0.13750352374993502
+re-animator |Re-Animator ,0.13750352374993502
+see-minus-minu |See-minus-minus ,0.13750352374993502
+potential |potential ,0.13750352374993502
+personalization |personalization ,0.13750352374993502
+mozillazine |MozillaZine ,0.13750352374993502
+higher |higher ,0.13750352374993502
+sham |Sham ,0.13750352374993502
+missing |Missing ,0.13750352374993502
+illustrator |Illustrator ,0.13750352374993502
+kotlin |Kotlin ,0.13750352374993502
+espruino |Espruino ,0.13750352374993502
+mono |Mono ,0.13750352374993502
+modification |modifications ,0.13750352374993502
+blinkx |blinkx ,0.13750352374993502
+readable |readable ,0.13750352374993502
+adoption |Adoption ,0.13750352374993502
+racket |Racket ,0.13750352374993502
+integer |integer ,0.13750352374993502
+newer |Newer ,0.13750352374993502
+mcfarlane |McFarlane ,0.13750352374993502
+invocation |invocation ,0.13750352374993502
+emscripten |Emscripten ,0.13750352374993502
+future |future ,0.13750352374993502
+sdk |SDK ,0.13750352374993502
+ruby |Ruby ,0.13750352374993502
+applescript |AppleScript ,0.13750352374993502
+experience |experiences ,0.13750352374993502
+techvision |TechVision ,0.13750352374993502
+manner |manner ,0.13750352374993502
+npapi |NPAPI ,0.13750352374993502
+github |Github ,0.13750352374993502
+demo |Demos ,0.13750352374993502
+fixed |Fixed ,0.13750352374993502
+visualization |visualizations ,0.13750352374993502
+convenience |convenience ,0.13750352374993502
+comment |comments ,0.13750352374993502
+series |series ,0.13750352374993502
+creation |creation ,0.13750352374993502
+hardware |hardware ,0.13750352374993502
+talent |TALENTS ,0.13750352374993502
+mongodb |MongoDB ,0.13750352374993502
+unexpected |unexpected ,0.13750352374993502
+resurgence |resurgence ,0.13750352374993502
+null |null ,0.13750352374993502
+powell |Powell ,0.13750352374993502
+wikipedia |Wikipedia ,0.13750352374993502
+account |account ,0.13750352374993502
+design |design ,0.13750352374993502
+quasney |Quasney ,0.13750352374993502
+count |count ,0.13750352374993502
+buffer |buffer ,0.13750352374993502
+growney |Growney ,0.13750352374993502
+yehuda |Yehuda ,0.13750352374993502
+iterator |iterators ,0.13750352374993502
+spin-off |spin-off ,0.13750352374993502
+firework |Fireworks ,0.13750352374993502
+way |ways ,0.13750352374993502
+alistapart |alistapart ,0.13750352374993502
+onfocu |onfocus ,0.13750352374993502
+dorin |Dorin ,0.13750352374993502
+conformance |conformance ,0.13750352374993502
+violation |violation ,0.13750352374993502
+inclusion |inclusion ,0.13750352374993502
+multi-paradigm |Multi-paradigm ,0.13750352374993502
+getter |Getters ,0.13750352374993502
+webmasterworld |Webmasterworld ,0.13750352374993502
+trademark |trademark ,0.13750352374993502
+thunderbird |Thunderbird ,0.13750352374993502
+choice |choice ,0.13750352374993502
+harris |Harris ,0.13750352374993502
+easy |easy ,0.13750352374993502
+innovator |Innovators ,0.13750352374993502
+ability |ability ,0.13750352374993502
+launchpad |Launchpad ,0.13750352374993502
+jankowski |Jankowski ,0.13750352374993502
+relationship |relationship ,0.13750352374993502
+competitor |competitor ,0.13750352374993502
+spotlight |spotlight ,0.13750352374993502
+detail |detail ,0.13750352374993502
+jonathan |Jonathan ,0.13750352374993502
+impression |impression ,0.13750352374993502
+reduce |reduces ,0.13750352374993502
+client-server |client-server ,0.13750352374993502
+indesign |InDesign ,0.13750352374993502
+clip |clip ,0.13750352374993502
+duffy |Duffy ,0.13750352374993502
+service |service ,0.13750352374993502
+hamilton |Hamilton ,0.13750352374993502
+haxe |Haxe ,0.13750352374993502
+vengeance |Vengeance ,0.13750352374993502
+llvm-backend |LLVM-backend ,0.13750352374993502
+winj |WinJS ,0.13750352374993502
+interaction |interaction ,0.13750352374993502
+thomas |Thomas ,0.13750352374993502
+osborne |Osborne ,0.13750352374993502
+openal |OpenAL ,0.13750352374993502
+shelly |Shelly ,0.13750352374993502
+cnet |CNet ,0.13750352374993502
+displayclosure |displayClosure ,0.13750352374993502
+adsafe |ADsafe ,0.13750352374993502
+compromise |compromises ,0.13750352374993502
+implication |implications ,0.13750352374993502
+markel |Markel ,0.13750352374993502
+right-clicking |right-clicking ,0.13750352374993502
+order |order ,0.13750352374993502
+mean |means ,0.13750352374993502
+widget |Widgets ,0.13750352374993502
+find |Finds ,0.13750352374993502
+redirection |redirection ,0.13750352374993502
+matter |matters ,0.13750352374993502
+linux |Linux ,0.13750352374993502
+libtomcrypt |libTomCrypt ,0.13750352374993502
+secret |secret ,0.13750352374993502
+literal |literals ,0.13750352374993502
+pattern |pattern ,0.06875176187496751
+money |money ,0.06875176187496751
+partially sighted |partially sighted ,0.0
+project |Project ,0.0
+secret information |secret information ,0.0
+component |component ,0.0
+composition |composition ,0.0
+pda |PDA ,0.0
+closure example |closure example ,0.0
+bank |bank ,0.0
+execute |executes ,0.0
+criticism |Criticism ,0.0
+cross-site request |Cross-site request ,0.0
+download the clip |download the clip ,0.0
+object composition |Object Composition ,0.0
+onkeypres |onkeypress ,0.0
+object notation |Object Notation ,0.0
+first-class function |first-class functions ,0.0
+setter function |setter functions ,0.0
+scene |Scenes ,0.0
+java edit |Java edit ,0.0
+warning |warnings ,0.0
+unusual dom support |unusual DOM support ,0.0
+ecmascript language |ECMAScript Language ,0.0
+javascript debugger |JavaScript debugger ,0.0
+explicit delegation edit |explicit delegation edit ,0.0
+clojurescript |ClojureScript ,0.0
+object literal |object literals ,0.0
+java applet |Java applet ,0.0
+plugin |Plugins ,0.0
+server-side javascript |Server-Side Javascript ,0.0
+integrate |integrates ,0.0
+get parameter |GET parameters ,0.0
+semantically rich |semantically rich ,0.0
+features edit |Features edit ,0.0
+javascript source code |JavaScript source code ,0.0
+url |URL ,0.0
+onmouseover |onmouseover ,0.0
+oreilly |Oreilly ,0.0
+module |modules ,0.0
+web developer |Web Developers ,0.0
+property getter |property getter ,0.0
+mobile phone browser |mobile phone browser ,0.0
+purpose |purposes ,0.0
+response object |response objects ,0.0
+check |checks ,0.0
+debate |debate ,0.0
+argument value |argument values ,0.0
+string generic |string generics ,0.0
+opinion |opinion ,0.0
+functionality |Functionality ,0.0
+simulation logic |simulation logic ,0.0
+operation |operations ,0.0
+server-side network application |server-side network applications ,0.0
+nodej |NodeJS ,0.0
+archive |Archive ,0.0
+constructor function |constructor functions ,0.0
+concept |concept ,0.0
+clojure |Clojure ,0.0
+structured edit |structured edit ,0.0
+powerful syntax |powerful syntax ,0.0
+field |fields ,0.0
+fact |fact ,0.0
+doc |docs ,0.0
+keyboard specific event |keyboard specific events ,0.0
+concise navigable |concise navigable ,0.0
+javascript trojan horse |JavaScript Trojan horses ,0.0
+incomplete |incomplete ,0.0
+jvm net |JVM NET ,0.0
+dhtml cookbook |DHTML Cookbook ,0.0
+flash plugin |Flash plugin ,0.0
+blind |blind ,0.0
+course |course ,0.0
+position |position ,0.0
+trojan horse |Trojan horse ,0.0
+mobile application |mobile applications ,0.0
+mix |mix ,0.0
+consideration |consideration ,0.0
+fresh |fresh ,0.0
+website |websites ,0.0
+onchange |onchange ,0.0
+term |terms ,0.0
+single quote |single quotes ,0.0
+app |app ,-0.027500704749986997
+net |Net ,-0.04583450791664503
+interpreter |interpreter ,-0.13750352374993502
+toolkit |toolkits ,-0.13750352374993502
+javascript object |JavaScript objects ,-1.070389327891398
+script debugger |Script debuggers ,-1.070389327891398
+object model |object model ,-2.140778655782796

@@ -1,0 +1,1380 @@
+programming language |Programming languages |Programming Languages |programming languages |programming language ,-0.5320032196807818
+internet explorer |Internet Explorer ,-0.6187487531890259
+no longer supported |no longer supported ,-0.6380035651891084
+brendan eich |Brendan Eich ,-0.649940469506704
+web browser |Web browsers |web browsers |web browser ,-0.7240947923718797
+douglas crockford |Douglas Crockford ,-0.7536151287446804
+javascript language |JavaScript language ,-0.8024533744747783
+web page |web page |Web pages |web pages ,-0.8110526837294202
+javascript object |JavaScript objects ,-0.839960771361726
+javascript and java |JavaScript and Java ,-0.8417343218332902
+javascript programming |JavaScript Programming ,-0.8690776562810326
+javascript engine |JavaScript engine |JavaScript engines ,-0.8768368711238185
+javascript code |JavaScript code ,-0.8866023659898433
+javascript application |JavaScript application ,-0.8999378834587204
+scripting language |scripting languages |scripting language ,-0.9101158297770436
+javascript implementation |JavaScript implementations |JavaScript implementation ,-0.910814079467126
+javascript and java edit |JavaScript and Java edit ,-0.9123440231319245
+javascript support |JavaScript support ,-0.9267326428855693
+use javascript |use JavaScript ,-0.9359246637922922
+languages web |languages Web ,-0.9392186584426652
+standard javascript |standard JavaScript ,-0.9529443599316226
+o reilly |O Reilly ,-0.9561551817008093
+javascript syntax |JavaScript syntax ,-0.9563258668493583
+microsoft edit javascript |Microsoft edit JavaScript ,-0.9584496143497299
+node j |Node js ,-0.9634193837512244
+javascript article |JavaScript article ,-0.96347197950607
+web browsers and server |web browsers and servers ,-0.9659642831718005
+javascript eloquent javascript |JavaScript Eloquent JavaScript ,-0.9682203712146913
+netscape edit javascript |Netscape edit JavaScript ,-0.973785028001368
+browser security javascript |Browser security JavaScript ,-0.9820604278672144
+function object |function object |Function Object ,-0.9854392216533577
+mozilla javascript engine |Mozilla JavaScript engine ,-0.9943797231072758
+javascript debugger |JavaScript debugger ,-0.9959926951138197
+server-side javascript |Server-Side Javascript ,-0.9959926951138197
+web application |Web applications |web applications ,-0.9985856486092777
+javascript development |JavaScript development ,-1.0039925829598226
+javascript list |JavaScript List ,-1.0039925829598226
+client-side web javascript |client-side web JavaScript ,-1.0040863661426052
+java programming language |Java programming language ,-1.0103352294688153
+objects and method |objects and methods ,-1.0118780426871603
+javascript based framework |JavaScript based framework ,-1.0127930377133334
+ecmascript language |ECMAScript Language ,-1.0181134925730515
+javascript compiler |JavaScript compiler ,-1.0190391754726003
+version information javascript |Version Information JavaScript ,-1.0206710448775358
+object prototype |Object prototype ,-1.0210047878990873
+javascript author |JavaScript authors ,-1.0222158928648206
+javascript source code |JavaScript source code ,-1.0305056418877745
+javascript reference |JavaScript References ,-1.032747481090168
+javascript release |JavaScript releases ,-1.032747481090168
+s variables and object |s variables and objects ,-1.0334161478039807
+john resig |John Resig ,-1.0338389243333899
+web page scripting |web page scripting ,-1.0376536171737611
+web pages edit |web pages edit ,-1.0383342035490344
+scripting language edit |scripting language edit ,-1.0398462477602683
+mozilla browser |Mozilla browsers ,-1.0425999414701685
+javascript model |JavaScript model ,-1.0445212940166526
+mozilla developer network |Mozilla Developer Network ,-1.046257526541158
+web user |web user ,-1.0487168092717705
+brendan eich and javascript |Brendan Eich and JavaScript ,-1.051826008266168
+web server |web server ,-1.0557830878514773
+javascript work |JavaScript works ,-1.0578699150900177
+server-side javascript edit netscape |Server-side JavaScript edit Netscape ,-1.0587023573363474
+server-side javascript implementation |server-side JavaScript implementations ,-1.064046710662092
+language feature |language feature |language features ,-1.0642643333889932
+web developer |Web Developers ,-1.0660006640518822
+json or javascript |JSON or JavaScript ,-1.0666936028443228
+netscape browser version |Netscape browser version ,-1.0669522603210573
+opera web browser |Opera web browser ,-1.0702309197547653
+web site |web site ,-1.070510134994096
+javascript object notation |JavaScript Object Notation ,-1.0726009734413575
+core javascript language |core JavaScript language ,-1.0726193475728825
+browser implementation |browser implementations ,-1.0752412421182256
+web browsers host script |web browsers host scripts ,-1.0769820929807234
+javascript source code and execute |JavaScript source code and executes ,-1.078497261798208
+c language |C language ,-1.078690875662827
+javascript interpreter |JavaScript interpreter |JavaScript interpreters ,-1.0791877716831542
+source code |source code ,-1.0803098367847035
+mozilla foundation |Mozilla Foundation ,-1.0812687499934228
+first javascript engine |first JavaScript engine ,-1.0829913915795237
+javascript programming practice |JavaScript programming practices ,-1.0830801357685769
+return function |return function ,-1.0837290593125748
+browser feature |browser features ,-1.0842439791558451
+java edit |Java edit ,-1.0846325890442299
+javascript frameworks list |JavaScript frameworks List ,-1.0849890988398563
+prototype-based edit prototypes javascript |Prototype-based edit Prototypes JavaScript ,-1.0873223412675026
+functional programming language |functional programming language ,-1.0882281834026553
+javascript functionality |JavaScript functionality ,-1.0915080187037967
+professional javascript |Professional JavaScript ,-1.0915080187037967
+properties and method |properties and methods ,-1.0940976144042243
+spidermonkey javascript engine |SpiderMonkey Javascript engine |SpiderMonkey JavaScript engine ,-1.0952676145510116
+function and date |Function and Date ,-1.0956047332434882
+ecmascript standard |ECMAScript standard ,-1.1012963620288878
+eloquent javascript |Eloquent Javascript |Eloquent JavaScript ,-1.1014593812576077
+object constructors function |object constructors Functions ,-1.1042179963374301
+function x |function x ,-1.1048788149827142
+javascript such flaw |JavaScript such flaws ,-1.1057370778698294
+java application |Java applications ,-1.1073732642120586
+function method |function method ,-1.1099437701909078
+javascript source file |JavaScript source files ,-1.1099688523746989
+google chrome |Google Chrome ,-1.1101701383068239
+example script edit |Example script edit ,-1.1132958903392434
+related language |Related languages ,-1.11374349191953
+livescript javascript |LiveScript JavaScript ,-1.1138177714578807
+javascript runtime |JavaScript runtime ,-1.1138177714578807
+javascript disabled |JavaScript disabled ,-1.1138177714578807
+javascript mixin |JavaScript Mixins ,-1.1138177714578807
+standard library |standard library ,-1.119475832700952
+scripting engine edit |Scripting engine edit ,-1.1210815968076657
+core javascript version |Core JavaScript versions ,-1.1233088432652947
+ecmascript language specification |ECMAScript Language Specification |ECMAScript language specification ,-1.1246077015989797
+server-side web application |server-side web applications ,-1.1249883214238516
+document object model |Document Object Model ,-1.1262924324707189
+server-side javascript platform |server-side JavaScript platforms ,-1.1265144660801816
+object-oriented and functional programming language |object-oriented and functional programming language ,-1.1284963298697774
+web technologies and platform |web technologies and platforms ,-1.1286568748175039
+peter-paul koch |Peter-Paul Koch ,-1.1290870373095214
+array or object |Array or Object ,-1.1298060599420905
+functional programming |functional programming ,-1.1301194256388134
+language extension |language extensions ,-1.138069148134801
+javascript unit |JavaScript unit ,-1.1393355712735627
+dynamic html |Dynamic HTML ,-1.1401792819949919
+netscape navigator web browser |Netscape Navigator web browser ,-1.1416385299387497
+open-source programming language |open-source programming language ,-1.1422641068810235
+features edit |Features edit ,-1.142359482872215
+javascript port |JavaScript port ,-1.1425813477395272
+javascript getter |JavaScript Getters ,-1.1425813477395272
+javascript dart |JavaScript Dart ,-1.1425813477395272
+original javascript |original JavaScript ,-1.1425813477395272
+object-based javascript |Object-based JavaScript ,-1.1425813477395272
+web author |web authors ,-1.1429315321763909
+client-side scripting language |client-side scripting language ,-1.1429902519034878
+netscape and sun |Netscape and Sun ,-1.1434919111348947
+prototype property |prototype property ,-1.144570554461944
+netscape communication |Netscape Communications ,-1.1453921976657595
+google web toolkit |Google Web Toolkit ,-1.1454436036587896
+microsoft script debugger |Microsoft Script Debugger ,-1.1456993804607065
+browser author |browser authors |Browser authors ,-1.1460992720413963
+object constructor |object constructors ,-1.1486211141478402
+web application target |web application targets ,-1.149324088907656
+popular javascript library |popular JavaScript library ,-1.1518699732770883
+code google |Code google ,-1.1545513841335027
+constructor function |constructor functions ,-1.1554007511488524
+host object |host objects ,-1.157039618004689
+array and object literal |Array and object literals ,-1.157351738163597
+developer mozilla org |Developer mozilla org ,-1.1576433230548349
+browser window |browser window ,-1.1578424183564586
+target language |target language ,-1.1580359056966236
+embedded web page |embedded web page ,-1.1590725087318527
+client edit |client edit ,-1.1629886755794958
+javascript code sample |JavaScript Code Samples ,-1.164760217124893
+s variable |s variables ,-1.165447317881964
+s document object model |s Document Object Model ,-1.1688640009961146
+ecma standard based scripting engine |ECMA standard based scripting engine ,-1.169687101602265
+prototype-based scripting language |prototype-based scripting language ,-1.16989397370027
+version history edit |Version history edit ,-1.1709477975163334
+network object |network objects ,-1.171356604607984
+object create |Object create ,-1.171356604607984
+jvm net and javascript |JVM NET and JavaScript ,-1.172186103843513
+html page |HTML pages ,-1.1723889206511542
+web site author |Web site authors ,-1.173808812143367
+microsoft internet explorer |Microsoft Internet Explorer ,-1.1739890750143676
+javascript douglas crockford |JavaScript Douglas Crockford ,-1.175591545414978
+main article |Main articles |Main article ,-1.1758523642368197
+function return lcmcalculator |function return LCMCalculator ,-1.1769907451730672
+effective javascript |Effective Javascript ,-1.1798673108143274
+popular programming language |popular programming languages ,-1.180497725575403
+default programming language |default programming language ,-1.180497725575403
+scheme programming language |Scheme programming languages ,-1.180497725575403
+target web site |target web site ,-1.1807757611863585
+programming interactive web site |Programming Interactive Web Sites ,-1.1807943315490146
+netscape internet application framework |Netscape Internet Application Framework ,-1.1813746565541834
+server side |server side ,-1.1819400052904248
+dynamic edit |Dynamic edit ,-1.1819817787840634
+jsdb javascript |JSDB JavaScript ,-1.1831231987334567
+accessible javascript |Accessible JavaScript ,-1.1831231987334567
+javascript tracking |JavaScript tracking ,-1.1831231987334567
+javascript webserver |JavaScript webserver ,-1.1831231987334567
+javascript api |JavaScript API ,-1.1831231987334567
+function lcmcalculator x |function LCMCalculator x ,-1.1831973138968401
+script debugger |Script debuggers ,-1.1849920276398727
+html pages and interact |HTML pages and interact ,-1.1852236747727458
+return x |return x ,-1.185427919816594
+server-side scripting |server-side scripting ,-1.1866196625624406
+security edit |Security edit ,-1.1892416837710325
+expressions and statement |expressions and statements ,-1.1902599360145976
+page content |page content ,-1.1911207524061262
+client-side and server-side network application |client-side and server-side network applications ,-1.1914331574524122
+ecmascript version history |ECMAScript version history ,-1.1937144447358798
+vendor-specific extensions edit javascript |Vendor-specific extensions edit JavaScript ,-1.1970170152173445
+developments edit |developments edit ,-1.1970895753198592
+google site |Google Sites ,-1.1974965725636568
+origin policy |origin policy ,-1.1984164731985147
+delegation language |delegation language ,-1.1984239449150749
+return lcm |return lcm ,-1.1988834977203955
+ecma international |Ecma International ,-1.199454147669793
+server-side javascript guide |Server-Side JavaScript Guide ,-1.199717338706457
+intermediate language edit |intermediate language edit ,-1.2025892915042957
+object model |object model ,-1.2029192098178438
+host environment |host environment ,-1.2041363421924036
+desktop and mobile application |desktop and mobile applications ,-1.2046775111556909
+web form |web form ,-1.2051363438078462
+host code |host code ,-1.2063174770630525
+lcmcalculator prototype |LCMCalculator prototype ,-1.2063174770630525
+hot new web programming language |hot new web programming language ,-1.2067350248163766
+version information jscript |Version Information JScript ,-1.2080336388916617
+javascript like vbscript |JavaScript like VBScript ,-1.208883221851974
+comparative function return a lcm |comparative function return a lcm ,-1.2090720151144105
+dynamic typing |Dynamic typing |dynamic typing ,-1.2111667095291814
+ecmascript engines list |ECMAScript engines List ,-1.2126756669938383
+microsoft window |Microsoft Windows ,-1.212863198728517
+internet information server |Internet Information Server ,-1.2144763024981982
+jscript net |JScript NET ,-1.2162641591057228
+object-oriented language |object-oriented languages ,-1.2166010047361926
+javascript debugging functionality |JavaScript debugging functionality ,-1.217175613416339
+request and response object |request and response objects ,-1.2174586242537073
+client-side script |client-side scripts ,-1.2211493741159265
+asm j |asm js ,-1.2212743761779432
+microsoft script editor |Microsoft Script Editor ,-1.2215771085819431
+miscellaneous edit run-time environment javascript |Miscellaneous edit Run-time environment JavaScript ,-1.222074332594599
+object property name |Object property names ,-1.2237612446397181
+scripting node |scripting nodes ,-1.2246625461319007
+client side |client side ,-1.2256819598239994
+ajax programming |Ajax programming ,-1.2258389162402015
+browser difference |browser differences ,-1.2268350069360872
+javascript getters and setter |JavaScript Getters and Setters ,-1.2270936905472827
+javascript and dhtml cookbook |JavaScript and DHTML Cookbook ,-1.2270936905472827
+open-source javascript shell |open-source JavaScript shell ,-1.2272801196474579
+js host |JS host ,-1.230070659382156
+o reilly associate |O Reilly Associates ,-1.2300876638339766
+cross-site scripting |cross-site scripting |Cross-site scripting ,-1.231471829762939
+built-in object |built-in objects ,-1.2314850439566931
+javascript microcontrollers advanced |Javascript Microcontrollers Advanced ,-1.2320451957357887
+buffer overflow |Buffer overflow |buffer overflows ,-1.2352631218070504
+server-side network programming |server-side network programming ,-1.235353071558664
+standards and guideline |standards and guidelines ,-1.2365457557307988
+application author |application author ,-1.2366163810476205
+visual application |visual applications ,-1.2366163810476205
+java technology |Java technology ,-1.2367285847596279
+common standard library |common standard library ,-1.2373539838685872
+object composition and inheritance |Object Composition and Inheritance ,-1.2376843173161536
+lcmcalculator prototype gcd |LCMCalculator prototype gcd ,-1.240616851178645
+intermediate language |intermediate language ,-1.241105567259297
+variable x |variable x ,-1.2418435071766343
+function definition |function definition ,-1.2423548794638068
+microsoft visual web developer express |Microsoft Visual Web Developer Express ,-1.2442168412354222
+utility javascript library |utility JavaScript library ,-1.2442710120664724
+object prototype older environment |Object prototype older environments ,-1.244307622307851
+interfaces and module |interfaces and modules ,-1.245251732502618
+var x |var x ,-1.2463178694095396
+microsoft corporation |Microsoft Corporation ,-1.2468978617925457
+features edit json |features edit JSON ,-1.246970991506412
+libraries or toolkit |libraries or toolkits ,-1.2473382107767608
+common host environment |common host environment ,-1.2479201865365863
+multiple browser |multiple browsers ,-1.2490802788786006
+functional edit first-class function |Functional edit First-class functions ,-1.2495689572608277
+object literal |object literals ,-1.249611482341738
+javascript implicit delegation |JavaScript implicit delegation ,-1.2512173055552542
+javascript dispatches request |JavaScript dispatches requests ,-1.2512306550007384
+potentially dated statement |potentially dated statements ,-1.2512885705587398
+server-side network application |server-side network applications ,-1.25205406416676
+property getter and setter function |property getter and setter functions ,-1.2523247518495306
+mozilla platform |Mozilla platform ,-1.2524139280660072
+mozilla corporation |Mozilla Corporation ,-1.2524139280660072
+javascript bible |JavaScript Bible ,-1.252433227848709
+javascript hijacking |JavaScript hijacking ,-1.252433227848709
+mixins javascript |Mixins JavaScript ,-1.252433227848709
+javascript safe |JavaScript Safe ,-1.252433227848709
+plain javascript |plain JavaScript ,-1.252433227848709
+java sun |Java sun ,-1.2528231975940938
+javascript - jscript |JavaScript - JScript ,-1.2550866911857623
+target site |target site ,-1.255389852762785
+imperative and structured edit |Imperative and structured edit ,-1.2556315356413716
+object notation |Object Notation ,-1.2559814617450313
+application platform edit actionscript |Application platform edit ActionScript ,-1.2561596452169794
+created function form |created function forms ,-1.2565339017459054
+ecmascript specification |ECMAScript specification ,-1.258265343665615
+outer function |outer function ,-1.2588428836085455
+regular expressions javascript |Regular expressions JavaScript ,-1.2590762029429996
+microsoft visual studio |Microsoft Visual Studio ,-1.2591324908243124
+static typing |static typing ,-1.2593793274887393
+gcd gcd |gcd gcd ,-1.260888243874358
+prototype chain |prototype chain ,-1.2640722158908162
+function body |function body ,-1.2645750155042532
+function scoping |function scoping ,-1.2645750155042532
+function call |function call ,-1.2645750155042532
+microcontrollers edit |Microcontrollers edit ,-1.2653319787345274
+s javascript track douglas crockford |s JavaScript Track Douglas Crockford ,-1.2682467937094524
+document body |document body ,-1.268923665653081
+format scripting language part |format Scripting language Part ,-1.2693542954576171
+testing and debugging |testing and debugging ,-1.2703629138229462
+simple examples edit |Simple examples edit ,-1.2707510842158947
+mobile application |mobile applications ,-1.2714829087124544
+object instance |object instances ,-1.2718169166244337
+iso standard prototype-based programming language |ISO standard Prototype-based programming languages ,-1.2723929528984397
+splinetech javascript debugger |SplineTech JavaScript Debugger ,-1.2729452052014194
+object literal constructor |object literal constructor ,-1.2732136765628872
+web accessibility |Web accessibility ,-1.2742578875350725
+java keyword |Java keywords ,-1.2765763799131973
+run-time environment |run-time environment ,-1.2781204789277911
+javascript execution disabled |JavaScript execution disabled ,-1.278234799520104
+variadic function |Variadic functions ,-1.2783157399409926
+javax script |javax script ,-1.2797240111288741
+malicious script |malicious script ,-1.2800028639327592
+dom property |DOM property ,-1.2800951286504723
+jscript development |JScript development ,-1.2820369372361824
+development environment |development environment ,-1.2820369372361824
+java software platform |Java software platform ,-1.2820871816171355
+netscape communications corporation |Netscape Communications Corporation ,-1.2828990123794104
+trademark edit |Trademark edit ,-1.2833593521039477
+document content |document content ,-1.285955818211197
+modified version |modified version ,-1.2865422227652508
+desktop application |desktop applications ,-1.2866042888945324
+constructor property |constructor property ,-1.2875062368647932
+ajax framework |Ajax frameworks ,-1.2889289714984051
+general javascript adsafe |general JavaScript ADsafe ,-1.2903895699730343
+environment e g |environment e g ,-1.291031751824856
+mac os x |Mac OS X ,-1.291087328711119
+mozilla rhino |Mozilla Rhino ,-1.292033003716883
+first-class function |first-class functions ,-1.293246311684429
+setter function |setter functions ,-1.293246311684429
+var v |var v ,-1.2933229884586264
+sandbox implementation errors edit |Sandbox implementation errors edit ,-1.2940968760615115
+javascript code reuse pattern |JavaScript Code Reuse Patterns ,-1.2953595287525694
+jslint scans javascript code |JSLint scans JavaScript code ,-1.2953595287525697
+no starch press |No Starch Press ,-1.295389896786957
+constructor function var checkint |constructor function var checkInt ,-1.2957135137031548
+interpreted language |interpreted language ,-1.2964447773227767
+implicit and explicit delegation edit |Implicit and explicit delegation edit ,-1.2971387591426298
+standards-conforming web page |standards-conforming web page ,-1.297347494049957
+earlier web page |earlier web page ,-1.297347494049957
+complex web page |complex web page ,-1.297347494049957
+ruby and python |Ruby and Python ,-1.2973939210301573
+javascript trojan horse |JavaScript Trojan horses ,-1.2974067853602316
+javascript engine module owner |JavaScript Engine Module Owner ,-1.2980299718550854
+structured programming syntax |structured programming syntax ,-1.2998011737196684
+built-in string function |built-in string functions ,-1.302098169190895
+google apps script |Google Apps Script ,-1.3028835628943718
+dom interface |DOM interfaces ,-1.3030321366986821
+obj gcd |obj gcd ,-1.3046232137267788
+run-time evaluation javascript |Run-time evaluation JavaScript ,-1.3052793199696762
+webkit implementation |WebKit implementation ,-1.306262118504988
+spidermonkey implementation |SpiderMonkey implementation ,-1.306262118504988
+titles page |titles Pages ,-1.3071879935296034
+content security policy |Content Security Policy ,-1.307291540174571
+html script element |HTML script elements ,-1.3073112965562332
+lambda syntax and closure example |lambda syntax and closure example ,-1.3075151380434338
+user action |user actions ,-1.3088321655069093
+first edition |first edition ,-1.3088887731561785
+widely supported client-side language |widely supported client-side language ,-1.3093201725652794
+limited version |limited version ,-1.309767556588374
+concise function expression |concise function expressions ,-1.3099503715679872
+transferring money |transferring money ,-1.3101310482177944
+blink devtool |Blink DevTools ,-1.3101310482177944
+pearson education |Pearson Education ,-1.3101310482177944
+misplaced trust |Misplaced trust ,-1.3101310482177944
+developer tool |developer tools ,-1.310153676379241
+example game |example games ,-1.310153676379241
+web archive org |Web archive org ,-1.3120216042452937
+sandbox implementation error |Sandbox implementation errors ,-1.3170895057373233
+major browser |major browsers ,-1.318251713283528
+rare browser |rare browser ,-1.318251713283528
+site-specific browser |site-specific browsers ,-1.318251713283528
+anonymous function |Anonymous function |anonymous functions ,-1.3185461455726986
+array and string generic |array and string generics ,-1.318787545014513
+var i |var i ,-1.3198613438840716
+download the clip |download the clip ,-1.3238273593237604
+webpage scripting |webpage scripting ,-1.323943297304522
+javascript form validation |JavaScript form validation ,-1.3244446115574335
+closure example |closure example ,-1.3249755818089346
+foundation web design |Foundation Web Design ,-1.3258550860310425
+application logic |application logic ,-1.326517052346056
+c e g |C e g ,-1.3266185078220656
+future ecmascript edition |future ECMAScript editions ,-1.3271398473545435
+b douglas crockford |b Douglas Crockford ,-1.3272730048162038
+interactive content |Interactive content |interactive content ,-1.3281972047213428
+download the clip or download |download the clip or download ,-1.3283830697566619
+local variables and argument value |local variables and argument values ,-1.3285379719454304
+malicious code |malicious code ,-1.3291597825208663
+external links edit |External links edit ,-1.3295517552704017
+release note |release notes |Release Notes ,-1.329773215775558
+opera software |Opera Software ,-1.3323470040319936
+output x |output x ,-1.3331833910172173
+standardization edit |Standardization edit ,-1.3340056391245119
+structured edit |structured edit ,-1.3340056391245119
+comparison history list |Comparison History List ,-1.335208449378975
+conforming ecmascript implementation |conforming ECMAScript implementations ,-1.3353323818725167
+runtime environment |runtime environments |runtime environment ,-1.3358025263925255
+popular browsers share support |popular browsers share support ,-1.3364298492797562
+first author content |first author content ,-1.3368963032445946
+type bug |type bugs ,-1.3374738328090159
+latest version |latest version ,-1.3382925072713996
+standardized version |standardized version ,-1.3382925072713996
+implementation difference |implementation differences ,-1.3387625612312466
+xss attack |XSS attacks ,-1.3388992554629726
+client-side list |Client-side list ,-1.3393087466758355
+accessibility edit main article |Accessibility edit Main article ,-1.339598935300865
+user adoption |user adoption ,-1.3405030752657139
+object composition |Object Composition ,-1.34090358165341
+response object |response objects ,-1.34090358165341
+concise and readable |concise and readable ,-1.3435174291117344
+generator expression |generator expressions ,-1.3441243107631258
+common ancestor language |common ancestor language ,-1.3444848410130346
+definitive guide |Definitive Guide ,-1.3459239381621237
+ecmascript version correspondence |ECMAScript Version correspondence ,-1.346105191692283
+client computer |client computer ,-1.3470189896874178
+obj lcm |obj lcm ,-1.3470189896874178
+secure ecma script se |Secure ECMA Script SES ,-1.3473789735627504
+professional programmer |professional programmers ,-1.3476903473646618
+run-time environment e g |run-time environment e g ,-1.3485892056324487
+adobe flash |Adobe Flash ,-1.3515388394753958
+concise and powerful syntax |concise and powerful syntax ,-1.3535197522154805
+explicit delegation edit |explicit delegation edit ,-1.3542090113959495
+date method |date methods ,-1.3550011325678601
+method definition |method definition ,-1.3550011325678601
+mobile phone browser |mobile phone browser ,-1.3550139003273738
+webkit org |Webkit org ,-1.3552891378007095
+google product |Google products ,-1.356820954920788
+var keyword |var keyword ,-1.357540902355231
+scala j |Scala js ,-1.357566392173655
+page element |page elements ,-1.357566392173655
+processing j |Processing js ,-1.357566392173655
+anonymous function or lambda syntax |Anonymous function or lambda syntax ,-1.3576089924966375
+newly created language |newly created languages ,-1.3591547358053215
+coffeescript syntax |CoffeeScript syntax ,-1.3595353039828184
+mozilla cross-site scripting vulnerability reported |Mozilla Cross-Site Scripting Vulnerability Reported ,-1.3603316689998304
+game development |game development ,-1.3620259138494784
+semantics and design |semantics and design ,-1.3626740586198889
+java applet or flash plugin |Java applet or Flash plugin ,-1.3635316747226673
+array literal mapping function return |array literal mapping function return ,-1.363600844924827
+block scoping |block scoping ,-1.3638542495405819
+simple example |simple examples ,-1.3641988838476014
+external data or output |external data or output ,-1.3649394890382167
+cross-site vulnerability |cross-site vulnerability ,-1.365496602801327
+partial ecmascript |partial ECMAScript ,-1.365881127343324
+msdn microsoft |Msdn microsoft ,-1.3660959393905994
+javascript unofficial javascript logo paradigm |JavaScript Unofficial JavaScript logo Paradigm ,-1.3673636975696901
+dead external link |dead external links ,-1.3675146632513862
+factorial n |factorial n ,-1.3680486647537098
+pattern matching |pattern matching ,-1.3680486647537098
+wide range |wide range ,-1.3680486647537098
+mynfc org |myNFC org ,-1.3686770725486161
+prototype inheritance chain |prototype inheritance chain ,-1.3686850544746236
+computer programming portal |Computer programming portal ,-1.3706094273426817
+mac os x reference library |Mac OS X Reference Library ,-1.3708814622617342
+file i o |file I O ,-1.3729554492646712
+ecmascript dialect |ECMAScript Dialects ,-1.3733109064113367
+programmer discipline |programmer discipline ,-1.373326442822879
+subsequent edit |subsequent edits ,-1.374319469745443
+cross-site request |Cross-site request ,-1.3744586413178859
+dynamic html dhtml |Dynamic HTML DHTML ,-1.3745471748102258
+pdf document |PDF documents ,-1.3746262770987636
+math abs this b |Math abs this b ,-1.3749566160686686
+remote server |remote server ,-1.3749576395361904
+user agent |user agents ,-1.3751619607572285
+keyword array |keyword array ,-1.3760326543671093
+internet explorer process |Internet Explorer process ,-1.3766162485262539
+existing language |existing languages ,-1.3773120314547447
+statically-typed language |statically-typed language ,-1.3773120314547447
+netscape enterprise server |Netscape Enterprise Server ,-1.3778767182820228
+netscape adding support |Netscape adding support ,-1.3801494835853934
+additional behavior |additional behavior ,-1.3820864052199773
+operating system |operating system ,-1.3820864052199773
+class-based object-oriented programming |class-based object-oriented programming ,-1.382511761740548
+no built-in i o functionality |no built-in I O functionality ,-1.3832353387421439
+web interoperability |Web interoperability ,-1.3839825755108668
+web analytic |web analytics ,-1.3839825755108668
+document createtextnode x |document createTextNode x ,-1.3844692411020882
+java applet |Java applet ,-1.3853429542503208
+lcmcalculator object member |LCMCalculator object members ,-1.3856923759214417
+interactive debugger |interactive debugger ,-1.3862605392791512
+version future release criticisms edit |version Future release Criticisms edit ,-1.3872195181008076
+recent browser |recent browsers ,-1.3874921029455314
+speech browser |speech browser ,-1.3874921029455314
+dom-oriented client-side html scripting |DOM-oriented client-side HTML scripting ,-1.3884076825747877
+pda or mobile phone browser |PDA or mobile phone browser ,-1.3888648112115891
+coding error |coding errors ,-1.391118321238848
+minor update |minor updates ,-1.391118321238848
+sun microsystem |Sun Microsystems ,-1.391118321238848
+unity scripting |Unity Scripting ,-1.3925904505745674
+rare javascript trojan horse |rare JavaScript Trojan Horse ,-1.3947334857866778
+client-server application |client-server applications ,-1.3951276066695035
+banking application |banking application ,-1.3951276066695035
+multiple source |multiple sources ,-1.3956731375115994
+class-based feature |class-based features ,-1.396075349088761
+following feature |following features ,-1.396075349088761
+style sheet |Style Sheets ,-1.396908642354774
+general-purpose programming task |general-purpose programming tasks ,-1.3971258533607236
+main intended method |main intended method ,-1.3973784735771904
+scripting references google apps script |Scripting References Google Apps Script ,-1.39749529036332
+javascript concepts technique |JavaScript Concepts Techniques ,-1.397657900718158
+underscore j |Underscore js ,-1.3977306426725171
+thomas j |Thomas J ,-1.3977306426725171
+arguments i |arguments i ,-1.399449217244928
+no distinction |no distinction ,-1.4000818147936347
+game and simulation logic |game and simulation logic ,-1.400456648466755
+document createtextnode |document createTextNode ,-1.4005266902273612
+common misconception |common misconception ,-1.4005266902273612
+function factorial n |function factorial n ,-1.4016183341310184
+raw source code |raw source code ,-1.4020759776160314
+human-readable source code |human-readable source code ,-1.4020759776160314
+post and get parameter |POST and GET parameters ,-1.4021910418367038
+version release date equivalent |Version Release date Equivalent ,-1.4028884716726486
+function calling |function calling ,-1.4029051674449111
+nested function |nested function ,-1.4029051674449111
+eval function |eval function ,-1.4029051674449111
+associative array |associative arrays ,-1.403595818277653
+array comprehension |array comprehensions ,-1.403595818277653
+unsourced statement |unsourced statements ,-1.4036519261582043
+windows script host |Windows Script Host ,-1.4041453567484155
+s sense |s sense ,-1.4043032378870144
+potentially dated statements article |potentially dated statements Articles ,-1.4054219876122152
+webpage dom |webpage DOM ,-1.4070008813613488
+pdf file |PDF files ,-1.4071453213585408
+google code open scripting architecture |Google Code Open Scripting Architecture ,-1.4084513229238285
+supported player |supported player ,-1.40862346473183
+expression closure |expression closures ,-1.4089339589388403
+macos object |MacOS object ,-1.4100988433619188
+object detection |Object detection ,-1.4100988433619188
+independent standalone javascript debugger |independent standalone JavaScript Debugger ,-1.4110663453742578
+noscript your browser |noscript Your browser ,-1.4111094763068706
+native xml support |native XML support ,-1.4114651959994173
+qt c toolkit |Qt C toolkit ,-1.413137725448139
+special edition |Special Edition ,-1.4131925251799622
+built-in wifi development tools edit |built-in WiFi Development tools edit ,-1.4136554185135257
+rapid application development |Rapid Application Development ,-1.4143345986857985
+define generic output function |Define generic output function ,-1.414469186513042
+client-side behavior |client-side behavior ,-1.4153878110525977
+press release |Press release ,-1.4153878110525977
+property getter |property getter ,-1.4179874926430205
+unity game engine |Unity game engine ,-1.4186794349754328
+open-source high-level multiplatform programming language |open-source high-level multiplatform programming language ,-1.4188872791334295
+wikibooks javascript filename extension |Wikibooks JavaScript Filename extension ,-1.4194016753922416
+argument value |argument values ,-1.4196406806569941
+plugin coding errors edit |plugin coding errors edit ,-1.4204785401717883
+currently two main implementation |currently two main implementations ,-1.4207654706555424
+unreachable host code |unreachable host code ,-1.421442366052444
+dead external links article |dead external links Articles ,-1.4240500952445032
+unusual dom support |unusual DOM support ,-1.4241926286668065
+world wide web www |World Wide Web WWW ,-1.4266947728536328
+audio file |audio file ,-1.427166114618236
+malicious author |malicious authors ,-1.427166114618236
+function-based implementation |function-based implementations ,-1.428327428734109
+google desktop gadget |Google Desktop Gadgets ,-1.4303495397549848
+office application suite |office application suite ,-1.4308233482355155
+javascript-related security bug |JavaScript-related security bugs ,-1.4308464997874024
+layout engines list |layout engines List ,-1.4311929023496552
+incomplete or unusual dom support |incomplete or unusual DOM support ,-1.4312677575482178
+loosely typed language |loosely typed language ,-1.4317802270485052
+obj output obj |obj output obj ,-1.4319682615047047
+minimal example |minimal example ,-1.4319698583360883
+extra feature |extra features ,-1.435749309187508
+experimental feature |experimental features ,-1.435749309187508
+mongodb and nodej |MongoDB and NodeJS ,-1.4358697797377382
+windows and linux |Windows and Linux ,-1.4358697797377382
+javanese script |Javanese script ,-1.4393206305836472
+function args expr ecmascript |function args expr ECMAScript ,-1.4404327255667486
+google closure optimizing compiler |Google Closure optimizing compiler ,-1.4433425444251877
+references edit |References edit ,-1.443390931239285
+limited privilege |limited privileges ,-1.4437465650703432
+apply method |apply method ,-1.4437632534156188
+teach yourself javascript |Teach Yourself JavaScript ,-1.4438607230301574
+compatibility considerations edit |Compatibility considerations edit ,-1.4452086826608732
+video game console |video game console ,-1.4463615371495966
+local variable |local variables ,-1.4464033038829818
+custom class |custom classes ,-1.4464033038829818
+node inspector |Node Inspector ,-1.4464033038829818
+special variable |special variable ,-1.4464033038829818
+object-oriented prototype-based |object-oriented prototype-based ,-1.4465515687518093
+sun trademark |Sun Trademarks ,-1.4465515687518093
+open-source re-animator framework |open-source Re-Animator framework ,-1.4470172755988233
+python array comprehension |Python array comprehensions ,-1.4471181607463781
+portable version |portable version ,-1.4476324720764546
+simple recursive function |simple recursive function ,-1.4476906895493236
+optional static typing |optional static typing ,-1.447733713545414
+spoken article |spoken articles ,-1.4480231946067839
+equivalent syntax |equivalent syntaxes ,-1.4480231946067839
+default gui-centric programming model |default GUI-centric programming model ,-1.4502290169921017
+mozilla foundation appeared |Mozilla Foundation Appeared ,-1.4516192849086718
+object destructuring limited form |object destructuring limited form ,-1.452002241909495
+current edition |current edition ,-1.4524715412721934
+untrusted client |untrusted clients ,-1.4524715412721934
+professional programming attention |professional programming attention ,-1.4552180105155412
+flash plugin |Flash plugin ,-1.4604051063124561
+different platform |different platforms ,-1.460736468749883
+cross-site request forgery |cross-site request forgery ,-1.4611117599095576
+var displayclosure |var displayClosure ,-1.4620055150532758
+var count |var count ,-1.4620055150532758
+var getvalue |var getValue ,-1.4620055150532758
+var sum |var sum ,-1.4620055150532758
+third-party application |third-party applications ,-1.4640600644135435
+stand-alone application |stand-alone applications ,-1.4640600644135435
+desktop widget |desktop widgets ,-1.4644873057644816
+program jslint |program JSLint ,-1.4644873057644816
+next-generation java plug-in technology |Next-Generation Java Plug-In Technology ,-1.4648981802282963
+chaplin j |Chaplin js ,-1.4666406145158546
+visible page |visible page ,-1.4666406145158546
+william j |William J ,-1.4666406145158546
+standards-compliant code |standards-compliant code ,-1.4666406145158546
+trusted code |trusted code ,-1.4666406145158546
+page renderer |page renderers ,-1.4666406145158546
+secret information |secret information ,-1.4671340375215947
+dynamic nature |dynamic nature ,-1.4671340375215947
+common javascript-related security problem |common JavaScript-related security problem ,-1.467389792554933
+json data format |JSON data format ,-1.4701506069909949
+secret information or transferring money |secret information or transferring money ,-1.4709261108528053
+graphical user interface gui |graphical user interface GUI ,-1.471400071444311
+obsolete content |obsolete content ,-1.472537968099207
+functional javascript flv tech talk |Functional JavaScript flv Tech talk ,-1.4726029962111165
+return private information misplaced trust |return private information Misplaced trust ,-1.4738544405007263
+css errors and warning |CSS errors and warnings ,-1.4773663034554498
+qtscript module |QtScript module ,-1.4773678170765177
+lightweight interpreted language |lightweight interpreted language ,-1.4778193024700732
+activex control |ActiveX controls ,-1.477840445026934
+dead link |dead link ,-1.477840445026934
+onmouseover and onkeypres |onmouseover and onkeypress ,-1.482056660524208
+debate and opinion |debate and opinion ,-1.482056660524208
+onfocus and onchange |onfocus and onchange ,-1.482056660524208
+netscape livewire |Netscape LiveWire ,-1.4836720874671387
+loose typing |loose typing ,-1.4843033971494994
+safari oreilly |Safari oreilly ,-1.4843033971494994
+duck typing |duck typing ,-1.4843033971494994
+dmoz js beginner |DMOZ JS Beginner ,-1.4854110899440733
+gary b |Gary B ,-1.4868090197454993
+mozilla-specific support |Mozilla-specific support ,-1.4868090197454993
+local argument |local arguments ,-1.4879038686423
+following output |following output ,-1.4879038686423
+read write |Read Write ,-1.4879038686423
+optional type annotation |optional type annotations ,-1.489470014811267
+dot notation obj x |dot notation obj x ,-1.4906941188418763
+svg file |SVG files ,-1.4907469279949168
+visual disability |visual disability ,-1.4907469279949168
+gnome shell |GNOME Shell ,-1.4929926167487388
+google spreadsheet |Google Spreadsheets ,-1.493386185348224
+mouse or keyboard specific event |mouse or keyboard specific events ,-1.4940083927604617
+implementation mistake |implementation mistakes ,-1.4968394001349994
+complete concepts and technique |Complete Concepts and Techniques ,-1.4975518269859833
+beta release |beta releases ,-1.4976341311284085
+technical specification |Technical Specification ,-1.4976341311284085
+course technology |Course Technology ,-1.4976341311284085
+complete reference |Complete Reference ,-1.4976341311284085
+different behavior |different behavior ,-1.4994464688624958
+trademark issue |trademark issues ,-1.4994464688624958
+crl http http |CRL HTTP HTTPS ,-1.4994693695697954
+older venkman debugger |older Venkman debugger ,-1.4998729002376763
+graphical rich content |graphical rich content ,-1.4998729002376763
+faster javascript virtual machine |faster JavaScript virtual machines ,-1.5045582334239556
+js seeker k |JS Seeker K ,-1.5045898947741925
+embedded device |embedded devices ,-1.5050338165752981
+python translate |Python translates ,-1.5050338165752981
+regular expression |regular expressions ,-1.5050338165752981
+advanced compilation mode |advanced compilation mode ,-1.5066981489304219
+typeerror x |TypeError x ,-1.5079486420328585
+no provision |no provisions ,-1.5079486420328585
+int x |Int x ,-1.5079486420328585
+industry standard |industry standard ,-1.5079486420328585
+macromedia flash activex buffer overflow |Macromedia Flash ActiveX Buffer Overflow ,-1.5109497464880222
+simpler built-in error console |simpler built-in Error Console ,-1.5109937789778978
+scalable network program |scalable network programs ,-1.5110098392152207
+explicit function-based delegation |explicit function-based delegation ,-1.5121714215788578
+dmoz link |DMOZ links ,-1.5130353114703907
+subsequent work |subsequent work ,-1.5130353114703907
+video player |video players ,-1.513159966974946
+spinetix product |SpinetiX products ,-1.513159966974946
+audio help |Audio help ,-1.513159966974946
+media wiley |media wiley ,-1.513159966974946
+csrf attack |CSRF attack ,-1.513159966974946
+role-oriented programming approach |Role-Oriented Programming approaches ,-1.5154186769669633
+spinetix support wiki |SpinetiX Support Wiki ,-1.5159278333397552
+alternate syntax |alternate syntax ,-1.516070417944193
+declarative syntax |declarative syntax ,-1.516070417944193
+c-like syntax |C-like syntax ,-1.516070417944193
+powerful syntax |powerful syntax ,-1.516070417944193
+provide greater level |provide greater level ,-1.5170750164018574
+concise navigable and semantically rich |concise navigable and semantically rich ,-1.5179256528165312
+i arguments length |i arguments length ,-1.5193707189849643
+irc client |IRC clients ,-1.5203779318630934
+fifth edition |fifth edition ,-1.5203779318630934
+comprehensive framework |comprehensive frameworks ,-1.5203779318630934
+fourth edition |fourth edition ,-1.5203779318630934
+greater programmer discipline |greater programmer discipline ,-1.5210735144204923
+data manipulation |data manipulation ,-1.5217608239939167
+string generic |string generics ,-1.5217608239939167
+string key |string keys ,-1.5217608239939167
+html escaping |HTML escaping ,-1.5248663809955134
+essential html |Essential HTML ,-1.5248663809955134
+adobe creative suite |Adobe Creative Suite ,-1.5258769537605403
+special windows library |special Windows Library ,-1.5273981843909752
+minimalist hello world program |minimalist Hello World program ,-1.5284503794531168
+get parameter |GET parameters ,-1.5304603648614965
+increased usage |increased usage ,-1.5304603648614965
+trojan horse |Trojan horse ,-1.5304603648614965
+syntactic difference |syntactic difference ,-1.5313921226543414
+command definition |command definition ,-1.5313921226543414
+static type management |static type management ,-1.5330236798280321
+optional pseudo-static typing |optional pseudo-static typing ,-1.5330236798280321
+further reading edit bhangal |Further reading edit Bhangal ,-1.5331504071017847
+relevant information |relevant information ,-1.5344418889398295
+sensitive information |sensitive information ,-1.5344418889398295
+file database email |file database email ,-1.536367391858347
+document getelementbyid header |document getElementById header ,-1.5386551472299366
+hashcollision org |Hashcollision org ,-1.539559124283476
+ejohn org |Ejohn org ,-1.539559124283476
+openoffice org |OpenOffice org ,-1.539559124283476
+security precaution |security precaution ,-1.539559124283476
+s bastien doeraene |S bastien Doeraene ,-1.54052258388816
+unix timeline usage share feature |Unix Timeline Usage share Features ,-1.541417104627461
+explicit creation |explicit creation ,-1.5422386684271348
+complete concept |Complete Concepts ,-1.5422386684271348
+mongodb database |MongoDB database ,-1.5422386684271348
+chakra influenced |Chakra Influenced ,-1.5422386684271348
+typically sandboxed |typically sandboxed ,-1.5422386684271348
+keyboard specific event |keyboard specific events ,-1.5435049968619066
+enhanced browsing security |Enhanced Browsing Security ,-1.543721692701171
+video validating input value |video Validating input values ,-1.5446969157550314
+smalltalk objective-c style dynamic dispatch |Smalltalk Objective-C style dynamic dispatch ,-1.545294707488667
+hidden form field |hidden form field ,-1.546340033789628
+augmented browsing bookmark |Augmented browsing Bookmarks ,-1.5474570388799083
+frequently asked question |Frequently Asked Questions ,-1.5474570388799083
+online banking website |online banking website ,-1.5474570388799083
+safari books online |Safari Books Online ,-1.5491921847015109
+typing place |typing places ,-1.5505306280704787
+social network |social network ,-1.5505306280704787
+preprocessor-like extension |preprocessor-like extensions ,-1.5505306280704787
+surfin safari |Surfin Safari ,-1.5505306280704787
+adobe integrated runtime |Adobe Integrated Runtime ,-1.5529079609677514
+hypertalk influenced actionscript |HyperTalk Influenced ActionScript ,-1.5529079609677514
+partial exception |partial exception ,-1.5549519425702338
+input device |input devices ,-1.5549519425702338
+similarities end |similarities end ,-1.5549519425702338
+different semantics |different semantics ,-1.5549519425702338
+partial protection |partial protection ,-1.5549519425702338
+core component |core components ,-1.5549519425702338
+buffer-overflow bug |Buffer-overflow bug ,-1.5564127976186204
+racket-to-javascript compiler |Racket-to-JavaScript compiler ,-1.5564127976186204
+switch statement |switch statements ,-1.5564127976186204
+delete file |delete files ,-1.5564127976186204
+operation system command invocation |operation system command invocation ,-1.5584411530248399
+target audience |target audience ,-1.5625702310656544
+symantec corporation |Symantec Corporation ,-1.5625702310656544
+daw software |DAW software ,-1.5625702310656544
+oracle corporation |Oracle Corporation ,-1.5625702310656544
+nokia corporation |Nokia Corporation ,-1.5625702310656544
+night software |Night Software ,-1.5625702310656544
+jvm net |JVM NET ,-1.5625702310656544
+general-purpose data interchange |general-purpose data interchange ,-1.5655188386197467
+general-purpose non-sandboxed program |general-purpose non-sandboxed programs ,-1.5655188386197472
+blind and partially sighted |blind and partially sighted ,-1.5668064142063896
+python proper block scope |Python proper block scope ,-1.5680905814083517
+world domination |world domination ,-1.568996890263933
+superuser privilege |superuser privileges ,-1.568996890263933
+privilege escalation |Privilege escalation ,-1.568996890263933
+john wiley son |John Wiley Sons ,-1.5696461425216377
+duck major |duck Major ,-1.5714160537279318
+alternative approach |alternative approach ,-1.5714160537279318
+lexical scope |lexical scope ,-1.5714160537279318
+smart phone |smart phones ,-1.5714160537279318
+ad tracking |ad tracking ,-1.5714160537279318
+text manipulation |text manipulation ,-1.5714160537279318
+type safety violation |type safety violation ,-1.5727828491011335
+c-style block scoping |C-style block scoping ,-1.5744880460871191
+experimental scala-to-javascript compiler |experimental Scala-to-Javascript compiler ,-1.5751672347716401
+inspection tool |inspection tools ,-1.5756604740671853
+nonprofessional programmer |nonprofessional programmers ,-1.5756604740671853
+modern style |Modern style ,-1.5756604740671853
+important part |important part ,-1.5756604740671853
+wakandadb kona cloud libraries list |WakandaDB KONA Cloud Libraries list ,-1.57682850309595
+system-declared uniform type identifier |System-Declared Uniform Type Identifiers ,-1.5810420072768037
+traditional inheritance |traditional inheritance ,-1.5824746850309406
+computer ieee |Computer IEEE ,-1.5824746850309406
+small number |small number ,-1.5824746850309406
+print output |print output ,-1.5824746850309406
+css error |CSS errors ,-1.5824746850309406
+delegation automatism |delegation automatism ,-1.5824746850309406
+debugging aid |debugging aids ,-1.5824746850309406
+maxwell render rendering software |Maxwell Render rendering software ,-1.5824746850309406
+status update |status updates ,-1.5824746850309406
+typical role |typical role ,-1.5824746850309406
+microcontroller board |microcontroller board ,-1.5824746850309406
+prentice hall professional technical reference |Prentice Hall Professional Technical References ,-1.583569546700307
+computerworld com au |computerworld com au ,-1.5842281211073814
+double or single quote |double or single quotes ,-1.5858079028313523
+digital signage project |digital signage projects ,-1.586642816540049
+extremely bad practice |extremely bad practice ,-1.586642816540049
+maxwell render resourcer center |Maxwell Render Resourcer Center ,-1.5888716987179872
+empty title |empty title ,-1.5892390313517084
+roles trait |Roles Traits ,-1.5892390313517084
+commonjs project |CommonJS project ,-1.5892390313517084
+normal functionality |normal functionality ,-1.5892390313517084
+same-origin policy |same-origin policy ,-1.5892390313517084
+device-agnostic event |device-agnostic events ,-1.5892390313517084
+premier press |Premier Press ,-1.5892390313517084
+ts-script compile |TS-script compiles ,-1.5892390313517084
+device-centric event |device-centric events ,-1.5892390313517084
+angus croll |Angus Croll ,-1.5896334915743284
+partially sighted |partially sighted ,-1.5896334915743284
+info dl |info dl ,-1.5896334915743284
+owen taylor |Owen Taylor ,-1.5896334915743284
+increasing speed |increasing speed ,-1.5896334915743284
+legitimate login credential |legitimate login credentials ,-1.5896334915743284
+ars technica |Ars Technica ,-1.5896334915743284
+wider trend |wider trend ,-1.5896334915743284
+norris boyd |Norris Boyd ,-1.5896334915743284
+unpredictable rate |unpredictable rates ,-1.5896334915743284
+encyclopedia jump |encyclopedia Jump ,-1.5896334915743284
+robert nyman |Robert Nyman ,-1.5896334915743284
+caused confusion |caused confusion ,-1.5896334915743284
+pr newswire |PR Newswire ,-1.5896334915743284
+invalid character |invalid characters ,-1.5896334915743284
+serence klipfolio |Serence Klipfolio ,-1.5896334915743284
+backbone swfobject swfaddres |Backbone SWFObject SWFAddress ,-1.5896334915743284
+e-mail message |e-mail message ,-1.5896334915743284
+progressive enhancement |progressive enhancement ,-1.5896334915743284
+lampwww epfl ch |Lampwww epfl ch ,-1.5896334915743284
+governing business rule |governing business rules ,-1.5896334915743284
+conditional catch clause |conditional catch clauses ,-1.5896334915743284
+forward slash |forward slashes ,-1.5896334915743284
+commons textbook |Commons Textbooks ,-1.5896334915743284
+euclidean algorithm |Euclidean algorithm ,-1.5896334915743284
+individual keystroke |individual keystrokes ,-1.5896334915743284
+marketing ploy |marketing ploy ,-1.5896334915743284
+theoretically viable vector |theoretically viable vector ,-1.5896334915743284
+determined adversary |determined adversary ,-1.5896334915743284
+mission impossible |Mission Impossible ,-1.5896334915743284
+mediawiki listen |MediaWiki Listen ,-1.5896334915743284
+ubuntu touch |Ubuntu Touch ,-1.5896334915743284
+haudio microformat |hAudio microformats ,-1.5896334915743284
+crypto signtext |crypto signText ,-1.5896334915743284
+cond nast publication |Cond Nast Publications ,-1.5896334915743284
+vander veer |Vander Veer ,-1.5896334915743284
+redirected frame |redirected frame ,-1.5896334915743284
+andrew h |Andrew H ,-1.5896334915743284
+performance limitation |performance limitations ,-1.5896334915743284
+single quote |single quotes ,-1.5896334915743284
+custom midi effect |custom MIDI effects ,-1.5905948585580505
+separate standardization effort |separate standardization effort ,-1.5905948585580505
+bracket notation |bracket notation ,-1.5954984533810503
+widespread adoption |widespread adoption ,-1.5954984533810503
+distributed os |distributed OS ,-1.5954984533810503
+system-related task |system-related tasks ,-1.5954984533810503
+web-related action |web-related actions ,-1.5954984533810503
+screen reader |Screen readers ,-1.5954984533810503
+objective-j qml |Objective-J QML ,-1.5954984533810503
+scriptease product |ScriptEase product ,-1.5954984533810503
+wrong result |wrong result ,-1.5954984533810503
+playing audio |playing audio ,-1.5954984533810503
+user-interface logic |user-interface logic ,-1.5954984533810503
+simulation logic |simulation logic ,-1.5954984533810503
+gnome journal |GNOME Journal ,-1.5954984533810503
+protected mode |Protected Mode ,-1.5954984533810503
+concise navigable |concise navigable ,-1.5954984533810503
+tasks automation |tasks automation ,-1.5954984533810503
+paul festa |Paul Festa ,-1.5954984533810503
+computed result |computed results ,-1.5954984533810503
+solution stack |solution stack ,-1.5954984533810503
+en wikipedia |en wikipedia ,-1.60018426097311
+wikiversity documentation |Wikiversity Documentation ,-1.60018426097311
+firebug add-on |Firebug add-on ,-1.60018426097311
+read uberflip |Read uberflip ,-1.60018426097311
+semantically rich |semantically rich ,-1.60018426097311
+chatzilla hacksru |Chatzilla hacksrus ,-1.60018426097311
+formal parameter |formal parameters ,-1.60018426097311
+referrer header |Referrer header ,-1.60018426097311
+custom formula |custom formulas ,-1.60018426097311
+id header |id header ,-1.60018426097311
+correct design |correct design ,-1.60018426097311
+wiley pub |Wiley Pub ,-1.60018426097311
+qt quick |Qt Quick ,-1.60018426097311
+just-in-time compilation |just-in-time compilation ,-1.60018426097311
+dhtml cookbook |DHTML Cookbook ,-1.60018426097311
+late reporting |late reporting ,-1.6005934390287286
+internal state |internal state ,-1.6005934390287286
+right-click protection |Right-click protection ,-1.6005934390287286
+freeware alternative |freeware alternative ,-1.6005934390287286
+clojure clojurescript git hub |clojure clojurescript Git Hub ,-1.6005934390287286
+compiled bytecode |compiled bytecode ,-1.6005934390287286
+absolute beginner |Absolute Beginner ,-1.6005934390287286
+umbrella term |umbrella term ,-1.6005934390287286
+commonjs effort |CommonJS effort ,-1.6005934390287286
+refresh button |refresh buttons ,-1.6005934390287286
+human fallibility |human fallibility ,-1.6005934390287286
+windows vista |Windows Vista ,-1.6005934390287286
+mike friedman |Mike Friedman ,-1.6005934390287286
+jinjer l |Jinjer L ,-1.6005934390287286
+technically correctly |technically correctly ,-1.6005934390287286
+lasting effect |lasting effects ,-1.6005934390287286
+nontrivial problem |nontrivial problem ,-1.6005934390287286
+final choice |final choice ,-1.6005934390287286
+bare url |bare URLs ,-1.6005934390287286
+brent noorda |Brent Noorda ,-1.6005934390287286
+authentication token |authentication token ,-1.6005934390287286
+succinct shortcut syntax |succinct shortcut syntax ,-1.6016424380994243
+ample sdk atom |Ample SDK Atoms ,-1.6036296786697946
+wikibooks learning resource |Wikibooks Learning resources ,-1.6036296786697946
+greatest common divisor |greatest common divisor ,-1.6074224557030001
+apps ietf org |Apps ietf org ,-1.6112960649685073
+vrml scene description file |VRML scene description files ,-1.6118640182760466
+automatic semicolon insertion |automatic semicolon insertion ,-1.6127222709422617
+fp precision issue |FP precision issues ,-1.6127222709422617
+franklin beedle associate |Franklin Beedle Associates ,-1.6176258657652616
+check int y |check Int y ,-1.6176258657652616
+automate repetitive task |automate repetitive tasks ,-1.6176258657652616
+python shallow generators-coroutine |Python shallow generators-coroutines ,-1.6195808530341689
+project schedule impact |project schedule impact ,-1.6199513430489223
+unified usability interface |unified usability interface ,-1.6204554793247639
+large non-trivial program |large non-trivial programs ,-1.6206978581244487
+low power microcontroller |low power microcontrollers ,-1.6206978581244487
+ahead-of-time aot compiling engine |ahead-of-time AOT compiling engine ,-1.6351102687862198
+javascript |Javascript |javascript |JavaScript ,-2.7978717061364584
+language |languages |Language |language ,-4.0179116364839675
+web |Web |web ,-4.079103564699374
+browser |Browser |browsers |browser ,-4.114246630555296
+function |Functions |functions |Function |function ,-4.269584447752316
+object |object |objects |Object ,-4.342703694988869
+script |scripts |Scripts |script ,-4.694399536775056
+version |versions |Versions |version ,-4.76679916934847
+java |Java ,-4.809410118313636
+scripting |scripting ,-4.930915561511098
+microsoft |Microsoft ,-4.931743486629005
+application |application |applications |Applications ,-4.931743486629005
+prototype |Prototypes |prototypes |prototype ,-4.960394265740218
+page |page |pages ,-4.960394265740218
+code |code ,-4.971798052226977
+mozilla |Mozilla ,-4.984032270246086
+ecmascript |ECMAScript ,-5.026844883595442
+user |users |user ,-5.071757046568914
+netscape |Netscape ,-5.132970487929677
+server |servers |server ,-5.191769840823668
+support |support ,-5.216242716804895
+google |Google ,-5.244540005164295
+engine |engine ,-5.261321723125219
+implementation |implementation |implementations ,-5.277092777967414
+internet |Internet ,-5.277092777967414
+use |use |Use ,-5.329517455433999
+example |example ,-5.3656332941702685
+site |site ,-5.379276264820796
+feature |features |feature ,-5.387381051013486
+isbn |ISBN ,-5.408677720802825
+developer |Developers |developers ,-5.426385807048035
+return |returns ,-5.432072360088299
+method |methods |method ,-5.456960615658614
+standard |standards |Standard ,-5.51554670907579
+syntax |syntax ,-5.535380782480267
+ecma |ECMA ,-5.544250349775042
+article |articles |article ,-5.561461224214472
+jscript |JScript ,-5.561639436313884
+environment |environment |environments ,-5.561639436313884
+lcm |lcm ,-5.571359729518024
+client |client ,-5.580920806001633
+framework |Frameworks |frameworks ,-5.5995216017429374
+gcd |GCD |gcd ,-5.618683954321178
+html |HTML ,-5.628842598085013
+edition |edition ,-5.634225510353627
+source |source ,-5.690044997970957
+information |information ,-5.77711428763162
+dynamic |Dynamic ,-5.807378956424543
+opera |Opera ,-5.813991471191602
+dom |DOM ,-5.813991471191602
+content |content |Contents ,-5.837288938555396
+debugger |debuggers |debugger ,-5.869881658793929
+security |security ,-5.879976352382936
+array |Array |arrays |array ,-5.889248376434924
+development |development |Development ,-5.9138599879024225
+constructor |constructor ,-5.925642711665608
+lcmcalculator |LCMCalculator ,-5.971034826351513
+type |Type |types |type ,-5.971034826351513
+firefox |Firefox ,-5.971034826351513
+safari |Safari ,-5.971034826351513
+node |Node ,-5.984280888669164
+access |access ,-5.984280888669164
+functional |functional ,-6.021483588147698
+include |include ,-6.032856694228225
+variable |variables ,-6.043582439575201
+extension |extension |Extensions ,-6.053535859889512
+class |classes ,-6.053535859889512
+comparison |comparison |Comparison ,-6.060592844264345
+statement |statements ,-6.060592844264345
+eich |Eich ,-6.060592844264345
+window |Windows ,-6.074732112780168
+author |authors ,-6.088392712025022
+compiler |compiler ,-6.088392712025022
+bug |bugs |Bugs ,-6.088392712025022
+history |History ,-6.101515813690732
+file |files ,-6.114026230379313
+visual |visual ,-6.146670313040329
+request |requests |request ,-6.1595565768722125
+attacker |attackers |attacker ,-6.1595565768722125
+client-side |client-side ,-6.189316244550617
+specification |specification |specifications ,-6.203216707537928
+release |release ,-6.216325951850899
+reference |Reference |reference ,-6.228491243346167
+platform |platforms ,-6.228491243346167
+first |First ,-6.2394879104946135
+technology |technology ,-6.2394879104946135
+net |Net ,-6.248953882322886
+python |Python ,-6.270137058019024
+world |World |world ,-6.270137058019024
+crockford |Crockford ,-6.270137058019024
+expression |expressions ,-6.286540935101162
+privilege |privileges ,-6.286540935101162
+run-time |run-time ,-6.302178955961888
+buffer |buffer ,-6.342984059288159
+tool |tools |Tools ,-6.395430563625832
+ajax |AJAX |Ajax ,-6.395430563625832
+interface |interfaces |interface ,-6.395430563625832
+spidermonkey |SpiderMonkey ,-6.395430563625832
+game |games |game ,-6.395430563625832
+ferguson |Ferguson ,-6.395430563625832
+webkit |WebKit ,-6.413302587466662
+programmer |Programmers |programmers ,-6.430157330154767
+control |control ,-6.430157330154767
+part |part ,-6.430157330154767
+value |values ,-6.445798419220112
+work |work ,-6.445798419220112
+adobe |Adobe ,-6.539965370168133
+json |JSON ,-6.539965370168133
+output |output ,-6.539965370168133
+inheritance |Inheritance |inheritance ,-6.539965370168133
+number |numbers |number ,-6.539965370168133
+string |string |strings ,-6.539965370168133
+typescript |TypeScript ,-6.539965370168133
+rhino |Rhino ,-6.539965370168133
+role |Role |role ,-6.559629236637589
+argument |arguments ,-6.559629236637589
+keyword |keyword ,-6.559629236637589
+desktop |desktop ,-6.577877173880491
+note |Note ,-6.577877173880491
+console |console ,-6.577877173880491
+microcontroller |Microcontrollers ,-6.577877173880491
+sandbox |sandbox ,-6.577877173880491
+sun |Sun ,-6.577877173880491
+computer |computer ,-6.594372174603161
+debugging |debugging ,-6.594372174603161
+closure |closures ,-6.6085711323455705
+toolkit |toolkits ,-6.619458007575159
+event |Event |events ,-6.710749450245754
+object-oriented |object-oriented ,-6.710749450245754
+pdf |PDF ,-6.710749450245754
+apple |Apple ,-6.710749450245754
+subset |subset |subsets ,-6.710749450245754
+general |general ,-6.710749450245754
+flaw |flaws ,-6.710749450245754
+victim |victim ,-6.710749450245754
+flash |Flash ,-6.710749450245754
+compile |compiles |compile ,-6.710749450245754
+coffeescript |CoffeeScript ,-6.710749450245754
+practice |practice ,-6.7326469749372375
+difference |differences ,-6.7326469749372375
+trait |Traits ,-6.7326469749372375
+category |Category ,-6.752440975804442
+interpreter |interpreter ,-6.752440975804442
+date |Date ,-6.752440975804442
+trademark |trademark ,-6.769479725095333
+literal |literals ,-6.769479725095333
+project |Project ,-6.78254397537084
+execute |executes ,-6.78254397537084
+make |MAKE ,-6.78254397537084
+plugin |Plugins ,-6.78254397537084
+module |modules ,-6.78254397537084
+functionality |Functionality ,-6.78254397537084
+app |app ,-6.78254397537084
+find |Finds ,-6.78254397537084
+interact |interact ,-6.919496771033306
+testing |testing ,-6.919496771033306
+change |Changes |change |changes ,-6.919496771033306
+concise |concise ,-6.919496771033306
+gnome |GNOME ,-6.919496771033306
+action |actions ,-6.919496771033306
+nomba |Nombas ,-6.919496771033306
+database |Databases |database ,-6.919496771033306
+mixin |Mixins ,-6.919496771033306
+csrf |CSRF ,-6.919496771033306
+call |call ,-6.919496771033306
+solution |solutions |solution ,-6.919496771033306
+mac |Mac ,-6.919496771033306
+objective-j |Objective-J ,-6.919496771033306
+imperative |imperative |Imperative ,-6.919496771033306
+scheme |Scheme ,-6.919496771033306
+intended |intended ,-6.919496771033306
+haverbeke |Haverbeke ,-6.919496771033306
+livescript |LiveScript ,-6.919496771033306
+default |default ,-6.919496771033306
+webpage |webpage ,-6.919496771033306
+define |defines ,-6.9442392721173105
+set |set ,-6.9442392721173105
+product |products ,-6.9442392721173105
+instance |instance ,-6.9442392721173105
+result |result ,-6.9442392721173105
+shell |shell ,-6.9442392721173105
+adoption |Adoption ,-6.965537708730925
+pattern |pattern ,-6.965537708730925
+widget |Widgets ,-6.965537708730925
+concept |concept ,-6.981868021575308
+way |ways ,-6.981868021575308
+distinction |distinction ,-7.188101637540715
+firebug |Firebug ,-7.188101637540715
+spinetix |SpinetiX ,-7.188101637540715
+reason |reason |reasons ,-7.188101637540715
+scala |Scala ,-7.188101637540715
+year |years ,-7.188101637540715
+liveconnect |LiveConnect ,-7.188101637540715
+math |Math ,-7.188101637540715
+original |original ,-7.188101637540715
+mynfc |myNFC ,-7.188101637540715
+port |port |ports ,-7.188101637540715
+issue |issues ,-7.188101637540715
+addition |addition ,-7.188101637540715
+execution |execution ,-7.188101637540715
+loop |loops |loop ,-7.188101637540715
+mdn |MDN ,-7.188101637540715
+documentation |Documentation ,-7.188101637540715
+dart |Dart ,-7.188101637540715
+input |input ,-7.188101637540715
+david |David ,-7.188101637540715
+pair |pair ,-7.188101637540715
+osa |OSA ,-7.188101637540715
+superset |superset ,-7.188101637540715
+parameter |parameters ,-7.188101637540715
+setter |Setters ,-7.216499553025534
+processing |Processing ,-7.216499553025534
+chatzilla |ChatZilla ,-7.216499553025534
+implicit |Implicit ,-7.216499553025534
+download |download ,-7.216499553025534
+question |questions |question ,-7.216499553025534
+semicolon |semicolons ,-7.216499553025534
+usage |usage ,-7.216499553025534
+citation |citations ,-7.216499553025534
+post |POST ,-7.216499553025534
+future |future ,-7.216499553025534
+wikipedia |Wikipedia ,-7.216499553025534
+design |design ,-7.216499553025534
+getter |Getters ,-7.216499553025534
+ability |ability ,-7.216499553025534
+criticism |Criticism ,-7.2382733034847115
+exploit |exploit ,-7.2382733034847115
+github |Github ,-7.2382733034847115
+service |service ,-7.2382733034847115
+consideration |consideration ,-7.2382733034847115
+website |websites ,-7.2382733034847115
+semantics |semantics ,-7.565514108498893
+carakan |Carakan ,-7.565514108498893
+designing |Designing ,-7.565514108498893
+exception |exception ,-7.565514108498893
+double |double ,-7.565514108498893
+response |response ,-7.565514108498893
+package |package ,-7.565514108498893
+gmail |Gmail ,-7.565514108498893
+tech |Tech ,-7.565514108498893
+preferable |preferable ,-7.565514108498893
+getvalue |getValue ,-7.565514108498893
+redefine |redefine ,-7.565514108498893
+goodman |Goodman ,-7.565514108498893
+technique |Techniques ,-7.565514108498893
+acrobat |Acrobat ,-7.565514108498893
+sort |sort ,-7.565514108498893
+guideline |guidelines ,-7.565514108498893
+archived |Archived ,-7.565514108498893
+syntactic |syntactic ,-7.565514108498893
+case |cases ,-7.565514108498893
+mouse |mouse ,-7.565514108498893
+naming |naming ,-7.565514108498893
+authentication |authentication ,-7.565514108498893
+unix |Unix ,-7.565514108498893
+goal |goal ,-7.565514108498893
+end |end ,-7.565514108498893
+process |process ,-7.565514108498893
+foreach |forEach ,-7.565514108498893
+re-animator |Re-Animator ,-7.565514108498893
+image |images |image ,-7.565514108498893
+danny |Danny ,-7.565514108498893
+readable |readable ,-7.565514108498893
+racket |Racket ,-7.565514108498893
+redefinition |redefinition ,-7.565514108498893
+invocation |invocation ,-7.565514108498893
+sdk |SDK ,-7.565514108498893
+whalesong |Whalesong ,-7.565514108498893
+ruby |Ruby ,-7.565514108498893
+creation |creation ,-7.565514108498893
+mongodb |MongoDB ,-7.565514108498893
+herman |Herman ,-7.565514108498893
+count |count ,-7.565514108498893
+jquery |jQuery ,-7.565514108498893
+risk |risk |risks ,-7.565514108498893
+violation |violation ,-7.565514108498893
+uspto |USPTO ,-7.565514108498893
+addison-wesley |Addison-Wesley ,-7.565514108498893
+choice |choice ,-7.565514108498893
+perl |Perl ,-7.565514108498893
+photoshop |Photoshop |PhotoShop ,-7.565514108498893
+proliferation |proliferation ,-7.565514108498893
+client-server |client-server ,-7.565514108498893
+brenkoweb |Brenkoweb ,-7.565514108498893
+popularity |Popularity |popularity ,-7.565514108498893
+clip |clip ,-7.565514108498893
+money |money ,-7.565514108498893
+thomas |Thomas ,-7.565514108498893
+piwik |Piwik ,-7.565514108498893
+visitor |visitors ,-7.565514108498893
+displayclosure |displayClosure ,-7.565514108498893
+pyjama |Pyjamas ,-7.565514108498893
+watt |Watt ,-7.565514108498893
+jslib |jslibs ,-7.565514108498893
+password |passwords ,-7.565514108498893
+adsafe |ADsafe ,-7.565514108498893
+linux |Linux ,-7.565514108498893
+secret |secret ,-7.565514108498893
+animation |animations ,-7.598174734187659
+component |component ,-7.598174734187659
+composition |composition ,-7.598174734187659
+scene |Scenes ,-7.598174734187659
+clojurescript |ClojureScript ,-7.598174734187659
+url |URL ,-7.598174734187659
+oreilly |Oreilly ,-7.598174734187659
+operation |operations ,-7.598174734187659
+talent |TALENTS ,-7.598174734187659
+archive |Archive ,-7.598174734187659
+iterator |iterators ,-7.598174734187659
+clojure |Clojure ,-7.598174734187659
+multi-paradigm |Multi-paradigm ,-7.598174734187659
+field |fields ,-7.598174734187659
+doc |docs ,-7.598174734187659
+course |course ,-7.598174734187659
+mean |means ,-7.598174734187659
+term |terms ,-7.598174734187659
+username |usernames ,-8.20695569690841
+librsvg |librsvg ,-8.20695569690841
+cocktailj |CocktailJS ,-8.20695569690841
+cashman |Cashman ,-8.20695569690841
+basis |basis ,-8.20695569690841
+drosera |Drosera ,-8.20695569690841
+katz |Katz ,-8.20695569690841
+pda |PDA ,-8.20695569690841
+bank |bank ,-8.20695569690841
+javascript-debugger |javascript-debugger ,-8.20695569690841
+obfuscation |obfuscation ,-8.20695569690841
+fantom |Fantom ,-8.20695569690841
+tostring |toString ,-8.20695569690841
+opengl |OpenGL ,-8.20695569690841
+constant |constants ,-8.20695569690841
+onkeypres |onkeypress ,-8.20695569690841
+advantage |advantage ,-8.20695569690841
+bind |bind ,-8.20695569690841
+amateur |amateurs ,-8.20695569690841
+nspr |NSPR ,-8.20695569690841
+webdevelopersnote |Webdevelopersnotes ,-8.20695569690841
+newline |newline ,-8.20695569690841
+joe |Joe ,-8.20695569690841
+advertisement |advertisements ,-8.20695569690841
+warning |warnings ,-8.20695569690841
+emily |Emily ,-8.20695569690841
+restriction |restrictions ,-8.20695569690841
+richest |richest ,-8.20695569690841
+cambridge |Cambridge ,-8.20695569690841
+heinle |Heinle ,-8.20695569690841
+path |path ,-8.20695569690841
+dxstudio |dxstudio ,-8.20695569690841
+past |past ,-8.20695569690841
+production |production ,-8.20695569690841
+webo |webOS ,-8.20695569690841
+integrate |integrates ,-8.20695569690841
+nick |Nick ,-8.20695569690841
+zaka |Zakas ,-8.20695569690841
+favor |favor ,-8.20695569690841
+advertising |Advertising ,-8.20695569690841
+influential |influential ,-8.20695569690841
+license |license ,-8.20695569690841
+presence |presence ,-8.20695569690841
+simon |Simon ,-8.20695569690841
+re-introduction |Re-Introduction ,-8.20695569690841
+joyent |Joyent ,-8.20695569690841
+mcduffie |McDuffie ,-8.20695569690841
+navigation |navigation ,-8.20695569690841
+burn |Burns ,-8.20695569690841
+advent |advent ,-8.20695569690841
+breach |breaches ,-8.20695569690841
+protocol |protocol ,-8.20695569690841
+strength |strength ,-8.20695569690841
+onmouseover |onmouseover ,-8.20695569690841
+revision |revision ,-8.20695569690841
+node-inspector |node-inspector ,-8.20695569690841
+mind |mind ,-8.20695569690841
+brent-noorda |Brent-noorda ,-8.20695569690841
+jsosa |JSOSA ,-8.20695569690841
+schneider |Schneider ,-8.20695569690841
+securitytracker |SecurityTracker ,-8.20695569690841
+quora |Quora ,-8.20695569690841
+koman |Koman ,-8.20695569690841
+dreamweaver |Dreamweaver ,-8.20695569690841
+purpose |purposes ,-8.20695569690841
+sqlite |SQLite ,-8.20695569690841
+wrox |Wrox ,-8.20695569690841
+magazine |Magazine ,-8.20695569690841
+see-minus-minu |See-minus-minus ,-8.20695569690841
+check |checks ,-8.20695569690841
+potential |potential ,-8.20695569690841
+personalization |personalization ,-8.20695569690841
+mozillazine |MozillaZine ,-8.20695569690841
+higher |higher ,-8.20695569690841
+sham |Sham ,-8.20695569690841
+missing |Missing ,-8.20695569690841
+illustrator |Illustrator ,-8.20695569690841
+kotlin |Kotlin ,-8.20695569690841
+espruino |Espruino ,-8.20695569690841
+mono |Mono ,-8.20695569690841
+modification |modifications ,-8.20695569690841
+blinkx |blinkx ,-8.20695569690841
+debate |debate ,-8.20695569690841
+integer |integer ,-8.20695569690841
+newer |Newer ,-8.20695569690841
+mcfarlane |McFarlane ,-8.20695569690841
+emscripten |Emscripten ,-8.20695569690841
+opinion |opinion ,-8.20695569690841
+applescript |AppleScript ,-8.20695569690841
+experience |experiences ,-8.20695569690841
+techvision |TechVision ,-8.20695569690841
+manner |manner ,-8.20695569690841
+npapi |NPAPI ,-8.20695569690841
+demo |Demos ,-8.20695569690841
+fixed |Fixed ,-8.20695569690841
+visualization |visualizations ,-8.20695569690841
+convenience |convenience ,-8.20695569690841
+comment |comments ,-8.20695569690841
+series |series ,-8.20695569690841
+hardware |hardware ,-8.20695569690841
+unexpected |unexpected ,-8.20695569690841
+resurgence |resurgence ,-8.20695569690841
+null |null ,-8.20695569690841
+powell |Powell ,-8.20695569690841
+nodej |NodeJS ,-8.20695569690841
+account |account ,-8.20695569690841
+quasney |Quasney ,-8.20695569690841
+growney |Growney ,-8.20695569690841
+yehuda |Yehuda ,-8.20695569690841
+spin-off |spin-off ,-8.20695569690841
+firework |Fireworks ,-8.20695569690841
+alistapart |alistapart ,-8.20695569690841
+onfocu |onfocus ,-8.20695569690841
+dorin |Dorin ,-8.20695569690841
+conformance |conformance ,-8.20695569690841
+inclusion |inclusion ,-8.20695569690841
+webmasterworld |Webmasterworld ,-8.20695569690841
+thunderbird |Thunderbird ,-8.20695569690841
+harris |Harris ,-8.20695569690841
+easy |easy ,-8.20695569690841
+innovator |Innovators ,-8.20695569690841
+launchpad |Launchpad ,-8.20695569690841
+jankowski |Jankowski ,-8.20695569690841
+relationship |relationship ,-8.20695569690841
+fact |fact ,-8.20695569690841
+competitor |competitor ,-8.20695569690841
+spotlight |spotlight ,-8.20695569690841
+detail |detail ,-8.20695569690841
+jonathan |Jonathan ,-8.20695569690841
+impression |impression ,-8.20695569690841
+reduce |reduces ,-8.20695569690841
+indesign |InDesign ,-8.20695569690841
+incomplete |incomplete ,-8.20695569690841
+duffy |Duffy ,-8.20695569690841
+hamilton |Hamilton ,-8.20695569690841
+blind |blind ,-8.20695569690841
+haxe |Haxe ,-8.20695569690841
+vengeance |Vengeance ,-8.20695569690841
+llvm-backend |LLVM-backend ,-8.20695569690841
+winj |WinJS ,-8.20695569690841
+interaction |interaction ,-8.20695569690841
+position |position ,-8.20695569690841
+osborne |Osborne ,-8.20695569690841
+openal |OpenAL ,-8.20695569690841
+shelly |Shelly ,-8.20695569690841
+cnet |CNet ,-8.20695569690841
+mix |mix ,-8.20695569690841
+compromise |compromises ,-8.20695569690841
+implication |implications ,-8.20695569690841
+markel |Markel ,-8.20695569690841
+right-clicking |right-clicking ,-8.20695569690841
+order |order ,-8.20695569690841
+fresh |fresh ,-8.20695569690841
+redirection |redirection ,-8.20695569690841
+matter |matters ,-8.20695569690841
+onchange |onchange ,-8.20695569690841
+libtomcrypt |libTomCrypt ,-8.20695569690841

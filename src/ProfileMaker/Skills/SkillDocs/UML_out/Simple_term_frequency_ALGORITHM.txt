@@ -1,0 +1,21 @@
+uml |UML ,4.0
+link |link ,2.0
+software |software ,2.0
+title |title ,2.0
+massachusetts lowell |Massachusetts Lowell ,1.0
+internal link |internal link ,1.0
+dictionary |dictionary ,1.0
+en wikipedia |en wikipedia ,1.0
+article disambiguation page |article disambiguation pages ,1.0
+wiktionary |Wiktionary ,1.0
+intended article |intended article ,1.0
+encyclopedia jump |encyclopedia Jump ,1.0
+school user-mode linux |school User-mode Linux ,1.0
+unified medical language system |Unified Medical Language System ,1.0
+virtual machine software |virtual machine software ,1.0
+article |articles ,1.0
+search |search ,1.0
+navigation |navigation ,1.0
+medical informatics tool |medical informatics tool ,1.0
+wikipedia |Wikipedia ,1.0
+language |language ,1.0

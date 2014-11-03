@@ -1,0 +1,50 @@
+oop |OOP |Oop |oop ,-6.549974037810964E-5
+health care |health care ,-0.2097872745459192
+position |position ,-0.2097872745459192
+link |link ,-0.2097872745459192
+title |title ,-0.2097872745459192
+poker |poker ,-0.2097872745459192
+expense |expenses ,-0.2097872745459192
+expression |expression ,-0.6617283576289674
+out-of-pocket expense |Out-of-pocket expenses ,-0.6617283576289674
+project management oop |project management Oops ,-0.6617283576289674
+en wikipedia |en wikipedia ,-0.6617283576289674
+computer programming paradigm object-oriented positioning |computer programming paradigm Object-oriented positioning ,-0.6617283576289674
+operation |operations ,-0.6617283576289674
+search |search ,-0.6617283576289674
+microscopy order |microscopy Order ,-0.6617283576289674
+work |work ,-0.6617283576289674
+object-oriented programming |Object-oriented programming ,-0.6617283576289674
+insured party |insured party ,-0.6617283576289674
+encyclopedia jump |encyclopedia Jump ,-0.6617283576289674
+content |Contents ,-0.6617283576289674
+health care provider |health care provider ,-0.6617283576289674
+navigation |navigation ,-0.6617283576289674
+book or other work |book or other work ,-0.6617283576289674
+contest |contests ,-0.6617283576289674
+oop or oop |oop or OOP ,-0.6617283576289674
+article disambiguation page |article disambiguation pages ,-0.6617283576289674
+out-of-process plug-in |out-of-process plug-ins ,-0.6617283576289674
+wiktionary |Wiktionary ,-0.6617283576289674
+mathematics |mathematics ,-0.6617283576289674
+play oop |play Oop ,-0.6617283576289674
+tennis event |tennis event ,-0.6617283576289674
+order |order ,-0.6617283576289674
+disambiguation alley oop disambiguation |disambiguation Alley Oop disambiguation ,-0.6617283576289674
+rule |rules ,-0.6617283576289674
+feature-oriented positioning |feature-oriented positioning ,-0.6617283576289674
+douglas coupland |Douglas Coupland ,-0.6617283576289674
+software idea |software idea ,-0.6617283576289674
+internal link |internal link ,-0.6617283576289674
+disambiguation page |disambiguation page ,-0.6617283576289674
+play |Play ,-0.6617283576289674
+oopp |OOPP ,-0.6617283576289674
+dictionary |dictionary ,-0.6617283576289674
+print |print ,-0.6617283576289674
+intended article |intended article ,-0.6617283576289674
+schedule |schedule ,-0.6617283576289674
+article |articles ,-0.6617283576289674
+term |term ,-0.6617283576289674
+wikipedia |Wikipedia ,-0.6617283576289674
+position other edit order |Position Other edit Order ,-0.6617283576289674
+book |book ,-0.6617283576289674

@@ -1,0 +1,1112 @@
+php |PHP |php |phps ,475.0
+language |languages |language ,56.0
+function |Functions |functions |function ,53.0
+php net |PHP net |php net ,49.0
+zend |Zend ,40.0
+code |code ,32.0
+extension |extension |extensions ,30.0
+release |Release |release ,29.0
+support |support |Support ,27.0
+object |Objects |object |objects ,27.0
+software |software ,26.0
+php group |PHP Group ,24.0
+programming |programming ,23.0
+type |Types |type |types ,21.0
+web server |web server |web servers ,20.0
+feature |features |feature ,20.0
+version |versions |version ,20.0
+programming language |programming languages |programming language ,18.0
+zend engine |Zend Engine |Zend engine ,18.0
+file |files |file ,18.0
+lerdorf |Lerdorf ,17.0
+php manual |PHP manual |PHP Manual ,16.0
+class |classes |Classes |class ,16.0
+manual |Manual ,16.0
+project |project |projects ,15.0
+rasmu |Rasmus ,15.0
+variable |Variables |variable ,15.0
+echo |echo ,14.0
+syntax |syntax ,14.0
+php code |PHP code ,14.0
+form |form |forms ,14.0
+side |side ,13.0
+window |Windows ,13.0
+security |security ,12.0
+implementation |implementation |implementations ,12.0
+development |development ,12.0
+article |articles |article |Article ,12.0
+use |use ,11.0
+performance |performance ,11.0
+example |example |examples ,11.0
+statement |statements ,11.0
+defined |defined ,11.0
+unicode |Unicode ,11.0
+public |public ,10.0
+database |databases |database ,10.0
+core |core ,10.0
+return |return |returns ,10.0
+perl |Perl ,10.0
+string |Strings |string |strings ,10.0
+server |servers ,10.0
+rasmus lerdorf |Rasmus Lerdorf ,9.0
+php extension |PHP Extension |PHP extensions ,9.0
+history |history |History ,9.0
+open-source |open-source ,9.0
+application |applications ,9.0
+potentially dated statement |potentially dated statements ,8.0
+method |methods |method ,8.0
+platform |platform |platforms ,8.0
+engine |engine ,8.0
+image |images |image ,8.0
+lastname |lastName ,8.0
+execution |execution ,8.0
+standard |standards |standard ,8.0
+html |HTML ,8.0
+server-side |server-side ,8.0
+parameter |Parameters |parameter |parameters ,8.0
+firstname |firstName ,7.0
+developer |developer |developers ,7.0
+apache |Apache ,7.0
+distribution |distribution ,7.0
+interpreter |interpreter ,7.0
+reference |references |reference ,7.0
+closure |closures |closure ,7.0
+delimiter |delimiters ,7.0
+microsoft |Microsoft ,7.0
+sapi |SAPI |SAPIs ,7.0
+source code |source code ,7.0
+comparison |Comparison ,7.0
+visibility |visibility |Visibility ,6.0
+php ini |php ini ,6.0
+array |arrays |Arrays ,6.0
+mysql |MySQL ,6.0
+personal home page |Personal Home Page ,6.0
+following |following ,6.0
+php-gtk |PHP-GTK ,6.0
+interface |interfaces ,6.0
+original |original ,6.0
+introduction |Introduction |introduction ,6.0
+facebook |Facebook ,6.0
+runtime |runtime ,6.0
+resource |resources |Resources ,6.0
+result |result ,6.0
+work |work ,6.0
+default |default ,6.0
+directive |directives ,5.0
+suraski |Suraski ,5.0
+define |defines ,5.0
+change |Changes |changes ,5.0
+runtime configuration |Runtime configuration |Runtime Configuration ,5.0
+wordpres |WordPress ,5.0
+php source code |PHP source code ,5.0
+phpng |PHPNG |phpng ,5.0
+java |Java ,5.0
+programmer |programmer |programmers ,5.0
+improvement |improvements ,5.0
+myage |myAge ,5.0
+cli |CLI ,5.0
+php fi |PHP FI ,5.0
+php version |PHP versions |PHP version ,5.0
+gutman |Gutmans ,5.0
+php interpreter |PHP interpreter |PHP interpreters ,5.0
+hhvm |HHVM |Hhvm ,5.0
+true |true ,5.0
+open source |open source ,5.0
+pecl |PECL ,5.0
+print |prints ,5.0
+installation |Installation ,5.0
+php license |PHP License ,5.0
+parrot |Parrot ,5.0
+text |text ,5.0
+complete |complete ,5.0
+operating system |operating systems |operating system ,5.0
+specific |specific ,5.0
+elephpant |ElePHPant |elePHPant ,4.0
+semantics |semantics ,4.0
+rfc |RFC ,4.0
+zeev suraski |Zeev Suraski ,4.0
+client |client |clients ,4.0
+pdo |PDO ,4.0
+source |sources ,4.0
+package |packages ,4.0
+php ini directive |php ini directives ,4.0
+zend php |Zend PHP ,4.0
+andi gutman |Andi Gutmans ,4.0
+mediawiki |MediaWiki ,4.0
+php language |PHP language ,4.0
+phalanger |Phalanger ,4.0
+archived |Archived ,4.0
+case |cases |case ,4.0
+zero |zero ,4.0
+output |output ,4.0
+issue |issues ,4.0
+common gateway interface cgi |Common Gateway Interface CGI ,4.0
+minor release |minor release ,4.0
+php script |PHP scripts |PHP script ,4.0
+configuration |Configuration ,4.0
+functionality |functionality ,4.0
+scripting language |scripting language ,4.0
+retry |retry ,4.0
+extension writing part |Extension Writing Part ,4.0
+ability |ability ,4.0
+silverstripe |SilverStripe ,4.0
+drupal |Drupal ,4.0
+global |globals ,4.0
+website |websites ,4.0
+web page |web page ,4.0
+base |base ,3.0
+testing |testing ,3.0
+exception |exceptions |exception ,3.0
+flock |flock ,3.0
+pthread |pthreads ,3.0
+accessing database |accessing databases ,3.0
+browser |browser ,3.0
+command-line interface cli |command-line interface CLI ,3.0
+python |Python ,3.0
+binaries and source |Binaries and sources ,3.0
+request |requests |Request ,3.0
+binaries and sources release |Binaries and sources releases ,3.0
+license |Licenses ,3.0
+cgi executable |CGI executable ,3.0
+stable release |Stable release ,3.0
+this- lastname |this- lastName ,3.0
+formal specification |formal specification ,3.0
+national vulnerability database |National Vulnerability Database ,3.0
+block |blocks ,3.0
+process |Process ,3.0
+variable function |Variable functions |variable functions ,3.0
+parser |parser ,3.0
+purpose |purpose ,3.0
+andrei zmievski |Andrei Zmievski ,3.0
+integer |Integers |integer ,3.0
+security issue |security issues ,3.0
+create function |create function ,3.0
+firstname lastname |firstName lastName ,3.0
+sources release |sources releases ,3.0
+structure |structures ,3.0
+hiphop |HipHop ,3.0
+web application |web applications ,3.0
+comment |Comments ,3.0
+server-side programming language |server-side programming languages |server-side programming language ,3.0
+internal |internals ,3.0
+opcode cache |opcode cache ,3.0
+yearsold |yearsOld ,3.0
+commonly |commonly ,3.0
+php distribution |PHP distribution ,3.0
+section |sections ,3.0
+object-oriented programming |object-oriented programming ,3.0
+common |common ,3.0
+date |date ,3.0
+php data object |PHP Data Objects ,3.0
+hormone |Hormones ,3.0
+input |input ,3.0
+magic quote |Magic Quotes |magic quotes ,3.0
+software foundation |Software Foundation ,3.0
+access |access ,3.0
+context |context ,3.0
+just-in-time jit compiler |just-in-time JIT compiler ,2.0
+digg |Digg ,2.0
+behavior |behavior |behaviors ,2.0
+jane doe |Jane Doe ,2.0
+quercus |Quercus ,2.0
+reference implementation |reference implementation ,2.0
+os x |OS X ,2.0
+processing |processing ,2.0
+ez publish |eZ Publish ,2.0
+var |var ,2.0
+released |Released ,2.0
+hypertext preprocessor |Hypertext Preprocessor ,2.0
+news archive |News Archive ,2.0
+php cache |PHP Cache ,2.0
+rewrite |rewrite ,2.0
+configuration file |configuration file ,2.0
+zephir |Zephir ,2.0
+announce |Announce ,2.0
+pecl extension |PECL extension ,2.0
+john smith |John Smith ,2.0
+birthyear |birthYear ,2.0
+built-in web server |Built-in web server ,2.0
+public function |public function ,2.0
+php project |PHP project |PHP projects ,2.0
+aws sdk |AWS SDK ,2.0
+command line usage |Command line usage ,2.0
+stack overflow |Stack Overflow ,2.0
+compiles php |compiles PHP ,2.0
+virtual machine |virtual machine ,2.0
+adder |adder ,2.0
+bundle |bundle ,2.0
+copy |copy ,2.0
+world |world ,2.0
+download |download ,2.0
+good |Good ,2.0
+cli sapi |CLI SAPI ,2.0
+sun microsystem |Sun Microsystems ,2.0
+difference |differences |Differences ,2.0
+configuration setting |configuration setting ,2.0
+apache http server |Apache HTTP Server ,2.0
+repository |repository ,2.0
+array syntax |array syntax ,2.0
+charge |charge ,2.0
+sally davis |Sally Davis ,2.0
+web application framework |web application frameworks ,2.0
+web link |Web link ,2.0
+enable dl configuration directive |enable dl configuration directive ,2.0
+stream |stream ,2.0
+compiler |compilers ,2.0
+allowed |allowed ,2.0
+mod php |mod php ,2.0
+data type |data type ,2.0
+goto retry |goto retry ,2.0
+comp infosystems www authoring cgi |comp infosystems www authoring cgi ,2.0
+web development |web development ,2.0
+university |University ,2.0
+keyword |keywords ,2.0
+simple machines forum |Simple Machines Forum ,2.0
+user |users ,2.0
+total |total ,2.0
+core language level |core language level ,2.0
+runtime setting |runtime settings ,2.0
+target label |target label ,2.0
+canonical php interpreter |canonical PHP interpreter ,2.0
+number |number ,2.0
+announcement |Announcement ,2.0
+configuration option |configuration options ,2.0
+operator |operators ,2.0
+security fix |security fixes ,2.0
+body |body ,2.0
+hiphop virtual machine |HipHop Virtual Machine ,2.0
+php developer |PHP developers ,2.0
+php feature |PHP features ,2.0
+documented |documented ,2.0
+recursive |recursive ,2.0
+c code |C code ,2.0
+integration |integration ,2.0
+approach |approach ,2.0
+import |imports ,2.0
+php performance |PHP performance ,2.0
+official php distribution |official PHP distribution ,2.0
+user-defined function |User-defined functions ,2.0
+month |months |month ,2.0
+wikipedia |Wikipedia ,2.0
+x return |x return ,2.0
+replacement |replacement ,2.0
+age |age ,2.0
+mixed review |mixed reviews ,2.0
+conversations network |Conversations Network ,2.0
+internal format |internal format ,2.0
+b c php |b c PHP ,2.0
+intent |intent ,2.0
+handle |handle ,2.0
+gif image |GIF images |GIF Images ,2.0
+zend engine ii |Zend Engine II ,2.0
+this- firstname |this- firstName ,2.0
+eval |eval ,2.0
+content |contents |Contents ,2.0
+native unicode support |native Unicode support ,2.0
+consistent interface |consistent interface ,2.0
+conversion |conversion ,2.0
+scientific notation |scientific notation ,2.0
+zval |ZVALs ,2.0
+doe |Doe ,2.0
+part |part ,2.0
+native boolean type |native Boolean type |native Boolean types ,2.0
+unsourced statement |unsourced statements ,2.0
+extension writing part ii |Extension Writing Part II ,2.0
+html code |HTML code ,2.0
+source object |source object ,2.0
+function name |function names ,2.0
+clip |clip ,2.0
+microsoft window |Microsoft Windows ,2.0
+quality assurance |Quality Assurance ,2.0
+zend framework |Zend Framework ,2.0
+foo |Foo ,2.0
+false |false ,2.0
+windows azure sdk |Windows Azure SDK ,2.0
+timeline |timeline ,2.0
+compile |compile ,2.0
+command-line scripting |command-line scripting ,2.0
+php internal |php internals ,2.0
+goto statement |goto statement ,2.0
+zend optimizer |Zend Optimizer ,2.0
+project zero |Project Zero ,2.0
+heredoc |heredoc ,2.0
+non-unicode feature |non-Unicode features ,2.0
+normal php function |normal PHP functions ,2.0
+engine configuration directive |engine configuration directive ,2.0
+hash |hashes ,2.0
+lack |lack ,2.0
+following example |following example ,2.0
+uploaded image |uploaded images ,2.0
+b php |b PHP ,2.0
+order |order |Order ,2.0
+parsing |parsing ,2.0
+clone method |clone method ,2.0
+term |terms ,2.0
+de facto standard |de facto standard ,1.0
+object-oriented language |object-oriented languages ,1.0
+widely used opcode cache |widely used opcode cache ,1.0
+multiple reason |multiple reasons ,1.0
+use statement |use statement ,1.0
+en wikipedia |en wikipedia ,1.0
+linux apache |Linux Apache ,1.0
+simple dynamic web application |simple dynamic web applications ,1.0
+anonymous function |Anonymous functions ,1.0
+interoperabilitybridge |Interoperabilitybridges ,1.0
+time |times ,1.0
+standard php |standard PHP ,1.0
+resulting mixture |resulting mixture ,1.0
+script file |script files ,1.0
+uninitialized global variable |uninitialized global variable ,1.0
+configuration parameter |configuration parameters ,1.0
+intermediate language |intermediate language ,1.0
+host |host ,1.0
+optional second argument |optional second argument ,1.0
+logical step |logical step ,1.0
+lexical context |lexical context ,1.0
+info dl |info dl ,1.0
+global namespace |global namespace ,1.0
+feature set |feature set ,1.0
+create function and eval construct |create function and eval constructs ,1.0
+binary notation |binary notations ,1.0
+gervasio |Gervasio ,1.0
+respective operating system |respective operating system ,1.0
+perl and c |Perl and C ,1.0
+devshed |devshed ,1.0
+inherited class |inherited classes ,1.0
+deprecation |deprecation ,1.0
+title php test title |title PHP Test title ,1.0
+core language functionality and thousand |core language functionality and thousands ,1.0
+software framework |software frameworks ,1.0
+php article |PHP article ,1.0
+isbn |ISBN ,1.0
+foundation |foundations ,1.0
+point number |point numbers ,1.0
+integer or string |integer or string ,1.0
+stdio family |stdio family ,1.0
+head body |head body ,1.0
+supported player |supported player ,1.0
+development team |development team ,1.0
+complete source code |complete source code ,1.0
+abstract class |abstract classes ,1.0
+php and facebook facebook |PHP and Facebook Facebook ,1.0
+major php version |major PHP version ,1.0
+suhosin |Suhosin ,1.0
+relational database management system |relational database management systems ,1.0
+open-source software general alternative term |open-source software General Alternative terms ,1.0
+sapi module |SAPI module ,1.0
+dmoz link |DMOZ links ,1.0
+string type |String Type ,1.0
+process management |process management ,1.0
+description |Description ,1.0
+main benchmark suite |main benchmark suite ,1.0
+standard exception handling model |standard exception handling model ,1.0
+variable name |variable names ,1.0
+iteratoraggregate |IteratorAggregate ,1.0
+related topic |Related topics ,1.0
+foreach language |foreach language ,1.0
+amp packages list |AMP packages List ,1.0
+alternative php cache apc |Alternative PHP Cache APC ,1.0
+dynamic generation |dynamic generation ,1.0
+criticism |criticism ,1.0
+php mannual |PHP Mannual ,1.0
+preferred |preferred ,1.0
+beta testing |beta testing ,1.0
+first form |first form ,1.0
+dynamic web page content |dynamic web page content ,1.0
+multi threading |Multi threading ,1.0
+descriptive form |descriptive form ,1.0
+removed item |Removed items ,1.0
+doctype |DOCTYPE ,1.0
+php section |PHP sections ,1.0
+malicious php code |malicious PHP code ,1.0
+room |room ,1.0
+no virtual table feature |no virtual table feature ,1.0
+php server-side scripting language |PHP Server-Side Scripting Language ,1.0
+c or c |C or C ,1.0
+no module support |no module support ,1.0
+php security |PHP security ,1.0
+resource type |resource type ,1.0
+built-in module |built-in modules ,1.0
+function table |function tables ,1.0
+program execution |program execution ,1.0
+download the clip |download the clip ,1.0
+audio format |audio formats ,1.0
+advanced usage scenario |advanced usage scenarios ,1.0
+online php documentation |online PHP documentation ,1.0
+constant |constants ,1.0
+free-form language |free-form language ,1.0
+thousand |thousands ,1.0
+standalone language |standalone language ,1.0
+script language php |script language php ,1.0
+unicode edit php |Unicode edit PHP ,1.0
+eval construct |eval constructs ,1.0
+phtml |phtml ,1.0
+non-zero value |non-zero values ,1.0
+php command-line interface cli executable |PHP command-line interface CLI executable ,1.0
+php usage stat |PHP Usage Stats ,1.0
+hiphop virtual machine hhvm |HipHop Virtual Machine HHVM ,1.0
+php presentation |PHP presentation ,1.0
+dynamic language |dynamic languages ,1.0
+facebook facebook |Facebook Facebook ,1.0
+php and digg |PHP and Digg ,1.0
+overhead |overhead ,1.0
+echo statement |echo statement ,1.0
+first-class function |first-class functions ,1.0
+script delimiter |script delimiters ,1.0
+high-level language |high-level language ,1.0
+main article |Main article ,1.0
+static variable |static variables ,1.0
+zero-argument class constructor function |zero-argument class constructor functions ,1.0
+plush toy form |plush toy form ,1.0
+element |elements ,1.0
+php editor |PHP editors ,1.0
+shared memory |shared memory ,1.0
+bad |Bad ,1.0
+language syntax |language syntax ,1.0
+golemon |Golemon ,1.0
+newline |newlines ,1.0
+functions and constant |functions and constants ,1.0
+session |SESSION ,1.0
+scissors |scissors ,1.0
+person john |Person John ,1.0
+zend engine version |Zend Engine version ,1.0
+type hint |type hints ,1.0
+indiana university |Indiana University ,1.0
+aws amazon |Aws amazon ,1.0
+short delimiter |Short delimiters ,1.0
+main focus |main focus ,1.0
+specific class |specific class ,1.0
+compiled form |compiled form ,1.0
+open-source android application |open-source Android applications ,1.0
+variadic function |variadic functions ,1.0
+memory corruption bug |memory corruption bug ,1.0
+native web server module |native web server module ,1.0
+common delimiter |common delimiters ,1.0
+exponentiation operator |exponentiation operator ,1.0
+true anonymous functions or closure |true anonymous functions or closures ,1.0
+five common php database problem |Five common PHP database problems ,1.0
+iplanet |iPlanet ,1.0
+self-contained |self-contained ,1.0
+bug fix |bug fixes ,1.0
+present day |present day ,1.0
+rdbm |RDBMS ,1.0
+performance benefit |performance benefits ,1.0
+php rfc |PHP RFC ,1.0
+php programming |PHP Programming ,1.0
+force |forces ,1.0
+netscape now defunct |Netscape now defunct ,1.0
+basic example |basic example ,1.0
+file and context |file and context ,1.0
+omnihttpd |OmniHTTPd ,1.0
+wikiversity documentation |Wikiversity Documentation ,1.0
+xml processing instruction |XML processing instructions ,1.0
+first-class object |first-class object ,1.0
+optimizing php performance |optimizing PHP performance ,1.0
+website php net |Website php net ,1.0
+lambda function |Lambda functions ,1.0
+signed value |signed values ,1.0
+book title |book titles ,1.0
+inefficiency |inefficiency ,1.0
+restriction |restriction ,1.0
+audio file |audio file ,1.0
+licensing edit php |Licensing edit PHP ,1.0
+file image |file image ,1.0
+true compiled language |true compiled language ,1.0
+html document |HTML document ,1.0
+absolutely no idea |absolutely no idea ,1.0
+general installation consideration |General Installation Considerations ,1.0
+object handling |Object handling ,1.0
+protection patch |protection patches ,1.0
+php-dev vote rfc |PHP-DEV VOTE RFC ,1.0
+php installation |PHP Installation ,1.0
+passing malicious php |Passing Malicious PHP ,1.0
+numerous extension |Numerous extensions ,1.0
+function and class name |function and class names ,1.0
+requested file |requested file ,1.0
+hello world program |Hello World program ,1.0
+path |path ,1.0
+source distribution |source distribution ,1.0
+php prone |PHP prone ,1.0
+php and zend |PHP and Zend ,1.0
+one-line comment |one-line comments ,1.0
+scalar type |scalar types ,1.0
+member variables and method |member variables and methods ,1.0
+software development kit |software development kits ,1.0
+problem |Problems ,1.0
+php f |PHP F ,1.0
+past |past ,1.0
+dynamic image |dynamic images ,1.0
+most-used open source software |most-used open source software ,1.0
+plan |plan ,1.0
+web service |web services ,1.0
+marks block |marks block ,1.0
+advance |advance ,1.0
+keyword use import |keyword use imports ,1.0
+x return function |x return function ,1.0
+custom php extension |Custom PHP Extensions ,1.0
+php echo |php echo ,1.0
+normal function |normal functions ,1.0
+php ini section |php ini sections ,1.0
+web context |web context ,1.0
+multiple developer |multiple developers ,1.0
+version release date |Version Release date ,1.0
+netscape now defunct and iplanet |Netscape now defunct and iPlanet ,1.0
+embedded database |embedded database ,1.0
+california |California ,1.0
+vote |vote ,1.0
+database server |database servers ,1.0
+file transfer protocol ftp server |File Transfer Protocol FTP servers ,1.0
+comment syntax |comment syntax ,1.0
+whitespace |whitespace ,1.0
+compiler variable |compiler variables ,1.0
+fastcgi process manager fpm |FastCGI Process Manager FPM ,1.0
+late static binding |late static bindings ,1.0
+php instruction |PHP instructions ,1.0
+security and bug fix |security and bug fixes ,1.0
+rfc shortag |rfc shortags ,1.0
+favor |favor ,1.0
+installing php-gtk |Installing PHP-GTK ,1.0
+ugly |Ugly ,1.0
+complex |complex ,1.0
+command line |command line ,1.0
+unsigned integer |Unsigned integers ,1.0
+weak major implementations zend engine |weak Major implementations Zend Engine ,1.0
+goto flow control statement |goto flow control statement ,1.0
+source comparison |source Comparison ,1.0
+mysql conference |MySQL Conference ,1.0
+asp-style short form |ASP-style short forms ,1.0
+marks block and inline comment |marks block and inline comments ,1.0
+irrelevant |irrelevant ,1.0
+advertising clause |advertising clause ,1.0
+trojan |Trojan ,1.0
+consortium |consortium ,1.0
+gpl-incompatible free software license |GPL-Incompatible Free Software Licenses ,1.0
+vote integrating zend optimizer |VOTE Integrating Zend Optimizer ,1.0
+c programmer |C programmers ,1.0
+public lastname |public lastName ,1.0
+mysql performance blog |MySQL Performance Blog ,1.0
+amazon web service |Amazon Web Services ,1.0
+developer meeting note |Developer Meeting Notes ,1.0
+internet-aware system |Internet-aware system ,1.0
+reserved word clone |reserved word clone ,1.0
+native php extension |native PHP extensions ,1.0
+software comparison |software Comparison ,1.0
+first compared |first compared ,1.0
+java and c |Java and C ,1.0
+wide variety |wide variety ,1.0
+linux apache and mysql |Linux Apache and MySQL ,1.0
+standard php library |Standard PHP Library ,1.0
+object model |object model ,1.0
+experimental php branch |experimental PHP branch ,1.0
+create function exist |create function exists ,1.0
+by-value replica |by-value replica ,1.0
+code block |code blocks ,1.0
+synonym |synonym ,1.0
+available microsoft windows binary distribution |available Microsoft Windows binary distributions ,1.0
+postgresql |PostgreSQL ,1.0
+php syntax |PHP syntax ,1.0
+multibyte string |multibyte strings ,1.0
+building block |building blocks ,1.0
+spoken article |spoken articles ,1.0
+condition |conditions ,1.0
+destructor |destructors ,1.0
+encyclopedia jump |encyclopedia Jump ,1.0
+opcache |OpCache ,1.0
+navigation |navigation ,1.0
+compact data structure |compact data structures ,1.0
+negative octal hexadecimal |negative octal hexadecimal ,1.0
+major feature |major features ,1.0
+wrapping c class |Wrapping C Classes ,1.0
+lamp application |LAMP application ,1.0
+getimagesize |getimagesize ,1.0
+unsupported branch |Unsupported Branches ,1.0
+this- lastname lastname |this- lastName lastName ,1.0
+external source |external sources ,1.0
+standalone graphical application |standalone graphical applications ,1.0
+database resource |database resources ,1.0
+percentage |percentage ,1.0
+argument unpacking |argument unpacking ,1.0
+design structure |design structure ,1.0
+semicolon |semicolon ,1.0
+irc |IRC ,1.0
+server-side file |server-side file ,1.0
+firstname lastname return |firstName lastName return ,1.0
+internet information services ii |Internet Information Services IIS ,1.0
+php installation and configuration |PHP Installation and Configuration ,1.0
+null data type |null data type ,1.0
+person |person ,1.0
+devnewz |devnewz ,1.0
+tight interfacing |tight interfacing ,1.0
+php and perl |PHP and Perl ,1.0
+she- greet |she- greet ,1.0
+trachtenberg |Trachtenberg ,1.0
+people |people ,1.0
+revision |revision ,1.0
+kerner |Kerner ,1.0
+popular apache http server module |popular Apache HTTP Server module ,1.0
+confusion |confusion ,1.0
+custom extension |custom extensions ,1.0
+high-level bytecode |high-level bytecode ,1.0
+php-fpm fastcgi process manager |PHP-FPM FastCGI Process Manager ,1.0
+taint checking |taint checking ,1.0
+comparison operator |Comparison operators ,1.0
+default setting |default settings ,1.0
+b history |b History ,1.0
+idg lerdorf |IDG Lerdorf ,1.0
+computer language |computer languages ,1.0
+audio help |Audio help ,1.0
+inline comment |inline comments ,1.0
+mascot edit |Mascot edit ,1.0
+combination |combination ,1.0
+high-profile open-source project |high-profile open-source projects ,1.0
+use edit |Use edit ,1.0
+syntax edit |Syntax edit ,1.0
+general-purpose programming language |general-purpose programming language ,1.0
+dynamic web page |dynamic web pages ,1.0
+interpreter predecessor |interpreter predecessor ,1.0
+improved performance |improved performance ,1.0
+phusion passenger topics web resource |Phusion Passenger Topics Web resource ,1.0
+php logo |PHP logo ,1.0
+b lerdorf |b Lerdorf ,1.0
+remaining non-unicode feature |remaining non-Unicode features ,1.0
+citation given php and mysql |citation given PHP and MySQL ,1.0
+bug location |bug location ,1.0
+url parameter |URL parameters ,1.0
+php archive |PHP archives ,1.0
+target label retry |target label retry ,1.0
+ahack ru |Ahack ru ,1.0
+public private |Public Private ,1.0
+previous version |previous versions ,1.0
+dynamic content |dynamic content ,1.0
+mamp |MAMP ,1.0
+post |POST ,1.0
+web application frameworks references edit |web application frameworks References edit ,1.0
+implements efficient data access interface |implements efficient data access interfaces ,1.0
+built-in library |built-in library ,1.0
+server-side scripting language |server-side scripting languages ,1.0
+thin wrapper |thin wrapper ,1.0
+santa clara |Santa Clara ,1.0
+hardening-patch |Hardening-Patch ,1.0
+processing instruction |Processing Instructions ,1.0
+stream containing text |stream containing text ,1.0
+moodle org |Moodle org ,1.0
+languages comparison |languages Comparison ,1.0
+php runtime |PHP runtime ,1.0
+lamp architecture |LAMP architecture ,1.0
+namespace |namespaces ,1.0
+christian seiler |Christian Seiler ,1.0
+run-time decision |run-time decision ,1.0
+manual installation requirements php |Manual Installation requirements PHP ,1.0
+unix-like operating system |Unix-like operating systems ,1.0
+potentially dated statements article |potentially dated statements Articles ,1.0
+decimal positive |decimal positive ,1.0
+enterprise |enterprises ,1.0
+server load |server load ,1.0
+static keyword |Static Keyword ,1.0
+re-engineered php engine |re-engineered PHP Engine ,1.0
+taint mode decision |Taint mode decision ,1.0
+mime support |MIME support ,1.0
+early version |early versions ,1.0
+general-purpose scripting language |general-purpose scripting language ,1.0
+cultural works free license |Cultural Works Free license ,1.0
+elephpant php mascot |ElePHPant PHP mascot ,1.0
+dynamic loading |dynamic loading ,1.0
+abstraction layer |abstraction layer ,1.0
+improved variable syntax |improved variable syntax ,1.0
+recursive backronym |recursive backronym ,1.0
+sqlite |SQLite ,1.0
+php and related project |PHP and related projects ,1.0
+current form |current form ,1.0
+private method |Private Methods ,1.0
+pipp |Pipp ,1.0
+complete compatibility |complete compatibility ,1.0
+double quote |double quotes ,1.0
+php license incompatible |PHP License incompatible ,1.0
+personal homepage |personal homepage ,1.0
+software work |software works ,1.0
+widely used php implementation |widely used PHP implementation ,1.0
+green stable release bug |Green Stable release Bug ,1.0
+extension writing part iii |Extension Writing Part III ,1.0
+underlying library |underlying library ,1.0
+common gateway interface cgi executable |Common Gateway Interface CGI executable ,1.0
+defined and documented |defined and documented ,1.0
+first letter |first letter ,1.0
+class person |class Person ,1.0
+suhosin and hardening-patch |Suhosin and Hardening-Patch ,1.0
+myage yearsold date |myAge yearsOld date ,1.0
+improved support |improved support ,1.0
+enhancing performance |enhancing performance ,1.0
+original license |original license ,1.0
+heredoc string |heredoc strings ,1.0
+official distribution |official distribution ,1.0
+b c d e type |b c d e Types ,1.0
+preface |Preface ,1.0
+thread |threads ,1.0
+lacking support |lacking support ,1.0
+unicode icu library |Unicode ICU library ,1.0
+older fastcgi implementation |older FastCGI implementation ,1.0
+command-line interface cli capability |command-line interface CLI capability ,1.0
+security update |security updates ,1.0
+official launch |official launch ,1.0
+convention |conventions ,1.0
+mjtsai |mjtsai ,1.0
+html head |html head ,1.0
+type hinting |Type hinting ,1.0
+binding |Binding ,1.0
+public firstname |public firstName ,1.0
+person sally |Person Sally ,1.0
+staticgreet jane |staticGreet Jane ,1.0
+broad overview |broad overview ,1.0
+closing tag |closing tag ,1.0
+programming and testing |programming and testing ,1.0
+alternative fastcgi implementation |alternative FastCGI implementation ,1.0
+loop |loops ,1.0
+binary compatibility |binary compatibility ,1.0
+sampled |sampled ,1.0
+configuration file php ini |Configuration file php ini ,1.0
+parrot influenced |Parrot Influenced ,1.0
+runtime system |runtime system ,1.0
+no written specification |no written specification ,1.0
+shortage |shortage ,1.0
+complex and nuanced semantics |complex and nuanced semantics ,1.0
+drupal org |Drupal org ,1.0
+mysqlnd |mysqlnd ,1.0
+initial hope |Initial hopes ,1.0
+inconsistent naming |inconsistent naming ,1.0
+protected limits access |protected limits access ,1.0
+floating point notation |floating point notation ,1.0
+server-side protocol |Server-side Protocols ,1.0
+short open tag configuration |short open tag configuration ,1.0
+ldap server |LDAP servers ,1.0
+inconsistent ordering |inconsistent ordering ,1.0
+generated web page |generated web page ,1.0
+true anonymous function |true anonymous functions ,1.0
+future |future ,1.0
+php paradigm |PHP Paradigm ,1.0
+adobe flash content |Adobe Flash content ,1.0
+wamp |WAMP ,1.0
+sdk |SDKs ,1.0
+server-side dynamic content white paper |Server-Side Dynamic Content White Paper ,1.0
+key |keys ,1.0
+default clone |default clone ,1.0
+support jit compilation |support JIT compilation ,1.0
+web server configuration |web server configuration ,1.0
+output text |output text ,1.0
+lambda functions and closure |Lambda functions and closures ,1.0
+o reilly network |O Reilly Networks ,1.0
+runtime settings vulnerability |runtime settings vulnerability ,1.0
+security hole |security holes ,1.0
+mac os x base |Mac OS X base ,1.0
+simpler installation mechanism |simpler installation mechanism ,1.0
+circular reference |circular references ,1.0
+direct module interface |direct module interface ,1.0
+lightweight |lightweight ,1.0
+image or audio format |image or audio formats ,1.0
+open-source software package |open-source software packages ,1.0
+thing |things ,1.0
+echo person |echo Person ,1.0
+flexible function naming |Flexible function naming ,1.0
+function return |function returns ,1.0
+dealing |dealing ,1.0
+php security exploit |PHP Security Exploit ,1.0
+zend engine license filename extension |Zend Engine License Filename extension ,1.0
+public private and protected |Public Private and Protected ,1.0
+hash value |hash values ,1.0
+commons textbook |Commons Textbooks ,1.0
+function call |Function calls ,1.0
+php and apache |PHP and Apache ,1.0
+wordpress-based benchmark |WordPress-based benchmarks ,1.0
+ide |Ide ,1.0
+script run |script runs ,1.0
+y use |y use ,1.0
+manner |manner ,1.0
+github |GitHub ,1.0
+additional argument y |additional argument y ,1.0
+php variable |PHP variables ,1.0
+certification exam |certification exam ,1.0
+session unregister |session unregister ,1.0
+convenience |convenience ,1.0
+download the clip or download |download the clip or download ,1.0
+hardened-php project |Hardened-PHP Project ,1.0
+ramat gan |Ramat Gan ,1.0
+php accelerators list |PHP accelerators List ,1.0
+final method |final methods ,1.0
+php manual image processing |PHP Manual Image Processing ,1.0
+php engine |PHP engine ,1.0
+webhosting talk |WebHosting Talk ,1.0
+closure re-binding |closure re-binding ,1.0
+php file |PHP files ,1.0
+ereg extension |ereg extension ,1.0
+delay |delays ,1.0
+small |small ,1.0
+file or stream containing text |file or stream containing text ,1.0
+caller |caller ,1.0
+common intermediate language cil |Common Intermediate Language CIL ,1.0
+primary way |primary ways ,1.0
+rapid application development rad |rapid application development RAD ,1.0
+series |series ,1.0
+internationalization extension |Internationalization extension ,1.0
+text string |text strings ,1.0
+open-source graphics device driver comparison |open-source graphics device driver Comparison ,1.0
+popular compression format |popular compression formats ,1.0
+internetnew |InternetNews ,1.0
+double-quoted |double-quoted ,1.0
+server requirement |Server requirements ,1.0
+parrot intermediate representation |Parrot intermediate representation ,1.0
+public static function |public static function ,1.0
+internal scripting language |internal scripting language ,1.0
+wamp and mamp |WAMP and MAMP ,1.0
+php script opcode |PHP script opcodes ,1.0
+phpunit php unit |PHPUnit PHP Unit ,1.0
+situation |situations ,1.0
+null |NULL ,1.0
+function name consistency |Function name consistency ,1.0
+server-side web development |server-side web development ,1.0
+security edit |Security edit ,1.0
+non-php code |non-PHP code ,1.0
+special interface |special interfaces ,1.0
+arbitrary meaningful left-hand-side expression |arbitrary meaningful left-hand-side expressions ,1.0
+additional feature |additional features ,1.0
+product |products ,1.0
+numerous function |Numerous functions ,1.0
+fastcgi processor |FastCGI processor ,1.0
+item |Items ,1.0
+extension structure |Extension structure ,1.0
+callback |callbacks ,1.0
+markup |markup ,1.0
+templating engine |templating engines ,1.0
+private limit |private limits ,1.0
+abstract method |abstract methods ,1.0
+additional function |Additional functions ,1.0
+onlamp ibm developerwork |ONLamp IBM DeveloperWorks ,1.0
+simplest version |simplest version ,1.0
+keys and value |keys and values ,1.0
+wayback machine |Wayback Machine ,1.0
+templating engines and web framework |templating engines and web frameworks ,1.0
+usenet discussion group comp infosystem |Usenet discussion group comp infosystems ,1.0
+community edit php |community edit PHP ,1.0
+trait |traits ,1.0
+user-facing portion |user-facing portion ,1.0
+final class |final classes ,1.0
+iterator |Iterator ,1.0
+heavily loaded web server |heavily loaded web servers ,1.0
+suraski and gutman |Suraski and Gutmans ,1.0
+successful migration |successful migration ,1.0
+php parser compiles input |PHP parser compiles input ,1.0
+shortened form |shortened forms ,1.0
+www php net |www php net ,1.0
+php classes blog |PHP Classes blog ,1.0
+shell application |shell applications ,1.0
+conjunction |conjunction ,1.0
+unicode and php |Unicode and PHP ,1.0
+core php ini |core php ini ,1.0
+alabama |Alabama ,1.0
+platform-dependent range |platform-dependent range ,1.0
+network |network ,1.0
+near-complete language compatibility |near-complete language compatibility ,1.0
+php taint mode rfc |PHP Taint Mode RFC ,1.0
+licenses and comment |Licenses and Comments ,1.0
+generator |generators ,1.0
+web hosting provider |web hosting providers ,1.0
+constructor |constructors ,1.0
+nuanced semantics |nuanced semantics ,1.0
+group php net |group php net ,1.0
+transition |transition ,1.0
+certified php developer |certified PHP developers ,1.0
+list |lists ,1.0
+inclusion |inclusion ,1.0
+hphpc support |HPHPc support ,1.0
+basic functionality |basic functionality ,1.0
+no written specification or standard |no written specification or standard ,1.0
+performance problem |performance problems ,1.0
+core language functionality |core language functionality ,1.0
+xml document |XML documents ,1.0
+blue |blue ,1.0
+php and drupal |PHP and Drupal ,1.0
+cloud environment |cloud environments ,1.0
+continuing example |Continuing Example ,1.0
+identity operator |identity operator ,1.0
+prior written permission |prior written permission ,1.0
+subsequent edit |subsequent edits ,1.0
+c style syntax |C style syntax ,1.0
+zend opcache |Zend Opcache ,1.0
+callback function |callback functions ,1.0
+counter extension |counter Extension ,1.0
+retrospect |retrospect ,1.0
+form handling |form handling ,1.0
+imperative |imperative ,1.0
+php accelerator list |PHP accelerator List ,1.0
+memory requirement |memory requirements ,1.0
+mediawiki listen |MediaWiki Listen ,1.0
+core php features and extension |core PHP features and extensions ,1.0
+andi gutmans and zeev suraski |Andi Gutmans and Zeev Suraski ,1.0
+iterator or iteratoraggregate |Iterator or IteratorAggregate ,1.0
+member variable |member variables ,1.0
+non-php text |non-PHP text ,1.0
+true and zero |true and zero ,1.0
+itworld |ITworld ,1.0
+jump label limited goto |jump label limited goto ,1.0
+yellow stable release security |Yellow Stable release Security ,1.0
+windows api |Windows API ,1.0
+class name |class names ,1.0
+full php compatibility |full PHP compatibility ,1.0
+international component |International Components ,1.0
+different location |different locations ,1.0
+related project |related projects ,1.0
+xhtml |XHTML ,1.0
+php foo |PHP Foo ,1.0
+phpdbg debugger |phpdbg debugger ,1.0
+echo he- greet |echo he- greet ,1.0
+drawback |drawback ,1.0
+standard problem |standard problems ,1.0
+haudio microformat |hAudio microformats ,1.0
+slide |slides ,1.0
+php function list |PHP Function List ,1.0
+user code |user code ,1.0
+history edit |history edit ,1.0
+securityspace |SecuritySpace ,1.0
+interoperability |Interoperability ,1.0
+microsoft ii |Microsoft IIS ,1.0
+c-language long type |C-language long type ,1.0
+incompatible value |incompatible values ,1.0
+stable version |stable version ,1.0
+fact |fact ,1.0
+expense |expense ,1.0
+b security |b Security ,1.0
+language feature |language features ,1.0
+unicode integration |Unicode integration ,1.0
+first use |first use ,1.0
+compilers or support jit compilation |compilers or support JIT compilation ,1.0
+javascript disabled |JavaScript disabled ,1.0
+detail |Details ,1.0
+bray |Bray ,1.0
+web form |web forms ,1.0
+implementations edit |Implementations edit ,1.0
+nibble security |Nibble Security ,1.0
+default value |default values ,1.0
+echo other- greet |echo other- greet ,1.0
+alternative implementation |Alternative implementations ,1.0
+attacker |attacker ,1.0
+session is registered |session is registered ,1.0
+created object |created object ,1.0
+php binary |PHP binary ,1.0
+instance |instance ,1.0
+strings and array |strings and arrays ,1.0
+zephir-lang |zephir-lang ,1.0
+no new feature |No new features ,1.0
+filter extension |filter extension ,1.0
+dispute |dispute ,1.0
+mime magic |mime magic ,1.0
+cloud-specific feature |cloud-specific features ,1.0
+personal home page forms interpreter |Personal Home Page Forms Interpreter ,1.0
+type conversion |type conversions ,1.0
+server application programming interface sapi |Server Application Programming Interface SAPI ,1.0
+external links edit |External links edit ,1.0
+magic quotes gpc |magic quotes gpc ,1.0
+short array syntax support |short array syntax support ,1.0
+core php feature |core PHP features ,1.0
+software project |software projects ,1.0
+theserverpage |Theserverpages ,1.0
+portability |portability ,1.0
+function lock |function lock ,1.0
+numerous performance enhancement |numerous performance enhancements ,1.0
+php syntax and semantics |PHP syntax and semantics ,1.0
+phpng project |PHPNG project ,1.0
+integer variable |Integer variables ,1.0
+spl standardphplibrary |SPL StandardPHPLibrary ,1.0
+five simple way |Five simple ways ,1.0
+execution speed |execution speed ,1.0
+popularity |popularity ,1.0
+first release |first release ,1.0
+basic syntax |Basic syntax ,1.0
+digital sandwich |Digital Sandwich ,1.0
+php disambiguation |PHP disambiguation ,1.0
+json xml |JSON XML ,1.0
+performance improvement |performance improvements ,1.0
+technical security flaw |Technical security flaws ,1.0
+local php configuration |local PHP configuration ,1.0
+first php-enabled page |first PHP-enabled page ,1.0
+constructors and destructor |constructors and destructors ,1.0
+web hosting environment |web hosting environments ,1.0
+created closure |created closure ,1.0
+success |Success ,1.0
+resulting code |resulting code ,1.0
+rasmus lerdorf developer |Rasmus Lerdorf Developer ,1.0
+hash function |hash function ,1.0
+tag |tags ,1.0
+enterprise party |enterprise party ,1.0
+dollar symbol |dollar symbol ,1.0
+web content management system |Web content management systems ,1.0
+hundred |hundreds ,1.0
+tim |Tim ,1.0
+object cloning |Object cloning ,1.0
+multiple interface |multiple interfaces ,1.0
+separate php code |separate PHP code ,1.0
+shared web hosting environment |shared web hosting environment ,1.0
+feature set and enhancing performance |feature set and enhancing performance ,1.0
+table |Table ,1.0
+phpng php next generation |PHPNG PHP Next Generation ,1.0
+lightweight and consistent interface |lightweight and consistent interface ,1.0
+framework simpletest lime symfony |Framework SimpleTest Lime Symfony ,1.0
+high level language |high level languages ,1.0
+news php net |News php net ,1.0
+major change |major changes ,1.0
+smaller improvement |smaller improvements ,1.0
+citation given php |citation given PHP ,1.0
+web browser |web browser ,1.0
+arrayacces |ArrayAccess ,1.0
+facilities php |facilities PHP ,1.0
+fwrite file |fwrite file ,1.0
+operating system and platform |operating system and platform ,1.0
+uniform variable syntax |Uniform Variable Syntax ,1.0
+senior technical yahoo |Senior Technical Yahoo ,1.0
+highly |highly ,1.0
+zend license |Zend License ,1.0
+improved windows support |improved Windows support ,1.0
+instruction separation |Instruction separation ,1.0
+php function reference |PHP function reference ,1.0
+mix |mix ,1.0
+php new operator |PHP new operator ,1.0
+functions edit php |Functions edit PHP ,1.0
+mic |Mic ,1.0
+small and self-contained |small and self-contained ,1.0
+existing features performance |existing features performance ,1.0
+directory |directory ,1.0
+input validation |input validation ,1.0
+native json support |Native JSON support ,1.0
+wikibooks php |Wikibooks PHP ,1.0
+similar package |Similar packages ,1.0
+php-gtk extension |PHP-GTK extension ,1.0
+fclose file |fclose file ,1.0
+functional object-oriented procedural reflective designed |functional object-oriented procedural reflective Designed ,1.0
+pecl php net |Pecl php net ,1.0
+web framework |web frameworks ,1.0
+sample program |sample program ,1.0
+program |programs ,1.0
+identical |identical ,1.0
+numerous configuration option |Numerous configuration options ,1.0
+perl-like variable |Perl-like variables ,1.0
+long-standing issue |long-standing issue ,1.0
+wikibooks learning resource |Wikibooks Learning resources ,1.0
+public function greet |public function greet ,1.0
+web industry |web industry ,1.0
+popular implementation |popular implementation ,1.0
+b usage |b Usage ,1.0
+static binding |static binding ,1.0
+protected |Protected ,1.0
+libmysql |libmysql ,1.0
+blog facebook |Blog facebook ,1.0
+no formal specification |no formal specification ,1.0
+boolean type conversion rule |Boolean type conversion rules ,1.0
+gnu general public license gpl |GNU General Public License GPL ,1.0
+admin password reset |Admin Password Reset ,1.0
+mistake |mistakes ,1.0
+register global |Register Globals ,1.0
+lamp software bundle |LAMP software bundle ,1.0
+squid |Squid ,1.0
+microsoft sql server |Microsoft SQL Server ,1.0
+aperiplus sourceforge net |Aperiplus sourceforge net ,1.0
+platform-specific range |platform-specific range ,1.0
+single quote |single quotes ,1.0
+alejandro |Alejandro ,1.0
+public testing |public testing ,1.0

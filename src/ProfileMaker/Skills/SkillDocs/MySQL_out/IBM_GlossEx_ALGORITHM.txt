@@ -1,0 +1,964 @@
+storage engine |storage engine |storage engines ,-0.5268188149791867
+open source |Open Source |open source ,-0.5484899570672911
+sun microsystem |Sun Microsystems ,-0.6556786718233582
+mysql database |MySQL database |MySQL databases |MySQL Database ,-0.6765924671288204
+mysql ab |MySQL AB ,-0.7578899785162269
+mysql server |MySQL servers |MySQL server ,-0.7744950960144753
+front end |front end ,-0.8087327647820888
+mysql version |MySQL versions |MySQL version ,-0.8506433219157207
+press release |Press release |press release ,-0.8572940549623744
+mysql database engine |MySQL database engines ,-0.860385870193253
+mysql server support |MySQL Server Support ,-0.8850467544358943
+mysql workbench |MySQL Workbench ,-0.889312780802155
+dev mysql |Dev mysql |dev mysql ,-0.8986810979487458
+oracle corporation |Oracle Corporation ,-0.9004007295050473
+mysql enterprise |MySQL Enterprise ,-0.9018002081985571
+cloud database mysql |Cloud database MySQL ,-0.9042636276142542
+david axmark |David Axmark ,-0.9069378016161678
+mysql storage engine |MySQL storage engine ,-0.9150069638844895
+mysql development |MySQL development ,-0.9158402266031689
+mysql acquisition |MySQL Acquisition ,-0.9360186600200666
+monty wideniu |Monty Widenius ,-0.9399835794779858
+mysql community server |MySQL Community Server ,-0.9414571951599594
+mysql enterprise server |MySQL Enterprise Server ,-0.9460277783467257
+b mysql |b mysql ,-0.9560748088336258
+unsourced statement |unsourced statements ,-0.967749397376801
+percona toolkit |Percona Toolkit ,-0.9698610652368472
+mysql support manual |MySQL Support Manual ,-0.9714709640007707
+innodb storage engine |InnoDB Storage Engine |InnoDB storage engine ,-0.9732315475308435
+mysql fabric |MySQL Fabric ,-0.977002058287773
+database system |database systems ,-0.9783871302957156
+mysql client |mysql client ,-0.9811951823476635
+database engine |database engine ,-0.9826076412333304
+mysql front end |MySQL front end ,-0.9838564422396021
+mysql database source code |MySQL database source code ,-0.9921959132083314
+features edit mysql |Features edit MySQL ,-0.9931040292231378
+innodb storage |InnoDB storage ,-1.0127226899829609
+mysql list |MySQL Lists ,-1.0148311850612932
+mysql website |MySQL website ,-1.0148311850612932
+production release |production release ,-1.017552983903483
+mysql customer |MySQL Customers |MySQL Customer ,-1.023422483443173
+open source mysql community server |open source MySQL Community Server ,-1.0235271642509298
+mysql reference manual |MySQL Reference Manual ,-1.0265704059217184
+support and service |support and services ,-1.0269958128760912
+mysql enterprise backup |MySQL Enterprise Backup ,-1.0271011804237558
+www mysql |www mysql ,-1.0335483254110343
+mysql cluster replication |MySQL Cluster Replication ,-1.036732483302638
+mysql download |MySQL Downloads ,-1.0371398718785274
+mysql open source license |MySQL Open Source License ,-1.038205743911939
+mysql server review |MySQL Server Review ,-1.0383906449633593
+sql database |SQL databases ,-1.0412745748693844
+database tool |database tools ,-1.0412745748693844
+programming edit mysql |Programming edit MySQL ,-1.0445995295203678
+michael wideniu |Michael Widenius ,-1.0494712029354
+mysql apis and command |MySQL APIs and commands ,-1.0501459583638306
+common mysql feature |common MySQL features ,-1.054102114704327
+os x |OS X ,-1.0543502193523433
+mysql development project |MySQL development project ,-1.062996566867532
+b dev mysql |b dev mysql ,-1.0637255319958003
+heidisql mysql gui mysql workbench |HeidiSQL MySQL GUI MySQL Workbench ,-1.063919525078241
+database workbench |Database Workbench ,-1.064789260045924
+percona server |Percona Server ,-1.0648579068245096
+mysql copyright |MySQL copyright ,-1.065902371717697
+mysql front-end |MySQL front-ends ,-1.065902371717697
+mysql apis |MySQL APIs ,-1.065902371717697
+mysql ship |MySQL ships ,-1.065902371717697
+mysql gui tool |MySQL GUI Tools ,-1.0665030980290182
+future mysql server development |Future MySQL Server development ,-1.070858806981844
+oracle press release |Oracle press release ,-1.0709433762301073
+available proprietary mysql front end |available proprietary MySQL front ends ,-1.0720101504518722
+mysql cluster multiple storage engine |MySQL Cluster Multiple storage engines ,-1.0732167792243863
+accessing mysql database |accessing MySQL databases ,-1.0847226654633557
+mysql performance blog |MySQL Performance Blog ,-1.0856333038008514
+proprietary and gpl version |proprietary and GPL versions ,-1.090148687327683
+os x mysql |OS X MySQL ,-1.090733162771587
+history edit mysql |History edit MySQL ,-1.0907870039717058
+google runs mysql |Google Runs MySQL ,-1.0965339212375622
+sun press release |Sun Press release ,-1.1017470146745139
+oracle sql developer |Oracle SQL Developer ,-1.1044552603596374
+european commission |European Commission ,-1.1048778102882055
+mysql front-end tool |MySQL front-end tools ,-1.1056327759572917
+mysql founder |MySQL founders ,-1.1064431356248854
+mysql ma |MySQL ma ,-1.1064431356248854
+managed mysql cloud |Managed MySQL cloud ,-1.1099276029853467
+multiple database |multiple databases ,-1.1099542922753298
+versions edit |Versions edit ,-1.1112085787320223
+berkeley db |Berkeley DB ,-1.1113316624019627
+openoffice org |OpenOffice org ,-1.1113316624019627
+mysql server team |MySQL Server Team ,-1.1116184335465191
+remote mysql server |remote MySQL servers ,-1.1116184335465193
+gpl version |GPL versions |GPL version ,-1.1167659324304537
+mysql federated table |MySQL Federated Tables ,-1.1177403260187453
+mysql and innobase oy |MySQL and Innobase OY ,-1.1194309560697662
+mysql copyright and trademark |MySQL copyright and trademark ,-1.1194309560697662
+mysql developers review |MySQL Developers Review ,-1.1194520238444174
+google releases improved mysql code |Google Releases Improved MySQL Code ,-1.1235395909493096
+features include |features include ,-1.1266762160173778
+mysql command-line tool |MySQL command-line tool |MySQL Command-Line Tool ,-1.1275160092214382
+single server |single server ,-1.127980007826845
+c and c |C and C ,-1.129413659998294
+community and enterprise edition |community and enterprise editions ,-1.1304589105560074
+source code |source code ,-1.1313249704591795
+mysql official website mysql site |MySQL Official website MySQL site ,-1.1320783675739734
+mysql query browser |MySQL Query Browser ,-1.1326085084587607
+lifecycle support |Lifecycle Support ,-1.1330526786851531
+development and administration |development and administration ,-1.1336657914983077
+software application |software application ,-1.134778683971287
+supports backup |Supports backup ,-1.1355568872788624
+desktop software and web application |desktop software and web applications ,-1.135587151612995
+community edition |Community Edition |community edition ,-1.137545842293005
+relational database management system |relational database management system ,-1.1388251712701833
+mysql co-founder video mysql |MySQL co-founder Video MySQL ,-1.1410976062611113
+backup software |backup software ,-1.1419097785193755
+proprietary enterprise server |proprietary Enterprise Server ,-1.1439656926862736
+open source tool |open source tools ,-1.146368049171862
+oracle solaris |Oracle Solaris ,-1.1469275667386103
+high availability |high availability ,-1.1485297437878947
+libreoffice base |LibreOffice Base ,-1.1499316376991968
+federated storage engine |Federated Storage Engine ,-1.1507519435508025
+mysql enterprise product |MySQL Enterprise products ,-1.1518033684003717
+performance and usage |performance and usage ,-1.1529494195340004
+default innodb storage engine |default InnoDB Storage Engine ,-1.1534961050083312
+web application |web applications ,-1.1560140616474581
+development and administration front end |development and administration front end ,-1.1586265259268833
+proprietary use |proprietary use ,-1.1599492090514933
+default storage engine |default storage engine ,-1.1636606438581614
+website www mysql |Website www mysql ,-1.1639175942727602
+ab developer |AB Developer ,-1.1727091204782454
+different database system |different database systems ,-1.1739356377920895
+mysql administrator |MySQL Administrator ,-1.175752066868199
+mysql adapter |MySQL adapter ,-1.175752066868199
+planet mysql |Planet MySQL ,-1.175752066868199
+lists mysql |Lists mysql ,-1.175752066868199
+acquire mysql |Acquire MySQL ,-1.175752066868199
+mysql university |MySQL University ,-1.175752066868199
+multi-server mysql |multi-server MySQL ,-1.175752066868199
+database structure |database structure ,-1.1788970813791526
+database administration |Database administration ,-1.1788970813791526
+community edit |Community edit ,-1.180257285191563
+application owner |application owner |application owners ,-1.1802881772146563
+authoritative mysql front end |authoritative MySQL front end ,-1.1809168121887692
+progress software |Progress Software ,-1.1812137914802574
+sql standard |SQL standard |SQL standards ,-1.1829899710542828
+xtradb storage engine |XtraDB storage engine ,-1.1836151131483927
+open source software company |Open Source Software Company ,-1.1836466499076364
+default innodb storage engine transaction |default InnoDB storage engine Transactions ,-1.1844125462695654
+swedish company mysql ab |Swedish company MySQL AB ,-1.185757933766171
+no new release |no new releases ,-1.186165979173315
+third-party innodb storage engine |third-party InnoDB storage engine ,-1.1877388459648255
+potentially dated statement |potentially dated statements ,-1.190406598969495
+mysql developer zone |MySQL Developer Zone ,-1.1926769999261324
+sql development |SQL development ,-1.19301031785392
+open source community edition |open source Community Edition ,-1.1940263076308022
+web-based database management tool |web-based database management tool ,-1.1961201359448435
+multiple relational database |multiple relational databases ,-1.196951393910087
+mysql enterprise subscription |MySQL Enterprise subscription ,-1.1980051796404745
+mysql internals manual |MySQL Internals Manual ,-1.1980051796404745
+multi-threaded sql database server |multi-threaded sql database server ,-1.198466014634976
+original developer |Original Developer ,-1.1988710074146447
+original development |Original development ,-1.1988710074146447
+mysql commercial license |MySQL Commercial License ,-1.2037978837921846
+proprietary graphical database management application |proprietary graphical database management applications ,-1.205109375689436
+standalone database server |standalone database server ,-1.2052742955829767
+enhancements and features include |Enhancements and features include ,-1.205792197623687
+end user |end users ,-1.2068752781819985
+mysql stored procedure programming |MySQL Stored Procedure Programming ,-1.208728706868501
+mysql users conference |MySQL Users Conference ,-1.210143787409074
+powerful proprietary database |powerful proprietary databases ,-1.2110142840791227
+oracle announce |Oracle Announces ,-1.2133880408136046
+command line tool |command line tools ,-1.2162998103368352
+mysql goes gpl |MySQL GOES GPL ,-1.217159658814378
+mysql galera multi-master replication |MySQL Galera Multi-Master Replication ,-1.2178963950113426
+web-based front end |Web-based front end ,-1.2187082801042517
+open source platform |Open Source Platform ,-1.2207577889186179
+eben moglen |Eben Moglen ,-1.223046237421242
+mysql connector net |MySQL Connector Net ,-1.2249786521044872
+proprietary license |proprietary license ,-1.2270195479053714
+future release |future releases ,-1.2271859604662778
+release model |Release Model ,-1.2271859604662778
+ndb cluster storage engine |NDB Cluster Storage Engine ,-1.2280898797797437
+database service provider |database service provider ,-1.2281706540049093
+oracle corporation initial release |Oracle Corporation Initial release ,-1.2301077640815512
+operating system |operating system ,-1.234646115340986
+references edit change |References edit Changes ,-1.235057743503005
+amazon relational database service |Amazon Relational Database Service ,-1.2376284488182234
+michael monty wideniu |Michael Monty Widenius ,-1.2378632208594158
+sql interface |SQL interface ,-1.2381009845394004
+notable cloud-based mysql service |Notable cloud-based MySQL services ,-1.238118040113607
+code base |code base ,-1.2390516405619183
+dev community |Dev Community ,-1.2427304124370127
+powerful master database |powerful master database ,-1.2428093527057316
+primary server |primary server ,-1.244844655410699
+server failure |server failure ,-1.244844655410699
+community common development |Community Common Development ,-1.2461930834532589
+creation and management |creation and management ,-1.2466999434794408
+programming language |programming languages ,-1.247196289425106
+full-featured database management system |full-featured database management system ,-1.2476828817502268
+database sharding |Database Sharding ,-1.2480094263288186
+partners and dev community |Partners and Dev Community ,-1.249117782835183
+additional support |additional support ,-1.2504573855877459
+multi-master support |multi-master support ,-1.2504573855877459
+system platform |system platforms ,-1.2516777504346945
+enterprise edition |enterprise editions ,-1.2522239358792833
+local or remote mysql server |local or remote MySQL servers ,-1.253843680385068
+command line edit |Command line edit ,-1.2546583561774882
+developer interface |developer interfaces ,-1.255997968677568
+web client |web client ,-1.2560835516994646
+desktop software |desktop software ,-1.2564712903962527
+linux distribution |Linux distributions ,-1.2570394999665735
+progress software corporation |Progress Software Corporation ,-1.2580986989850766
+innobase oy |Innobase OY ,-1.2588391273655717
+mysqlmusings blogspot |mysqlmusings blogspot ,-1.2588391273655717
+gpl license |GPL license ,-1.2597782926423835
+administration front end |administration front end ,-1.2622557810226078
+youtube google |YouTube Google ,-1.2631678462436071
+innobase press release |Innobase Press release ,-1.2652466590570186
+legal and acquisition impacts edit |Legal and acquisition impacts edit ,-1.2661789395524783
+terremark and rackspace offer |Terremark and Rackspace offer ,-1.266630906368099
+c and vb |C and VB ,-1.2678416901394687
+cloud deployment edit main article |Cloud deployment edit Main article ,-1.2679422697611384
+odbc data source |ODBC data sources ,-1.2681020926659536
+machine image |machine image ,-1.2691855503915193
+judge sari |Judge Saris ,-1.2691855503915193
+improved performance and reliability |improved performance and reliability ,-1.2725497011088562
+stored procedure |stored procedures ,-1.2728884927638746
+msql system |mSQL system ,-1.2733550050461915
+microsoft access |Microsoft Access ,-1.275265303197118
+federated storage engine state |Federated Storage Engine states ,-1.2766939014125385
+data record |data records ,-1.2778848719373224
+amazon web service |Amazon Web Services ,-1.2779520638871522
+included command line tool |included command line tools ,-1.2808302548357453
+storage device |storage device ,-1.2817303656603038
+proof-of-concept storage engine |proof-of-concept storage engine ,-1.2821546120182183
+feature set |feature set ,-1.2823519002682982
+graphical edit |Graphical edit ,-1.285101347463974
+server plugin |server plugins ,-1.2851683873163064
+distributed server cluster |distributed server clusters ,-1.2852660634984197
+related project |Related projects ,-1.2862416320263268
+gnu gpl |GNU GPL ,-1.2865566561166182
+odbc interface |ODBC interface ,-1.2867683838102648
+forms and report |forms and reports ,-1.2868970218673284
+cloud platform |cloud platforms ,-1.2875414663022116
+improved performance |improved performance ,-1.2875414663022116
+transactional relational database |transactional relational databases ,-1.2886387828601584
+search mysql screenshot |search MySQL Screenshot ,-1.2903503220667223
+mariadb versus mysql compatibility |MariaDB versus MySQL Compatibility ,-1.2923957366003478
+swedish company |Swedish company ,-1.295001594423425
+no gui tool |no GUI tools ,-1.2957076540034353
+deployment edit lamp software bundle |Deployment edit LAMP software bundle ,-1.295861124975125
+multiple transaction |multiple transactions ,-1.2973813694065957
+android and iphone device |Android and iPhone device ,-1.2977235785113037
+gui feature |GUI features ,-1.299175728482599
+innodb i o |InnoDB I O ,-1.3025072450847812
+official manual |official manual ,-1.3056059862007292
+dates article |dates Articles ,-1.3056059862007292
+proprietary standard edition |proprietary Standard Edition ,-1.3056874066993145
+well-known front end |well-known front ends ,-1.3072850832730203
+multi-master replication |Multi-master replication ,-1.3085883267150473
+performance improvement |performance improvements ,-1.3085883267150473
+sqlmaestro group mysql gui tool |SQLMaestro Group MySQL GUI Tools ,-1.3101146676362458
+design database structure |design database structures ,-1.3153985918730777
+acquisition impacts edit |acquisition impacts edit ,-1.3156946049210634
+prepared statement |prepared statements ,-1.3165110074811008
+acquisition impact |acquisition impacts ,-1.3168232000421358
+full unicode support |full unicode support ,-1.3170770843458923
+database tracking |database tracking ,-1.317218427090462
+sharded database |sharded database ,-1.317218427090462
+bigger database |Bigger Database ,-1.317218427090462
+notable feature |notable features ,-1.3199160705647965
+proprietary agreement |proprietary agreements ,-1.3199160705647965
+single query |single query ,-1.3218491481422883
+multiple slave |multiple slaves ,-1.3218491481422883
+blogs oracle |Blogs oracle ,-1.3230140325653665
+sleepycat software |Sleepycat Software ,-1.3247825751333673
+web-infrastructure and cloud computing market |web-infrastructure and cloud computing markets ,-1.3291851680934457
+full sql standard |full SQL standard ,-1.329919064672301
+external tool |external tool ,-1.3309026818464682
+offers native innodb hot backup |Offers native InnoDB hot backup ,-1.3323601637730944
+no trigger |No triggers ,-1.3325558698604418
+no category |no category ,-1.3325558698604418
+first version |first version ,-1.3343315622082808
+milestones edit notable milestone |Milestones edit Notable milestones ,-1.334995319445835
+cloud provider |cloud provider ,-1.3359482064951307
+u s approval |U S approval ,-1.3367406000916227
+common deployment model |common deployment models ,-1.3375705815306458
+floss license exception |FLOSS License Exception ,-1.338414566870785
+master server synchroniz |master server synchronizes ,-1.3388323852956245
+server log table |server log tables ,-1.3388323852956245
+hot backup utility |hot backup utility ,-1.3398209326839763
+integrated system |integrated system ,-1.341242617937557
+command line original author |command line Original author ,-1.3419422241226975
+commons category |Commons category ,-1.3460841568000244
+proprietary extension |proprietary extensions ,-1.3469135131295982
+third-party proprietary |Third-party proprietary ,-1.3469135131295982
+web-based management utility |Web-based management utility ,-1.3476739080724591
+monty widenius and david axmark |Monty Widenius and David Axmark ,-1.3478556181897132
+chrome and firefox browser |Chrome and Firefox browsers ,-1.3493077413704855
+graphical administration application |graphical administration applications ,-1.3497566379613422
+cloud computing platform |cloud computing platforms ,-1.3508874915274973
+backup edit filesystem |Backup edit Filesystem ,-1.3514113924100761
+additional programming language |additional programming languages ,-1.352735653085245
+google chrome web browser |Google Chrome Web Browser ,-1.3540003269635421
+multi-processor server |multi-processor server ,-1.3542504251824157
+code future |Code Futures ,-1.3566617542737909
+official set |official set ,-1.3594667579552573
+justice and antitrust |Justice and Antitrust ,-1.3600736185251232
+build database structure |build database structures ,-1.3614670752739453
+access databases jet |Access databases JET ,-1.3614670752739453
+lamp-based web application |LAMP-based web application ,-1.3628164422746778
+logical backup tool |logical backup tool ,-1.3634544056757547
+signal and resignal statement |SIGNAL and RESIGNAL statement ,-1.3639264138208647
+cloud computing market |cloud computing markets ,-1.364335918025664
+lvm or storage device |LVM or storage device ,-1.3646060949435224
+pre-ga release |pre-GA release ,-1.364975312869437
+rackspace offer |Rackspace offer ,-1.3663660451039525
+facebook blog |Facebook Blog ,-1.3663660451039525
+microsoft window |Microsoft Windows ,-1.3663660451039525
+sun pick |Sun Picks ,-1.367264112796262
+enforceable and binding license |enforceable and binding license ,-1.3682391172620867
+external links edit |External links edit ,-1.3693881697011434
+different edition |different editions ,-1.3736516579533307
+web host |web hosts ,-1.3749207042567237
+web site |Web sites ,-1.3749207042567237
+master-slave replication |Master-slave replication ,-1.3749207042567237
+original author |original authors ,-1.3749207042567237
+mysql life mailing list |MySQL Life mailing list ,-1.376650153939667
+connector php |Connector PHP ,-1.3774024949679295
+c innodb glossary |C InnoDB Glossary ,-1.3776926790289585
+structured query language |Structured Query Language ,-1.3797666602924556
+co-founder michael wideniu |co-founder Michael Widenius ,-1.3808165507569985
+windows macintosh and linux |Windows Macintosh and Linux ,-1.384045294869522
+mac os x |Mac OS X ,-1.3840692283682938
+federatedx pluggable storage engine released |FederatedX Pluggable Storage Engine Released ,-1.3840743899794674
+i o operation |I O operations ,-1.3847561894625966
+major feature |Major features ,-1.385453157302655
+sqlyog proprietary |SQLyog proprietary ,-1.385453157302655
+free-software-open source project |Free-software-open source projects ,-1.3857643442963483
+improved group commit performance |improved group commit performance ,-1.3864763489279714
+rudimentary support |rudimentary support ,-1.3877159071084757
+firefox web browser |Firefox Web Browser ,-1.3898031330476077
+merger citation |merger citation ,-1.3902830062799654
+party contract |party contracts ,-1.3907556342303817
+monty program |Monty Program ,-1.3907556342303817
+libreoffice base libreoffice base |LibreOffice Base LibreOffice Base ,-1.3907556342303817
+virtual machine image cloud user |Virtual Machine Image cloud users ,-1.3908439109063575
+mysql innodb zfs best practice |MySQL Innodb ZFS Best Practices ,-1.391340722736662
+itunes software |iTunes software ,-1.3935436748065315
+software foundation |Software Foundation ,-1.3935436748065315
+offer additional functionality |offer additional functionality ,-1.3963797486055816
+copyright and trademark infringement |copyright and trademark infringement ,-1.3982668991692155
+sqlpro sql client |SQLPro SQL Client ,-1.3987030863228902
+cross-platform toolkit |cross-platform toolkit ,-1.400819057845748
+procedure execution |procedure execution ,-1.400819057845748
+fabric-aware version |Fabric-aware versions ,-1.4029601720120497
+oracle-provided version |Oracle-provided versions ,-1.4029601720120497
+faster version |faster version ,-1.4029601720120497
+well-known user |Well-Known Users ,-1.4036621171983645
+market share |Market Share ,-1.4059078059521866
+centos and debian |CentOS and Debian ,-1.4062506683644849
+hibernate and doctrine |Hibernate and Doctrine ,-1.4062506683644849
+heroku and jelastic |Heroku and Jelastic ,-1.4062506683644849
+fedora and ubuntu |Fedora and Ubuntu ,-1.4062506683644849
+major cloud provider |major cloud providers ,-1.4072617664739322
+database design modeling |database design modeling ,-1.4073819405917023
+android cell-phone operating system |Android cell-phone operating system ,-1.4076205653764786
+master-master replication master-slave replication |Master-Master Replication Master-Slave Replication ,-1.4087195107124173
+paid edition |paid editions ,-1.4105493203318564
+galera cluster |Galera Cluster ,-1.4105493203318564
+oracle buys sleepycat |Oracle Buys Sleepycat ,-1.4109056192492373
+transaction processing dtp support |transaction processing DTP support ,-1.4111883480620413
+lamp stack |LAMP stack ,-1.4123616580659437
+main distribution |main distributions ,-1.4123616580659437
+third-party package |third-party packages ,-1.4123616580659437
+innodb sobel |InnoDB Sobel ,-1.4170273429428748
+xa transaction |XA transactions ,-1.4179490057787458
+large table |large tables ,-1.4179490057787458
+query optimizer |query optimizer ,-1.4179490057787458
+record market share |record market share ,-1.4196133381338694
+skysql ab |SkySQL Ab ,-1.4208638312363062
+limitations edit |Limitations edit ,-1.4208638312363062
+mariadb knowledge base |MariaDB Knowledge Base ,-1.424665343220493
+open force |Open Force ,-1.4248463797391986
+common maintenance and administrative task |common maintenance and administrative tasks ,-1.425503851002581
+gnu gpl question |GNU GPL Questions ,-1.4258352654241844
+following sqlite |Following SQLite ,-1.4259505006738387
+u s district court |U S District Court ,-1.4260032666333229
+licensing agreement |licensing agreement ,-1.4260751561783938
+execution model |execution model ,-1.4260751561783938
+powerful hardware |powerful hardware ,-1.4260751561783938
+u s government |U S government ,-1.4271038522793933
+medium scale single-server deployment |medium scale single-server deployments ,-1.4277570202381518
+sql mode option |SQL Mode options ,-1.429990205605305
+date time field |date time fields ,-1.4317681085868
+fast stable and true multi-user |fast stable and true multi-user ,-1.4368131855227702
+sql phrase |SQL phrase ,-1.4377815701989611
+sql parser |SQL parser ,-1.4377815701989611
+hot non-locking backup |hot non-locking backups ,-1.4398190966483353
+european commission eventually |European Commission eventually ,-1.4400764181629573
+poor performance |poor performance ,-1.4424646576323419
+performance monitoring |performance monitoring ,-1.4424646576323419
+circular replication |Circular Replication ,-1.4424646576323419
+data warehousing |data warehousing ,-1.4424646576323419
+foreign key reference |foreign key references ,-1.44292856907484
+iphone device |iPhone device ,-1.4433755540649442
+informationweek informationweek |InformationWeek InformationWeek ,-1.4433755540649442
+managed hosting terremark |Managed Hosting Terremark ,-1.4433755540649442
+dual-licensing distribution |dual-licensing distribution ,-1.4443073118577892
+date help |date help ,-1.4443073118577892
+supported platform |Supported Platforms ,-1.4443073118577892
+binary package |binary package ,-1.4443073118577892
+previous package |previous package ,-1.4443073118577892
+full text search |full text search ,-1.4443789862387952
+nusphere gemini table |NuSphere Gemini table ,-1.4458422382542069
+dmoz links use dmy date |DMOZ links Use dmy dates ,-1.446489719797782
+full-text indexing and searching b |Full-text indexing and searching b ,-1.4485184167987235
+individual data record |individual data records ,-1.4515703364333843
+incremental backup |incremental backups ,-1.4524743134869238
+parallel-compressed backup |parallel-compressed backups ,-1.4524743134869238
+myisam-only feature |MyISAM-only feature ,-1.4524743134869238
+heidisql grid editing feature |HeidiSQL Grid editing features ,-1.4541247173516705
+information schema performance schema |Information schema Performance Schema ,-1.4543227571995512
+facebook s insatiable hunger |Facebook s Insatiable Hunger ,-1.4545271047191808
+european union |European Union ,-1.4551538576305825
+column structure |column structure ,-1.4551538576305825
+insert operation |INSERT operation ,-1.4551538576305825
+connector python |Connector Python ,-1.4551538576305825
+further configuration |further configuration ,-1.4551538576305825
+firefox browser |Firefox browsers ,-1.4551538576305825
+further improvement |Further improvements ,-1.4551538576305825
+merger regulation procedure |merger regulation procedure ,-1.4564201860653545
+current development status |current development statuses ,-1.4566368819046187
+missing manual |Missing Manual ,-1.457832166709979
+wikidata article |Wikidata Articles ,-1.457832166709979
+resignal statement |RESIGNAL statement ,-1.457832166709979
+disputed statement |disputed statements ,-1.457832166709979
+gnu general public license |GNU General Public License ,-1.460100241128635
+binding license |binding license ,-1.4634458172739266
+google gear |Google Gears ,-1.4634458172739266
+tcx datakonsult ab |TcX DataKonsult AB ,-1.4660355547335295
+acid compliance |ACID compliance ,-1.4678671317736818
+preliminary hearing |preliminary hearing ,-1.4678671317736818
+dual-licensing strategy |dual-licensing strategy ,-1.4678671317736818
+fast stable |fast stable ,-1.4678671317736818
+high fidelity |high fidelity ,-1.469327986822068
+sun microsystems announces agreement |Sun Microsystems Announces Agreement ,-1.4702855606729033
+plugin api row-based replication |plugin API row-based replication ,-1.4725109563579364
+nested selects built-in replication support |nested SELECTs Built-in Replication support ,-1.473916941026388
+general availability stage |general availability stage ,-1.4747252430128341
+b mysqladmin |b mysqladmin ,-1.4754854202691021
+searching b |searching b ,-1.4754854202691021
+hp converged cloud |HP Converged Cloud ,-1.4764888524429531
+toad data modeler |Toad Data Modeler ,-1.4764888524429534
+msql antecedent citation |mSQL antecedent citation ,-1.4782587636492475
+wikimedia common |Wikimedia Commons ,-1.4819120794673808
+common maintenance |common maintenance ,-1.4819120794673808
+multiple connection |multiple connections ,-1.4819120794673808
+partitioned table |Partitioned tables ,-1.4819120794673808
+procedural language |procedural language ,-1.4819120794673808
+foreign key |foreign keys ,-1.4843312429313795
+write latency |write latency ,-1.4843312429313795
+timestamp column type |TIMESTAMP column type ,-1.4843312429313795
+m zack urlocker |M Zack Urlocker ,-1.4843312429313795
+relative simplicity and ease |relative simplicity and ease ,-1.4877272724911634
+security and optimization setting |security and optimization settings ,-1.4877272724911634
+project summary |Project Summary ,-1.4885756632706335
+party organisation |party organisations ,-1.4885756632706335
+sqlite consortium |SQLite Consortium ,-1.4885756632706335
+primary meta-data storage format |primary meta-data storage format ,-1.49174503649021
+different irc channels and forum |different IRC channels and forums ,-1.492162078902746
+ready-made machine image |ready-made machine image ,-1.4936807545922288
+judge patti sari |Judge Patti Saris ,-1.4936807545922288
+wrong result bug |wrong result bugs ,-1.4936807545922288
+michael widenius founder |Michael Widenius Founder ,-1.4951883230419218
+community-developed fork |community-developed fork ,-1.4953898742343885
+gpl-only fork |GPL-only fork ,-1.4953898742343885
+php script |PHP script ,-1.4953898742343885
+software opinion leader |Software opinion leaders ,-1.497143310310829
+black duck software |Black Duck Software ,-1.497143310310829
+quest software chive |Quest Software Chive ,-1.497143310310829
+triggers cursors updatable |Triggers Cursors Updatable ,-1.497437568479366
+single for-profit firm |single for-profit firm ,-1.4974375684793662
+research firm strategy analytic |research firm Strategy Analytics ,-1.4987153465539687
+library binary equivalency |library binary equivalency ,-1.4995580057434972
+recognition scps list |recognition SCPs List ,-1.4995580057434972
+www tcx se |www tcx se ,-1.5015329569693212
+united states district court |United States district court ,-1.501786887921435
+tpc-h run |TPC-H Run ,-1.5021542205551561
+vmsmysql org |vmsmysql org ,-1.5021542205551561
+larger scale |larger scales ,-1.5021542205551561
+finnish company |Finnish company ,-1.5021542205551561
+medium range |medium range ,-1.5021542205551561
+webyog heidisql |WebYog HeidiSQL ,-1.5021542205551561
+date value |date values ,-1.5021542205551561
+settlement talk |settlement talks ,-1.5025486807777761
+tpcc-mysql benchmark |tpcc-mysql benchmark ,-1.5025486807777761
+db-engines ranking |DB-Engines Ranking ,-1.5025486807777761
+home-brewed lexical analyzer |home-brewed lexical analyzer ,-1.5025486807777761
+aj blk |aj blk ,-1.5025486807777761
+ipod touch |iPod touch ,-1.5025486807777761
+jan wildeboer |Jan Wildeboer ,-1.5025486807777761
+css skin |CSS skins ,-1.5025486807777761
+referential integrity constraint |referential integrity constraints ,-1.5025486807777761
+tortious interference |tortious interference ,-1.5025486807777761
+relative simplicity |relative simplicity ,-1.5025486807777761
+alphabetical order |alphabetical order ,-1.5025486807777761
+direct interaction |direct interaction ,-1.5025486807777761
+pamela jones |Pamela Jones ,-1.5025486807777761
+recent appearance |recent appearance ,-1.5025486807777761
+encyclopedia jump |encyclopedia Jump ,-1.5025486807777761
+novell netware |Novell NetWare ,-1.5025486807777761
+eyewitness account |Eyewitness account ,-1.5025486807777761
+online ddl |Online DDL ,-1.5025486807777761
+special customization |special customizations ,-1.5025486807777761
+full-text indexing |Full-text indexing ,-1.5025486807777761
+optimized installation |optimized installation ,-1.5025486807777761
+partial rewrite |partial rewrite ,-1.5025486807777761
+jdbc driver |JDBC driver ,-1.5025486807777761
+international fugitive |International Fugitive ,-1.5025486807777761
+guy harrison |Guy Harrison ,-1.5025486807777761
+broad subset |broad subset ,-1.5025486807777761
+thunderbird email reader |Thunderbird Email Reader ,-1.5025486807777761
+runtime behavior |runtime behavior ,-1.5025486807777761
+unfair competition |unfair competition ,-1.5025486807777761
+windows phone |Windows Phone ,-1.5025486807777761
+fivefold speedup |fivefold speedup ,-1.5025486807777761
+allan larsson |Allan Larsson ,-1.5025486807777761
+askmonty knowledgebase |AskMonty Knowledgebase ,-1.5025486807777761
+optimization setting |optimization settings ,-1.5025486807777761
+minimal effort |minimal effort ,-1.5025486807777761
+windows macintosh |Windows Macintosh ,-1.5025486807777761
+exact matching |exact matching ,-1.5025486807777761
+volume manager |volume manager ,-1.5025486807777761
+archives oop |Archives Oops ,-1.5025486807777761
+carlo piana |Carlo Piana ,-1.5025486807777761
+cbs interactive |CBS Interactive ,-1.5025486807777761
+nosql-style memcached apis |NoSQL-style memcached APIs ,-1.503510047761498
+previous four year |previous four years ,-1.503510047761498
+correctly stores millisecond |correctly stores milliseconds ,-1.5035100477614984
+global smartphone shipment |Global smartphone shipments ,-1.5035100477614984
+higher transactional throughput |higher transactional throughput ,-1.5064586553155908
+notable employee |notable employees ,-1.508413642584498
+unclustered configuration |unclustered configurations ,-1.508413642584498
+commit grouping |Commit grouping ,-1.508413642584498
+www opensourcereleasefeed |www opensourcereleasefeed ,-1.508413642584498
+additional instrumentation |additional instrumentation ,-1.508413642584498
+connector j |Connector J ,-1.508413642584498
+pc world |PC World ,-1.508413642584498
+dbforge studio |dbForge Studio ,-1.508413642584498
+real world |real world ,-1.508413642584498
+unconditional approval |unconditional approval ,-1.508413642584498
+phase commit |phase commit ,-1.508413642584498
+stand-alone download |stand-alone download ,-1.508413642584498
+wamp software bundle installer |WAMP software bundle installers ,-1.5120020932058054
+en wikipedia |en wikipedia ,-1.5130994501765576
+multi-year extension |multi-year extension ,-1.5130994501765576
+personal usage |personal usage ,-1.5130994501765576
+minor update |minor updates ,-1.5130994501765576
+language-specific apis |language-specific APIs ,-1.5130994501765576
+average case |average case ,-1.5130994501765576
+resilient execution |resilient execution ,-1.5130994501765576
+smaller chunk |smaller chunks ,-1.5130994501765576
+user-defined partitioning |user-defined partitioning ,-1.5130994501765576
+implemented functionality |implemented functionality ,-1.5130994501765576
+ajoeblk blogspot |Ajoeblk blogspot ,-1.5130994501765576
+smaller slimmer |smaller slimmer ,-1.5130994501765576
+smaller investment |smaller investment ,-1.5130994501765576
+iphone languish |iPhone languishes ,-1.5130994501765576
+positive review |positive reviews ,-1.5130994501765576
+apple mail |Apple Mail ,-1.5130994501765576
+primary fail |primary fails ,-1.5130994501765576
+following chart |following chart ,-1.5135086282321764
+jyoti clarification |Jyoti clarification ,-1.5135086282321764
+entire suite |entire suite ,-1.5135086282321764
+integrated environment |integrated environment ,-1.5135086282321764
+sco unixware |SCO UnixWare ,-1.5135086282321764
+central component |central component ,-1.5135086282321764
+five question |Five Questions ,-1.5135086282321764
+trademark infringement |trademark infringement ,-1.5135086282321764
+unix timestamp |UNIX TIMESTAMP ,-1.5135086282321764
+eight drive raid array |eight drive RAID array ,-1.5135086282321764
+capttofu livejournal |Capttofu livejournal ,-1.5135086282321764
+structured url |structured URLs ,-1.5135086282321764
+launchpad net |Launchpad net ,-1.5135086282321764
+administrative task |administrative tasks ,-1.5135086282321764
+true multi-user |true multi-user ,-1.5135086282321764
+sco openserver |SCO OpenServer ,-1.5135086282321764
+hdd raid |HDD RAID ,-1.5135086282321764
+optimizer shared-nothing |optimizer Shared-nothing ,-1.5135086282321764
+multiple-value field |multiple-value fields ,-1.5135086282321764
+similar manner |similar manner ,-1.5135086282321764
+page title |page title ,-1.5135086282321764
+strict mode |strict mode ,-1.5135086282321764
+low-end alternative |low-end alternative ,-1.5135086282321764
+popular choice |popular choice ,-1.5135086282321764
+glass education |Glass Education ,-1.5135086282321764
+ebs elastic block store |EBS Elastic Block Store ,-1.5135086282321768
+fast flash card virident tachion |Fast Flash card Virident tachIOn ,-1.5149601263105754
+drop-in replacement capability |drop-in replacement capability ,-1.5165448678732425
+automate repetitive task |automate repetitive tasks ,-1.516544867873243
+zero mechanical latency |zero mechanical latency ,-1.516544867873243
+hard disk performance |hard disk performance ,-1.5203376449064478
+asp or coldfusion |ASP or ColdFusion ,-1.5203376449064478
+different irc channel |different IRC channels ,-1.5256374601457092
+supplementary unicode character |supplementary Unicode character ,-1.5256374601457092
+legitimate business model |Legitimate Business Model ,-1.5305410549687093
+typical high-end configuration |typical high-end configuration ,-1.5305410549687093
+low-level language isam |low-level language ISAM ,-1.5324960422376166
+multiple cpu core |multiple CPU cores ,-1.5324960422376166
+url-based query method |URL-based query method ,-1.5324960422376166
+high-profile large-scale website |high-profile large-scale websites ,-1.5328665322523702
+sun microsystems announces completion |Sun Microsystems Announces Completion ,-1.5379983452708188
+mysql |MySQL |Mysql ,-2.521758672872774
+database |databases |database ,-3.9255044589791788
+oracle |Oracle ,-3.9544078867378167
+server |servers |server ,-4.346344686588501
+sun |Sun ,-4.412243043433928
+release |release ,-4.4619444889169015
+support |support |Support ,-4.66618495873015
+software |software ,-4.763987400099959
+version |version ,-4.917653045206886
+use |use ,-4.9376358068495145
+system |system ,-4.965113469955472
+innodb |InnoDB ,-4.979181206821728
+edit |edit ,-5.016796072218341
+available |available ,-5.074036888655524
+source |sources ,-5.100562841989534
+end |End ,-5.242170076918977
+replication |replication |Replication ,-5.287519868632742
+tool |tools ,-5.302135072402556
+original |original ,-5.318816398713788
+performance |performance ,-5.328791908854843
+cloud |cloud ,-5.347931866898335
+front |front ,-5.352416325331023
+application |application |Applications ,-5.395640259439576
+proprietary |proprietary ,-5.422109822607117
+developer |developer |developers |Developer ,-5.433897085962003
+feature |features |Features ,-5.445407289970912
+backup |backups |backup ,-5.456615496547386
+development |development ,-5.467491856944172
+percona |Percona ,-5.497366727850441
+statement |statements ,-5.509836115526759
+archived |Archived ,-5.5791531777670285
+google |Google ,-5.5791531777670285
+management |management ,-5.5791531777670285
+community |community ,-5.593709563297925
+acquisition |acquisition ,-5.617671847139841
+license |license ,-5.661654211305027
+user |Users |users ,-5.682850464195684
+service |services |Service |service ,-5.696511063440537
+mariadb |MariaDB |Mariadb ,-5.767674928287728
+edition |editions ,-5.836609594761683
+master |master ,-5.87825540943454
+linux |Linux ,-5.87825540943454
+table |tables |table ,-5.894659286516678
+transaction |transactions ,-5.910297307377403
+deployment |deployments ,-5.961751629010481
+command |commands ,-5.969916785432673
+change |Changes ,-6.003548915041348
+java |Java ,-6.003548915041348
+sqlite |SQLite ,-6.003548915041348
+michael |Michael ,-6.003548915041348
+monty |Monty ,-6.003548915041348
+facebook |Facebook ,-6.003548915041348
+window |Windows ,-6.003548915041348
+base |Base ,-6.0382756815702825
+project |projects ,-6.053916770635627
+beta |beta ,-6.148083721583649
+slave |slave |slaves ,-6.148083721583649
+default |default ,-6.148083721583649
+php |PHP ,-6.167747588053104
+set |set ,-6.167747588053104
+fork |fork ,-6.167747588053104
+trigger |trigger |triggers ,-6.167747588053104
+heidisql |HeidiSQL ,-6.31886780166127
+full |full ,-6.31886780166127
+merger |Mergers |merger ,-6.31886780166127
+part |parts |part ,-6.31886780166127
+android |Android ,-6.31886780166127
+needed |needed ,-6.31886780166127
+lamp |LAMP ,-6.31886780166127
+official |official ,-6.340765326352753
+company |company ,-6.340765326352753
+run |runs |run ,-6.360559327219957
+package |packages ,-6.377598076510848
+youtube |YouTube ,-6.527615122448822
+rdbm |RDBMS ,-6.527615122448822
+improvement |improvements ,-6.527615122448822
+drizzle |Drizzle ,-6.527615122448822
+phpmyadmin |phpMyAdmin ,-6.527615122448822
+commission |Commission ,-6.527615122448822
+world |World |world ,-6.527615122448822
+progress |Progress ,-6.527615122448822
+approval |approval ,-6.527615122448822
+citation |citation ,-6.527615122448822
+msql |mSQL ,-6.527615122448822
+administration |administration ,-6.527615122448822
+microsoft |Microsoft ,-6.527615122448822
+number |number ,-6.527615122448822
+view |views ,-6.527615122448822
+collection |collection ,-6.527615122448822
+rackspace |Rackspace ,-6.527615122448822
+desktop |Desktop ,-6.552357623532826
+owner |owners ,-6.552357623532826
+configuration |configuration ,-6.552357623532826
+operation |operations ,-6.552357623532826
+multi-master |Multi-Master ,-6.57365606014644
+agreement |agreement ,-6.57365606014644
+download |Downloads ,-6.57365606014644
+series |series ,-6.57365606014644
+hardware |Hardware ,-6.57365606014644
+commit |commits ,-6.589986372990824
+share |shares ,-6.589986372990824
+event |event ,-6.79621998895623
+mysqlperformanceblog |Mysqlperformanceblog |mysqlperformanceblog ,-6.79621998895623
+contract |contract |contracts ,-6.79621998895623
+apple |Apple ,-6.79621998895623
+informationweek |InformationWeek ,-6.79621998895623
+low |low ,-6.79621998895623
+failure |failure ,-6.79621998895623
+case |case ,-6.79621998895623
+iphone |iPhone ,-6.79621998895623
+usage |usage ,-6.79621998895623
+webscalesql |WebScaleSQL ,-6.79621998895623
+terremark |Terremark ,-6.79621998895623
+history |History ,-6.79621998895623
+alpha |Alpha |alpha ,-6.79621998895623
+functionality |functionality ,-6.79621998895623
+open-source |open-source ,-6.79621998895623
+partitioning |partitioning ,-6.79621998895623
+copyright |copyright ,-6.79621998895623
+perl |Perl ,-6.79621998895623
+openoffice |OpenOffice ,-6.79621998895623
+result |result |results ,-6.79621998895623
+ship |ships ,-6.79621998895623
+api |API ,-6.79621998895623
+compliance |compliance ,-6.79621998895623
+xtradb |XtraDB ,-6.79621998895623
+compatibility |compatibility ,-6.824617904441048
+bug |bugs ,-6.824617904441048
+status |status ,-6.824617904441048
+stable |Stable ,-6.824617904441048
+hearing |hearing ,-6.824617904441048
+memory |memory ,-6.824617904441048
+extension |extensions ,-6.824617904441048
+wikipedia |Wikipedia ,-6.824617904441048
+front-end |front-end ,-6.824617904441048
+form |form |forms ,-6.824617904441048
+work |work ,-6.824617904441048
+snapshot |snapshots ,-6.846391654900226
+search |searches ,-6.846391654900226
+keeping |Keeping ,-6.846391654900226
+big |Big ,-7.173632459914408
+component |component ,-7.173632459914408
+acid |ACID ,-7.173632459914408
+report |reports |report ,-7.173632459914408
+redundancy |redundancy ,-7.173632459914408
+maatkit |Maatkit ,-7.173632459914408
+patch |patches ,-7.173632459914408
+urlocker |Urlocker ,-7.173632459914408
+clarification |clarification ,-7.173632459914408
+flickr |Flickr ,-7.173632459914408
+oreillynet |Oreillynet ,-7.173632459914408
+opensolari |OpenSolaris ,-7.173632459914408
+quarter |quarter ,-7.173632459914408
+legal |Legal ,-7.173632459914408
+openvm |OpenVMS ,-7.173632459914408
+navicat |Navicat ,-7.173632459914408
+secure |Secure ,-7.173632459914408
+freebsd |FreeBSD ,-7.173632459914408
+function |functions ,-7.173632459914408
+addition |addition ,-7.173632459914408
+capttofu |Capttofu ,-7.173632459914408
+mac |Mac ,-7.173632459914408
+suno |SunOS ,-7.173632459914408
+antitrust |antitrust |Antitrust ,-7.173632459914408
+reality |reality ,-7.173632459914408
+insert |INSERT ,-7.173632459914408
+replacement |replacement ,-7.173632459914408
+option |options ,-7.173632459914408
+trademark |trademark ,-7.173632459914408
+toad |Toad ,-7.173632459914408
+chrome |Chrome ,-7.173632459914408
+documentation |Documentation |documentation ,-7.173632459914408
+alternative |alternative ,-7.173632459914408
+director |directors ,-7.173632459914408
+xtrabackup |XtraBackup ,-7.173632459914408
+shard |shards ,-7.173632459914408
+term |terms ,-7.173632459914408
+sequel |Sequel ,-7.206293085603175
+enhancement |Enhancements ,-7.206293085603175
+wikileak |WikiLeaks ,-7.206293085603175
+adhere |adhere ,-7.206293085603175
+deal |deal ,-7.206293085603175
+small |small ,-7.206293085603175
+product |product ,-7.206293085603175
+handle |handle ,-7.206293085603175
+dispute |Dispute ,-7.206293085603175
+top |top ,-7.206293085603175
+movement |movement ,-7.815074048323927
+klint |Klint ,-7.815074048323927
+trial |Trial ,-7.815074048323927
+wikibook |Wikibooks ,-7.815074048323927
+ourdelta |OurDelta ,-7.815074048323927
+gigaomnimedia |GigaOmniMedia ,-7.815074048323927
+adword |AdWords ,-7.815074048323927
+basis |basis ,-7.815074048323927
+basil |Basil ,-7.815074048323927
+malik |Malik ,-7.815074048323927
+sqlbuddy |SQLBuddy ,-7.815074048323927
+yoshinori |Yoshinori ,-7.815074048323927
+wordpres |WordPress ,-7.815074048323927
+faq |FAQ ,-7.815074048323927
+bmp |BMP ,-7.815074048323927
+co-counsel |co-counsel ,-7.815074048323927
+justice |Justice ,-7.815074048323927
+analysis |analysis ,-7.815074048323927
+matsunobu |Matsunobu ,-7.815074048323927
+farm |farm ,-7.815074048323927
+finkle |Finkle ,-7.815074048323927
+coldfusion |ColdFusion ,-7.815074048323927
+openbsd |OpenBSD ,-7.815074048323927
+lance |Lance ,-7.815074048323927
+enforceable |enforceable ,-7.815074048323927
+web-infrastructure |web-infrastructure ,-7.815074048323927
+listed |Listed ,-7.815074048323927
+preparation |preparation ,-7.815074048323927
+kanaracu |Kanaracus ,-7.815074048323927
+querying |querying ,-7.815074048323927
+debian |Debian ,-7.815074048323927
+fedora |Fedora ,-7.815074048323927
+home |Home ,-7.815074048323927
+packagers |packagers ,-7.815074048323927
+phpbb |phpBB ,-7.815074048323927
+ecosystem |ecosystem ,-7.815074048323927
+request |request ,-7.815074048323927
+action |action ,-7.815074048323927
+pave |Paves ,-7.815074048323927
+paul |Paul ,-7.815074048323927
+ease |ease ,-7.815074048323927
+security |security ,-7.815074048323927
+feedback |feedback ,-7.815074048323927
+responsibility |responsibility ,-7.815074048323927
+integrate |integrate ,-7.815074048323927
+hibernate |Hibernate ,-7.815074048323927
+consistency |consistency ,-7.815074048323927
+aperture |Aperture ,-7.815074048323927
+bsdi |BSDi ,-7.815074048323927
+charles |Charles ,-7.815074048323927
+reuter |Reuters ,-7.815074048323927
+mozilla |Mozilla ,-7.815074048323927
+presence |presence ,-7.815074048323927
+linuxmint |LinuxMint ,-7.815074048323927
+robin |Robin ,-7.815074048323927
+irix |IRIX ,-7.815074048323927
+adminer |Adminer ,-7.815074048323927
+condition |condition ,-7.815074048323927
+navigation |navigation ,-7.815074048323927
+heroku |Heroku ,-7.815074048323927
+breach |breach ,-7.815074048323927
+petition |petition ,-7.815074048323927
+regular |regular ,-7.815074048323927
+myth |Myths ,-7.815074048323927
+effect |effect ,-7.815074048323927
+renewal |renewal ,-7.815074048323927
+topic |topic ,-7.815074048323927
+goal |goal ,-7.815074048323927
+port |port ,-7.815074048323927
+cento |CentOS ,-7.815074048323927
+mamp |MAMP ,-7.815074048323927
+ohloh |Ohloh ,-7.815074048323927
+cache |cache ,-7.815074048323927
+framework |framework ,-7.815074048323927
+callaghan |Callaghan ,-7.815074048323927
+mass |Mass ,-7.815074048323927
+cole |Cole ,-7.815074048323927
+policy |policy ,-7.815074048323927
+schemabank |SchemaBank ,-7.815074048323927
+higher-scale |higher-scale ,-7.815074048323927
+epictetus |Epictetus ,-7.815074048323927
+jelastic |Jelastic ,-7.815074048323927
+partner |Partners ,-7.815074048323927
+aix |AIX ,-7.815074048323927
+savepoint |savepoints ,-7.815074048323927
+groklaw |Groklaw ,-7.815074048323927
+introduction |Introduction ,-7.815074048323927
+sano |Sanos ,-7.815074048323927
+babcock |Babcock ,-7.815074048323927
+arjen |Arjen ,-7.815074048323927
+failover |failover ,-7.815074048323927
+reviewer |reviewers ,-7.815074048323927
+amp |AMP ,-7.815074048323927
+department |Department ,-7.815074048323927
+integration |integration ,-7.815074048323927
+short-coming |short-comings ,-7.815074048323927
+maker |makers ,-7.815074048323927
+xampp |XAMPP ,-7.815074048323927
+interoperationality |interoperationality ,-7.815074048323927
+mobilebeat |MobileBeat ,-7.815074048323927
+downtime |downtime ,-7.815074048323927
+confirmed |confirmed ,-7.815074048323927
+limit |limits ,-7.815074048323927
+dbstudio |DBStudio ,-7.815074048323927
+lvm |LVM ,-7.815074048323927
+negotiation |negotiations ,-7.815074048323927
+creation |creation ,-7.815074048323927
+netbsd |NetBSD ,-7.815074048323927
+interview |Interview ,-7.815074048323927
+reliability |reliability ,-7.815074048323927
+finley |Finley ,-7.815074048323927
+proprietarily |proprietarily ,-7.815074048323927
+partition |partitions ,-7.815074048323927
+dadabik |DaDaBIK ,-7.815074048323927
+affidavit |Affidavit ,-7.815074048323927
+yacc |yacc ,-7.815074048323927
+gigabyte |gigabytes ,-7.815074048323927
+scope |scope ,-7.815074048323927
+qnx |QNX ,-7.815074048323927
+inability |inability ,-7.815074048323927
+acronym |acronym ,-7.815074048323927
+intent |intent ,-7.815074048323927
+local |local ,-7.815074048323927
+musing |Musings ,-7.815074048323927
+content |Contents ,-7.815074048323927
+renegotiation |renegotiation ,-7.815074048323927
+price |price ,-7.815074048323927
+ubuntu |Ubuntu ,-7.815074048323927
+thomasch |Thomasch ,-7.815074048323927
+mysqldump |mysqldump ,-7.815074048323927
+relationship |relationships ,-7.815074048323927
+overview |overview ,-7.815074048323927
+amount |amount ,-7.815074048323927
+timing |timing ,-7.815074048323927
+symbian |Symbian ,-7.815074048323927
+whitney |Whitney ,-7.815074048323927
+mybb |MyBB ,-7.815074048323927
+forum |forums ,-7.815074048323927
+lentz |Lentz ,-7.815074048323927
+venturebeat |VentureBeat ,-7.815074048323927
+signal |SIGNAL ,-7.815074048323927
+schumacher |Schumacher ,-7.815074048323927
+hp-ux |HP-UX ,-7.815074048323927
+joomla |Joomla ,-7.815074048323927
+fsf |FSF ,-7.815074048323927
+myodbc |MyODBC ,-7.815074048323927
+variety |variety ,-7.815074048323927
+htsql |HTSQL ,-7.815074048323927
+pruning |pruning ,-7.815074048323927
+dbedit |DBEdit ,-7.815074048323927
+asp |ASP ,-7.815074048323927
+boston |Boston ,-7.815074048323927
+modx |MODx ,-7.815074048323927
+thomas |Thomas ,-7.815074048323927
+webmin |Webmin ,-7.815074048323927
+claburn |Claburn ,-7.815074048323927
+drupal |Drupal ,-7.815074048323927
+safari |Safari ,-7.815074048323927
+power |Power ,-7.815074048323927
+linked |Linked ,-7.815074048323927
+koetsier |Koetsier ,-7.815074048323927
+lack |lack ,-7.815074048323927
+ecomstation |eComStation ,-7.815074048323927
+jbos |JBoss ,-7.815074048323927
+doctrine |Doctrine ,-7.815074048323927
+jeremy |Jeremy ,-7.815074048323927
+squid |Squid ,-7.815074048323927

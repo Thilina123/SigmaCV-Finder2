@@ -1,0 +1,1112 @@
+php net |PHP net |php net ,0.0
+php |PHP |php |phps ,0.0
+zend |Zend ,0.0
+function |Functions |functions |function ,0.0
+language |languages |language ,0.0
+code |code ,-1.8259531071745147E-14
+extension |extension |extensions ,-1.350244271358051E-13
+release |Release |release ,-3.669525060120455E-13
+support |support |Support ,-2.7115403641566854E-12
+object |Objects |object |objects ,-2.7115403641566854E-12
+software |software ,-7.370924213971764E-12
+php group |PHP Group ,-5.4463696390938126E-11
+programming |programming ,-1.480476372520042E-10
+type |Types |type |types ,-1.0939321908634645E-9
+web server |web server |web servers ,-2.9736160530936045E-9
+feature |features |feature ,-2.9736160530936045E-9
+version |versions |version ,-2.9736160530936045E-9
+programming language |programming languages |programming language ,-2.1972216384811772E-8
+zend engine |Zend Engine |Zend engine ,-2.1972216384811772E-8
+file |files |file ,-2.1972216384811772E-8
+lerdorf |Lerdorf ,-5.9726677344563E-8
+php manual |PHP manual |PHP Manual ,-1.6235394765018338E-7
+class |classes |Classes |class ,-1.6235394765018338E-7
+manual |Manual ,-1.6235394765018338E-7
+project |project |projects ,-4.4132382824574925E-7
+rasmu |Rasmus ,-4.4132382824574925E-7
+variable |Variables |variable ,-4.4132382824574925E-7
+echo |echo ,-1.19964285817542E-6
+syntax |syntax ,-1.19964285817542E-6
+php code |PHP code ,-1.19964285817542E-6
+form |form |forms ,-1.19964285817542E-6
+side |side ,-3.2609697116566853E-6
+window |Windows ,-3.2609697116566853E-6
+security |security ,-8.864251924287394E-6
+implementation |implementation |implementations ,-8.864251924287394E-6
+development |development ,-8.864251924287394E-6
+article |articles |article |Article ,-8.864251924287394E-6
+use |use ,-2.409566212435918E-5
+performance |performance ,-2.409566212435918E-5
+example |example |examples ,-2.409566212435918E-5
+statement |statements ,-2.409566212435918E-5
+defined |defined ,-2.409566212435918E-5
+unicode |Unicode ,-2.409566212435918E-5
+public |public ,-6.549974037810964E-5
+database |databases |database ,-6.549974037810964E-5
+core |core ,-6.549974037810964E-5
+return |return |returns ,-6.549974037810964E-5
+perl |Perl ,-6.549974037810964E-5
+string |Strings |string |strings ,-6.549974037810964E-5
+server |servers ,-6.549974037810964E-5
+rasmus lerdorf |Rasmus Lerdorf ,-1.7805369936495883E-4
+php extension |PHP Extension |PHP extensions ,-1.7805369936495883E-4
+history |history |History ,-1.7805369936495883E-4
+open-source |open-source ,-1.7805369936495883E-4
+application |applications ,-1.7805369936495883E-4
+potentially dated statement |potentially dated statements ,-4.84051464806915E-4
+method |methods |method ,-4.84051464806915E-4
+platform |platform |platforms ,-4.84051464806915E-4
+engine |engine ,-4.84051464806915E-4
+image |images |image ,-4.84051464806915E-4
+lastname |lastName ,-4.84051464806915E-4
+execution |execution ,-4.84051464806915E-4
+standard |standards |standard ,-4.84051464806915E-4
+html |HTML ,-4.84051464806915E-4
+server-side |server-side ,-4.84051464806915E-4
+parameter |Parameters |parameter |parameters ,-4.84051464806915E-4
+firstname |firstName ,-0.0013161677756548663
+developer |developer |developers ,-0.0013161677756548663
+apache |Apache ,-0.0013161677756548663
+distribution |distribution ,-0.0013161677756548663
+interpreter |interpreter ,-0.0013161677756548663
+reference |references |reference ,-0.0013161677756548663
+closure |closures |closure ,-0.0013161677756548663
+delimiter |delimiters ,-0.0013161677756548663
+microsoft |Microsoft ,-0.0013161677756548663
+sapi |SAPI |SAPIs ,-0.0013161677756548663
+source code |source code ,-0.0013161677756548663
+comparison |Comparison ,-0.0013161677756548663
+visibility |visibility |Visibility ,-0.003580522922930523
+php ini |php ini ,-0.003580522922930523
+array |arrays |Arrays ,-0.003580522922930523
+mysql |MySQL ,-0.003580522922930523
+personal home page |Personal Home Page ,-0.003580522922930523
+following |following ,-0.003580522922930523
+php-gtk |PHP-GTK ,-0.003580522922930523
+interface |interfaces ,-0.003580522922930523
+original |original ,-0.003580522922930523
+introduction |Introduction |introduction ,-0.003580522922930523
+facebook |Facebook ,-0.003580522922930523
+runtime |runtime ,-0.003580522922930523
+resource |resources |Resources ,-0.003580522922930523
+result |result ,-0.003580522922930523
+work |work ,-0.003580522922930523
+default |default ,-0.003580522922930523
+directive |directives ,-0.009753699703469945
+suraski |Suraski ,-0.009753699703469945
+define |defines ,-0.009753699703469945
+change |Changes |changes ,-0.009753699703469945
+runtime configuration |Runtime configuration |Runtime Configuration ,-0.009753699703469945
+wordpres |WordPress ,-0.009753699703469945
+php source code |PHP source code ,-0.009753699703469945
+phpng |PHPNG |phpng ,-0.009753699703469945
+java |Java ,-0.009753699703469945
+programmer |programmer |programmers ,-0.009753699703469945
+improvement |improvements ,-0.009753699703469945
+myage |myAge ,-0.009753699703469945
+cli |CLI ,-0.009753699703469945
+php fi |PHP FI ,-0.009753699703469945
+php version |PHP versions |PHP version ,-0.009753699703469945
+gutman |Gutmans ,-0.009753699703469945
+php interpreter |PHP interpreter |PHP interpreters ,-0.009753699703469945
+hhvm |HHVM |Hhvm ,-0.009753699703469945
+true |true ,-0.009753699703469945
+open source |open source ,-0.009753699703469945
+pecl |PECL ,-0.009753699703469945
+print |prints ,-0.009753699703469945
+installation |Installation ,-0.009753699703469945
+php license |PHP License ,-0.009753699703469945
+parrot |Parrot ,-0.009753699703469945
+text |text ,-0.009753699703469945
+complete |complete ,-0.009753699703469945
+operating system |operating systems |operating system ,-0.009753699703469945
+specific |specific ,-0.009753699703469945
+elephpant |ElePHPant |elePHPant ,-0.02666886246432323
+semantics |semantics ,-0.02666886246432323
+rfc |RFC ,-0.02666886246432323
+zeev suraski |Zeev Suraski ,-0.02666886246432323
+client |client |clients ,-0.02666886246432323
+pdo |PDO ,-0.02666886246432323
+source |sources ,-0.02666886246432323
+package |packages ,-0.02666886246432323
+php ini directive |php ini directives ,-0.02666886246432323
+zend php |Zend PHP ,-0.02666886246432323
+andi gutman |Andi Gutmans ,-0.02666886246432323
+mediawiki |MediaWiki ,-0.02666886246432323
+php language |PHP language ,-0.02666886246432323
+phalanger |Phalanger ,-0.02666886246432323
+archived |Archived ,-0.02666886246432323
+case |cases |case ,-0.02666886246432323
+zero |zero ,-0.02666886246432323
+output |output ,-0.02666886246432323
+issue |issues ,-0.02666886246432323
+common gateway interface cgi |Common Gateway Interface CGI ,-0.02666886246432323
+minor release |minor release ,-0.02666886246432323
+php script |PHP scripts |PHP script ,-0.02666886246432323
+configuration |Configuration ,-0.02666886246432323
+functionality |functionality ,-0.02666886246432323
+scripting language |scripting language ,-0.02666886246432323
+retry |retry ,-0.02666886246432323
+extension writing part |Extension Writing Part ,-0.02666886246432323
+ability |ability ,-0.02666886246432323
+silverstripe |SilverStripe ,-0.02666886246432323
+drupal |Drupal ,-0.02666886246432323
+global |globals ,-0.02666886246432323
+website |websites ,-0.02666886246432323
+web page |web page ,-0.02666886246432323
+base |base ,-0.07367725408829676
+testing |testing ,-0.07367725408829676
+exception |exceptions |exception ,-0.07367725408829676
+flock |flock ,-0.07367725408829676
+pthread |pthreads ,-0.07367725408829676
+accessing database |accessing databases ,-0.07367725408829676
+browser |browser ,-0.07367725408829676
+command-line interface cli |command-line interface CLI ,-0.07367725408829676
+python |Python ,-0.07367725408829676
+binaries and source |Binaries and sources ,-0.07367725408829676
+request |requests |Request ,-0.07367725408829676
+binaries and sources release |Binaries and sources releases ,-0.07367725408829676
+license |Licenses ,-0.07367725408829676
+cgi executable |CGI executable ,-0.07367725408829676
+stable release |Stable release ,-0.07367725408829676
+this- lastname |this- lastName ,-0.07367725408829676
+formal specification |formal specification ,-0.07367725408829676
+national vulnerability database |National Vulnerability Database ,-0.07367725408829676
+block |blocks ,-0.07367725408829676
+process |Process ,-0.07367725408829676
+variable function |Variable functions |variable functions ,-0.07367725408829676
+parser |parser ,-0.07367725408829676
+purpose |purpose ,-0.07367725408829676
+andrei zmievski |Andrei Zmievski ,-0.07367725408829676
+integer |Integers |integer ,-0.07367725408829676
+security issue |security issues ,-0.07367725408829676
+create function |create function ,-0.07367725408829676
+firstname lastname |firstName lastName ,-0.07367725408829676
+sources release |sources releases ,-0.07367725408829676
+structure |structures ,-0.07367725408829676
+hiphop |HipHop ,-0.07367725408829676
+web application |web applications ,-0.07367725408829676
+comment |Comments ,-0.07367725408829676
+server-side programming language |server-side programming languages |server-side programming language ,-0.07367725408829676
+internal |internals ,-0.07367725408829676
+opcode cache |opcode cache ,-0.07367725408829676
+yearsold |yearsOld ,-0.07367725408829676
+commonly |commonly ,-0.07367725408829676
+php distribution |PHP distribution ,-0.07367725408829676
+section |sections ,-0.07367725408829676
+object-oriented programming |object-oriented programming ,-0.07367725408829676
+common |common ,-0.07367725408829676
+date |date ,-0.07367725408829676
+php data object |PHP Data Objects ,-0.07367725408829676
+hormone |Hormones ,-0.07367725408829676
+input |input ,-0.07367725408829676
+magic quote |Magic Quotes |magic quotes ,-0.07367725408829676
+software foundation |Software Foundation ,-0.07367725408829676
+access |access ,-0.07367725408829676
+context |context ,-0.07367725408829676
+just-in-time jit compiler |just-in-time JIT compiler ,-0.2097872745459192
+digg |Digg ,-0.2097872745459192
+behavior |behavior |behaviors ,-0.2097872745459192
+jane doe |Jane Doe ,-0.2097872745459192
+quercus |Quercus ,-0.2097872745459192
+reference implementation |reference implementation ,-0.2097872745459192
+os x |OS X ,-0.2097872745459192
+processing |processing ,-0.2097872745459192
+ez publish |eZ Publish ,-0.2097872745459192
+var |var ,-0.2097872745459192
+released |Released ,-0.2097872745459192
+hypertext preprocessor |Hypertext Preprocessor ,-0.2097872745459192
+news archive |News Archive ,-0.2097872745459192
+php cache |PHP Cache ,-0.2097872745459192
+rewrite |rewrite ,-0.2097872745459192
+configuration file |configuration file ,-0.2097872745459192
+zephir |Zephir ,-0.2097872745459192
+announce |Announce ,-0.2097872745459192
+pecl extension |PECL extension ,-0.2097872745459192
+john smith |John Smith ,-0.2097872745459192
+birthyear |birthYear ,-0.2097872745459192
+built-in web server |Built-in web server ,-0.2097872745459192
+public function |public function ,-0.2097872745459192
+php project |PHP project |PHP projects ,-0.2097872745459192
+aws sdk |AWS SDK ,-0.2097872745459192
+command line usage |Command line usage ,-0.2097872745459192
+stack overflow |Stack Overflow ,-0.2097872745459192
+compiles php |compiles PHP ,-0.2097872745459192
+virtual machine |virtual machine ,-0.2097872745459192
+adder |adder ,-0.2097872745459192
+bundle |bundle ,-0.2097872745459192
+copy |copy ,-0.2097872745459192
+world |world ,-0.2097872745459192
+download |download ,-0.2097872745459192
+good |Good ,-0.2097872745459192
+cli sapi |CLI SAPI ,-0.2097872745459192
+sun microsystem |Sun Microsystems ,-0.2097872745459192
+difference |differences |Differences ,-0.2097872745459192
+configuration setting |configuration setting ,-0.2097872745459192
+apache http server |Apache HTTP Server ,-0.2097872745459192
+repository |repository ,-0.2097872745459192
+array syntax |array syntax ,-0.2097872745459192
+charge |charge ,-0.2097872745459192
+sally davis |Sally Davis ,-0.2097872745459192
+web application framework |web application frameworks ,-0.2097872745459192
+web link |Web link ,-0.2097872745459192
+enable dl configuration directive |enable dl configuration directive ,-0.2097872745459192
+stream |stream ,-0.2097872745459192
+compiler |compilers ,-0.2097872745459192
+allowed |allowed ,-0.2097872745459192
+mod php |mod php ,-0.2097872745459192
+data type |data type ,-0.2097872745459192
+goto retry |goto retry ,-0.2097872745459192
+comp infosystems www authoring cgi |comp infosystems www authoring cgi ,-0.2097872745459192
+web development |web development ,-0.2097872745459192
+university |University ,-0.2097872745459192
+keyword |keywords ,-0.2097872745459192
+simple machines forum |Simple Machines Forum ,-0.2097872745459192
+user |users ,-0.2097872745459192
+total |total ,-0.2097872745459192
+core language level |core language level ,-0.2097872745459192
+runtime setting |runtime settings ,-0.2097872745459192
+target label |target label ,-0.2097872745459192
+canonical php interpreter |canonical PHP interpreter ,-0.2097872745459192
+number |number ,-0.2097872745459192
+announcement |Announcement ,-0.2097872745459192
+configuration option |configuration options ,-0.2097872745459192
+operator |operators ,-0.2097872745459192
+security fix |security fixes ,-0.2097872745459192
+body |body ,-0.2097872745459192
+hiphop virtual machine |HipHop Virtual Machine ,-0.2097872745459192
+php developer |PHP developers ,-0.2097872745459192
+php feature |PHP features ,-0.2097872745459192
+documented |documented ,-0.2097872745459192
+recursive |recursive ,-0.2097872745459192
+c code |C code ,-0.2097872745459192
+integration |integration ,-0.2097872745459192
+approach |approach ,-0.2097872745459192
+import |imports ,-0.2097872745459192
+php performance |PHP performance ,-0.2097872745459192
+official php distribution |official PHP distribution ,-0.2097872745459192
+user-defined function |User-defined functions ,-0.2097872745459192
+month |months |month ,-0.2097872745459192
+wikipedia |Wikipedia ,-0.2097872745459192
+x return |x return ,-0.2097872745459192
+replacement |replacement ,-0.2097872745459192
+age |age ,-0.2097872745459192
+mixed review |mixed reviews ,-0.2097872745459192
+conversations network |Conversations Network ,-0.2097872745459192
+internal format |internal format ,-0.2097872745459192
+b c php |b c PHP ,-0.2097872745459192
+intent |intent ,-0.2097872745459192
+handle |handle ,-0.2097872745459192
+gif image |GIF images |GIF Images ,-0.2097872745459192
+zend engine ii |Zend Engine II ,-0.2097872745459192
+this- firstname |this- firstName ,-0.2097872745459192
+eval |eval ,-0.2097872745459192
+content |contents |Contents ,-0.2097872745459192
+native unicode support |native Unicode support ,-0.2097872745459192
+consistent interface |consistent interface ,-0.2097872745459192
+conversion |conversion ,-0.2097872745459192
+scientific notation |scientific notation ,-0.2097872745459192
+zval |ZVALs ,-0.2097872745459192
+doe |Doe ,-0.2097872745459192
+part |part ,-0.2097872745459192
+native boolean type |native Boolean type |native Boolean types ,-0.2097872745459192
+unsourced statement |unsourced statements ,-0.2097872745459192
+extension writing part ii |Extension Writing Part II ,-0.2097872745459192
+html code |HTML code ,-0.2097872745459192
+source object |source object ,-0.2097872745459192
+function name |function names ,-0.2097872745459192
+clip |clip ,-0.2097872745459192
+microsoft window |Microsoft Windows ,-0.2097872745459192
+quality assurance |Quality Assurance ,-0.2097872745459192
+zend framework |Zend Framework ,-0.2097872745459192
+foo |Foo ,-0.2097872745459192
+false |false ,-0.2097872745459192
+windows azure sdk |Windows Azure SDK ,-0.2097872745459192
+timeline |timeline ,-0.2097872745459192
+compile |compile ,-0.2097872745459192
+command-line scripting |command-line scripting ,-0.2097872745459192
+php internal |php internals ,-0.2097872745459192
+goto statement |goto statement ,-0.2097872745459192
+zend optimizer |Zend Optimizer ,-0.2097872745459192
+project zero |Project Zero ,-0.2097872745459192
+heredoc |heredoc ,-0.2097872745459192
+non-unicode feature |non-Unicode features ,-0.2097872745459192
+normal php function |normal PHP functions ,-0.2097872745459192
+engine configuration directive |engine configuration directive ,-0.2097872745459192
+hash |hashes ,-0.2097872745459192
+lack |lack ,-0.2097872745459192
+following example |following example ,-0.2097872745459192
+uploaded image |uploaded images ,-0.2097872745459192
+b php |b PHP ,-0.2097872745459192
+order |order |Order ,-0.2097872745459192
+parsing |parsing ,-0.2097872745459192
+clone method |clone method ,-0.2097872745459192
+term |terms ,-0.2097872745459192
+de facto standard |de facto standard ,-0.6617283576289674
+object-oriented language |object-oriented languages ,-0.6617283576289674
+widely used opcode cache |widely used opcode cache ,-0.6617283576289674
+multiple reason |multiple reasons ,-0.6617283576289674
+use statement |use statement ,-0.6617283576289674
+en wikipedia |en wikipedia ,-0.6617283576289674
+linux apache |Linux Apache ,-0.6617283576289674
+simple dynamic web application |simple dynamic web applications ,-0.6617283576289674
+anonymous function |Anonymous functions ,-0.6617283576289674
+interoperabilitybridge |Interoperabilitybridges ,-0.6617283576289674
+time |times ,-0.6617283576289674
+standard php |standard PHP ,-0.6617283576289674
+resulting mixture |resulting mixture ,-0.6617283576289674
+script file |script files ,-0.6617283576289674
+uninitialized global variable |uninitialized global variable ,-0.6617283576289674
+configuration parameter |configuration parameters ,-0.6617283576289674
+intermediate language |intermediate language ,-0.6617283576289674
+host |host ,-0.6617283576289674
+optional second argument |optional second argument ,-0.6617283576289674
+logical step |logical step ,-0.6617283576289674
+lexical context |lexical context ,-0.6617283576289674
+info dl |info dl ,-0.6617283576289674
+global namespace |global namespace ,-0.6617283576289674
+feature set |feature set ,-0.6617283576289674
+create function and eval construct |create function and eval constructs ,-0.6617283576289674
+binary notation |binary notations ,-0.6617283576289674
+gervasio |Gervasio ,-0.6617283576289674
+respective operating system |respective operating system ,-0.6617283576289674
+perl and c |Perl and C ,-0.6617283576289674
+devshed |devshed ,-0.6617283576289674
+inherited class |inherited classes ,-0.6617283576289674
+deprecation |deprecation ,-0.6617283576289674
+title php test title |title PHP Test title ,-0.6617283576289674
+core language functionality and thousand |core language functionality and thousands ,-0.6617283576289674
+software framework |software frameworks ,-0.6617283576289674
+php article |PHP article ,-0.6617283576289674
+isbn |ISBN ,-0.6617283576289674
+foundation |foundations ,-0.6617283576289674
+point number |point numbers ,-0.6617283576289674
+integer or string |integer or string ,-0.6617283576289674
+stdio family |stdio family ,-0.6617283576289674
+head body |head body ,-0.6617283576289674
+supported player |supported player ,-0.6617283576289674
+development team |development team ,-0.6617283576289674
+complete source code |complete source code ,-0.6617283576289674
+abstract class |abstract classes ,-0.6617283576289674
+php and facebook facebook |PHP and Facebook Facebook ,-0.6617283576289674
+major php version |major PHP version ,-0.6617283576289674
+suhosin |Suhosin ,-0.6617283576289674
+relational database management system |relational database management systems ,-0.6617283576289674
+open-source software general alternative term |open-source software General Alternative terms ,-0.6617283576289674
+sapi module |SAPI module ,-0.6617283576289674
+dmoz link |DMOZ links ,-0.6617283576289674
+string type |String Type ,-0.6617283576289674
+process management |process management ,-0.6617283576289674
+description |Description ,-0.6617283576289674
+main benchmark suite |main benchmark suite ,-0.6617283576289674
+standard exception handling model |standard exception handling model ,-0.6617283576289674
+variable name |variable names ,-0.6617283576289674
+iteratoraggregate |IteratorAggregate ,-0.6617283576289674
+related topic |Related topics ,-0.6617283576289674
+foreach language |foreach language ,-0.6617283576289674
+amp packages list |AMP packages List ,-0.6617283576289674
+alternative php cache apc |Alternative PHP Cache APC ,-0.6617283576289674
+dynamic generation |dynamic generation ,-0.6617283576289674
+criticism |criticism ,-0.6617283576289674
+php mannual |PHP Mannual ,-0.6617283576289674
+preferred |preferred ,-0.6617283576289674
+beta testing |beta testing ,-0.6617283576289674
+first form |first form ,-0.6617283576289674
+dynamic web page content |dynamic web page content ,-0.6617283576289674
+multi threading |Multi threading ,-0.6617283576289674
+descriptive form |descriptive form ,-0.6617283576289674
+removed item |Removed items ,-0.6617283576289674
+doctype |DOCTYPE ,-0.6617283576289674
+php section |PHP sections ,-0.6617283576289674
+malicious php code |malicious PHP code ,-0.6617283576289674
+room |room ,-0.6617283576289674
+no virtual table feature |no virtual table feature ,-0.6617283576289674
+php server-side scripting language |PHP Server-Side Scripting Language ,-0.6617283576289674
+c or c |C or C ,-0.6617283576289674
+no module support |no module support ,-0.6617283576289674
+php security |PHP security ,-0.6617283576289674
+resource type |resource type ,-0.6617283576289674
+built-in module |built-in modules ,-0.6617283576289674
+function table |function tables ,-0.6617283576289674
+program execution |program execution ,-0.6617283576289674
+download the clip |download the clip ,-0.6617283576289674
+audio format |audio formats ,-0.6617283576289674
+advanced usage scenario |advanced usage scenarios ,-0.6617283576289674
+online php documentation |online PHP documentation ,-0.6617283576289674
+constant |constants ,-0.6617283576289674
+free-form language |free-form language ,-0.6617283576289674
+thousand |thousands ,-0.6617283576289674
+standalone language |standalone language ,-0.6617283576289674
+script language php |script language php ,-0.6617283576289674
+unicode edit php |Unicode edit PHP ,-0.6617283576289674
+eval construct |eval constructs ,-0.6617283576289674
+phtml |phtml ,-0.6617283576289674
+non-zero value |non-zero values ,-0.6617283576289674
+php command-line interface cli executable |PHP command-line interface CLI executable ,-0.6617283576289674
+php usage stat |PHP Usage Stats ,-0.6617283576289674
+hiphop virtual machine hhvm |HipHop Virtual Machine HHVM ,-0.6617283576289674
+php presentation |PHP presentation ,-0.6617283576289674
+dynamic language |dynamic languages ,-0.6617283576289674
+facebook facebook |Facebook Facebook ,-0.6617283576289674
+php and digg |PHP and Digg ,-0.6617283576289674
+overhead |overhead ,-0.6617283576289674
+echo statement |echo statement ,-0.6617283576289674
+first-class function |first-class functions ,-0.6617283576289674
+script delimiter |script delimiters ,-0.6617283576289674
+high-level language |high-level language ,-0.6617283576289674
+main article |Main article ,-0.6617283576289674
+static variable |static variables ,-0.6617283576289674
+zero-argument class constructor function |zero-argument class constructor functions ,-0.6617283576289674
+plush toy form |plush toy form ,-0.6617283576289674
+element |elements ,-0.6617283576289674
+php editor |PHP editors ,-0.6617283576289674
+shared memory |shared memory ,-0.6617283576289674
+bad |Bad ,-0.6617283576289674
+language syntax |language syntax ,-0.6617283576289674
+golemon |Golemon ,-0.6617283576289674
+newline |newlines ,-0.6617283576289674
+functions and constant |functions and constants ,-0.6617283576289674
+session |SESSION ,-0.6617283576289674
+scissors |scissors ,-0.6617283576289674
+person john |Person John ,-0.6617283576289674
+zend engine version |Zend Engine version ,-0.6617283576289674
+type hint |type hints ,-0.6617283576289674
+indiana university |Indiana University ,-0.6617283576289674
+aws amazon |Aws amazon ,-0.6617283576289674
+short delimiter |Short delimiters ,-0.6617283576289674
+main focus |main focus ,-0.6617283576289674
+specific class |specific class ,-0.6617283576289674
+compiled form |compiled form ,-0.6617283576289674
+open-source android application |open-source Android applications ,-0.6617283576289674
+variadic function |variadic functions ,-0.6617283576289674
+memory corruption bug |memory corruption bug ,-0.6617283576289674
+native web server module |native web server module ,-0.6617283576289674
+common delimiter |common delimiters ,-0.6617283576289674
+exponentiation operator |exponentiation operator ,-0.6617283576289674
+true anonymous functions or closure |true anonymous functions or closures ,-0.6617283576289674
+five common php database problem |Five common PHP database problems ,-0.6617283576289674
+iplanet |iPlanet ,-0.6617283576289674
+self-contained |self-contained ,-0.6617283576289674
+bug fix |bug fixes ,-0.6617283576289674
+present day |present day ,-0.6617283576289674
+rdbm |RDBMS ,-0.6617283576289674
+performance benefit |performance benefits ,-0.6617283576289674
+php rfc |PHP RFC ,-0.6617283576289674
+php programming |PHP Programming ,-0.6617283576289674
+force |forces ,-0.6617283576289674
+netscape now defunct |Netscape now defunct ,-0.6617283576289674
+basic example |basic example ,-0.6617283576289674
+file and context |file and context ,-0.6617283576289674
+omnihttpd |OmniHTTPd ,-0.6617283576289674
+wikiversity documentation |Wikiversity Documentation ,-0.6617283576289674
+xml processing instruction |XML processing instructions ,-0.6617283576289674
+first-class object |first-class object ,-0.6617283576289674
+optimizing php performance |optimizing PHP performance ,-0.6617283576289674
+website php net |Website php net ,-0.6617283576289674
+lambda function |Lambda functions ,-0.6617283576289674
+signed value |signed values ,-0.6617283576289674
+book title |book titles ,-0.6617283576289674
+inefficiency |inefficiency ,-0.6617283576289674
+restriction |restriction ,-0.6617283576289674
+audio file |audio file ,-0.6617283576289674
+licensing edit php |Licensing edit PHP ,-0.6617283576289674
+file image |file image ,-0.6617283576289674
+true compiled language |true compiled language ,-0.6617283576289674
+html document |HTML document ,-0.6617283576289674
+absolutely no idea |absolutely no idea ,-0.6617283576289674
+general installation consideration |General Installation Considerations ,-0.6617283576289674
+object handling |Object handling ,-0.6617283576289674
+protection patch |protection patches ,-0.6617283576289674
+php-dev vote rfc |PHP-DEV VOTE RFC ,-0.6617283576289674
+php installation |PHP Installation ,-0.6617283576289674
+passing malicious php |Passing Malicious PHP ,-0.6617283576289674
+numerous extension |Numerous extensions ,-0.6617283576289674
+function and class name |function and class names ,-0.6617283576289674
+requested file |requested file ,-0.6617283576289674
+hello world program |Hello World program ,-0.6617283576289674
+path |path ,-0.6617283576289674
+source distribution |source distribution ,-0.6617283576289674
+php prone |PHP prone ,-0.6617283576289674
+php and zend |PHP and Zend ,-0.6617283576289674
+one-line comment |one-line comments ,-0.6617283576289674
+scalar type |scalar types ,-0.6617283576289674
+member variables and method |member variables and methods ,-0.6617283576289674
+software development kit |software development kits ,-0.6617283576289674
+problem |Problems ,-0.6617283576289674
+php f |PHP F ,-0.6617283576289674
+past |past ,-0.6617283576289674
+dynamic image |dynamic images ,-0.6617283576289674
+most-used open source software |most-used open source software ,-0.6617283576289674
+plan |plan ,-0.6617283576289674
+web service |web services ,-0.6617283576289674
+marks block |marks block ,-0.6617283576289674
+advance |advance ,-0.6617283576289674
+keyword use import |keyword use imports ,-0.6617283576289674
+x return function |x return function ,-0.6617283576289674
+custom php extension |Custom PHP Extensions ,-0.6617283576289674
+php echo |php echo ,-0.6617283576289674
+normal function |normal functions ,-0.6617283576289674
+php ini section |php ini sections ,-0.6617283576289674
+web context |web context ,-0.6617283576289674
+multiple developer |multiple developers ,-0.6617283576289674
+version release date |Version Release date ,-0.6617283576289674
+netscape now defunct and iplanet |Netscape now defunct and iPlanet ,-0.6617283576289674
+embedded database |embedded database ,-0.6617283576289674
+california |California ,-0.6617283576289674
+vote |vote ,-0.6617283576289674
+database server |database servers ,-0.6617283576289674
+file transfer protocol ftp server |File Transfer Protocol FTP servers ,-0.6617283576289674
+comment syntax |comment syntax ,-0.6617283576289674
+whitespace |whitespace ,-0.6617283576289674
+compiler variable |compiler variables ,-0.6617283576289674
+fastcgi process manager fpm |FastCGI Process Manager FPM ,-0.6617283576289674
+late static binding |late static bindings ,-0.6617283576289674
+php instruction |PHP instructions ,-0.6617283576289674
+security and bug fix |security and bug fixes ,-0.6617283576289674
+rfc shortag |rfc shortags ,-0.6617283576289674
+favor |favor ,-0.6617283576289674
+installing php-gtk |Installing PHP-GTK ,-0.6617283576289674
+ugly |Ugly ,-0.6617283576289674
+complex |complex ,-0.6617283576289674
+command line |command line ,-0.6617283576289674
+unsigned integer |Unsigned integers ,-0.6617283576289674
+weak major implementations zend engine |weak Major implementations Zend Engine ,-0.6617283576289674
+goto flow control statement |goto flow control statement ,-0.6617283576289674
+source comparison |source Comparison ,-0.6617283576289674
+mysql conference |MySQL Conference ,-0.6617283576289674
+asp-style short form |ASP-style short forms ,-0.6617283576289674
+marks block and inline comment |marks block and inline comments ,-0.6617283576289674
+irrelevant |irrelevant ,-0.6617283576289674
+advertising clause |advertising clause ,-0.6617283576289674
+trojan |Trojan ,-0.6617283576289674
+consortium |consortium ,-0.6617283576289674
+gpl-incompatible free software license |GPL-Incompatible Free Software Licenses ,-0.6617283576289674
+vote integrating zend optimizer |VOTE Integrating Zend Optimizer ,-0.6617283576289674
+c programmer |C programmers ,-0.6617283576289674
+public lastname |public lastName ,-0.6617283576289674
+mysql performance blog |MySQL Performance Blog ,-0.6617283576289674
+amazon web service |Amazon Web Services ,-0.6617283576289674
+developer meeting note |Developer Meeting Notes ,-0.6617283576289674
+internet-aware system |Internet-aware system ,-0.6617283576289674
+reserved word clone |reserved word clone ,-0.6617283576289674
+native php extension |native PHP extensions ,-0.6617283576289674
+software comparison |software Comparison ,-0.6617283576289674
+first compared |first compared ,-0.6617283576289674
+java and c |Java and C ,-0.6617283576289674
+wide variety |wide variety ,-0.6617283576289674
+linux apache and mysql |Linux Apache and MySQL ,-0.6617283576289674
+standard php library |Standard PHP Library ,-0.6617283576289674
+object model |object model ,-0.6617283576289674
+experimental php branch |experimental PHP branch ,-0.6617283576289674
+create function exist |create function exists ,-0.6617283576289674
+by-value replica |by-value replica ,-0.6617283576289674
+code block |code blocks ,-0.6617283576289674
+synonym |synonym ,-0.6617283576289674
+available microsoft windows binary distribution |available Microsoft Windows binary distributions ,-0.6617283576289674
+postgresql |PostgreSQL ,-0.6617283576289674
+php syntax |PHP syntax ,-0.6617283576289674
+multibyte string |multibyte strings ,-0.6617283576289674
+building block |building blocks ,-0.6617283576289674
+spoken article |spoken articles ,-0.6617283576289674
+condition |conditions ,-0.6617283576289674
+destructor |destructors ,-0.6617283576289674
+encyclopedia jump |encyclopedia Jump ,-0.6617283576289674
+opcache |OpCache ,-0.6617283576289674
+navigation |navigation ,-0.6617283576289674
+compact data structure |compact data structures ,-0.6617283576289674
+negative octal hexadecimal |negative octal hexadecimal ,-0.6617283576289674
+major feature |major features ,-0.6617283576289674
+wrapping c class |Wrapping C Classes ,-0.6617283576289674
+lamp application |LAMP application ,-0.6617283576289674
+getimagesize |getimagesize ,-0.6617283576289674
+unsupported branch |Unsupported Branches ,-0.6617283576289674
+this- lastname lastname |this- lastName lastName ,-0.6617283576289674
+external source |external sources ,-0.6617283576289674
+standalone graphical application |standalone graphical applications ,-0.6617283576289674
+database resource |database resources ,-0.6617283576289674
+percentage |percentage ,-0.6617283576289674
+argument unpacking |argument unpacking ,-0.6617283576289674
+design structure |design structure ,-0.6617283576289674
+semicolon |semicolon ,-0.6617283576289674
+irc |IRC ,-0.6617283576289674
+server-side file |server-side file ,-0.6617283576289674
+firstname lastname return |firstName lastName return ,-0.6617283576289674
+internet information services ii |Internet Information Services IIS ,-0.6617283576289674
+php installation and configuration |PHP Installation and Configuration ,-0.6617283576289674
+null data type |null data type ,-0.6617283576289674
+person |person ,-0.6617283576289674
+devnewz |devnewz ,-0.6617283576289674
+tight interfacing |tight interfacing ,-0.6617283576289674
+php and perl |PHP and Perl ,-0.6617283576289674
+she- greet |she- greet ,-0.6617283576289674
+trachtenberg |Trachtenberg ,-0.6617283576289674
+people |people ,-0.6617283576289674
+revision |revision ,-0.6617283576289674
+kerner |Kerner ,-0.6617283576289674
+popular apache http server module |popular Apache HTTP Server module ,-0.6617283576289674
+confusion |confusion ,-0.6617283576289674
+custom extension |custom extensions ,-0.6617283576289674
+high-level bytecode |high-level bytecode ,-0.6617283576289674
+php-fpm fastcgi process manager |PHP-FPM FastCGI Process Manager ,-0.6617283576289674
+taint checking |taint checking ,-0.6617283576289674
+comparison operator |Comparison operators ,-0.6617283576289674
+default setting |default settings ,-0.6617283576289674
+b history |b History ,-0.6617283576289674
+idg lerdorf |IDG Lerdorf ,-0.6617283576289674
+computer language |computer languages ,-0.6617283576289674
+audio help |Audio help ,-0.6617283576289674
+inline comment |inline comments ,-0.6617283576289674
+mascot edit |Mascot edit ,-0.6617283576289674
+combination |combination ,-0.6617283576289674
+high-profile open-source project |high-profile open-source projects ,-0.6617283576289674
+use edit |Use edit ,-0.6617283576289674
+syntax edit |Syntax edit ,-0.6617283576289674
+general-purpose programming language |general-purpose programming language ,-0.6617283576289674
+dynamic web page |dynamic web pages ,-0.6617283576289674
+interpreter predecessor |interpreter predecessor ,-0.6617283576289674
+improved performance |improved performance ,-0.6617283576289674
+phusion passenger topics web resource |Phusion Passenger Topics Web resource ,-0.6617283576289674
+php logo |PHP logo ,-0.6617283576289674
+b lerdorf |b Lerdorf ,-0.6617283576289674
+remaining non-unicode feature |remaining non-Unicode features ,-0.6617283576289674
+citation given php and mysql |citation given PHP and MySQL ,-0.6617283576289674
+bug location |bug location ,-0.6617283576289674
+url parameter |URL parameters ,-0.6617283576289674
+php archive |PHP archives ,-0.6617283576289674
+target label retry |target label retry ,-0.6617283576289674
+ahack ru |Ahack ru ,-0.6617283576289674
+public private |Public Private ,-0.6617283576289674
+previous version |previous versions ,-0.6617283576289674
+dynamic content |dynamic content ,-0.6617283576289674
+mamp |MAMP ,-0.6617283576289674
+post |POST ,-0.6617283576289674
+web application frameworks references edit |web application frameworks References edit ,-0.6617283576289674
+implements efficient data access interface |implements efficient data access interfaces ,-0.6617283576289674
+built-in library |built-in library ,-0.6617283576289674
+server-side scripting language |server-side scripting languages ,-0.6617283576289674
+thin wrapper |thin wrapper ,-0.6617283576289674
+santa clara |Santa Clara ,-0.6617283576289674
+hardening-patch |Hardening-Patch ,-0.6617283576289674
+processing instruction |Processing Instructions ,-0.6617283576289674
+stream containing text |stream containing text ,-0.6617283576289674
+moodle org |Moodle org ,-0.6617283576289674
+languages comparison |languages Comparison ,-0.6617283576289674
+php runtime |PHP runtime ,-0.6617283576289674
+lamp architecture |LAMP architecture ,-0.6617283576289674
+namespace |namespaces ,-0.6617283576289674
+christian seiler |Christian Seiler ,-0.6617283576289674
+run-time decision |run-time decision ,-0.6617283576289674
+manual installation requirements php |Manual Installation requirements PHP ,-0.6617283576289674
+unix-like operating system |Unix-like operating systems ,-0.6617283576289674
+potentially dated statements article |potentially dated statements Articles ,-0.6617283576289674
+decimal positive |decimal positive ,-0.6617283576289674
+enterprise |enterprises ,-0.6617283576289674
+server load |server load ,-0.6617283576289674
+static keyword |Static Keyword ,-0.6617283576289674
+re-engineered php engine |re-engineered PHP Engine ,-0.6617283576289674
+taint mode decision |Taint mode decision ,-0.6617283576289674
+mime support |MIME support ,-0.6617283576289674
+early version |early versions ,-0.6617283576289674
+general-purpose scripting language |general-purpose scripting language ,-0.6617283576289674
+cultural works free license |Cultural Works Free license ,-0.6617283576289674
+elephpant php mascot |ElePHPant PHP mascot ,-0.6617283576289674
+dynamic loading |dynamic loading ,-0.6617283576289674
+abstraction layer |abstraction layer ,-0.6617283576289674
+improved variable syntax |improved variable syntax ,-0.6617283576289674
+recursive backronym |recursive backronym ,-0.6617283576289674
+sqlite |SQLite ,-0.6617283576289674
+php and related project |PHP and related projects ,-0.6617283576289674
+current form |current form ,-0.6617283576289674
+private method |Private Methods ,-0.6617283576289674
+pipp |Pipp ,-0.6617283576289674
+complete compatibility |complete compatibility ,-0.6617283576289674
+double quote |double quotes ,-0.6617283576289674
+php license incompatible |PHP License incompatible ,-0.6617283576289674
+personal homepage |personal homepage ,-0.6617283576289674
+software work |software works ,-0.6617283576289674
+widely used php implementation |widely used PHP implementation ,-0.6617283576289674
+green stable release bug |Green Stable release Bug ,-0.6617283576289674
+extension writing part iii |Extension Writing Part III ,-0.6617283576289674
+underlying library |underlying library ,-0.6617283576289674
+common gateway interface cgi executable |Common Gateway Interface CGI executable ,-0.6617283576289674
+defined and documented |defined and documented ,-0.6617283576289674
+first letter |first letter ,-0.6617283576289674
+class person |class Person ,-0.6617283576289674
+suhosin and hardening-patch |Suhosin and Hardening-Patch ,-0.6617283576289674
+myage yearsold date |myAge yearsOld date ,-0.6617283576289674
+improved support |improved support ,-0.6617283576289674
+enhancing performance |enhancing performance ,-0.6617283576289674
+original license |original license ,-0.6617283576289674
+heredoc string |heredoc strings ,-0.6617283576289674
+official distribution |official distribution ,-0.6617283576289674
+b c d e type |b c d e Types ,-0.6617283576289674
+preface |Preface ,-0.6617283576289674
+thread |threads ,-0.6617283576289674
+lacking support |lacking support ,-0.6617283576289674
+unicode icu library |Unicode ICU library ,-0.6617283576289674
+older fastcgi implementation |older FastCGI implementation ,-0.6617283576289674
+command-line interface cli capability |command-line interface CLI capability ,-0.6617283576289674
+security update |security updates ,-0.6617283576289674
+official launch |official launch ,-0.6617283576289674
+convention |conventions ,-0.6617283576289674
+mjtsai |mjtsai ,-0.6617283576289674
+html head |html head ,-0.6617283576289674
+type hinting |Type hinting ,-0.6617283576289674
+binding |Binding ,-0.6617283576289674
+public firstname |public firstName ,-0.6617283576289674
+person sally |Person Sally ,-0.6617283576289674
+staticgreet jane |staticGreet Jane ,-0.6617283576289674
+broad overview |broad overview ,-0.6617283576289674
+closing tag |closing tag ,-0.6617283576289674
+programming and testing |programming and testing ,-0.6617283576289674
+alternative fastcgi implementation |alternative FastCGI implementation ,-0.6617283576289674
+loop |loops ,-0.6617283576289674
+binary compatibility |binary compatibility ,-0.6617283576289674
+sampled |sampled ,-0.6617283576289674
+configuration file php ini |Configuration file php ini ,-0.6617283576289674
+parrot influenced |Parrot Influenced ,-0.6617283576289674
+runtime system |runtime system ,-0.6617283576289674
+no written specification |no written specification ,-0.6617283576289674
+shortage |shortage ,-0.6617283576289674
+complex and nuanced semantics |complex and nuanced semantics ,-0.6617283576289674
+drupal org |Drupal org ,-0.6617283576289674
+mysqlnd |mysqlnd ,-0.6617283576289674
+initial hope |Initial hopes ,-0.6617283576289674
+inconsistent naming |inconsistent naming ,-0.6617283576289674
+protected limits access |protected limits access ,-0.6617283576289674
+floating point notation |floating point notation ,-0.6617283576289674
+server-side protocol |Server-side Protocols ,-0.6617283576289674
+short open tag configuration |short open tag configuration ,-0.6617283576289674
+ldap server |LDAP servers ,-0.6617283576289674
+inconsistent ordering |inconsistent ordering ,-0.6617283576289674
+generated web page |generated web page ,-0.6617283576289674
+true anonymous function |true anonymous functions ,-0.6617283576289674
+future |future ,-0.6617283576289674
+php paradigm |PHP Paradigm ,-0.6617283576289674
+adobe flash content |Adobe Flash content ,-0.6617283576289674
+wamp |WAMP ,-0.6617283576289674
+sdk |SDKs ,-0.6617283576289674
+server-side dynamic content white paper |Server-Side Dynamic Content White Paper ,-0.6617283576289674
+key |keys ,-0.6617283576289674
+default clone |default clone ,-0.6617283576289674
+support jit compilation |support JIT compilation ,-0.6617283576289674
+web server configuration |web server configuration ,-0.6617283576289674
+output text |output text ,-0.6617283576289674
+lambda functions and closure |Lambda functions and closures ,-0.6617283576289674
+o reilly network |O Reilly Networks ,-0.6617283576289674
+runtime settings vulnerability |runtime settings vulnerability ,-0.6617283576289674
+security hole |security holes ,-0.6617283576289674
+mac os x base |Mac OS X base ,-0.6617283576289674
+simpler installation mechanism |simpler installation mechanism ,-0.6617283576289674
+circular reference |circular references ,-0.6617283576289674
+direct module interface |direct module interface ,-0.6617283576289674
+lightweight |lightweight ,-0.6617283576289674
+image or audio format |image or audio formats ,-0.6617283576289674
+open-source software package |open-source software packages ,-0.6617283576289674
+thing |things ,-0.6617283576289674
+echo person |echo Person ,-0.6617283576289674
+flexible function naming |Flexible function naming ,-0.6617283576289674
+function return |function returns ,-0.6617283576289674
+dealing |dealing ,-0.6617283576289674
+php security exploit |PHP Security Exploit ,-0.6617283576289674
+zend engine license filename extension |Zend Engine License Filename extension ,-0.6617283576289674
+public private and protected |Public Private and Protected ,-0.6617283576289674
+hash value |hash values ,-0.6617283576289674
+commons textbook |Commons Textbooks ,-0.6617283576289674
+function call |Function calls ,-0.6617283576289674
+php and apache |PHP and Apache ,-0.6617283576289674
+wordpress-based benchmark |WordPress-based benchmarks ,-0.6617283576289674
+ide |Ide ,-0.6617283576289674
+script run |script runs ,-0.6617283576289674
+y use |y use ,-0.6617283576289674
+manner |manner ,-0.6617283576289674
+github |GitHub ,-0.6617283576289674
+additional argument y |additional argument y ,-0.6617283576289674
+php variable |PHP variables ,-0.6617283576289674
+certification exam |certification exam ,-0.6617283576289674
+session unregister |session unregister ,-0.6617283576289674
+convenience |convenience ,-0.6617283576289674
+download the clip or download |download the clip or download ,-0.6617283576289674
+hardened-php project |Hardened-PHP Project ,-0.6617283576289674
+ramat gan |Ramat Gan ,-0.6617283576289674
+php accelerators list |PHP accelerators List ,-0.6617283576289674
+final method |final methods ,-0.6617283576289674
+php manual image processing |PHP Manual Image Processing ,-0.6617283576289674
+php engine |PHP engine ,-0.6617283576289674
+webhosting talk |WebHosting Talk ,-0.6617283576289674
+closure re-binding |closure re-binding ,-0.6617283576289674
+php file |PHP files ,-0.6617283576289674
+ereg extension |ereg extension ,-0.6617283576289674
+delay |delays ,-0.6617283576289674
+small |small ,-0.6617283576289674
+file or stream containing text |file or stream containing text ,-0.6617283576289674
+caller |caller ,-0.6617283576289674
+common intermediate language cil |Common Intermediate Language CIL ,-0.6617283576289674
+primary way |primary ways ,-0.6617283576289674
+rapid application development rad |rapid application development RAD ,-0.6617283576289674
+series |series ,-0.6617283576289674
+internationalization extension |Internationalization extension ,-0.6617283576289674
+text string |text strings ,-0.6617283576289674
+open-source graphics device driver comparison |open-source graphics device driver Comparison ,-0.6617283576289674
+popular compression format |popular compression formats ,-0.6617283576289674
+internetnew |InternetNews ,-0.6617283576289674
+double-quoted |double-quoted ,-0.6617283576289674
+server requirement |Server requirements ,-0.6617283576289674
+parrot intermediate representation |Parrot intermediate representation ,-0.6617283576289674
+public static function |public static function ,-0.6617283576289674
+internal scripting language |internal scripting language ,-0.6617283576289674
+wamp and mamp |WAMP and MAMP ,-0.6617283576289674
+php script opcode |PHP script opcodes ,-0.6617283576289674
+phpunit php unit |PHPUnit PHP Unit ,-0.6617283576289674
+situation |situations ,-0.6617283576289674
+null |NULL ,-0.6617283576289674
+function name consistency |Function name consistency ,-0.6617283576289674
+server-side web development |server-side web development ,-0.6617283576289674
+security edit |Security edit ,-0.6617283576289674
+non-php code |non-PHP code ,-0.6617283576289674
+special interface |special interfaces ,-0.6617283576289674
+arbitrary meaningful left-hand-side expression |arbitrary meaningful left-hand-side expressions ,-0.6617283576289674
+additional feature |additional features ,-0.6617283576289674
+product |products ,-0.6617283576289674
+numerous function |Numerous functions ,-0.6617283576289674
+fastcgi processor |FastCGI processor ,-0.6617283576289674
+item |Items ,-0.6617283576289674
+extension structure |Extension structure ,-0.6617283576289674
+callback |callbacks ,-0.6617283576289674
+markup |markup ,-0.6617283576289674
+templating engine |templating engines ,-0.6617283576289674
+private limit |private limits ,-0.6617283576289674
+abstract method |abstract methods ,-0.6617283576289674
+additional function |Additional functions ,-0.6617283576289674
+onlamp ibm developerwork |ONLamp IBM DeveloperWorks ,-0.6617283576289674
+simplest version |simplest version ,-0.6617283576289674
+keys and value |keys and values ,-0.6617283576289674
+wayback machine |Wayback Machine ,-0.6617283576289674
+templating engines and web framework |templating engines and web frameworks ,-0.6617283576289674
+usenet discussion group comp infosystem |Usenet discussion group comp infosystems ,-0.6617283576289674
+community edit php |community edit PHP ,-0.6617283576289674
+trait |traits ,-0.6617283576289674
+user-facing portion |user-facing portion ,-0.6617283576289674
+final class |final classes ,-0.6617283576289674
+iterator |Iterator ,-0.6617283576289674
+heavily loaded web server |heavily loaded web servers ,-0.6617283576289674
+suraski and gutman |Suraski and Gutmans ,-0.6617283576289674
+successful migration |successful migration ,-0.6617283576289674
+php parser compiles input |PHP parser compiles input ,-0.6617283576289674
+shortened form |shortened forms ,-0.6617283576289674
+www php net |www php net ,-0.6617283576289674
+php classes blog |PHP Classes blog ,-0.6617283576289674
+shell application |shell applications ,-0.6617283576289674
+conjunction |conjunction ,-0.6617283576289674
+unicode and php |Unicode and PHP ,-0.6617283576289674
+core php ini |core php ini ,-0.6617283576289674
+alabama |Alabama ,-0.6617283576289674
+platform-dependent range |platform-dependent range ,-0.6617283576289674
+network |network ,-0.6617283576289674
+near-complete language compatibility |near-complete language compatibility ,-0.6617283576289674
+php taint mode rfc |PHP Taint Mode RFC ,-0.6617283576289674
+licenses and comment |Licenses and Comments ,-0.6617283576289674
+generator |generators ,-0.6617283576289674
+web hosting provider |web hosting providers ,-0.6617283576289674
+constructor |constructors ,-0.6617283576289674
+nuanced semantics |nuanced semantics ,-0.6617283576289674
+group php net |group php net ,-0.6617283576289674
+transition |transition ,-0.6617283576289674
+certified php developer |certified PHP developers ,-0.6617283576289674
+list |lists ,-0.6617283576289674
+inclusion |inclusion ,-0.6617283576289674
+hphpc support |HPHPc support ,-0.6617283576289674
+basic functionality |basic functionality ,-0.6617283576289674
+no written specification or standard |no written specification or standard ,-0.6617283576289674
+performance problem |performance problems ,-0.6617283576289674
+core language functionality |core language functionality ,-0.6617283576289674
+xml document |XML documents ,-0.6617283576289674
+blue |blue ,-0.6617283576289674
+php and drupal |PHP and Drupal ,-0.6617283576289674
+cloud environment |cloud environments ,-0.6617283576289674
+continuing example |Continuing Example ,-0.6617283576289674
+identity operator |identity operator ,-0.6617283576289674
+prior written permission |prior written permission ,-0.6617283576289674
+subsequent edit |subsequent edits ,-0.6617283576289674
+c style syntax |C style syntax ,-0.6617283576289674
+zend opcache |Zend Opcache ,-0.6617283576289674
+callback function |callback functions ,-0.6617283576289674
+counter extension |counter Extension ,-0.6617283576289674
+retrospect |retrospect ,-0.6617283576289674
+form handling |form handling ,-0.6617283576289674
+imperative |imperative ,-0.6617283576289674
+php accelerator list |PHP accelerator List ,-0.6617283576289674
+memory requirement |memory requirements ,-0.6617283576289674
+mediawiki listen |MediaWiki Listen ,-0.6617283576289674
+core php features and extension |core PHP features and extensions ,-0.6617283576289674
+andi gutmans and zeev suraski |Andi Gutmans and Zeev Suraski ,-0.6617283576289674
+iterator or iteratoraggregate |Iterator or IteratorAggregate ,-0.6617283576289674
+member variable |member variables ,-0.6617283576289674
+non-php text |non-PHP text ,-0.6617283576289674
+true and zero |true and zero ,-0.6617283576289674
+itworld |ITworld ,-0.6617283576289674
+jump label limited goto |jump label limited goto ,-0.6617283576289674
+yellow stable release security |Yellow Stable release Security ,-0.6617283576289674
+windows api |Windows API ,-0.6617283576289674
+class name |class names ,-0.6617283576289674
+full php compatibility |full PHP compatibility ,-0.6617283576289674
+international component |International Components ,-0.6617283576289674
+different location |different locations ,-0.6617283576289674
+related project |related projects ,-0.6617283576289674
+xhtml |XHTML ,-0.6617283576289674
+php foo |PHP Foo ,-0.6617283576289674
+phpdbg debugger |phpdbg debugger ,-0.6617283576289674
+echo he- greet |echo he- greet ,-0.6617283576289674
+drawback |drawback ,-0.6617283576289674
+standard problem |standard problems ,-0.6617283576289674
+haudio microformat |hAudio microformats ,-0.6617283576289674
+slide |slides ,-0.6617283576289674
+php function list |PHP Function List ,-0.6617283576289674
+user code |user code ,-0.6617283576289674
+history edit |history edit ,-0.6617283576289674
+securityspace |SecuritySpace ,-0.6617283576289674
+interoperability |Interoperability ,-0.6617283576289674
+microsoft ii |Microsoft IIS ,-0.6617283576289674
+c-language long type |C-language long type ,-0.6617283576289674
+incompatible value |incompatible values ,-0.6617283576289674
+stable version |stable version ,-0.6617283576289674
+fact |fact ,-0.6617283576289674
+expense |expense ,-0.6617283576289674
+b security |b Security ,-0.6617283576289674
+language feature |language features ,-0.6617283576289674
+unicode integration |Unicode integration ,-0.6617283576289674
+first use |first use ,-0.6617283576289674
+compilers or support jit compilation |compilers or support JIT compilation ,-0.6617283576289674
+javascript disabled |JavaScript disabled ,-0.6617283576289674
+detail |Details ,-0.6617283576289674
+bray |Bray ,-0.6617283576289674
+web form |web forms ,-0.6617283576289674
+implementations edit |Implementations edit ,-0.6617283576289674
+nibble security |Nibble Security ,-0.6617283576289674
+default value |default values ,-0.6617283576289674
+echo other- greet |echo other- greet ,-0.6617283576289674
+alternative implementation |Alternative implementations ,-0.6617283576289674
+attacker |attacker ,-0.6617283576289674
+session is registered |session is registered ,-0.6617283576289674
+created object |created object ,-0.6617283576289674
+php binary |PHP binary ,-0.6617283576289674
+instance |instance ,-0.6617283576289674
+strings and array |strings and arrays ,-0.6617283576289674
+zephir-lang |zephir-lang ,-0.6617283576289674
+no new feature |No new features ,-0.6617283576289674
+filter extension |filter extension ,-0.6617283576289674
+dispute |dispute ,-0.6617283576289674
+mime magic |mime magic ,-0.6617283576289674
+cloud-specific feature |cloud-specific features ,-0.6617283576289674
+personal home page forms interpreter |Personal Home Page Forms Interpreter ,-0.6617283576289674
+type conversion |type conversions ,-0.6617283576289674
+server application programming interface sapi |Server Application Programming Interface SAPI ,-0.6617283576289674
+external links edit |External links edit ,-0.6617283576289674
+magic quotes gpc |magic quotes gpc ,-0.6617283576289674
+short array syntax support |short array syntax support ,-0.6617283576289674
+core php feature |core PHP features ,-0.6617283576289674
+software project |software projects ,-0.6617283576289674
+theserverpage |Theserverpages ,-0.6617283576289674
+portability |portability ,-0.6617283576289674
+function lock |function lock ,-0.6617283576289674
+numerous performance enhancement |numerous performance enhancements ,-0.6617283576289674
+php syntax and semantics |PHP syntax and semantics ,-0.6617283576289674
+phpng project |PHPNG project ,-0.6617283576289674
+integer variable |Integer variables ,-0.6617283576289674
+spl standardphplibrary |SPL StandardPHPLibrary ,-0.6617283576289674
+five simple way |Five simple ways ,-0.6617283576289674
+execution speed |execution speed ,-0.6617283576289674
+popularity |popularity ,-0.6617283576289674
+first release |first release ,-0.6617283576289674
+basic syntax |Basic syntax ,-0.6617283576289674
+digital sandwich |Digital Sandwich ,-0.6617283576289674
+php disambiguation |PHP disambiguation ,-0.6617283576289674
+json xml |JSON XML ,-0.6617283576289674
+performance improvement |performance improvements ,-0.6617283576289674
+technical security flaw |Technical security flaws ,-0.6617283576289674
+local php configuration |local PHP configuration ,-0.6617283576289674
+first php-enabled page |first PHP-enabled page ,-0.6617283576289674
+constructors and destructor |constructors and destructors ,-0.6617283576289674
+web hosting environment |web hosting environments ,-0.6617283576289674
+created closure |created closure ,-0.6617283576289674
+success |Success ,-0.6617283576289674
+resulting code |resulting code ,-0.6617283576289674
+rasmus lerdorf developer |Rasmus Lerdorf Developer ,-0.6617283576289674
+hash function |hash function ,-0.6617283576289674
+tag |tags ,-0.6617283576289674
+enterprise party |enterprise party ,-0.6617283576289674
+dollar symbol |dollar symbol ,-0.6617283576289674
+web content management system |Web content management systems ,-0.6617283576289674
+hundred |hundreds ,-0.6617283576289674
+tim |Tim ,-0.6617283576289674
+object cloning |Object cloning ,-0.6617283576289674
+multiple interface |multiple interfaces ,-0.6617283576289674
+separate php code |separate PHP code ,-0.6617283576289674
+shared web hosting environment |shared web hosting environment ,-0.6617283576289674
+feature set and enhancing performance |feature set and enhancing performance ,-0.6617283576289674
+table |Table ,-0.6617283576289674
+phpng php next generation |PHPNG PHP Next Generation ,-0.6617283576289674
+lightweight and consistent interface |lightweight and consistent interface ,-0.6617283576289674
+framework simpletest lime symfony |Framework SimpleTest Lime Symfony ,-0.6617283576289674
+high level language |high level languages ,-0.6617283576289674
+news php net |News php net ,-0.6617283576289674
+major change |major changes ,-0.6617283576289674
+smaller improvement |smaller improvements ,-0.6617283576289674
+citation given php |citation given PHP ,-0.6617283576289674
+web browser |web browser ,-0.6617283576289674
+arrayacces |ArrayAccess ,-0.6617283576289674
+facilities php |facilities PHP ,-0.6617283576289674
+fwrite file |fwrite file ,-0.6617283576289674
+operating system and platform |operating system and platform ,-0.6617283576289674
+uniform variable syntax |Uniform Variable Syntax ,-0.6617283576289674
+senior technical yahoo |Senior Technical Yahoo ,-0.6617283576289674
+highly |highly ,-0.6617283576289674
+zend license |Zend License ,-0.6617283576289674
+improved windows support |improved Windows support ,-0.6617283576289674
+instruction separation |Instruction separation ,-0.6617283576289674
+php function reference |PHP function reference ,-0.6617283576289674
+mix |mix ,-0.6617283576289674
+php new operator |PHP new operator ,-0.6617283576289674
+functions edit php |Functions edit PHP ,-0.6617283576289674
+mic |Mic ,-0.6617283576289674
+small and self-contained |small and self-contained ,-0.6617283576289674
+existing features performance |existing features performance ,-0.6617283576289674
+directory |directory ,-0.6617283576289674
+input validation |input validation ,-0.6617283576289674
+native json support |Native JSON support ,-0.6617283576289674
+wikibooks php |Wikibooks PHP ,-0.6617283576289674
+similar package |Similar packages ,-0.6617283576289674
+php-gtk extension |PHP-GTK extension ,-0.6617283576289674
+fclose file |fclose file ,-0.6617283576289674
+functional object-oriented procedural reflective designed |functional object-oriented procedural reflective Designed ,-0.6617283576289674
+pecl php net |Pecl php net ,-0.6617283576289674
+web framework |web frameworks ,-0.6617283576289674
+sample program |sample program ,-0.6617283576289674
+program |programs ,-0.6617283576289674
+identical |identical ,-0.6617283576289674
+numerous configuration option |Numerous configuration options ,-0.6617283576289674
+perl-like variable |Perl-like variables ,-0.6617283576289674
+long-standing issue |long-standing issue ,-0.6617283576289674
+wikibooks learning resource |Wikibooks Learning resources ,-0.6617283576289674
+public function greet |public function greet ,-0.6617283576289674
+web industry |web industry ,-0.6617283576289674
+popular implementation |popular implementation ,-0.6617283576289674
+b usage |b Usage ,-0.6617283576289674
+static binding |static binding ,-0.6617283576289674
+protected |Protected ,-0.6617283576289674
+libmysql |libmysql ,-0.6617283576289674
+blog facebook |Blog facebook ,-0.6617283576289674
+no formal specification |no formal specification ,-0.6617283576289674
+boolean type conversion rule |Boolean type conversion rules ,-0.6617283576289674
+gnu general public license gpl |GNU General Public License GPL ,-0.6617283576289674
+admin password reset |Admin Password Reset ,-0.6617283576289674
+mistake |mistakes ,-0.6617283576289674
+register global |Register Globals ,-0.6617283576289674
+lamp software bundle |LAMP software bundle ,-0.6617283576289674
+squid |Squid ,-0.6617283576289674
+microsoft sql server |Microsoft SQL Server ,-0.6617283576289674
+aperiplus sourceforge net |Aperiplus sourceforge net ,-0.6617283576289674
+platform-specific range |platform-specific range ,-0.6617283576289674
+single quote |single quotes ,-0.6617283576289674
+alejandro |Alejandro ,-0.6617283576289674
+public testing |public testing ,-0.6617283576289674

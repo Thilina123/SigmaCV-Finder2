@@ -1,0 +1,947 @@
+xml |xml |XML ,-3.1017581522243307
+xml document |XML document |XML documents ,-3.7820841174776074
+xml language |XML languages ,-3.9631414510948826
+xml schema |XML Schema |XML Schemas ,-4.135027220646295
+xml element |XML elements ,-4.148014963847925
+xml edit |XML edit ,-4.233940092311255
+xml attribute |XML attribute ,-4.337759774700377
+xml syntax |XML syntax ,-4.357370131277017
+xml application |XML Applications ,-4.42128681703196
+xml specification |XML specification |XML Specification ,-4.42128681703196
+character |Characters |characters |character ,-4.437408780525466
+document |document |documents ,-4.462410082730884
+text xml |text xml ,-4.494588554127898
+xml schema edit |XML Schema edit ,-4.545392157896923
+xml format |XML format ,-4.55020137168301
+xml extensible markup language xml |XML Extensible Markup Language XML ,-4.5725622614399395
+xml content |XML content ,-4.612782943160013
+xml processing |XML processing ,-4.612782943160013
+processing xml |Processing XML ,-4.612782943160013
+xml name |XML names ,-4.647279378903488
+xml dtds |XML DTDs ,-4.647279378903488
+xml based syntax |XML based syntax ,-4.7502537772492035
+xml version |xml version ,-4.767860407311932
+elements and attribute |elements and attributes ,-4.798628140256351
+character and end |character and end ,-4.804070438018827
+xml processor |XML processors |XML processor ,-4.815515497214095
+valid xml document |valid XML document ,-4.816705340365935
+language |languages |language ,-4.824524749965434
+data type edit xml |data type edit XML ,-4.836784748095169
+xml markup languages list |XML markup languages List ,-4.856145229588539
+well-formed xml document |well-formed XML document ,-4.868088900308355
+xml namespace |XML Namespaces ,-4.868195755043009
+xml parser |XML parser |XML parsers ,-4.868195755043009
+xml infoset |XML infoset ,-4.9270872728712
+unicode character |Unicode character |Unicode characters ,-4.934034667030608
+extensible markup language xml |Extensible Markup Language XML ,-4.940263288743842
+xml applications and initiative |XML Applications and Initiatives ,-4.978997114065761
+xml base |XML Base ,-4.993852969183461
+schema language |schema languages ,-4.9964105195168464
+xml document node |XML document nodes ,-5.00324393634441
+character encoding |Character Encodings ,-5.005585088850944
+document character set |document character sets |document character set ,-5.007875532450682
+text and or markup |text and or markup ,-5.010426909322
+document type |document type ,-5.018085739953653
+document encoding |document encoding ,-5.018085739953653
+markup and content |markup and content |Markup and content ,-5.01905213093285
+xml data binding |XML data binding ,-5.053223985441381
+markup language |markup language ,-5.065011080273589
+xml serialization |XML Serialization ,-5.0709283090970905
+xml construct |XML constructs ,-5.0709283090970905
+xml software |XML software ,-5.0709283090970905
+xml sax |XML SAX ,-5.0709283090970905
+xml media type |XML Media Types ,-5.103384302420814
+xml information set |XML Information Set ,-5.116457873471908
+schema languages edit |schema languages edit ,-5.119647690477291
+xml declaration |XML declaration ,-5.162089087494068
+xml schemas comparison |XML schemas Comparison ,-5.164158154685465
+schema |schema |schemas |Schemas ,-5.168296289068259
+xml com xml serialization |XML com XML Serialization ,-5.172294586124131
+single xml element |single XML element ,-5.1728166501532185
+xml base attribute |xml base attribute ,-5.187155778514448
+element |element |elements ,-5.1942717754715195
+use |use ,-5.1942717754715195
+xml infoset specification |XML Infoset specification ,-5.198330009193996
+sources edit xml |Sources edit XML ,-5.230100069128771
+document format |document formats ,-5.230527336936286
+xml document transformation |XML document transformations ,-5.2342929965310585
+xml document formatting |XML document formatting ,-5.2342929965310585
+xml space attribute |xml space attribute ,-5.238539338456868
+xml schema datatype |XML Schema Datatypes ,-5.238539338456868
+media types application xml |media types application xml ,-5.262742097275508
+xml working group |XML Working Group ,-5.267543130786745
+entity and character reference |entity and character references ,-5.271146249975254
+xml core |XML core |XML Core ,-5.273660863151172
+xml document and programming-language object |XML document and programming-language objects ,-5.274165740736827
+character set |character set ,-5.280608257310581
+processor and application |Processor and application ,-5.29931319072152
+schemas and validation edit |Schemas and validation edit ,-5.30059200888935
+escaping edit xml |Escaping edit XML ,-5.304481252900175
+markup |markup |Markup ,-5.305497410581744
+unicode character set |Unicode character set ,-5.330625689385637
+xml schema instance |XML Schema instances ,-5.334433362607462
+xml unicode code point |XML Unicode code points ,-5.339963167301104
+xml entity value |XML entity values ,-5.3489917171083485
+character reference |character references ,-5.352158679130918
+sgml declaration xml |SGML declaration XML ,-5.370504557487539
+schema type |schema types ,-5.371028843122341
+ercs xml and html |ERCS XML and HTML ,-5.375738378211272
+format markup language |format Markup language ,-5.376222250562956
+document type definition edit |Document Type Definition edit ,-5.398773529472033
+criticism edit xml |Criticism edit XML ,-5.400375277050768
+scripts and character |scripts and characters ,-5.401323594428178
+document type definition |Document Type Definition ,-5.409657361829985
+xml signature |XML Signature ,-5.417501899377063
+xml database |XML databases ,-5.417501899377063
+xml recommendation |XML Recommendation ,-5.417501899377063
+xml easier |XML easier ,-5.417501899377063
+public xml |public xml ,-5.417501899377063
+xml tool |XML tools ,-5.417501899377063
+xml processing api |XML processing API ,-5.421888117429959
+unicode |Unicode ,-5.43066055353575
+data type |data type |Data types ,-5.439629403879083
+syntax and processing rule |syntax and processing rules ,-5.473478483687592
+xsd xml schema definition |XSD XML Schema Definition ,-5.477104655238312
+web browser |Web browsers ,-5.509963068624069
+xml information set infoset |XML Information Set infoset ,-5.525447503483448
+control character |control characters ,-5.536021069193576
+extensible markup language |Extensible Markup Language ,-5.553098334250346
+data and metadata element |data and metadata elements ,-5.566582797203084
+encoding |encodings |Encodings |encoding ,-5.5737613971764235
+type |types ,-5.5737613971764235
+attribute |attribute |attributes ,-5.5737613971764235
+xml node list |XML node lists ,-5.580040777294997
+syntax |syntax |syntaxes ,-5.612982110329704
+xml shell |XML Shell ,-5.620234453431146
+xml header |XML header ,-5.620234453431146
+term xml |term XML ,-5.620234453431146
+xml sig |XML SIG ,-5.620234453431146
+ercs xml |ERCS XML ,-5.620234453431146
+xml encryption |XML Encryption ,-5.620234453431146
+element tag |element tags ,-5.626770494214822
+programming language |programming languages |programming language ,-5.629243706182484
+document type definition dtd |Document Type Definition DTD ,-5.6439808427249645
+internet markup |Internet Markup ,-5.652071000861716
+valid character |Valid characters ,-5.6616782833340284
+dom document |DOM document ,-5.674178934436737
+dsdl schema language |DSDL schema languages ,-5.677639835001181
+unicode standard |Unicode standard ,-5.686073365418745
+element name |element names ,-5.693536190527083
+example |Examples |example |examples ,-5.6963637192687555
+well-formed xml attribute note |well-formed XML attribute note ,-5.734509509533602
+xml edit simple api |XML edit Simple API ,-5.738385556167594
+allowed character |allowed characters ,-5.738753623247659
+space character |space character ,-5.738753623247659
+application |application |Applications |applications ,-5.740815481839589
+specification |specification |specifications ,-5.740815481839589
+dtds and xsd |DTDs and XSDs ,-5.755405142593923
+end element |end element ,-5.770611530440712
+edit list |edit List ,-5.779461318990412
+sgml |SGML ,-5.787335497474482
+document object model edit |Document Object Model edit ,-5.803895466627205
+data binding edit |Data binding edit ,-5.808011945499331
+references edit |References edit ,-5.8165153050672735
+special syntax character |special syntax characters ,-5.831984821644395
+xml lang attribute |xml lang attribute ,-5.83579249486622
+edition |editions |edition ,-5.836125661643914
+base language |base language ,-5.855236268054012
+xml-based language |XML-based languages |XML-based language ,-5.855236268054012
+xs schema element |xs schema element ,-5.861662695767861
+numeric character reference |numeric character reference |numeric character references ,-5.863421714801476
+sgml standard |SGML standard ,-5.864410837388111
+permitted unicode character |permitted Unicode characters ,-5.867104993530337
+legal unicode character |legal Unicode character |legal Unicode characters ,-5.867104993530337
+attribute value |attribute values ,-5.883281001379535
+text |texts |text ,-5.887418956031465
+versions edit |Versions edit ,-5.900042347398857
+small schema language |small schema languages ,-5.908688895187829
+start or end element |start or end element ,-5.912027717394424
+xml processor insert |XML processor inserts ,-5.923247249688717
+xml protocol comparison |XML Protocol Comparison ,-5.923247249688717
+code |code |Code ,-5.941486177301741
+chinese character |Chinese character |Chinese characters ,-5.941486177301741
+standard |standard |Standards ,-5.941486177301741
+cyrillic character |Cyrillic characters ,-5.941486177301741
+schema or grammar |schema or grammar ,-5.9449332952333185
+document object model |Document Object Model ,-5.949819944703546
+iso standard sgml |ISO standard SGML ,-5.9508764696239735
+related specifications edit |Related specifications edit ,-5.953117969251946
+document component |document components ,-5.9539868284044495
+xml manipulation |XML manipulation ,-5.966808043711119
+sending xml |sending XML ,-5.966808043711119
+xml contract |XML Contracts ,-5.966808043711119
+sgml dtds |SGML DTDs ,-5.990068051528564
+format |format ,-5.998644591141689
+internet |Internet ,-5.998644591141689
+world wide web consortium type |World Wide Web Consortium Type ,-6.016603226984947
+encrypting xml content |encrypting XML content ,-6.019141273839311
+schema system |schema systems ,-6.027122037605425
+xslt and xquery |XSLT and XQuery ,-6.037837762722991
+common use |common use ,-6.040109780807056
+use case |use cases ,-6.040109780807056
+system xml xmlreader |System Xml XmlReader ,-6.042138897668295
+newer schema language |newer schema language ,-6.043843931223885
+element-based schema language |element-based schema languages ,-6.043843931223885
+programming languages or database |programming languages or databases ,-6.053168270362111
+tag |Tags |Tag ,-6.059269212958124
+internet media type |Internet Media Types ,-6.069013115393266
+syntax rule |syntax rules ,-6.071127476266781
+comments edit comment |Comments edit Comments ,-6.078015785732416
+whitespace character |Whitespace characters ,-6.085327213527631
+character escape |character escapes ,-6.085327213527631
+unicode code point |Unicode code point ,-6.086031505660028
+entire document |entire document ,-6.097827864630339
+media type |media types ,-6.104197377519055
+xml application layer protocol |XML Application layer protocols ,-6.106711990694974
+data serialization format |data serialization formats ,-6.1147468225644275
+document object model parser |Document Object Model parser ,-6.121023297993082
+define |defines ,-6.123807734095696
+processing |processing ,-6.123807734095696
+iso |ISO ,-6.123807734095696
+world |world ,-6.123807734095696
+set |set ,-6.123807734095696
+content |content |contents |Contents ,-6.123807734095696
+information |information ,-6.123807734095696
+example sax and stax |example SAX and StAX ,-6.125756046999419
+tag name |Tag names ,-6.126034909270385
+world wide web consortium |World Wide Web Consortium ,-6.127313684437079
+individual xml file |individual XML files ,-6.154296309875366
+valid characters edit main article |Valid characters edit Main article ,-6.159569281594527
+example data binding system |Example data binding systems ,-6.16005632737779
+example image svg xml |example image svg xml ,-6.167519568165211
+name |names ,-6.192800605582646
+dtds |DTDs ,-6.192800605582646
+definition |definition |definitions ,-6.192800605582646
+list |list ,-6.192800605582646
+end tag |end tags ,-6.203110249184014
+validation edit |validation edit ,-6.203110249184014
+beginning and end tag |beginning and end tags ,-6.2164824204217615
+xml binding jaxb |XML Binding JAXB ,-6.228677493646768
+type system |type systems ,-6.229854591659508
+java programming language |Java programming language ,-6.234683662147661
+fifth edition |Fifth Edition |fifth edition ,-6.2353795097528
+related specification |related specifications ,-6.246615937678829
+xml-based syntax |XML-based syntax ,-6.249464948236148
+support |support ,-6.266908577736369
+reference |references |reference ,-6.266908577736369
+supported control character |supported control characters ,-6.268429261638983
+-- and end |-- and end ,-6.26888682290964
+typical xml apis |Typical XML APIs ,-6.273187957854943
+no information |no information ,-6.278885198247615
+programming interfaces edit |Programming interfaces edit ,-6.280061053589189
+control code |control codes |Control Codes ,-6.288059767581713
+common example |common example ,-6.291155752705674
+first edition |first edition ,-6.294271027580992
+simpler definition and validation framework |simpler definition and validation framework ,-6.295988750469199
+document fragment |document fragments ,-6.300560418684422
+dtd support |DTD support ,-6.306929931573137
+attribute class |attribute class ,-6.306929931573137
+self-describing xml pdf |Self-Describing XML PDF ,-6.324571517797362
+processing rule |processing rules ,-6.326540288149777
+end |end ,-6.346951285409905
+dtd |DTD ,-6.346951285409905
+object |objects ,-6.346951285409905
+working group |working group |Working Group ,-6.350435620067952
+chinese armenian and cyrillic character |Chinese Armenian and Cyrillic characters ,-6.3576490224001025
+common encoding error |common encoding errors ,-6.364780847060234
+example sax |example SAX ,-6.368231092619303
+resource encoding |resource encoding ,-6.3980907099701145
+encoding problem |encoding problems ,-6.3980907099701145
+application programming interface |application programming interfaces ,-6.404958870069659
+numeric code |numeric code ,-6.413716981722166
+code point |code points |code point ,-6.413716981722166
+base standard |base standard ,-6.413716981722166
+xml binary characterization working group |XML Binary Characterization Working Group ,-6.416010180327231
+hexadecimal numeric character reference |hexadecimal numeric character references ,-6.432243974760597
+comment |Comments |comments ,-6.4339626623995345
+unicode repertoire |Unicode repertoire ,-6.438112063806882
+xml-based format |XML-based format |XML-based formats ,-6.442296188642141
+definition text-based itu-t and iso |definition text-based ITU-T and ISO ,-6.444376219415074
+schema author |schema author ,-6.450770967799027
+logical and physical structures element |logical and physical structures elements ,-6.454634878292585
+following example |following example ,-6.45939187101628
+well-formed text |well-formed text ,-6.463758711000658
+parent element |parent elements ,-6.463758711000658
+child element |child elements ,-6.463758711000658
+query language |query language ,-6.481617752301697
+suitable name character |suitable name characters ,-6.487355773768673
+data serialization formats notes edit |data serialization formats Notes edit ,-6.508444087057873
+attributes local |attributes local ,-6.509662485627219
+binary encoding |binary encoding ,-6.509662485627219
+empty-element empty syntax |empty-element empty syntax ,-6.513009454147382
+start-tag or empty-element tag |start-tag or empty-element tag ,-6.513388337002863
+design |design ,-6.529272842203859
+core syntax |Core Syntax ,-6.529272842203859
+processor |processor |Processor ,-6.529272842203859
+rule |rules ,-6.529272842203859
+sax parsing code |SAX parsing code ,-6.538739333711092
+microsoft net framework use |Microsoft NET Framework use ,-6.547146842630127
+empty-element tag |empty-element tag |empty-element tags ,-6.549683839463987
+web service |web services ,-6.549683839463987
+detection edit |detection edit ,-6.549683839463987
+xml id function |xml id functions ,-6.555620577984011
+large xml database |large XML databases ,-6.555620577984011
+first-class data type |first-class data type ,-6.570372247652024
+open standard |open standards ,-6.581953100032773
+iso dsdl |ISO DSDL ,-6.581953100032774
+u fffe and u ffff |U FFFE and U FFFF ,-6.592763688360949
+no method |no method ,-6.593189527958802
+schematron edit schematron |Schematron edit Schematron ,-6.6036540259752625
+sgml extended |SGML Extended ,-6.616449535776248
+remaining character |remaining characters ,-6.634633357861686
+line-ending character |line-ending characters ,-6.634633357861686
+null character |null character ,-6.634633357861686
+namespace |namespaces |namespace ,-6.634633357861686
+parser |parser ,-6.634633357861686
+quote character |quote characters ,-6.634633357861686
+html |HTML ,-6.634633357861686
+parsing |parsing ,-6.634633357861686
+error |errors ,-6.634633357861686
+src and alt |src and alt ,-6.635090919132343
+standard public entity set |standard public entity sets ,-6.637738987861325
+then-new world wide web |then-new World Wide Web ,-6.647174069857037
+attribute default |attribute defaults ,-6.653503521853109
+id attribute |ID attribute ,-6.653503521853109
+valid comment |valid comment ,-6.659955224271063
+line-break element |line-break Element ,-6.66649126505474
+metadata element |metadata elements ,-6.66649126505474
+element img |element img ,-6.66649126505474
+cyrillic text |Cyrillic text ,-6.66649126505474
+chinese text |Chinese text ,-6.66649126505474
+abstract syntax |Abstract Syntax ,-6.673113878429749
+iso iec |ISO IEC ,-6.67311387842975
+iso iec international standard |ISO IEC International Standard ,-6.683319377059814
+abstract data model |abstract data model ,-6.692947174360463
+microsoft office office open xml |Microsoft Office Office Open XML ,-6.697509494081329
+comments-- international use edit |comments-- International use edit ,-6.709453829286405
+formats data modeling |formats Data modeling ,-6.711999978973779
+schematron assertion language |Schematron assertion language ,-6.728551842455733
+start- and end-tag |start- and end-tags ,-6.730984943282937
+application profile |application profile ,-6.737030564184693
+entity |entity ,-6.752416393518069
+method |methods ,-6.752416393518069
+xpath |XPath ,-6.752416393518069
+infoset |infoset ,-6.752416393518069
+xhtml |XHTML ,-6.752416393518069
+bray |Bray ,-6.752416393518069
+relax |RELAX ,-6.752416393518069
+second-generation web |Second-Generation Web ,-6.75241639351807
+pull parser |pull parser |pull parsers ,-6.760290572002139
+characters vs byte |Characters vs Bytes ,-6.769788393897741
+dtd technology |DTD technology ,-6.784685654086855
+specific object |specific objects ,-6.784685654086855
+information item |information items ,-6.784685654086855
+different human language |different human languages ,-6.802933026227136
+no such claim |no such claim ,-6.820030791022987
+web archive org |Web archive org ,-6.821629515110818
+specific version |specific version ,-6.82819134258167
+numerous language |Numerous languages ,-6.82819134258167
+encoding header |encoding header ,-6.8562360759071925
+internet draft |Internet Drafts ,-6.865945118835742
+extended reference concrete syntax |Extended Reference Concrete Syntax ,-6.866041254195512
+element-based syntax |element-based syntax ,-6.875846432483833
+compact syntax |compact syntax ,-6.875846432483833
+search xml filename extension |search XML Filename extension ,-6.879472604034554
+base |base ,-6.885947786142592
+case |cases |case ,-6.885947786142592
+start |start ,-6.885947786142592
+microsoft |Microsoft ,-6.885947786142592
+apis |APIs ,-6.885947786142592
+represent |represents ,-6.885947786142592
+structure |structure |structures ,-6.885947786142592
+dom |DOM ,-6.885947786142592
+node object |node objects ,-6.89625742974396
+tim bray |Tim Bray ,-6.89625742974396
+project bray |project Bray ,-6.89625742974396
+ecmascript javascript language |ECMAScript JavaScript language ,-6.89882705037773
+declarative transformation language |Declarative transformation languages ,-6.89882705037773
+error-handling edit main article |error-handling edit Main article ,-6.903300148985633
+line break code |line break codes ,-6.9049434299337955
+key terminology edit |Key terminology edit ,-6.909084269933314
+external links edit |External links edit ,-6.909084269933314
+alternative encoding mechanism |alternative encoding mechanism ,-6.917523539261411
+xml emphasize simplicity |XML emphasize simplicity ,-6.921824674206714
+rick jelliffe xml |Rick Jelliffe XML ,-6.921824674206714
+severe markup error |severe markup errors ,-6.923996234547111
+processing instruction |processing instructions ,-6.928526690312745
+hello world |hello world ,-6.928526690312745
+text encoding initiative tei |Text Encoding Initiative TEI ,-6.934650465620952
+future version |future versions ,-6.9397631182387745
+current version |current versions |current version ,-6.9397631182387745
+version number |version number ,-6.9397631182387745
+comparison history list |Comparison History List ,-6.953594734141489
+identifier name |identifier names ,-6.963023126056221
+validation framework |validation framework ,-6.963023126056221
+date value |date values ,-6.963023126056221
+simpler definition |simpler definition ,-6.963023126056221
+physical structures element |physical structures elements ,-6.970692498937339
+first working draft |first Working Draft ,-6.9732082341491335
+design goal |design goals ,-6.987418208140937
+well-formedness rule |well-formedness rules ,-6.987418208140937
+css class or identifier name |CSS class or identifier names ,-7.003788535166775
+specifically excluded control character |specifically excluded control characters ,-7.010652707055755
+interface-oriented application programming interface |interface-oriented application programming interface ,-7.01168363635172
+outermost element |outermost element ,-7.013064855334713
+heavy use |heavy use ,-7.013064855334713
+day-to-day use |day-to-day use ,-7.013064855334713
+general use |general use ,-7.013064855334713
+method return value |method return values ,-7.027975917912893
+project |project ,-7.040098465969851
+software |software ,-7.040098465969851
+space |spaces ,-7.040098465969851
+official standard |official standards ,-7.040098465969851
+feature |features ,-7.040098465969851
+sax |SAX ,-7.040098465969851
+begin |begins ,-7.040098465969851
+construct |constructs ,-7.040098465969851
+character repertoire constraints renaming |character repertoire constraints renaming ,-7.040098465969851
+bosak |Bosak ,-7.040098465969851
+xslt |XSLT ,-7.040098465969851
+svg |SVG ,-7.040098465969851
+dsdl |DSDL ,-7.040098465969851
+tim |Tim ,-7.040098465969851
+well-formed |Well-formed ,-7.040098465969851
+code development |code development ,-7.040098465969851
+mgml minimal generalized markup language |MGML Minimal Generalized Markup Language ,-7.047860321004201
+o reilly xml blog |O Reilly XML Blog ,-7.05275939917454
+main article |Main article ,-7.054183904453199
+key point |key points ,-7.054183904453199
+net framework |NET Framework ,-7.054183904453199
+regular expression syntax |regular expression syntax ,-7.065752146348559
+further design work |Further design work ,-7.065752146348561
+unstructured format |unstructured formats ,-7.068677672889825
+single root element |single root element ,-7.08284991114441
+generality and usability |generality and usability ,-7.097189039505641
+verbosity and complexity |verbosity and complexity ,-7.097189039505641
+human-readable and machine-readable |human-readable and machine-readable ,-7.097189039505641
+xpath expression |XPath expressions ,-7.098989983798042
+binary infoset |binary infoset ,-7.098989983798042
+fifth edition release |fifth edition release ,-7.100872318234502
+fifth edition substitute |fifth edition substitutes ,-7.100872318234502
+resource description framework |Resource Description Framework ,-7.110262610556734
+key construct |key constructs ,-7.131259244366827
+jon bosak |Jon Bosak ,-7.131259244366827
+predate unicode |predate Unicode ,-7.131259244366828
+unstructured content |unstructured content ,-7.131259244366828
+adopts unicode |adopts Unicode ,-7.131259244366828
+normal processing |normal processing ,-7.131259244366828
+first four edition |first four editions ,-7.140133330119963
+internal components element |internal components elements ,-7.157231094915814
+individual value |individual values ,-7.165755680110303
+dom implementation |DOM implementations ,-7.165755680110303
+dom node |DOM nodes ,-7.165755680110303
+risp lisp sgml text processor |RISP LISP SGML text processor ,-7.173548633221122
+no explicit support |no explicit support ,-7.1775763917779365
+resource description framework rdf |Resource Description Framework RDF ,-7.194087851437054
+representation processing instruction |representation processing instructions ,-7.196766342385096
+unicode-defined encoding |Unicode-defined encodings ,-7.202809666187164
+syntactic support |syntactic support ,-7.202809666187164
+following |following ,-7.222420022763805
+source |sources ,-7.222420022763805
+jon |Jon ,-7.222420022763805
+single |single ,-7.222420022763805
+problem |problems |problem ,-7.222420022763805
+declaration |declaration ,-7.222420022763805
+link |link ,-7.222420022763805
+technology |technology ,-7.222420022763805
+comparison |Comparison ,-7.222420022763805
+resource |resource ,-7.222420022763805
+section |section ,-7.222420022763805
+transfer syntax |transfer syntax ,-7.222420022763805
+string |Strings |string |strings ,-7.222420022763805
+part |part ,-7.222420022763805
+schematron |Schematron ,-7.222420022763805
+work |work ,-7.222420022763805
+specific problem |specific problems ,-7.222420022763805
+key syntax marker |key syntax markers ,-7.222420022763806
+question marks or box |question marks or boxes ,-7.235981276476904
+first conference |First conference ,-7.242831020023932
+simple api |Simple API ,-7.2428310200239325
+special feature |special features ,-7.2428310200239325
+xml-oriented query language |XML-oriented query language ,-7.265031146600433
+core-xml specification |core-XML specifications ,-7.286336708518748
+no organization |no organization ,-7.286336708518748
+dates article |dates Articles ,-7.309596716336193
+sgml unchanged |SGML unchanged ,-7.309596716336194
+sgml wg |SGML WG ,-7.309596716336194
+xsl formatting object |XSL Formatting Objects ,-7.310408538041959
+greeting hello world |Greeting Hello world ,-7.33192137842115
+local link |local link ,-7.333991798420909
+u fffe |U FFFE ,-7.33399179842091
+u ffff |U FFFF ,-7.33399179842091
+design decision |design decisions ,-7.33399179842091
+programming language-specific binding |programming language-specific bindings ,-7.339412330371836
+grammar-based validation dtds |grammar-based validation DTDs ,-7.354919002250135
+css class name |CSS class names ,-7.354919002250135
+interest group mailing list |Interest Group mailing list ,-7.3575694682887205
+plain text |plain text ,-7.359638445614685
+simple syntactic rule |simple syntactic rules ,-7.371182390306611
+iterator design pattern |Iterator design pattern ,-7.371182390306612
+uniform type identifier |Uniform Type Identifier ,-7.379621659634708
+recursive-descent parser |recursive-descent parsers ,-7.386672056249823
+highly structured |highly structured ,-7.386672056249823
+pull-parsing code |Pull-parsing code ,-7.386672056249823
+draconian error |draconian error ,-7.386672056249823
+default angle-bracket syntax |default angle-bracket syntax ,-7.392695230685802
+storage or transmission |storage or transmission ,-7.397169570796517
+presence or absence |presence or absence ,-7.397169570796517
+draconian error handling |draconian error handling ,-7.406302562192554
+comma or semi-colon delimited list |comma or semi-colon delimited list ,-7.44323345063402
+component |components ,-7.445563574078014
+java |Java ,-7.445563574078014
+grammar |grammar ,-7.445563574078014
+implementation |implementation |implementations ,-7.445563574078014
+current item |current item ,-7.445563574078014
+goal |Goals ,-7.445563574078014
+mark |mark ,-7.445563574078014
+well-formednes |well-formedness |Well-formedness ,-7.445563574078014
+history |history ,-7.445563574078014
+future |Future ,-7.445563574078014
+memory |memory ,-7.445563574078014
+constraint |constraints ,-7.445563574078014
+extension |extensions ,-7.445563574078014
+item |items |item ,-7.445563574078014
+iterator |iterator ,-7.445563574078014
+different way |different ways ,-7.445563574078014
+initiative |Initiatives ,-7.445563574078014
+xsd |XSDs ,-7.445563574078014
+alternative |alternatives ,-7.445563574078014
+crl http http |CRL HTTP HTTPS ,-7.445563574078014
+lack |lack ,-7.445563574078014
+xquery |XQuery ,-7.445563574078014
+fast infoset |Fast Infoset ,-7.445563574078015
+method parameter |method parameters ,-7.445563574078015
+declarative description |declarative description ,-7.4778328346468
+cdata section |CDATA section ,-7.4778328346468
+section end-tag |section end-tags ,-7.4778328346468
+iso hytime |ISO HyTime ,-7.477832834646801
+mixed content |mixed content ,-7.477832834646801
+comprehensive set |comprehensive set ,-7.477832834646801
+datatype framework plug-in |datatype framework plug-ins ,-7.490074038286188
+definition text-based itu-t |definition text-based ITU-T ,-7.490074038286188
+class inner greeting-box |class inner greeting-box ,-7.502196586343147
+internet engineering task force |Internet Engineering Task Force ,-7.502327936736851
+exhaustive list |exhaustive list ,-7.512329270390277
+common situation |common situation ,-7.512329270390277
+multiple value |multiple values ,-7.512329270390277
+entityvalue definition |EntityValue definition ,-7.512329270390277
+proper rendering support |proper rendering support ,-7.514776695670764
+compact non-xml syntax |compact non-XML syntax ,-7.527850266721856
+email and weekly teleconference |email and weekly teleconferences ,-7.530856263428707
+wide adoption |wide adoption ,-7.549383256467138
+strong support |strong support ,-7.549383256467138
+vendor support |vendor support ,-7.549383256467138
+openoffice org |OpenOffice org ,-7.549383256467138
+cobb group |Cobb Group ,-7.549383256467138
+dom traversal api nodeiterator |DOM traversal API NodeIterator ,-7.550866940347091
+fixed delimiter set |fixed delimiter set ,-7.562970438607799
+processing instruction target |processing instruction target ,-7.562970438607799
+open-source xmlsh application |open-source xmlsh application ,-7.570461390558485
+no special significance |no special significance ,-7.570461390558485
+tree-traversal apis accessible |Tree-traversal APIs accessible ,-7.585968062436783
+stream-oriented apis accessible |Stream-oriented APIs accessible ,-7.585968062436783
+further guideline |Further guidelines ,-7.589404610303905
+unique feature |unique features ,-7.589404610303905
+small number |small number ,-7.589404610303905
+generic object |generic objects ,-7.589404610303905
+handler object |handler object ,-7.589404610303905
+cyrillic letter |Cyrillic letters ,-7.589404610303905
+entire repertoire |entire repertoire ,-7.589404610303905
+distinct object |distinct objects ,-7.589404610303905
+newer feature |newer features ,-7.589404610303905
+programming-language object |programming-language objects ,-7.589404610303905
+typed class |typed classes ,-7.589404610303905
+dtd designer |DTD designers ,-7.589404610303905
+infoset augmentation facility |infoset augmentation facility ,-7.602231450493259
+primary design goal |primary design goal ,-7.60223145049326
+no exception |no exceptions ,-7.63291029879872
+no matter |no matter ,-7.63291029879872
+inside comment |inside comments ,-7.63291029879872
+uti conformation public text |UTI conformation public text ,-7.647808323099281
+main change |main changes ,-7.680565388700883
+grammatical rule |grammatical rules ,-7.680565388700883
+following limitation |following limitations ,-7.680565388700883
+following range |following ranges ,-7.680565388700883
+intense work |intense work ,-7.680565388700883
+semi-colon delimited list |semi-colon delimited list ,-7.721123098472837
+notation |notation ,-7.733245646529795
+developer |Developer ,-7.733245646529795
+pdf |PDFs |PDF ,-7.733245646529795
+criticism |criticisms ,-7.733245646529795
+day |day ,-7.733245646529795
+author |author ,-7.733245646529795
+original developer |original developers ,-7.733245646529795
+programmer |programmers ,-7.733245646529795
+report |Reports ,-7.733245646529795
+ascii |ASCII ,-7.733245646529795
+task |tasks ,-7.733245646529795
+database |databases ,-7.733245646529795
+whitespace |whitespace ,-7.733245646529795
+original |original ,-7.733245646529795
+profile |profile ,-7.733245646529795
+mechanism |mechanism ,-7.733245646529795
+tree |tree ,-7.733245646529795
+logical |logical ,-7.733245646529795
+delimiter |delimiters ,-7.733245646529795
+representation |representation ,-7.733245646529795
+august |August ,-7.733245646529795
+user |users |user ,-7.733245646529795
+detection |detection ,-7.733245646529795
+approach |approach ,-7.733245646529795
+publisher |Publishers ,-7.733245646529795
+cdata |CDATA ,-7.733245646529795
+javascript |JavaScript ,-7.733245646529795
+violation |violations |violation ,-7.733245646529795
+end-tag |end-tags ,-7.733245646529795
+publishing |publishing ,-7.733245646529795
+validity |validity ,-7.733245646529795
+instance |instance ,-7.733245646529795
+start-tag |start-tags |start-tag ,-7.733245646529795
+access |access ,-7.733245646529795
+default |default ,-7.733245646529795
+separation |separation ,-7.733245646529795
+validating or non-validating depending |validating or non-validating depending ,-7.755841661896864
+mozilla foundation |Mozilla Foundation ,-7.792137164357987
+regular grammar |regular grammars ,-7.792137164357987
+xml-sw sw |XML-SW SW ,-7.792137164357987
+communication protocol |communication protocols ,-7.792137164357987
+sw xml-sw |SW XML-SW ,-7.792137164357987
+five year |Five years ,-7.792137164357987
+local variable |local variables ,-7.792137164357987
+question mark |question marks ,-7.792137164357987
+defining datatype |defining datatypes ,-7.792137164357987
+step number |step number ,-7.792137164357987
+java architecture |Java Architecture ,-7.792137164357987
+entity expansion |entity expansion ,-7.792137164357987
+higher-level method |higher-level methods ,-7.792137164357987
+lower-level method |lower-level methods ,-7.792137164357987
+different validator |different validators ,-7.792137164357987
+xerox publishing system |Xerox Publishing System ,-7.81701712262343
+major design decision |major design decisions ,-7.833280510679908
+early digital media publisher |early digital media publishers ,-7.834611923556837
+numeric digit |numeric digit ,-7.8589028606702485
+data-binding apis |data-binding APIs ,-7.8589028606702485
+msdn microsoft |Msdn microsoft ,-7.8589028606702485
+wikimedia common |Wikimedia Commons ,-7.8589028606702485
+push pull |Push Pull ,-7.8589028606702485
+basic tree model |basic tree model ,-7.868400682565851
+typed local variable |typed local variables ,-7.907661694451311
+dynamic information display |dynamic information display ,-7.929174534830502
+original member |original members ,-7.935978200583878
+michael sperberg-mcqueen |Michael Sperberg-McQueen ,-7.935978200583878
+digital signature |digital signatures ,-7.935978200583878
+unique identifier |unique identifiers ,-7.935978200583878
+date help |date help ,-7.935978200583878
+recursive-descent approach |recursive-descent approach ,-7.935978200583878
+b step |B step ,-7.935978200583878
+css class |CSS class ,-7.935978200583879
+peculiar feature |peculiar features ,-7.935978200583879
+rich datatyping system |rich datatyping system ,-7.952172158659486
+fairly lengthy list |fairly lengthy list ,-7.9521721586594865
+balinese cham or phoenician script |Balinese Cham or Phoenician scripts ,-7.971044916557072
+relative uri reference |relative URI references ,-7.97687481604406
+mozilla developer center |Mozilla Developer Center ,-8.003555718601906
+intermediate parsed result |intermediate parsed results ,-8.003555718601906
+sun microsystems engineer jon bosak |Sun Microsystems engineer Jon Bosak ,-8.012989022753484
+potentially dated statements commons category |potentially dated statements Commons category ,-8.026787597050875
+plist file |PLIST files ,-8.027138978980854
+following benefit |following benefits ,-8.027138978980854
+substantial work |substantial work ,-8.027138978980854
+potential source |potential source ,-8.027138978980854
+single collection |single collection ,-8.027138978980854
+single screen |single screen ,-8.027138978980854
+allowable parent child relationship |allowable parent child relationships ,-8.109264995723864
+complex grammar |complex grammars ,-8.13871075463796
+change |changes ,-8.13871075463796
+non-character |non-characters ,-8.13871075463796
+faq |FAQ ,-8.13871075463796
+tree-traversal |Tree-traversal ,-8.13871075463796
+detailed constraint |detailed constraints ,-8.13871075463796
+potentially dated statement |potentially dated statements ,-8.13871075463796
+assertion |assertions ,-8.13871075463796
+co-editor |co-editor |co-editors ,-8.13871075463796
+box |boxes ,-8.13871075463796
+xmlsh |xmlsh ,-8.13871075463796
+byte |bytes ,-8.13871075463796
+php |PHP ,-8.13871075463796
+searching |searching ,-8.13871075463796
+stax |StAX ,-8.13871075463796
+apple |Apple ,-8.13871075463796
+validating |validating ,-8.13871075463796
+subset |subsets ,-8.13871075463796
+vocabulary |vocabulary ,-8.13871075463796
+spread |SPREAD ,-8.13871075463796
+discussion |discussion ,-8.13871075463796
+rudimentary datatype |rudimentary datatypes ,-8.13871075463796
+initial publication |initial publication ,-8.13871075463796
+presence |presence ,-8.13871075463796
+minimal architecture |Minimal Architecture ,-8.13871075463796
+sun microsystem |Sun Microsystems ,-8.13871075463796
+xinclude |XInclude ,-8.13871075463796
+navigation |navigation ,-8.13871075463796
+json |JSON ,-8.13871075463796
+arbitrary fragment |arbitrary fragments ,-8.13871075463796
+ecmascript |ECMAScript ,-8.13871075463796
+usable alternative |usable alternatives ,-8.13871075463796
+topic |topic ,-8.13871075463796
+range |range ,-8.13871075463796
+rationale |rationales ,-8.13871075463796
+xpointer |XPointer ,-8.13871075463796
+netscape |Netscape ,-8.13871075463796
+contrast |contrast ,-8.13871075463796
+metadata |metadata ,-8.13871075463796
+limitation |limitations ,-8.13871075463796
+policy |policy ,-8.13871075463796
+university |University ,-8.13871075463796
+addition |addition ,-8.13871075463796
+storage |storage ,-8.13871075463796
+missing |missing ,-8.13871075463796
+soap |SOAP ,-8.13871075463796
+introduction |Introduction |introduction ,-8.13871075463796
+java vm |Java VM ,-8.13871075463796
+chinese armenian |Chinese Armenian ,-8.13871075463796
+script |scripts ,-8.13871075463796
+linear traversal |linear traversal ,-8.13871075463796
+area |area ,-8.13871075463796
+james clark |James Clark ,-8.13871075463796
+alt |alt ,-8.13871075463796
+experience |experience ,-8.13871075463796
+requirement |requirements ,-8.13871075463796
+postel |Postel ,-8.13871075463796
+development |development ,-8.13871075463796
+src |src ,-8.13871075463796
+situation |situations ,-8.13871075463796
+wikipedia |Wikipedia ,-8.13871075463796
+atom |Atom ,-8.13871075463796
+concept |Concepts |concept ,-8.13871075463796
+scope |scope ,-8.13871075463796
+special symbolic meaning |special symbolic meaning ,-8.13871075463796
+inclusion |inclusion ,-8.13871075463796
+place |place ,-8.13871075463796
+xmlreader |XMLReader ,-8.13871075463796
+ability |ability ,-8.13871075463796
+line-break |line-break ,-8.13871075463796
+pattern |patterns ,-8.13871075463796
+xsl-fo |XSL-FO ,-8.13871075463796
+variety |variety ,-8.13871075463796
+xlink |XLink ,-8.13871075463796
+claim |claim ,-8.13871075463796
+form |form ,-8.13871075463796
+program |programs ,-8.13871075463796
+order |order ,-8.13871075463796
+img src madonna |img src madonna ,-8.13871075463796
+multimedia |multimedia ,-8.13871075463796
+term |terms ,-8.13871075463796
+book |book ,-8.13871075463796
+wikidata articles prone |Wikidata Articles prone ,-8.183221218846134
+washington university law review |Washington University Law Review ,-8.210631272750906
+lexical event-driven interface |lexical event-driven interface ,-8.234604778788555
+technical lead |Technical Lead ,-8.28255179086385
+small community |small community ,-8.28255179086385
+matching end-tag |matching end-tag ,-8.28255179086385
+industrial publisher |industrial publishers ,-8.28255179086385
+office-productivity tool |office-productivity tools ,-8.28255179086385
+declarative retrieval |declarative retrieval ,-8.28255179086385
+technical debate |Technical debate ,-8.28255179086385
+similar notation |Similar notations ,-8.28255179086385
+prior knowledge |prior knowledge ,-8.28255179086385
+close delimiter |close delimiter ,-8.28255179086385
+string -- double-hyphen |string -- double-hyphen ,-8.295378631053206
+unix timeline usage share feature |Unix Timeline Usage share Features ,-8.334876605240305
+alt foligno madonna |alt Foligno Madonna ,-8.36975981482461
+augmented browsing bookmark |Augmented browsing Bookmarks ,-8.465653838975202
+m murata |M Murata ,-8.485284344917932
+en wikipedia |en wikipedia ,-8.485284344917932
+itu-t rec |ITU-T Rec ,-8.485284344917932
+john sculley |John Sculley ,-8.485284344917932
+naming collision |naming collisions ,-8.485284344917932
+interactive multimedia |Interactive multimedia ,-8.485284344917932
+textual macro |textual macros ,-8.485284344917932
+eleven member |eleven members ,-8.485284344917932
+notable contrast |notable contrast ,-8.485284344917932
+escaped form |escaped form ,-8.485284344917932
+phoenician script |Phoenician scripts ,-8.485284344917932
+reasonable result |reasonable result ,-8.485284344917932
+networked context |networked context ,-8.485284344917932
+stricter requirement |stricter requirements ,-8.485284344917932
+parent-child relationship |parent-child relationships ,-8.485284344917932
+intense dispute |intense dispute ,-8.485284344917932
+linux-like shell |Linux-like shell ,-8.485284344917932
+editorial review board |Editorial Review Board ,-8.600808875011257
+mentor graphics context |Mentor Graphics Context ,-8.600808875011259
+semantics |semantics ,-8.831857935197906
+angle bracket tax |Angle Bracket Tax ,-8.831857935197906
+notion |notion ,-8.831857935197906
+aspect |aspects ,-8.831857935197906
+compatibility |compatibility ,-8.831857935197906
+behavior |behavior ,-8.831857935197906
+conversation |conversation ,-8.831857935197906
+wikibook |Wikibooks ,-8.831857935197906
+short burst |short burst ,-8.831857935197906
+utility |utility ,-8.831857935197906
+sequence |sequence ,-8.831857935197906
+basis |basis ,-8.831857935197906
+designing |designing ,-8.831857935197906
+supplementary plane |supplementary planes ,-8.831857935197906
+usability |usability ,-8.831857935197906
+interchange |interchange ,-8.831857935197906
+comma |comma ,-8.831857935197906
+bmp |BMP ,-8.831857935197906
+guidance |guidance ,-8.831857935197906
+bob ducharme |Bob DuCharme ,-8.831857935197906
+reason |reason ,-8.831857935197906
+collaborator |collaborators ,-8.831857935197906
+xmllist |XMLList ,-8.831857935197906
+redundancy |redundancy ,-8.831857935197906
+editorship |editorship ,-8.831857935197906
+ubiquity |ubiquity ,-8.831857935197906
+hierarchy |hierarchy ,-8.831857935197906
+construction |construction ,-8.831857935197906
+python |Python ,-8.831857935197906
+initialism |initialism ,-8.831857935197906
+misplaced vowel |misplaced vowels ,-8.831857935197906
+restriction |restriction ,-8.831857935197906
+human-readable |human-readable ,-8.831857935197906
+computing machinery |Computing Machinery ,-8.831857935197906
+resolution |resolution ,-8.831857935197906
+scala |Scala ,-8.831857935197906
+contentiou |contentious ,-8.831857935197906
+plan |plans ,-8.831857935197906
+ebcdic platform |EBCDIC platforms ,-8.831857935197906
+balinese cham |Balinese Cham ,-8.831857935197906
+charter |charter ,-8.831857935197906
+laugh |laughs ,-8.831857935197906
+conjunct |conjuncts ,-8.831857935197906
+elimination |elimination ,-8.831857935197906
+archived |Archived ,-8.831857935197906
+material |material ,-8.831857935197906
+simon |Simon ,-8.831857935197906
+style sheet |Style Sheets ,-8.831857935197906
+vociferous protest |vociferous protests ,-8.831857935197906
+rtf |RTF ,-8.831857935197906
+encyclopedia jump |encyclopedia Jump ,-8.831857935197906
+email |email ,-8.831857935197906
+colloquially |colloquially ,-8.831857935197906
+dot-notation |dot-notation ,-8.831857935197906
+appointment |appointment ,-8.831857935197906
+myth |Myth ,-8.831857935197906
+clarity |clarity ,-8.831857935197906
+birth |Birth ,-8.831857935197906
+d kohn |D Kohn ,-8.831857935197906
+people |people ,-8.831857935197906
+expressiveness |expressiveness ,-8.831857935197906
+confusion |confusion ,-8.831857935197906
+glyph |glyphs ,-8.831857935197906
+random |random ,-8.831857935197906
+combination |combination ,-8.831857935197906
+complexity |complexity ,-8.831857935197906
+xmpp |XMPP ,-8.831857935197906
+extreme |Extremes ,-8.831857935197906
+treewalker |TreeWalker ,-8.831857935197906
+ampersand |ampersand ,-8.831857935197906
+consulting engagement |consulting engagement ,-8.831857935197906
+kelly |Kelly ,-8.831857935197906
+annex |Annex ,-8.831857935197906
+issue |issues ,-8.831857935197906
+s-expression |S-Expressions ,-8.831857935197906
+solution |solutions ,-8.831857935197906
+oasis |OASIS ,-8.831857935197906
+availability |availability ,-8.831857935197906
+beginning |beginning ,-8.831857935197906
+sueann ambron |Sueann Ambron ,-8.831857935197906
+closing keynote |Closing Keynote ,-8.831857935197906
+start- |start- ,-8.831857935197906
+transmission |transmission ,-8.831857935197906
+well-known |well-known ,-8.831857935197906
+computer |Computer ,-8.831857935197906
+idea |Ideas ,-8.831857935197906
+configuration |configuration ,-8.831857935197906
+successor |successor ,-8.831857935197906
+deal |Deals ,-8.831857935197906
+run-time |run-time ,-8.831857935197906
+flavor |flavors ,-8.831857935197906
+uniscope |Uniscope ,-8.831857935197906
+curie eme |CURIE EME ,-8.831857935197906
+harold |Harold ,-8.831857935197906
+adobe actionscript |Adobe Actionscript ,-8.831857935197906
+consensus |consensus ,-8.831857935197906
+integration |integration ,-8.831857935197906
+functionality |functionality ,-8.831857935197906
+less-than sign |less-than sign ,-8.831857935197906
+dan connolly |Dan Connolly ,-8.831857935197906
+fennell |Fennell ,-8.831857935197906
+libreoffice opendocument |LibreOffice OpenDocument ,-8.831857935197906
+trang |Trang ,-8.831857935197906
+convenience |convenience ,-8.831857935197906
+interleaf |Interleaf ,-8.831857935197906
+minor revision |minor revisions ,-8.831857935197906
+series |series ,-8.831857935197906
+algorithm |algorithm ,-8.831857935197906
+backwards incompatibility |backwards incompatibility ,-8.831857935197906
+pierre geneve |Pierre Geneves ,-8.831857935197906
+proposal |proposals ,-8.831857935197906
+markup-delineation role |markup-delineation roles ,-8.831857935197906
+callback |callbacks ,-8.831857935197906
+denial-of-service attack |denial-of-service attack ,-8.831857935197906
+server-side package |server-side packages ,-8.831857935197906
+websgml adaptation |WebSGML Adaptations ,-8.831857935197906
+tokyo |Tokyo ,-8.831857935197906
+stackoverflow |Stackoverflow ,-8.831857935197906
+non-validating depending |non-validating depending ,-8.831857935197906
+stack |stack ,-8.831857935197906
+equivalent |equivalent ,-8.831857935197906
+loss |loss ,-8.831857935197906
+online |Online ,-8.831857935197906
+staff |staff ,-8.831857935197906
+extent |extent ,-8.831857935197906
+rise |rise ,-8.831857935197906
+appleexaminer |appleexaminer ,-8.831857935197906
+st laurent |St Laurent ,-8.831857935197906
+removed |Removed ,-8.831857935197906
+majority vote |majority vote ,-8.831857935197906
+foreword |foreword ,-8.831857935197906
+weekly teleconference |weekly teleconferences ,-8.831857935197906
+addison-wesley |Addison-Wesley ,-8.831857935197906
+yaml |YAML ,-8.831857935197906
+elementtree iterparse |ElementTree iterparse ,-8.831857935197906
+preliminary research |preliminary research ,-8.831857935197906
+layout engine |layout engines ,-8.831857935197906
+absence |absence ,-8.831857935197906
+kristina hooper |Kristina Hooper ,-8.831857935197906
+expense |expense ,-8.831857935197906
+robustness |robustness ,-8.831857935197906
+encounter |encounters ,-8.831857935197906
+association |Association ,-8.831857935197906
+input |input ,-8.831857935197906
+generality |generality ,-8.831857935197906
+verbosity |verbosity ,-8.831857935197906
+raphael |Raphael ,-8.831857935197906
+interactivity |interactivity ,-8.831857935197906
+sequentially visit |sequentially visits ,-8.831857935197906
+track |track ,-8.831857935197906
+skunkwork |skunkworks ,-8.831857935197906
+namespace-based routing |namespace-based routing ,-8.831857935197906
+hundred |hundreds ,-8.831857935197906
+burden |burden ,-8.831857935197906
+automated translation |automated translation ,-8.831857935197906
+record |record ,-8.831857935197906
+registry |registry ,-8.831857935197906
+reaction |reaction ,-8.831857935197906
+pair |pair ,-8.831857935197906
+effective |Effective ,-8.831857935197906
+compile |compile ,-8.831857935197906
+readability |readability ,-8.831857935197906
+apo |apos ,-8.831857935197906
+versatility |versatility ,-8.831857935197906
+autodetection |Autodetection ,-8.831857935197906
+scientific american |Scientific American ,-8.831857935197906
+ten |Ten ,-8.831857935197906
+custom |custom ,-8.831857935197906
+symbol |symbols ,-8.831857935197906
+consideration |consideration ,-8.831857935197906
+discover |discovers ,-8.831857935197906
+sense |sense ,-8.831857935197906
+mistake |Mistakes ,-8.831857935197906
+machine-readable |machine-readable ,-8.831857935197906
+video game console |video game console ,-8.831857935197906
+course slide |Course Slides ,-8.831857935197906

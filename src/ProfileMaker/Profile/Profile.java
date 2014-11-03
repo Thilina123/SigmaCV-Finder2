@@ -5,36 +5,49 @@
 package ProfileMaker.Profile;
 
 import CONTROLLER.Calculate;
+import PhraseExtractor.PhraseAnalyzer;
 import ProfileMaker.GitHubExtractor;
 import ProfileMaker.GoogleScholarExtractor;
 import ProfileMaker.LinkedInExtractor;
+
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 
 public class Profile {
 
+    private String profileDocsPath="src/ProfileMaker/Skills/UserDocs";
+    PhraseAnalyzer phraseAnalyzer;
     public String name="", title="", summary="", pic_url="",education="";
     private ArrayList<Experience> experienceList = new ArrayList<Experience>();
     private ArrayList<Project> projectsList = new ArrayList<Project>();
     private ArrayList<Publication> publicationList = new ArrayList<Publication>();
 
+
+
     private Calculate similarityCalculator;
 
-    public Profile(String searchName) {
-        
+    public Profile(String searchName, PhraseAnalyzer phraseAnalyzer) {
+        this.phraseAnalyzer = phraseAnalyzer;
         LinkedInExtractor linkedIn = new LinkedInExtractor();
         GoogleScholarExtractor gscholar = new GoogleScholarExtractor();
         GitHubExtractor github = new GitHubExtractor("69e07dde89a8a0a6713f810cfd4c461f04f47e85");
 
         similarityCalculator=new Calculate();
 
-        linkedIn.Extract1(searchName, this);
+        linkedIn.ExtractInformation(searchName, this);
         gscholar.Extract(searchName, this);
         github.Extract(searchName, this);
         if (pic_url.equalsIgnoreCase("")) {
             pic_url="http://ryonaitis.files.wordpress.com/2012/03/images.jpg";
         }
 
-        Display();
+//        Display();
+        System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+//        System.out.println(toString());
+        writeFile();
+        extractPhrases();
     }
 
     public String getName() {
@@ -145,4 +158,49 @@ public class Profile {
         }
 
     }
+
+    @Override
+    public String toString() {
+        String output=name+"\n"+title+"\n"+summary+"\n"+education+"\n";
+        for (Experience experience : experienceList) {
+            output+=experience.toString();
+        }
+        for (Project project : projectsList) {
+            output+=project.toString();
+        }
+        for (Publication publication : publicationList) {
+            output+=publication.toString();
+        }
+
+
+        return output;
+    }
+
+
+    private void writeFile(){
+        String text=toString();
+        boolean b = new File(profileDocsPath+"/"+name).mkdirs();
+        b = new File(profileDocsPath+"/"+name+"/out").mkdirs();
+        if(b) {
+            File file = new File(profileDocsPath + "/" + name + "/" + name + ".txt");
+            // creates the file
+            try {
+                file.createNewFile();
+                // creates a FileWriter Object
+                FileWriter writer = new FileWriter(file);
+                // Writes the content to the file
+                writer.write(text);
+                writer.flush();
+                writer.close();
+
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+
+    }
+    private void extractPhrases(){
+        phraseAnalyzer.GenerateTF_IDF(profileDocsPath+"/"+name,profileDocsPath+"/"+name+"/out");
+    }
+
 }

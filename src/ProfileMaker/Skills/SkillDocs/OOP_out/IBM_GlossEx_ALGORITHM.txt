@@ -1,0 +1,50 @@
+health care |health care ,-0.5490950662557748
+oop or oop |oop or OOP ,-0.6475624376087616
+disambiguation page |disambiguation page ,-0.7034513238024622
+play oop |play Oop ,-0.7232674151874798
+article disambiguation page |article disambiguation pages ,-0.7287356631121501
+disambiguation alley oop disambiguation |disambiguation Alley Oop disambiguation ,-0.7302134628255723
+position other edit order |Position Other edit Order ,-0.7694243828994769
+object-oriented programming |Object-oriented programming ,-0.8103800717659122
+project management oop |project management Oops ,-0.8117468671391139
+computer programming paradigm object-oriented positioning |computer programming paradigm Object-oriented positioning ,-0.8247268480699107
+insured party |insured party ,-0.8285975096123088
+encyclopedia jump |encyclopedia Jump ,-0.8285975096123088
+out-of-process plug-in |out-of-process plug-ins ,-0.8285975096123088
+tennis event |tennis event ,-0.8285975096123088
+douglas coupland |Douglas Coupland ,-0.8285975096123088
+health care provider |health care provider ,-0.8325074841501233
+microscopy order |microscopy Order ,-0.8391482790110903
+book or other work |book or other work ,-0.8391482790110903
+intended article |intended article ,-0.8391482790110903
+out-of-pocket expense |Out-of-pocket expenses ,-0.8395574570667093
+en wikipedia |en wikipedia ,-0.8395574570667093
+feature-oriented positioning |feature-oriented positioning ,-0.8395574570667093
+software idea |software idea ,-0.8395574570667093
+internal link |internal link ,-0.8395574570667093
+oop |OOP |Oop |oop ,-2.559618969840077
+position |position ,-3.7918376341964457
+order |order ,-3.813611384655624
+article |articles ,-3.813611384655624
+link |link ,-4.140852189669805
+title |title ,-4.140852189669805
+poker |poker ,-4.140852189669805
+expense |expenses ,-4.140852189669805
+play |Play ,-4.173512815358571
+wikipedia |Wikipedia ,-4.173512815358571
+expression |expression ,-4.782293778079324
+operation |operations ,-4.782293778079324
+search |search ,-4.782293778079324
+work |work ,-4.782293778079324
+content |Contents ,-4.782293778079324
+navigation |navigation ,-4.782293778079324
+contest |contests ,-4.782293778079324
+wiktionary |Wiktionary ,-4.782293778079324
+mathematics |mathematics ,-4.782293778079324
+rule |rules ,-4.782293778079324
+oopp |OOPP ,-4.782293778079324
+dictionary |dictionary ,-4.782293778079324
+print |print ,-4.782293778079324
+schedule |schedule ,-4.782293778079324
+term |term ,-4.782293778079324
+book |book ,-4.782293778079324

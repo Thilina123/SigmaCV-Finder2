@@ -4,6 +4,7 @@
  */
 package Web;
 
+import PhraseExtractor.PhraseAnalyzer;
 import ProfileMaker.Profile.Profile;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -13,7 +14,6 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import javax.sound.midi.Soundbank;
 
 import ProfileMaker.Profile.Project;
 import ProfileMaker.Profile.Publication;
@@ -53,7 +53,8 @@ public class ActionServlet extends HttpServlet {
         String imgeJSON = "";
         String detailJSON = "";
         PrintWriter out = response.getWriter();
-        Profile pr = new Profile(request.getParameter("user"));
+        PhraseAnalyzer phraseAnalyzer =new PhraseAnalyzer();
+        Profile pr = new Profile(request.getParameter("user"), phraseAnalyzer);
 
         System.out.println(".......................................");
         imgeJSON = "<div class=\"profile\">\n"

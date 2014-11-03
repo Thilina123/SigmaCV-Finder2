@@ -1,0 +1,472 @@
+solar eclipse |Solar Eclipses |Solar eclipses |solar eclipse |solar eclipses ,-0.4605656078375698
+lunar eclipse |Lunar eclipses |lunar eclipse |Lunar Eclipses |lunar eclipses ,-0.7074739523548488
+orbital plane |orbital plane ,-0.8826506871431747
+total eclipse |total eclipses |total eclipse ,-0.8889285581540073
+total solar eclipse |total solar eclipse ,-0.9048874511925586
+solar and lunar eclipse |Solar and Lunar Eclipses ,-0.9137720226481644
+lunar and solar eclipse |lunar and solar eclipses ,-0.9137720226481644
+main article |Main article ,-0.9162575103847449
+star system |star system ,-0.9287451577460661
+total lunar eclipse |Total lunar eclipses |Total Lunar Eclipse |total lunar eclipse ,-0.9494392990928191
+sun and moon |sun and moon ,-0.9629891052822735
+partial eclipse |partial eclipse ,-0.9665511157376652
+partial solar eclipse |Partial solar eclipses |partial solar eclipses ,-0.9701033939651905
+solar eclipse event |solar eclipse event ,-0.9709891244886327
+sun earth and moon |Sun Earth and Moon ,-0.9782611304674692
+eclipse date |Eclipse dates ,-0.9806567442553198
+umbra penumbra |Umbra penumbra ,-0.9847301248792824
+solar or lunar eclipse |solar or lunar eclipse ,-0.9884091128417232
+occulting object |occulting object ,-1.0018511067842972
+uranus and solar eclipse |Uranus and Solar eclipses ,-1.0107656550122441
+eclipse cycle |eclipse cycles |eclipse cycle ,-1.0112795165135637
+annular solar eclipse |annular solar eclipse ,-1.0113203824802832
+sun earth |Sun Earth ,-1.0132643759146365
+penumbral lunar eclipse |penumbral lunar eclipses ,-1.0199282810174464
+annular eclipse |annular eclipse ,-1.0265890756259584
+umbra penumbra and antumbra |Umbra penumbra and antumbra ,-1.026855204922644
+earth moon system |Earth Moon system ,-1.0268658588523243
+annular and total eclipse |annular and total eclipses ,-1.0338703885288576
+solar eclipse term |Solar Eclipse Terms ,-1.0383192390972091
+astronomical eclipse |astronomical eclipses ,-1.0411844693551209
+date help |date help ,-1.0480627923519328
+date value |date values ,-1.0498485949881275
+earth moon system edit |Earth Moon System edit ,-1.0612948181565824
+eclipse cycles edit |Eclipse cycles edit ,-1.0737067506949791
+eclipse magnitude |eclipse magnitude ,-1.075283261273102
+term eclipse |term eclipse ,-1.081695163248811
+solar eclipse edit main article |Solar eclipse edit Main article ,-1.097043468310277
+deprecated parameter |deprecated parameters ,-1.0981289003387837
+binary star system |binary star system ,-1.1007090923893945
+umbra and penumbra |umbra and penumbra ,-1.1066864369984244
+satellite eclipse |Satellite Eclipse ,-1.1104451303973037
+jpl solar system simulator |JPL Solar System Simulator ,-1.11429280791946
+lunar eclipse edit main article |Lunar eclipse edit Main article ,-1.1181391698388305
+sun earth and node |Sun Earth and nodes ,-1.1213042363343113
+four to seven eclipse |four to seven eclipses ,-1.122455891340796
+solar eclipses mark |Solar Eclipses Mark ,-1.1306894780103487
+eclipsing binary |eclipsing binary ,-1.1349755489473194
+total eclipse disambiguation |Total Eclipse disambiguation ,-1.1423261135366156
+eclipse disambiguation |Eclipse disambiguation ,-1.1444816215944544
+lunar event |lunar events ,-1.144809988408364
+four solar |four solar ,-1.154954459953255
+larger moon |larger moons ,-1.1604653389280855
+back as eclipse |back as eclipses ,-1.1659675897169806
+lunar motion |lunar motions ,-1.1728679874494883
+babylonian eclipse record |Babylonian eclipse records ,-1.1883025011322166
+total eclipse redirect |Total eclipse redirects ,-1.188513750251981
+binary star |binary stars ,-1.1970665826398883
+antumbra edit umbra penumbra |antumbra edit Umbra penumbra ,-1.207488048396981
+mercury and venus |Mercury and Venus ,-1.209481753171297
+axial tilt |axial tilt ,-1.2098434753580634
+philosophical transaction |Philosophical Transactions ,-1.2098434753580634
+moon titan |moon Titan ,-1.2112710921132697
+no moon |no moons ,-1.2112710921132697
+martian eclipse |Martian eclipses ,-1.2202691950671194
+eclipse season |eclipse season ,-1.2202691950671194
+successive eclipse |successive eclipses ,-1.2202691950671194
+mutual eclipse |mutual eclipses ,-1.2202691950671194
+night eclipse gallery solar |Night Eclipse Gallery Solar ,-1.2236686563354742
+binaries edit |binaries edit ,-1.2248982224762217
+first eclipsing binary star system |first eclipsing binary star system ,-1.2307871687554606
+historical record |historical records ,-1.2371817470294397
+mercury and venus edit |Mercury and Venus edit ,-1.2411118921535298
+eclipsing binary system |eclipsing binary system ,-1.2442680277544933
+royal society |Royal Society ,-1.2456363653023927
+dates article |dates Articles ,-1.2465755305792046
+variable star |Variable Star ,-1.250132920439023
+moon io |moon Io ,-1.2516719138759729
+common orbital plane |common orbital plane ,-1.2563636285625943
+pluto edit main article |Pluto edit Main article ,-1.2581476482856502
+four large moon |four large moons ,-1.2590342941998072
+historical record edit |Historical record edit ,-1.2612235853498486
+ancient time |ancient times ,-1.2617383409897474
+cambridge university press |Cambridge University Press ,-1.2622504504166034
+pluto pluto |Pluto Pluto ,-1.26396677794174
+shadow cast |shadow cast ,-1.2683894996888851
+edit list |edit List ,-1.2690316330611384
+e lunar |e Lunar ,-1.271551203327181
+four time |four times ,-1.2757450815073785
+orbital motion |orbital motions ,-1.2757450815073785
+physical parameter |Physical Parameters |physical parameters ,-1.2817988323602463
+astronomical event |astronomical event ,-1.282872206157118
+pluto edit gas giants edit |Pluto edit Gas giants edit ,-1.2849964082865002
+body pass |body pass ,-1.2857534430402306
+eclipsing body |eclipsing body ,-1.2857534430402306
+venus edit |Venus edit ,-1.2901992072566966
+pluto-charon system |Pluto-Charon System ,-1.2937071080777665
+first two image |first two images ,-1.3122616445815232
+jovian satellite eclipse |Jovian satellite eclipses ,-1.3145698056921207
+larger planet |larger planet ,-1.3151002381928667
+system b motion |System B motion ,-1.3153799617180293
+common center |common center ,-1.3193531077972633
+astronomical object |astronomical object ,-1.3193531077972633
+galilean moon |Galilean moons ,-1.3208357397035644
+full moon |full moon ,-1.3208357397035644
+five solar |five solar ,-1.3332202632761692
+solar prominence |Solar prominences ,-1.3332202632761692
+neptune a picture |Neptune A picture ,-1.3378529106543509
+orbital period |orbital period ,-1.3397081551960135
+instruments and image |Instruments and Images ,-1.3449005848193312
+extrinsic variable star system |extrinsic variable star system ,-1.3520586517167004
+umbra portion |umbra portion ,-1.3521839684124624
+ancient astronomer |ancient astronomers ,-1.3531632830407738
+first contact |first contact ,-1.3531632830407738
+math-indicated early eclipse record |math-indicated early eclipse records ,-1.3559621406246896
+mars edit main article |Mars edit Main article ,-1.3619882772391814
+improved orbital and physical parameter |Improved Orbital and Physical Parameters ,-1.362838992014417
+earth producing |Earth producing ,-1.3663530416561236
+antumbra cast |antumbra cast ,-1.3685783510234995
+first satellite |First Satellite ,-1.377552872167203
+history and mythology |History and Mythology ,-1.3785404126166079
+attested ancient motion |attested ancient motions ,-1.386617329349991
+maximum luminosity |maximum luminosity ,-1.3876162957825693
+planetary transit |Planetary Transits ,-1.3904593551351858
+gas giant |gas giants ,-1.3927050438890078
+refracted light |refracted light ,-1.3991588960027648
+brighter star |brighter star ,-1.4001244528202823
+individual star |individual stars ,-1.4001244528202823
+constituent star |constituent stars ,-1.4001244528202823
+proportionately large moon charon |proportionately large moon Charon ,-1.4044049950830777
+space astronomy |Space Astronomy ,-1.4128723941152153
+external links edit |External links edit ,-1.4167874435421264
+chinese historical record |Chinese historical records ,-1.4242138822009753
+lists previous penumbral |lists Previous penumbral ,-1.428227616621524
+cassini probe |Cassini probe ,-1.4311045497946104
+giovanni d cassini |Giovanni D Cassini ,-1.4311762241756167
+fourth or last contact |fourth or last contact ,-1.4335144509607451
+ancient greek-language text article |Ancient Greek-language text Articles ,-1.437656031154801
+circular shadow |circular shadows ,-1.439271551423745
+babylonian astronomer |Babylonian astronomers ,-1.4419510955674038
+improved orbital |Improved Orbital ,-1.4446294046468
+orbital element |orbital elements ,-1.4446294046468
+york time |York Times ,-1.4446294046468
+previously unsolved lunar motion |previously unsolved lunar motions ,-1.447213494438821
+larger light source |larger light source ,-1.4498989218066698
+daily event |daily events ,-1.4502430552107477
+en wikipedia |en wikipedia ,-1.4546643697105028
+spherical astronomy |Spherical Astronomy ,-1.4546643697105028
+average l |average L ,-1.4546643697105028
+faint illumination |faint illumination ,-1.4546643697105028
+moonblink info eclipse lists stat |moonblink info Eclipse lists stats ,-1.4558259313622681
+ireland record |Ireland records ,-1.4561252247588894
+mars transit |Mars Transit ,-1.4561252247588894
+heavenly body |heavenly body ,-1.4622826582059234
+host planet |host planet ,-1.4622826582059234
+eight year |eight years ,-1.4622826582059234
+uk cambridge university press |UK Cambridge University Press ,-1.4634216059480003
+cassini huygens space probe |Cassini Huygens space probe ,-1.4654512770296904
+century antiquity |century Antiquity ,-1.468709317404202
+symbolic orbital diagram |symbolic orbital diagram ,-1.4701348605830153
+paul griffin |Paul Griffin ,-1.4711284808682008
+john goodricke |John Goodricke ,-1.4711284808682008
+given location |given location ,-1.4711284808682008
+oxford university press |Oxford University Press ,-1.4742004732273881
+ancient timekeeper |Ancient Timekeepers ,-1.4753729012074546
+opaque object |opaque object ,-1.4753729012074546
+first estimate |first estimate ,-1.4753729012074546
+wikimedia common |Wikimedia Commons ,-1.4753729012074546
+luminosity variation |luminosity variations ,-1.4821871121712096
+luminosity contribution |luminosity contributions ,-1.4821871121712096
+le p |le p ,-1.4821871121712096
+science watch |Science Watch ,-1.4821871121712096
+ancient greek noun kleipsi |ancient Greek noun kleipsis ,-1.4835956560195442
+anciently attested greek technique |anciently attested Greek technique ,-1.484053702955609
+verb ekle p |verb ekle p ,-1.4842348064161872
+hipschman r |Hipschman R ,-1.4889514584919774
+monsieur cassini |Monsieur Cassini ,-1.4889514584919774
+greek finding |Greek finding ,-1.4889514584919774
+harmonic pattern |harmonic patterns ,-1.4893459187145974
+shorter wavelength |shorter wavelengths ,-1.4893459187145974
+dimmer member |dimmer member ,-1.4893459187145974
+observatio eclipseos solaris gedani |Observatio Eclipseos Solaris Gedani ,-1.4893459187145974
+syrian clay tablet |Syrian clay tablet ,-1.4893459187145974
+van soldt |van Soldt ,-1.4893459187145974
+synodic anomalistic draconitic |synodic anomalistic draconitic ,-1.4893459187145974
+mars opportunity rover |Mars Opportunity rover ,-1.4893459187145974
+marvin bolt |Marvin Bolt ,-1.4893459187145974
+midnightkite solution |Midnightkite Solutions ,-1.4893459187145974
+broader audience |broader audience ,-1.4893459187145974
+angular siz |angular sizes ,-1.4893459187145974
+extensive coronal filament |extensive coronal filaments ,-1.4893459187145974
+rare occasion |rare occasions ,-1.4893459187145974
+higher inclination |higher inclination ,-1.4893459187145974
+encyclopedia jump |encyclopedia Jump ,-1.4893459187145974
+favorable circumstance |favorable circumstances ,-1.4893459187145974
+black spot |black spot ,-1.4893459187145974
+julian stile |Julian Stile ,-1.4893459187145974
+celestial sphere |celestial sphere ,-1.4893459187145974
+exact table |Exact Tables ,-1.4893459187145974
+chronological dating |chronological dating ,-1.4893459187145974
+bibliotheca alexandrina |Bibliotheca Alexandrina ,-1.4893459187145974
+long-eclipse-cycle-based reconstruction |Long-eclipse-cycle-based reconstructions ,-1.4893459187145974
+entire hemisphere |entire hemisphere ,-1.4893459187145974
+scale gamma historically significant eclipse |scale Gamma Historically significant eclipses ,-1.4923456649183806
+low axial tilt |low axial tilt ,-1.493255893252412
+ugaritic language |Ugaritic language ,-1.4952108805213193
+equal frequency |equal frequency ,-1.4952108805213193
+different part |different parts ,-1.4952108805213193
+visual magnitude |visual magnitude ,-1.4952108805213193
+european astronomer |European astronomers ,-1.4952108805213193
+longer exposure |longer exposure ,-1.4952108805213193
+press release |Press release ,-1.4952108805213193
+standard longitude |standard longitude ,-1.499896688113379
+cite template |cite templates ,-1.499896688113379
+length l |length L ,-1.499896688113379
+martin v |Martin V ,-1.499896688113379
+straight line |straight line ,-1.5003058661689976
+smaller span |smaller span ,-1.5003058661689976
+umbral cone |umbral cone ,-1.5003058661689976
+big syzygy |Big Syzygy ,-1.5003058661689976
+integral ratio |integral ratios ,-1.5003058661689976
+narrow track |narrow track ,-1.5003058661689976
+digital universe |Digital Universe ,-1.5003058661689976
+preposition ek |preposition ek ,-1.5003058661689976
+ciel de la terra |ciel de la terra ,-1.5028533589928368
+beta persei algol |Beta Persei Algol ,-1.503342105810064
+striking involve jupiter |striking involve Jupiter ,-1.5147354619622841
+ole r mer |Ole R mer ,-1.5196637701891913
+strongly scatter light |strongly scatter light ,-1.5196637701891913
+first accurate measurement |first accurate measurements ,-1.520167906465033
+home page international astronomical union |home page International Astronomical Union ,-1.5213081962855417
+images prof druckm ller |images Prof Druckm ller ,-1.5292860213584847
+eclipse |Eclipse |eclipses |Eclipses |eclipse ,-3.0033388383422195
+mar |Mars ,-3.997088996681444
+moon |moon |moons |Moon ,-4.004345949196177
+solar |solar |Solar ,-4.132664100786067
+earth |Earth ,-4.485759921581963
+sun |Sun |sun ,-4.544661136737398
+lunar |Lunar |lunar ,-4.640540759658442
+star |stars |Stars |star ,-4.883624656516816
+bce |BCE ,-4.957383642934037
+system |system |System ,-5.005666537789825
+total |total ,-5.022768971269018
+umbra |umbra ,-5.1572413134984725
+shadow |shadow ,-5.374484656677699
+event |events |event ,-5.5197407484827234
+jupiter |Jupiter ,-5.5197407484827234
+penumbra |penumbra ,-5.5197407484827234
+time |times ,-5.53429713401362
+date |date ,-5.545840691269304
+plane |plane |planes ,-5.609298766395556
+saturn |Saturn ,-5.609298766395556
+transit |transits |Transit |transit |Transits ,-5.609298766395556
+partial |partial ,-5.662732152510523
+planet |planets |planet ,-5.708262499003423
+record |Records ,-5.710427734954739
+article |article ,-5.751922629669139
+body |body ,-5.777197165477378
+antumbra |antumbra ,-5.818842980150236
+century |century ,-5.835246857232374
+observer |observer ,-5.944136485757043
+object |objects ,-6.030145055946752
+orbit |orbits |orbit ,-6.0886712922993445
+help |help ,-6.0886712922993445
+luminosity |luminosity ,-6.0886712922993445
+front |front ,-6.0886712922993445
+surface |surface ,-6.0886712922993445
+center |center ,-6.0886712922993445
+annular |annular ,-6.1083351587688
+science |science ,-6.126583096011703
+use |use ,-6.157277054476782
+totality |Totality |totality ,-6.259455372376965
+light |light ,-6.259455372376965
+example |example |examples ,-6.259455372376965
+nasa |NASA ,-6.259455372376965
+cassini |Cassini ,-6.259455372376965
+greek |Greek ,-6.259455372376965
+saro |Saros |saros ,-6.259455372376965
+symbol |symbol ,-6.259455372376965
+list |Lists ,-6.318185647226543
+image |Images ,-6.33124989750205
+uranus |Uranus ,-6.468202693164518
+isbn |ISBN ,-6.468202693164518
+venus |Venus ,-6.468202693164518
+series |series ,-6.468202693164518
+type |types |type ,-6.468202693164518
+phobos |Phobos ,-6.468202693164518
+neptune |Neptune ,-6.468202693164518
+part |parts |part ,-6.468202693164518
+world |World |world ,-6.468202693164518
+bibcode |Bibcode ,-6.468202693164518
+mercury |Mercury ,-6.468202693164518
+pair |pairs |pair ,-6.468202693164518
+contact |contact ,-6.468202693164518
+minute |minutes ,-6.468202693164518
+space |space ,-6.492945194248522
+term |term |terms ,-6.492945194248522
+hour |hours ,-6.514243630862136
+fred |Fred ,-6.7368075596719255
+titan |Titan ,-6.7368075596719255
+node |nodes ,-6.7368075596719255
+maximum |maximum ,-6.7368075596719255
+day |days ,-6.7368075596719255
+month |months |Month ,-6.7368075596719255
+cambridge |Cambridge ,-6.7368075596719255
+espenak |Espenak ,-6.7368075596719255
+astronomy |Astronomy ,-6.7368075596719255
+site |site ,-6.7368075596719255
+period |periods |period ,-6.7368075596719255
+difference |difference ,-6.7368075596719255
+illumination |illumination ,-6.7368075596719255
+atmosphere |atmosphere ,-6.7368075596719255
+longitude |longitude ,-6.7368075596719255
+history |History ,-6.765205475156744
+cite |Cite ,-6.765205475156744
+radius |radius ,-6.765205475156744
+book |books ,-6.786979225615922
+movement |movements ,-7.114220030630103
+universe |Universe ,-7.114220030630103
+john |John ,-7.114220030630103
+side |side ,-7.114220030630103
+france |France ,-7.114220030630103
+red |red ,-7.114220030630103
+stone |Stone |stone ,-7.114220030630103
+expected |expected ,-7.114220030630103
+viewer |viewer ,-7.114220030630103
+goodricke |Goodricke ,-7.114220030630103
+region |region ,-7.114220030630103
+interval |interval ,-7.114220030630103
+distance |distance ,-7.114220030630103
+location |location ,-7.114220030630103
+scale |scale ,-7.114220030630103
+rate |rate ,-7.114220030630103
+technique |technique ,-7.114220030630103
+london |London ,-7.114220030630103
+progression |progression ,-7.114220030630103
+verb |verb ,-7.114220030630103
+track |track ,-7.114220030630103
+line |line ,-7.114220030630103
+point |points ,-7.114220030630103
+deimos |Deimos ,-7.114220030630103
+algol |Algol ,-7.114220030630103
+buie |Buie ,-7.114220030630103
+ratio |ratio ,-7.14688065631887
+syzygy |syzygy ,-7.14688065631887
+portion |portions ,-7.14688065631887
+wikipedia |Wikipedia ,-7.14688065631887
+result |result ,-7.14688065631887
+page |Pages ,-7.14688065631887
+word |Word ,-7.14688065631887
+diagram |diagrams ,-7.14688065631887
+hubble |Hubble ,-7.755661619039622
+number |number ,-7.755661619039622
+prefix |prefix ,-7.755661619039622
+view |view ,-7.755661619039622
+zombeck |Zombeck ,-7.755661619039622
+imagination |Imagination ,-7.755661619039622
+left |left ,-7.755661619039622
+man |Man ,-7.755661619039622
+phillips |Phillips ,-7.755661619039622
+poland |Poland ,-7.755661619039622
+sunset |sunset ,-7.755661619039622
+volume |volume ,-7.755661619039622
+change |changes ,-7.755661619039622
+normal |normal ,-7.755661619039622
+polk |Polk ,-7.755661619039622
+passage |passage ,-7.755661619039622
+description |descriptions ,-7.755661619039622
+tony |Tony ,-7.755661619039622
+mythology |Mythology ,-7.755661619039622
+consequence |consequences ,-7.755661619039622
+darkening |darkening ,-7.755661619039622
+dan |Dan ,-7.755661619039622
+abandonment |abandonment ,-7.755661619039622
+phase |phases ,-7.755661619039622
+girault |Girault ,-7.755661619039622
+roemer |Roemer ,-7.755661619039622
+calendar |calendar ,-7.755661619039622
+fraction |fraction ,-7.755661619039622
+precision |precision ,-7.755661619039622
+speed |speed ,-7.755661619039622
+davidson |Davidson ,-7.755661619039622
+jong |Jong ,-7.755661619039622
+approach |Approach ,-7.755661619039622
+reason |reason ,-7.755661619039622
+confirmation |Confirmation ,-7.755661619039622
+bruton |Bruton ,-7.755661619039622
+greenwich |Greenwich ,-7.755661619039622
+geometry |Geometry ,-7.755661619039622
+delay |delay ,-7.755661619039622
+small |small ,-7.755661619039622
+crew |crew ,-7.755661619039622
+frueh |Frueh ,-7.755661619039622
+green |Green ,-7.755661619039622
+fourth |fourth ,-7.755661619039622
+discus |Discuss ,-7.755661619039622
+broadside |broadsides ,-7.755661619039622
+meridian |Meridian ,-7.755661619039622
+miranda |Miranda ,-7.755661619039622
+phrase |phrase ,-7.755661619039622
+callisto |Callisto ,-7.755661619039622
+bulletin |Bulletin ,-7.755661619039622
+eclipse-pair |eclipse-pairs ,-7.755661619039622
+concept |concept ,-7.755661619039622
+recourse |recourse ,-7.755661619039622
+sight |sight ,-7.755661619039622
+thales |Thales ,-7.755661619039622
+bruce |Bruce ,-7.755661619039622
+instrument |Instruments ,-7.755661619039622
+section |section ,-7.755661619039622
+danzig |Danzig ,-7.755661619039622
+local |local ,-7.755661619039622
+nature |Nature ,-7.755661619039622
+reduced |Reduced ,-7.755661619039622
+place |place ,-7.755661619039622
+stephanson |Stephanson ,-7.755661619039622
+feasible |feasible ,-7.755661619039622
+content |Contents ,-7.755661619039622
+photosphere |photosphere ,-7.755661619039622
+price |Price ,-7.755661619039622
+face |face ,-7.755661619039622
+archived |Archived ,-7.755661619039622
+intersection |intersection ,-7.755661619039622
+catalogue |Catalogue ,-7.755661619039622
+routledge |Routledge ,-7.755661619039622
+fact |fact ,-7.755661619039622
+original |original ,-7.755661619039622
+respect |respect ,-7.755661619039622
+fear |fear ,-7.755661619039622
+astrophysics |Astrophysics ,-7.755661619039622
+detail |details ,-7.755661619039622
+absent |absent ,-7.755661619039622
+englefield |Englefield ,-7.755661619039622
+langre |Langres ,-7.755661619039622
+handbook |Handbook ,-7.755661619039622
+instance |instance ,-7.755661619039622
+timing |timing ,-7.755661619039622
+jsp |jsp ,-7.755661619039622
+size |size ,-7.755661619039622
+navigation |navigation ,-7.755661619039622
+sum |sum ,-7.755661619039622
+downfall |downfall ,-7.755661619039622
+nereid |Nereid ,-7.755661619039622
+aristarcho |Aristarchos ,-7.755661619039622
+constellation |constellation ,-7.755661619039622
+hundred |hundreds ,-7.755661619039622
+tip |tip ,-7.755661619039622
+fol |Fol ,-7.755661619039622
+information |information ,-7.755661619039622
+million |million ,-7.755661619039622
+noaa |NOAA ,-7.755661619039622
+viewpoint |viewpoint ,-7.755661619039622
+ecliptic |ecliptic ,-7.755661619039622
+polarization |Polarization ,-7.755661619039622
+bookseller |booksellers ,-7.755661619039622
+spin |spin ,-7.755661619039622
+observation |Observations ,-7.755661619039622
+limb |limb ,-7.755661619039622
+russia |Russia ,-7.755661619039622
+mathpage |MathPages ,-7.755661619039622
+shot |shots ,-7.755661619039622
+mass |mass ,-7.755661619039622
+contrast |contrast ,-7.755661619039622
+astrology |astrology ,-7.755661619039622
+commonplace |commonplace ,-7.755661619039622
+tholen |Tholen ,-7.755661619039622
+sunlight |Sunlight ,-7.755661619039622
+repetition |repetition ,-7.755661619039622
+alignment |alignment ,-7.755661619039622
+dio |DIO ,-7.755661619039622
+order |order ,-7.755661619039622
+binzel |Binzel ,-7.755661619039622
+novosibirsk |Novosibirsk ,-7.755661619039622

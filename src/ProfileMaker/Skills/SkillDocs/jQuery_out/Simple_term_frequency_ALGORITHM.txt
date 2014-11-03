@@ -1,0 +1,422 @@
+jquery |JQuery |jQuery |jquery ,109.0
+javascript |Javascript |JavaScript ,36.0
+function |functions |function ,26.0
+element |element |elements ,20.0
+event |events |event ,17.0
+dom |DOM ,17.0
+code |code ,14.0
+browser |browser |browsers ,14.0
+library |library ,12.0
+plugin |Plugins |plugins |plugin ,11.0
+example |example ,10.0
+developer |developers |Developer ,9.0
+script |script ,8.0
+jquery object |jQuery objects |jQuery object ,8.0
+resig |Resig ,8.0
+html |HTML |html ,8.0
+microsoft |Microsoft ,8.0
+plug-in |plug-ins ,7.0
+version |versions |version ,7.0
+animation |animations |animation ,6.0
+john resig |John Resig ,6.0
+team |team |Team ,6.0
+use |use ,6.0
+jquery project |jQuery Project |jQuery project ,6.0
+usage |Usage ,6.0
+page |Pages |page ,6.0
+event handling |event handling ,5.0
+node |nodes ,5.0
+nokia |Nokia ,5.0
+callback |callbacks |callback ,5.0
+method |methods ,5.0
+yui |YUI ,5.0
+javascript library |JavaScript library ,5.0
+manipulation |manipulation ,5.0
+dom element |DOM elements ,5.0
+framework |framework ,5.0
+class |class ,5.0
+project |Project ,4.0
+sizzle |Sizzle ,4.0
+software |software ,4.0
+ajax |ajax ,4.0
+dojo |Dojo ,4.0
+ready |ready ,4.0
+document |document ,4.0
+jquery plug-in |jQuery plug-ins ,4.0
+alert |alert ,4.0
+user |users |user ,4.0
+set |set ,3.0
+following |following ,3.0
+functionality |functionality ,3.0
+img |img ,3.0
+request |request ,3.0
+comparison |comparison ,3.0
+feature |features ,3.0
+blog jquery |blog jquery ,3.0
+license |License ,3.0
+site |site ,3.0
+xml |XML ,3.0
+core |core ,3.0
+jquery foundation |jQuery Foundation ,3.0
+cdn |CDN ,3.0
+return |returns ,3.0
+video |Video ,2.0
+example php |example php ,2.0
+div test |div test ,2.0
+errorthrown |errorThrown ,2.0
+apis |APIs ,2.0
+subdomain |subdomain ,2.0
+john resig speaker |John Resig speaker ,2.0
+architecture |architecture ,2.0
+code jquery |code jquery ,2.0
+qunit |QUnit ,2.0
+yui theater |YUI Theater ,2.0
+style |style ,2.0
+chaplin j |Chaplin js ,2.0
+dom node |DOM nodes ,2.0
+vag |VAG ,2.0
+help |help ,2.0
+attr |attr ,2.0
+creation |creation ,2.0
+volkswagen |Volkswagen ,2.0
+utility function |utility functions ,2.0
+console |console ,2.0
+mediawiki |MediaWiki ,2.0
+standard |standard ,2.0
+jquery code |jQuery code ,2.0
+option |option ,2.0
+document ready function |document ready function ,2.0
+jquery library |jQuery library ,2.0
+learning center |Learning Center ,2.0
+string |string ,2.0
+javascript framework |JavaScript frameworks ,2.0
+control |control ,2.0
+msg |msg ,2.0
+url |url ,2.0
+mouse click |mouse click ,2.0
+jquery blog |jQuery Blog ,2.0
+element selection |element selections ,2.0
+performance improvement |performance improvements ,2.0
+effect |effects ,2.0
+clarity |Clarity |clarity ,2.0
+server |server ,2.0
+fail |fail ,2.0
+mit license |MIT license |MIT License ,2.0
+libraries part |Libraries Part ,2.0
+line |line ,2.0
+mode |mode ,2.0
+command |commands ,2.0
+selector engine |selector engine ,2.0
+addclas |addClass ,2.0
+status |status ,2.0
+jquery team |jQuery team ,2.0
+different browser |different browsers ,2.0
+website |websites ,2.0
+no-conflict mode edit jquery |No-Conflict Mode edit jQuery ,1.0
+separates javascript |Separates Javascript ,1.0
+visibility |visibility ,1.0
+initialization code |initialization code ,1.0
+generic javascript code |generic JavaScript code ,1.0
+en wikipedia |en wikipedia ,1.0
+datagrid |datagrids ,1.0
+main web-browser |main web-browsers ,1.0
+missing |Missing ,1.0
+anonymous function |anonymous functions ,1.0
+ui jquery mobile references edit |UI jQuery Mobile References edit ,1.0
+jquery version |jQuery version ,1.0
+css selector |CSS selectors ,1.0
+queryselector queryselectorall |querySelector querySelectorAll ,1.0
+extensible |Extensible ,1.0
+div element |div elements ,1.0
+closure dojo toolkit ember |Closure Dojo Toolkit Ember ,1.0
+event e g |event e g ,1.0
+jquery and microsoft |jQuery and Microsoft ,1.0
+form submission |form submission ,1.0
+empty url |empty url ,1.0
+array |arrays ,1.0
+event handler |event handler ,1.0
+jquery codebase release |jQuery codebase release ,1.0
+search jquery original author |search jQuery Original author ,1.0
+kanakiya |Kanakiya ,1.0
+pages download md |pages download md ,1.0
+client-side list |Client-side list ,1.0
+isbn |ISBN ,1.0
+basic dom selecting |basic DOM selecting ,1.0
+in-house unit |in-house unit ,1.0
+vag and text volkswagen |VAG and text Volkswagen ,1.0
+website jquery |Website jquery ,1.0
+event assignment |event assignment ,1.0
+usage styles edit |Usage styles edit ,1.0
+feature detection compatibility method |feature detection Compatibility methods ,1.0
+wakandadb kona cloud libraries list |WakandaDB KONA Cloud Libraries list ,1.0
+usage style |usage styles ,1.0
+function msg |function msg ,1.0
+paradigm |paradigm ,1.0
+microsoft corporation |Microsoft Corporation ,1.0
+javascript ajax programming software |JavaScript Ajax programming Software ,1.0
+popular javascript library |popular JavaScript library ,1.0
+user agent information |user agent information ,1.0
+separate project |separate project ,1.0
+height |height ,1.0
+returned jquery object |returned jQuery object ,1.0
+cloudfront cdn |CloudFront CDN ,1.0
+traversal |traversal ,1.0
+access to and manipulation |access to and manipulation ,1.0
+google libraries api |Google Libraries API ,1.0
+jay |Jay ,1.0
+asynchronous nature |asynchronous nature ,1.0
+low-level interaction |low-level interaction ,1.0
+further reading edit |Further reading edit ,1.0
+spam |spam ,1.0
+val |val ,1.0
+javascript code |Javascript code ,1.0
+microsoft ajax content delivery network |Microsoft Ajax Content Delivery Network ,1.0
+library edit |library edit ,1.0
+analysis |Analysis ,1.0
+modal window |modal windows ,1.0
+called command |called commands ,1.0
+html page |HTML page ,1.0
+cross-browser support browser support edit |cross-browser support Browser support edit ,1.0
+multi-browser |Multi-browser ,1.0
+javascript function |Javascript functions ,1.0
+thousand |thousands ,1.0
+history edit jquery |History edit jQuery ,1.0
+advantage |advantages ,1.0
+referenced node |referenced nodes ,1.0
+color |color ,1.0
+dave methvin |Dave Methvin ,1.0
+hiding element |hiding elements ,1.0
+-prefixed function |-prefixed functions ,1.0
+jquery cd n |jQuery CD N ,1.0
+code and plugin |code and plugins ,1.0
+javascript engine |Javascript engines ,1.0
+cross-platform javascript library |cross-platform JavaScript library ,1.0
+utility functions or function |utility functions or functions ,1.0
+language cli |language CLI ,1.0
+youtube |YouTube ,1.0
+finding selecting |finding selecting ,1.0
+script type text javascript |script type text javascript ,1.0
+modular approach |modular approach ,1.0
+code google |code google ,1.0
+firefox |Firefox ,1.0
+class attribute test |class attribute test ,1.0
+browser support jquery |Browser Support jQuery ,1.0
+recommendation |Recommendation ,1.0
+plug-in code |plug-in code ,1.0
+json stringify xmlhttprequest |JSON stringify xmlHttpRequest ,1.0
+abstraction |abstractions ,1.0
+attributes e g |attributes e g ,1.0
+jquery team initial release |jQuery Team Initial release ,1.0
+web application |web applications ,1.0
+ajax edit |AJAX edit ,1.0
+script src jquery |script src jquery ,1.0
+jquery command return |jQuery command returns ,1.0
+web run-time widget development platform |Web Run-Time widget development platform ,1.0
+inside ready |inside ready ,1.0
+option element |option element ,1.0
+css selector string |CSS selector string ,1.0
+qunitj |qunitjs ,1.0
+jquery plug-ins edit |jQuery plug-ins edit ,1.0
+team wiki |Team Wiki ,1.0
+public code repository |public code repository ,1.0
+microsoft and nokia bundle jquery |Microsoft and Nokia bundle jQuery ,1.0
+motif open look cross-platform |Motif OPEN LOOK Cross-platform ,1.0
+matching element |matching elements ,1.0
+wikipedia |Wikipedia ,1.0
+nokia wrt |Nokia WRT ,1.0
+first stable release |First stable release ,1.0
+replacement |replacement ,1.0
+success function |success function ,1.0
+web-page |web-page ,1.0
+cookie handling |cookie handling ,1.0
+img image element |img image element ,1.0
+ajax module rewrite |ajax module rewrite ,1.0
+typical start-point edit |Typical start-point edit ,1.0
+jquery support |jQuery support ,1.0
+flexibility |flexibility ,1.0
+single location |single location ,1.0
+argument |argument ,1.0
+wide use |wide use ,1.0
+event handling callback |event handling callbacks ,1.0
+xml http request |XML Http Request ,1.0
+asp net |ASP net ,1.0
+spin-off |spin-off ,1.0
+ajax helper |Ajax helpers ,1.0
+jquery promotes brevity |jQuery promotes brevity ,1.0
+matched set |matched set ,1.0
+specific error |specific error ,1.0
+example post |example posts ,1.0
+animations ajax deferred |animations AJAX Deferred ,1.0
+features edit jquery |Features edit jQuery ,1.0
+javascript platform |JavaScript Platform ,1.0
+nerror thrown |nError Thrown ,1.0
+chain-able function |chain-able functions ,1.0
+matched element |matched element ,1.0
+console log |console log ,1.0
+iterating |iterating ,1.0
+global properties and behaviour |global properties and behaviour ,1.0
+tree structure representation |tree structure representation ,1.0
+img element |img element ,1.0
+web service |web services ,1.0
+asynchronous process |asynchronous process ,1.0
+jquerytesting pbwork |jquerytesting pbworks ,1.0
+chaining edit |Chaining edit ,1.0
+ajax development |AJAX Development ,1.0
+release history edit |Release history edit ,1.0
+specialized approach |specialized approaches ,1.0
+submission requirement |submission requirements ,1.0
+content delivery network |content delivery networks ,1.0
+powerful dynamic web page |powerful dynamic web pages ,1.0
+usage edit |Usage edit ,1.0
+local copy |local copy ,1.0
+john resig developer |John Resig Developer ,1.0
+similartech jquery usage statistic |SimilarTech jQuery Usage Statistics ,1.0
+programming style |programming style ,1.0
+deprecated interfaces and code cleanup |deprecated interfaces and code cleanup ,1.0
+node set |node set ,1.0
+ample sdk atom |Ample SDK Atoms ,1.0
+high-level theme-able widget |high-level theme-able widgets ,1.0
+content |Contents ,1.0
+jquery plugins search |jQuery Plugins Search ,1.0
+public server |public servers ,1.0
+fusing algorithm |fusing algorithms ,1.0
+load event |load event ,1.0
+html tags and javascript |HTML tags and Javascript ,1.0
+ajax framework |Ajax frameworks ,1.0
+css development |CSS Development ,1.0
+nstatus text |nStatus Text ,1.0
+javascript libraries usage statistic |JavaScript libraries usage statistics ,1.0
+consistent interface |consistent interface ,1.0
+single javascript file |single JavaScript file ,1.0
+older |older ,1.0
+api jquery com jquery noconflict |api jquery com jquery noconflict ,1.0
+important source |important source ,1.0
+local link |local link ,1.0
+server-side javascript code |server-side JavaScript code ,1.0
+typical jquery usage |typical jQuery usage ,1.0
+back |backs ,1.0
+jquery project website |jQuery Project website ,1.0
+event callback function definition |event callback function definition ,1.0
+guthrie |Guthrie ,1.0
+scottgu |ScottGu ,1.0
+html select element |HTML select element ,1.0
+jquery eases javascript |jQuery Eases JavaScript ,1.0
+fade in |fade ins ,1.0
+krill |Krill ,1.0
+xslt tool |XSLT tools ,1.0
+ui library |UI Library ,1.0
+utility functions edit |Utility Functions edit ,1.0
+code cleanup |code cleanup ,1.0
+barcamp nyc |BarCamp NYC ,1.0
+removal |Removal ,1.0
+div test add |div test add ,1.0
+git hub-hosted repository |Git Hub-hosted repository ,1.0
+following feature |following features ,1.0
+dean edward |Dean Edwards ,1.0
+ajax application |Ajax applications ,1.0
+effort |effort ,1.0
+web citation |web citations ,1.0
+encyclopedia jump |encyclopedia Jump ,1.0
+asp net mvc framework |ASP NET MVC Framework ,1.0
+difference |differences ,1.0
+failure |failure ,1.0
+navigation |navigation ,1.0
+external links edit |External links edit ,1.0
+identifier |identifier ,1.0
+fade out |fade outs ,1.0
+html attribute |HTML attributes ,1.0
+p tag |p tags ,1.0
+current stable version |current stable version ,1.0
+mac os |Mac OS ,1.0
+browser support size |Browser support Size ,1.0
+click event |click event ,1.0
+modern browser |modern browsers ,1.0
+nokia bundle jquery |Nokia bundle jQuery ,1.0
+shorthand function name |shorthand function names ,1.0
+inarray |inArray ,1.0
+top |top ,1.0
+dom data structure |DOM data structures ,1.0
+infoworld |InfoWorld ,1.0
+brevity and clarity |Brevity and Clarity ,1.0
+promise |Promise ,1.0
+html tag |HTML tags ,1.0
+maxcdn |maxcdn ,1.0
+forum nokia |Forum Nokia ,1.0
+unix |Unix ,1.0
+wikimedia common |Wikimedia Commons ,1.0
+status text |status Text ,1.0
+dom elements edit |DOM elements edit ,1.0
+ajax function |Ajax functions ,1.0
+edit free software |edit Free software ,1.0
+eweek |eWeek ,1.0
+text volkswagen |text Volkswagen ,1.0
+asynchronous processing json parsing extensibility |asynchronous processing JSON parsing Extensibility ,1.0
+cover |cover ,1.0
+ajax and associated method |ajax and associated methods ,1.0
+jquery promotes brevity and clarity |jQuery promotes brevity and clarity ,1.0
+platform |platforms ,1.0
+prod dev |prod dev ,1.0
+basic dom selecting and manipulation |basic DOM selecting and manipulation ,1.0
+single step |single step ,1.0
+b history |b History ,1.0
+noconflict |noConflict ,1.0
+brevity |Brevity ,1.0
+javascript net developer |JavaScript Net developers ,1.0
+initialization code and event |initialization code and event ,1.0
+factory method |factory method ,1.0
+data saved |Data Saved ,1.0
+dom manipulation library |DOM manipulation library ,1.0
+google chrome |Google Chrome ,1.0
+wikidata |Wikidata ,1.0
+jquery plugin |jQuery plugins ,1.0
+multiple dom node |multiple DOM nodes ,1.0
+jquer |jquer ,1.0
+union |union ,1.0
+attr and val |attr and val ,1.0
+post |POST ,1.0
+prop |props ,1.0
+deferred nature |deferred nature ,1.0
+access |access ,1.0
+no url commons category |no URL Commons category ,1.0
+version number release date |Version number Release date ,1.0
+div tag |div tags ,1.0
+deprecated interface |deprecated interfaces ,1.0
+class attribute quote |class attribute quote ,1.0
+class test |class test ,1.0
+backbone swfobject swfaddres |Backbone SWFObject SWFAddress ,1.0
+id and class |id and class ,1.0
+associated method |associated methods ,1.0
+opera version |Opera Version ,1.0
+test automation framework |test automation framework ,1.0
+safari |Safari ,1.0
+reduction |reduction ,1.0
+fast adption |fast adption ,1.0
+common dom |common DOM ,1.0
+open source software |open source software ,1.0
+javascript-native |Javascript-native ,1.0
+no-conflict mode |no-conflict mode ,1.0
+replace mt |replace mt ,1.0
+client-side scripting |client-side scripting ,1.0
+dynamic list |dynamic lists ,1.0
+behaviour |behaviour ,1.0
+id carmake |ID carmakes ,1.0
+addclass blue slidedown slow |addClass blue slideDown slow ,1.0
+guarana ui |Guarana UI ,1.0
+widget toolkit |widget toolkits ,1.0
+property e g |property e g ,1.0
+script callback function |script Callback functions ,1.0
+function xmlhttprequest |function xmlHttpRequest ,1.0
+github com jquery plugin |github com jquery plugins ,1.0
+york |York ,1.0
+wiley |Wiley ,1.0
+plugins subdomain |plugins subdomain ,1.0
+jquery learning center |jQuery Learning Center ,1.0
+select dom element |select DOM elements ,1.0
+dom events effect |DOM Events Effects ,1.0
+taft |Taft ,1.0
+web page |web page ,1.0
+jquery object hierarchy |jQuery object hierarchy ,1.0
+ajax type |ajax type ,1.0
+low-level interaction and animation |low-level interaction and animation ,1.0
+asynchronous edit note |Asynchronous edit Note ,1.0
+following jquery code |following jQuery code ,1.0

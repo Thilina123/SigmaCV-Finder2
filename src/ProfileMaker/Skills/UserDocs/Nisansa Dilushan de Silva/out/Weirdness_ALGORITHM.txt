@@ -1,0 +1,145 @@
+citation |citations ,-3.570203162480338
+algorithm |algorithm ,-4.312140507209715
+scholar google com citation |scholar google com citations ,-4.39416237898142
+relationship |relationships ,-4.535284058523925
+important concepts and relationship |important concepts and relationships ,-4.53922114776596
+concept relationship |concept relationships ,-4.6020497548361865
+de silva |de Silva ,-4.822966130975706
+n de silva |N de Silva ,-4.822966130975706
+document |documents ,-4.822966130975706
+information |information ,-5.005287687769661
+sri lanka |Sri Lanka ,-5.005287687769661
+enterprise |enterprises ,-5.005287687769661
+wordnet |WordNet ,-5.005287687769661
+panel |panels ,-5.005287687769661
+related and intended information |related and intended information ,-5.071279074228277
+m maldeniya |M Maldeniya ,-5.092464381342049
+important concept |important concepts ,-5.092464381342049
+termex algorithm txt |TermEx ALGORITHM txt ,-5.154050055312467
+sinhala abstract sinhala |Sinhala Abstract Sinhala ,-5.154050055312467
+mechanism |mechanism ,-5.2284312390838705
+synoptic assessment |Synoptic assessments |synoptic assessment ,-5.2284312390838705
+project |project ,-5.2284312390838705
+language |languages |language ,-5.2284312390838705
+retrieval |retrieval ,-5.2284312390838705
+knowledge base |knowledge bases ,-5.2284312390838705
+dependency relationship |Dependency Relationships ,-5.2284312390838705
+fast retrieval |fast retrieval ,-5.2284312390838705
+sinhala |Sinhala ,-5.2284312390838705
+analysis |analysis ,-5.2284312390838705
+concept variable |concept variables ,-5.295196935396132
+m karunarathne |M Karunarathne ,-5.295196935396132
+diversified and unstructured nature |diversified and unstructured nature ,-5.3003517571968155
+semantic frame relationships abstract |Semantic Frame Relationships Abstract ,-5.345932146395304
+c fernando |C Fernando ,-5.372272275309761
+size format and writing style |size format and writing styles ,-5.424597089686215
+semantic frame relationship |semantic frame relationships ,-5.45948029927052
+effective synoptic assessment |Effective Synoptic Assessment |effective synoptic assessment ,-5.45948029927052
+intended information |intended information ,-5.463433053706739
+review panel |review panels ,-5.463433053706739
+expert evaluation panel |expert evaluation panels ,-5.480993139649709
+expert |experts ,-5.516113311535651
+automatic generation |automatic generation ,-5.516113311535651
+process |process ,-5.516113311535651
+perera |Perera ,-5.516113311535651
+paper |paper ,-5.516113311535651
+colombo sri lanka |Colombo Sri Lanka ,-5.54176699191436
+innovation and creativity |innovation and creativity ,-5.555374323421113
+common sense knowledge base |common sense knowledge base ,-5.575004829363843
+indexing mechanism |indexing mechanism ,-5.575004829363843
+knj fernando |KNJ Fernando ,-5.575004829363843
+automatic concept map generation |automatic concept map generation ,-5.578941918605877
+m gallage |M Gallage ,-5.641770525676105
+m lakjeewa |M Lakjeewa ,-5.641770525676105
+algorithmic constitution |algorithmic constitution |Algorithmic Constitution ,-5.718845865589733
+demanding challenge |demanding challenge ,-5.718845865589733
+h herath |H Herath ,-5.718845865589733
+silva lecturer |Silva Lecturer ,-5.718845865589733
+m k d t maldeniya |M K D T Maldeniya ,-5.786098654925454
+sri lanka s population |Sri Lanka s population ,-5.810006643986711
+data set |data sets ,-5.810006643986711
+mobility connectedness and consumption |mobility connectedness and consumption ,-5.820212142616775
+tamil portuguese and english |Tamil Portuguese and English ,-5.820212142616775
+big data analytic |Big Data analytics ,-5.847197235872412
+project demonstration |project demonstrations ,-5.921578419643815
+infrastructure policy |infrastructure policy ,-5.921578419643815
+health policy |health policy ,-5.921578419643815
+social policy |social policy ,-5.921578419643815
+official language |official languages ,-5.921578419643815
+indo-european language |Indo-European languages ,-5.921578419643815
+statistical analysis |statistical analysis ,-5.921578419643815
+software engineering project course |software engineering project course ,-5.921578419643815
+dnc wijeratne |DNC Wijeratne ,-5.921578419643816
+writing style |writing styles ,-5.921578419643816
+asynchronous concurrent architecture |asynchronous concurrent architecture ,-5.921578419643816
+summarization |summarization ,-5.921578419643816
+el karannagoda |EL Karannagoda ,-5.921578419643816
+large collection |large collections ,-5.921578419643816
+method |method ,-5.921578419643816
+relex |RelEx ,-5.921578419643816
+unstructured nature |unstructured nature ,-5.921578419643816
+proper organization |proper organization ,-5.921578419643816
+related |related ,-5.921578419643816
+opencog agi framework |OpenCog AGI Framework ,-5.921578419643816
+size format |size format ,-5.921578419643816
+relation |relation ,-5.921578419643816
+diversified |diversified ,-5.921578419643816
+representation |representation ,-5.921578419643816
+uniform technique |uniform techniques ,-5.921578419643816
+insight |insights ,-5.921578419643816
+performance |performance ,-5.921578419643816
+university |University ,-5.921578419643816
+moratuwa |Moratuwa ,-5.921578419643816
+wl afghanistan data rdocument analysis |WL Afghanistan data RDocument analysis ,-6.015579145492963
+appropriately balanced evaluation panel |appropriately balanced evaluation panels ,-6.03907932695525
+hand-coded rule |hand-coded rules ,-6.065419455869706
+industry expert |industry experts ,-6.065419455869706
+refacloring process |refacloring process ,-6.065419455869706
+refactoring process |refactoring process ,-6.065419455869706
+algorithmic tool |algorithmic tool ,-6.065419455869706
+significant challenge |significant challenge ,-6.065419455869706
+multiple policy domains transportation |multiple policy domains transportation ,-6.094865214783802
+software engineering student |software engineering students ,-6.152627479830464
+well-known drools rule engine |well-known Drools rule engine ,-6.166785732896747
+wellknown drools rule engine |wellknown Drools rule engine ,-6.166785732896747
+moratuwa php wikileaks analysis script |Moratuwa PHP WikiLeaks Analysis Scripts ,-6.198837291867794
+transaction generated information tgi |Transaction Generated Information TGI ,-6.212366122095236
+b goertze |B Goertze ,-6.268152009923789
+multiple operator |multiple operators ,-6.268152009923789
+b gunathilaka |B Gunathilaka ,-6.268152009923789
+rich insight |rich insights ,-6.268152009923789
+wikipedia-based ontology extraction |Wikipedia-based Ontology Extraction ,-6.6147256002037595
+development link node-simplecrawler |Development Link node-simplecrawler ,-6.6147256002037595
+geo-referenced high velocity |geo-referenced high velocity ,-6.6147256002037595
+discussion |discussion ,-6.61472560020376
+digital era |digital era ,-6.61472560020376
+collaborator |Collaborator ,-6.61472560020376
+indo-aryan branch |Indo-Aryan branch ,-6.61472560020376
+support |support ,-6.61472560020376
+anonymized temporal |anonymized temporal ,-6.61472560020376
+handcoded ride |handcoded rides ,-6.61472560020376
+month |months ,-6.61472560020376
+dc wimalasuriya |DC Wimalasuriya ,-6.61472560020376
+influence |influences ,-6.61472560020376
+long period |long period ,-6.61472560020376
+javascript sepgrouping final code |JavaScript SEPGrouping Final Code ,-6.61472560020376
+sm weerawarana |SM Weerawarana ,-6.61472560020376
+ability |ability ,-6.61472560020376
+access |access ,-6.61472560020376
+nodej |nodejs ,-6.61472560020376
+wide variety |wide variety ,-6.61472560020376
+lirneasia |LIRNEasia ,-6.61472560020376
+consumption |consumption ,-6.61472560020376
+study |Study ,-6.61472560020376
+urban planning |urban planning ,-6.61472560020376
+nisansa dilushan |Nisansa Dilushan ,-6.61472560020376
+mobility connectedness |mobility connectedness ,-6.61472560020376
+toastmasters club |Toastmasters club ,-6.61472560020376
+disaster preparedness |disaster preparedness ,-6.61472560020376
+english |English ,-6.61472560020376
+creativity |creativity ,-6.61472560020376
+current form |current form ,-6.61472560020376
+innovation |innovation ,-6.61472560020376
+tamil portuguese |Tamil Portuguese ,-6.61472560020376
+origin |origins ,-6.61472560020376
+busy professional |busy professionals ,-6.61472560020376

@@ -1,0 +1,422 @@
+john resig |John Resig ,-0.6947313190773965
+jquery object |jQuery objects |jQuery object ,-0.78161842859738
+jquery library |jQuery library ,-0.7894021515312336
+javascript library |JavaScript library ,-0.8052582243105649
+dom element |DOM elements ,-0.8325094564561654
+code jquery |code jquery ,-0.8381995053427209
+jquery code |jQuery code ,-0.8381995053427209
+jquery and microsoft |jQuery and Microsoft ,-0.8442453810408426
+jquery project |jQuery Project |jQuery project ,-0.8499879859514982
+jquery plug-in |jQuery plug-ins ,-0.856885453739209
+event handling |event handling ,-0.8610246922568394
+jquery plugin |jQuery plugins ,-0.8707148884407836
+jquery support |jQuery support ,-0.8802121775701613
+javascript function |Javascript functions ,-0.8819307258130755
+jquery version |jQuery version ,-0.8907139286094475
+blog jquery |blog jquery ,-0.9102127415657331
+jquery plug-ins edit |jQuery plug-ins edit ,-0.9162489705202324
+browser support jquery |Browser Support jQuery ,-0.9194257701722155
+jquery blog |jQuery Blog ,-0.9220657845507009
+jquery team |jQuery team ,-0.9220657845507009
+javascript framework |JavaScript frameworks ,-0.9287183930891277
+features edit jquery |Features edit jQuery ,-0.9431653238992176
+javascript code |Javascript code ,-0.949211334697766
+website jquery |Website jquery ,-0.9493493753574463
+library edit |library edit ,-0.9547047265569255
+history edit jquery |History edit jQuery ,-0.9552807440259173
+code and plugin |code and plugins ,-0.9561516886971257
+ajax function |Ajax functions ,-0.9622270686806844
+jquery foundation |jQuery Foundation ,-0.978854349072417
+dom elements edit |DOM elements edit ,-0.9796319865831309
+ajax edit |AJAX edit ,-0.9889243078967245
+javascript engine |Javascript engines ,-1.0039137030519294
+api jquery com jquery noconflict |api jquery com jquery noconflict ,-1.0044932469994652
+html tags and javascript |HTML tags and Javascript ,-1.0086587860437521
+following jquery code |following jQuery code ,-1.0159845325055734
+javascript platform |JavaScript Platform ,-1.017023585752229
+jquery eases javascript |jQuery Eases JavaScript ,-1.0252537754547517
+ajax framework |Ajax frameworks ,-1.0264333989314718
+jquery project website |jQuery Project website ,-1.0279023647486147
+javascript net developer |JavaScript Net developers ,-1.0300364794922994
+jquery plugins search |jQuery Plugins Search ,-1.0319221516263908
+utility functions edit |Utility Functions edit ,-1.0378628356118071
+dom node |DOM nodes ,-1.0421244206119467
+utility function |utility functions ,-1.043222391470157
+usage edit |Usage edit ,-1.0434233026110118
+typical jquery usage |typical jQuery usage ,-1.0452031111142872
+utility functions or function |utility functions or functions ,-1.058498965684053
+dom manipulation library |DOM manipulation library ,-1.062388305955678
+learning center |Learning Center ,-1.0633264973313359
+performance improvement |performance improvements ,-1.0633264973313359
+no-conflict mode edit jquery |No-Conflict Mode edit jQuery ,-1.065582731169072
+example php |example php ,-1.0689923533021826
+microsoft and nokia bundle jquery |Microsoft and Nokia bundle jQuery ,-1.0717298446493702
+selector engine |selector engine ,-1.0723403779391552
+cross-platform javascript library |cross-platform JavaScript library ,-1.0760295425844644
+plug-in code |plug-in code ,-1.0790835294342387
+script src jquery |script src jquery ,-1.0799859703979313
+initialization code and event |initialization code and event ,-1.0821698804410018
+web page |web page ,-1.083962545851182
+select dom element |select DOM elements ,-1.085015670598181
+script callback function |script Callback functions ,-1.0862241884422403
+javascript libraries usage statistic |JavaScript libraries usage statistics ,-1.0882461937952295
+ui library |UI Library ,-1.0919580103447881
+access to and manipulation |access to and manipulation ,-1.0962049191039267
+github com jquery plugin |github com jquery plugins ,-1.0977026200149351
+cross-browser support browser support edit |cross-browser support Browser support edit ,-1.098684580365186
+jquery command return |jQuery command returns ,-1.099007761611071
+common dom |common DOM ,-1.1002144388009594
+code google |code google ,-1.1022205706347417
+google libraries api |Google Libraries API ,-1.1053733485606216
+usage styles edit |Usage styles edit ,-1.1062652185406086
+dom events effect |DOM Events Effects ,-1.1067103736162456
+server-side javascript code |server-side JavaScript code ,-1.1071465620576295
+div test |div test ,-1.1078558114424502
+returned jquery object |returned jQuery object ,-1.1113701389575625
+jquery object hierarchy |jQuery object hierarchy ,-1.1113701389575625
+document ready function |document ready function ,-1.1130505544287674
+mit license |MIT license |MIT License ,-1.1170496986541234
+john resig developer |John Resig Developer ,-1.1182779679149164
+event e g |event e g ,-1.1188544586588975
+mouse click |mouse click ,-1.1212441138672513
+release history edit |Release history edit ,-1.1217684800111216
+popular javascript library |popular JavaScript library ,-1.1220483255394056
+ajax application |Ajax applications ,-1.122514655034411
+event handling callback |event handling callbacks ,-1.1251501946594797
+div element |div elements ,-1.125381607374068
+web application |web applications ,-1.1278217262123051
+event callback function definition |event callback function definition ,-1.1280609577875773
+click event |click event ,-1.1296383861007533
+html select element |HTML select element ,-1.1303111424540084
+asp net |ASP net ,-1.1304711781280972
+john resig speaker |John Resig speaker ,-1.1307989150707471
+ajax and associated method |ajax and associated methods ,-1.1320537041539724
+javascript ajax programming software |JavaScript Ajax programming Software ,-1.1332934177230733
+jquery codebase release |jQuery codebase release ,-1.1349940941967274
+yui theater |YUI Theater ,-1.1352818543335188
+id and class |id and class ,-1.1367061444783184
+html page |HTML page ,-1.1376616293166895
+libraries part |Libraries Part ,-1.1397172769660284
+fade in |fade ins ,-1.1408964793585772
+edit free software |edit Free software ,-1.142787504994875
+ajax development |AJAX Development ,-1.143682229229969
+element selection |element selections ,-1.1453655365757105
+different browser |different browsers ,-1.148961642618298
+generic javascript code |generic JavaScript code ,-1.1530942289608541
+img element |img element ,-1.1532772639071762
+jquery team initial release |jQuery Team Initial release ,-1.1543703875094884
+chaplin j |Chaplin js ,-1.1550082352576019
+nokia bundle jquery |Nokia bundle jQuery ,-1.1573181857812715
+html attribute |HTML attributes ,-1.1621294080523823
+jquery promotes brevity and clarity |jQuery promotes brevity and clarity ,-1.1635312957404356
+function msg |function msg ,-1.1650628350434609
+function xmlhttprequest |function xmlHttpRequest ,-1.1650628350434609
+browser support size |Browser support Size ,-1.167163602135926
+usage style |usage styles ,-1.1685832601661392
+class test |class test ,-1.1685832601661392
+script type text javascript |script type text javascript ,-1.1703855790453597
+ajax type |ajax type ,-1.171182941756562
+jquery learning center |jQuery Learning Center ,-1.1720832302324207
+class attribute test |class attribute test ,-1.1743012071394854
+asp net mvc framework |ASP NET MVC Framework ,-1.1754271621495014
+animations ajax deferred |animations AJAX Deferred ,-1.1772233589595829
+attributes e g |attributes e g ,-1.1802521674387
+chaining edit |Chaining edit ,-1.1889447583010497
+asynchronous edit note |Asynchronous edit Note ,-1.190111504157596
+multiple dom node |multiple DOM nodes ,-1.191047508092486
+option element |option element ,-1.1928719012139173
+matched element |matched element ,-1.1928719012139173
+basic dom selecting and manipulation |basic DOM selecting and manipulation ,-1.1951708881693925
+similartech jquery usage statistic |SimilarTech jQuery Usage Statistics ,-1.196605831360519
+html tag |HTML tags ,-1.196942014183885
+load event |load event ,-1.1969587025291604
+div test add |div test add ,-1.1973184810711768
+brevity and clarity |Brevity and Clarity ,-1.197421694813727
+dom data structure |DOM data structures ,-1.2002127247123648
+ui jquery mobile references edit |UI jQuery Mobile References edit ,-1.2010514109698953
+separates javascript |Separates Javascript ,-1.2098861987687806
+ajax helper |Ajax helpers ,-1.210321125102284
+jquery cd n |jQuery CD N ,-1.218235956935554
+jquery promotes brevity |jQuery promotes brevity ,-1.218235956935554
+property e g |property e g ,-1.219332321683988
+b history |b History ,-1.2305632661900592
+node set |node set ,-1.2310358941404755
+test automation framework |test automation framework ,-1.2311311438558916
+xml http request |XML Http Request ,-1.2311982584816288
+typical start-point edit |Typical start-point edit ,-1.233446759207153
+external links edit |External links edit ,-1.233446759207153
+anonymous function |anonymous functions ,-1.2338239347166253
+-prefixed function |-prefixed functions ,-1.2338239347166253
+success function |success function ,-1.2338239347166253
+chain-able function |chain-able functions ,-1.2338239347166253
+vag and text volkswagen |VAG and text Volkswagen ,-1.2339236623375283
+low-level interaction and animation |low-level interaction and animation ,-1.2342324110510297
+plugins subdomain |plugins subdomain ,-1.237498846263041
+following feature |following features ,-1.2410993177558416
+widget toolkit |widget toolkits ,-1.2410993177558416
+attr and val |attr and val ,-1.2435013317177968
+wide use |wide use ,-1.2439423771084583
+example post |example posts ,-1.2439423771084583
+div tag |div tags ,-1.2461880658622804
+shorthand function name |shorthand function names ,-1.247193255205638
+microsoft ajax content delivery network |Microsoft Ajax Content Delivery Network ,-1.2513328805850752
+single javascript file |single JavaScript file ,-1.2520629890926986
+powerful dynamic web page |powerful dynamic web pages ,-1.253670106530816
+class attribute quote |class attribute quote ,-1.2551218646406415
+web run-time widget development platform |Web Run-Time widget development platform ,-1.2579609244660364
+further reading edit |Further reading edit ,-1.2593662710457585
+hiding element |hiding elements ,-1.2611440911464
+matching element |matching elements ,-1.2611440911464
+open source software |open source software ,-1.2641961661198011
+event handler |event handler ,-1.2651266396492922
+event assignment |event assignment ,-1.2651266396492922
+current stable version |current stable version ,-1.2661155253342782
+separate project |separate project ,-1.2662307605839322
+deprecated interfaces and code cleanup |deprecated interfaces and code cleanup ,-1.266328123723024
+called command |called commands ,-1.2663554160884876
+p tag |p tags ,-1.2663554160884876
+no-conflict mode |no-conflict mode ,-1.2663554160884876
+dynamic list |dynamic lists ,-1.2663554160884876
+modern browser |modern browsers ,-1.2692658670577346
+asynchronous nature |asynchronous nature ,-1.2749562731074584
+public code repository |public code repository ,-1.275158825081514
+img image element |img image element ,-1.2805936335045167
+web service |web services ,-1.2827449175424357
+web citation |web citations ,-1.2827449175424357
+single location |single location ,-1.2836558139750378
+programming style |programming style ,-1.284587571767883
+public server |public servers ,-1.284587571767883
+search jquery original author |search jQuery Original author ,-1.2857049638836244
+initialization code |initialization code ,-1.287637338053371
+code cleanup |code cleanup ,-1.287637338053371
+client-side list |Client-side list ,-1.2954341175406763
+global properties and behaviour |global properties and behaviour ,-1.3029133817477316
+form submission |form submission ,-1.3081473916837754
+matched set |matched set ,-1.3081473916837754
+local link |local link ,-1.3081473916837754
+status text |status Text ,-1.3081473916837754
+text volkswagen |text Volkswagen ,-1.3081473916837754
+deferred nature |deferred nature ,-1.3081473916837754
+basic dom selecting |basic DOM selecting ,-1.3124386360982996
+ajax module rewrite |ajax module rewrite ,-1.314579035474851
+content delivery network |content delivery networks ,-1.3147822096722042
+first stable release |First stable release ,-1.3150055029229275
+opera version |Opera Version ,-1.315765680179196
+closure dojo toolkit ember |Closure Dojo Toolkit Ember ,-1.3159931954332955
+css selector |CSS selectors ,-1.3221923393774748
+microsoft corporation |Microsoft Corporation ,-1.3221923393774748
+version number release date |Version number Release date ,-1.3229797572258815
+finding selecting |finding selecting ,-1.3246115028414733
+local copy |local copy ,-1.3246115028414733
+id carmake |ID carmakes ,-1.3246115028414733
+referenced node |referenced nodes ,-1.328855923180727
+google chrome |Google Chrome ,-1.328855923180727
+no url commons category |no URL Commons category ,-1.3321014619770533
+css selector string |CSS selector string ,-1.333134417288504
+ample sdk atom |Ample SDK Atoms ,-1.3339610145023229
+feature detection compatibility method |feature detection Compatibility methods ,-1.335670134144482
+team wiki |Team Wiki ,-1.335670134144482
+cookie handling |cookie handling ,-1.335670134144482
+asynchronous process |asynchronous process ,-1.335670134144482
+wikimedia common |Wikimedia Commons ,-1.335670134144482
+factory method |factory method ,-1.335670134144482
+data saved |Data Saved ,-1.335670134144482
+associated method |associated methods ,-1.335670134144482
+motif open look cross-platform |Motif OPEN LOOK Cross-platform ,-1.3389956064640622
+nokia wrt |Nokia WRT ,-1.34243448046525
+forum nokia |Forum Nokia ,-1.34243448046525
+guarana ui |Guarana UI ,-1.34243448046525
+main web-browser |main web-browsers ,-1.34282894068787
+queryselector queryselectorall |querySelector querySelectorAll ,-1.34282894068787
+in-house unit |in-house unit ,-1.34282894068787
+dave methvin |Dave Methvin ,-1.34282894068787
+specific error |specific error ,-1.34282894068787
+nerror thrown |nError Thrown ,-1.34282894068787
+jquerytesting pbwork |jquerytesting pbworks ,-1.34282894068787
+fusing algorithm |fusing algorithms ,-1.34282894068787
+xslt tool |XSLT tools ,-1.34282894068787
+barcamp nyc |BarCamp NYC ,-1.34282894068787
+dean edward |Dean Edwards ,-1.34282894068787
+encyclopedia jump |encyclopedia Jump ,-1.34282894068787
+fast adption |fast adption ,-1.34282894068787
+replace mt |replace mt ,-1.34282894068787
+json stringify xmlhttprequest |JSON stringify xmlHttpRequest ,-1.3437903076715918
+high-level theme-able widget |high-level theme-able widgets ,-1.343790307671592
+modal window |modal windows ,-1.3486939024945919
+inside ready |inside ready ,-1.3486939024945919
+css development |CSS Development ,-1.3486939024945919
+empty url |empty url ,-1.3533797100866514
+cloudfront cdn |CloudFront CDN ,-1.3533797100866514
+nstatus text |nStatus Text ,-1.3533797100866514
+important source |important source ,-1.3533797100866514
+single step |single step ,-1.3533797100866514
+en wikipedia |en wikipedia ,-1.3537888881422704
+low-level interaction |low-level interaction ,-1.3537888881422704
+language cli |language CLI ,-1.3537888881422704
+modular approach |modular approach ,-1.3537888881422704
+console log |console log ,-1.3537888881422704
+specialized approach |specialized approaches ,-1.3537888881422704
+submission requirement |submission requirements ,-1.3537888881422704
+consistent interface |consistent interface ,-1.3537888881422704
+fade out |fade outs ,-1.3537888881422704
+mac os |Mac OS ,-1.3537888881422704
+prod dev |prod dev ,-1.3537888881422704
+deprecated interface |deprecated interfaces ,-1.3537888881422704
+client-side scripting |client-side scripting ,-1.3537888881422704
+addclass blue slidedown slow |addClass blue slideDown slow ,-1.3537888881422704
+tree structure representation |tree structure representation ,-1.3568251277833363
+git hub-hosted repository |Git Hub-hosted repository ,-1.3568251277833363
+backbone swfobject swfaddres |Backbone SWFObject SWFAddress ,-1.3568251277833363
+wakandadb kona cloud libraries list |WakandaDB KONA Cloud Libraries list ,-1.3626440613818958
+asynchronous processing json parsing extensibility |asynchronous processing JSON parsing Extensibility ,-1.3676947350152144
+user agent information |user agent information ,-1.3708213148788029
+pages download md |pages download md ,-1.3727763021477106
+jquery |JQuery |jQuery |jquery ,-2.7000858549636946
+javascript |Javascript |JavaScript ,-3.724030306737264
+function |functions |function ,-3.9945418087990148
+library |library ,-4.246374639550894
+element |element |elements ,-4.298057241813763
+event |events |event ,-4.364129280516181
+browser |browser |browsers ,-4.433629870785979
+dom |DOM ,-4.451018957324822
+ajax |ajax ,-4.613634117361543
+code |code ,-4.633677494926445
+framework |framework ,-4.723495504746883
+plugin |Plugins |plugins |plugin ,-4.86041434736245
+example |example ,-4.949972365275282
+use |use ,-5.0034057513902495
+developer |developers |Developer ,-5.04893609788315
+plug-in |plug-ins ,-5.078695765561554
+version |versions |version ,-5.078695765561554
+usage |Usage ,-5.0925962285488655
+script |script ,-5.159516579029962
+resig |Resig ,-5.159516579029962
+html |HTML |html ,-5.159516579029962
+microsoft |Microsoft ,-5.159516579029962
+page |Pages |page ,-5.191558476972825
+node |nodes ,-5.319536851165704
+project |Project ,-5.335177940231049
+platform |platforms ,-5.370818654826479
+animation |animations |animation ,-5.429344891179071
+team |team |Team ,-5.429344891179071
+callback |callbacks |callback ,-5.449008757648527
+method |methods ,-5.449008757648527
+feature |features ,-5.4837516956140995
+nokia |Nokia ,-5.600128971256691
+yui |YUI ,-5.600128971256691
+manipulation |manipulation ,-5.600128971256691
+class |class ,-5.600128971256691
+software |software ,-5.622026495948174
+style |style ,-5.658859246106269
+server |server ,-5.658859246106269
+website |websites ,-5.658859246106269
+sizzle |Sizzle ,-5.808876292044243
+dojo |Dojo ,-5.808876292044243
+ready |ready ,-5.808876292044243
+document |document ,-5.808876292044243
+alert |alert ,-5.808876292044243
+user |users |user ,-5.808876292044243
+functionality |functionality ,-5.833618793128247
+request |request ,-5.833618793128247
+comparison |comparison ,-5.833618793128247
+license |License ,-5.833618793128247
+return |returns ,-5.833618793128247
+mode |mode ,-5.8549172297418615
+set |set ,-6.0774811585516515
+following |following ,-6.0774811585516515
+img |img ,-6.0774811585516515
+site |site ,-6.0774811585516515
+xml |XML ,-6.0774811585516515
+core |core ,-6.0774811585516515
+cdn |CDN ,-6.0774811585516515
+url |url ,-6.10587907403647
+effect |effects ,-6.10587907403647
+fail |fail ,-6.10587907403647
+command |commands ,-6.10587907403647
+content |Contents ,-6.127652824495648
+video |Video ,-6.454893629509829
+errorthrown |errorThrown ,-6.454893629509829
+apis |APIs ,-6.454893629509829
+subdomain |subdomain ,-6.454893629509829
+architecture |architecture ,-6.454893629509829
+qunit |QUnit ,-6.454893629509829
+vag |VAG ,-6.454893629509829
+help |help ,-6.454893629509829
+attr |attr ,-6.454893629509829
+creation |creation ,-6.454893629509829
+volkswagen |Volkswagen ,-6.454893629509829
+console |console ,-6.454893629509829
+mediawiki |MediaWiki ,-6.454893629509829
+standard |standard ,-6.454893629509829
+option |option ,-6.454893629509829
+string |string ,-6.454893629509829
+control |control ,-6.454893629509829
+msg |msg ,-6.454893629509829
+clarity |Clarity |clarity ,-6.454893629509829
+line |line ,-6.454893629509829
+addclas |addClass ,-6.454893629509829
+status |status ,-6.454893629509829
+multi-browser |Multi-browser ,-6.487554255198596
+wikipedia |Wikipedia ,-6.487554255198596
+maxcdn |maxcdn ,-6.487554255198596
+noconflict |noConflict ,-6.487554255198596
+brevity |Brevity ,-6.487554255198596
+post |POST ,-6.487554255198596
+visibility |visibility ,-7.096335217919348
+datagrid |datagrids ,-7.096335217919348
+missing |Missing ,-7.096335217919348
+extensible |Extensible ,-7.096335217919348
+array |arrays ,-7.096335217919348
+kanakiya |Kanakiya ,-7.096335217919348
+isbn |ISBN ,-7.096335217919348
+paradigm |paradigm ,-7.096335217919348
+height |height ,-7.096335217919348
+traversal |traversal ,-7.096335217919348
+jay |Jay ,-7.096335217919348
+spam |spam ,-7.096335217919348
+val |val ,-7.096335217919348
+analysis |Analysis ,-7.096335217919348
+thousand |thousands ,-7.096335217919348
+advantage |advantages ,-7.096335217919348
+color |color ,-7.096335217919348
+youtube |YouTube ,-7.096335217919348
+firefox |Firefox ,-7.096335217919348
+recommendation |Recommendation ,-7.096335217919348
+abstraction |abstractions ,-7.096335217919348
+qunitj |qunitjs ,-7.096335217919348
+replacement |replacement ,-7.096335217919348
+web-page |web-page ,-7.096335217919348
+flexibility |flexibility ,-7.096335217919348
+argument |argument ,-7.096335217919348
+spin-off |spin-off ,-7.096335217919348
+iterating |iterating ,-7.096335217919348
+older |older ,-7.096335217919348
+back |backs ,-7.096335217919348
+guthrie |Guthrie ,-7.096335217919348
+scottgu |ScottGu ,-7.096335217919348
+krill |Krill ,-7.096335217919348
+removal |Removal ,-7.096335217919348
+effort |effort ,-7.096335217919348
+difference |differences ,-7.096335217919348
+failure |failure ,-7.096335217919348
+navigation |navigation ,-7.096335217919348
+identifier |identifier ,-7.096335217919348
+inarray |inArray ,-7.096335217919348
+top |top ,-7.096335217919348
+infoworld |InfoWorld ,-7.096335217919348
+promise |Promise ,-7.096335217919348
+unix |Unix ,-7.096335217919348
+eweek |eWeek ,-7.096335217919348
+cover |cover ,-7.096335217919348
+wikidata |Wikidata ,-7.096335217919348
+jquer |jquer ,-7.096335217919348
+union |union ,-7.096335217919348
+prop |props ,-7.096335217919348
+access |access ,-7.096335217919348
+safari |Safari ,-7.096335217919348
+reduction |reduction ,-7.096335217919348
+javascript-native |Javascript-native ,-7.096335217919348
+behaviour |behaviour ,-7.096335217919348
+york |York ,-7.096335217919348
+wiley |Wiley ,-7.096335217919348
+taft |Taft ,-7.096335217919348

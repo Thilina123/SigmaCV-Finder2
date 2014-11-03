@@ -1,0 +1,925 @@
+java |Javas |Java ,174.0
+island |islands |island ,39.0
+indonesia |Indonesia ,36.0
+javanese |Javanese ,33.0
+population |populations |population ,30.0
+indonesian |Indonesian ,22.0
+edit |edit ,19.0
+javan |Javan ,18.0
+language |languages |language |Languages ,18.0
+rice |rice ,18.0
+jakarta |Jakarta ,17.0
+region |region |regions ,15.0
+central java |central Java |Central Java ,14.0
+dutch |Dutch ,14.0
+east java |East Java ,14.0
+culture |Culture |cultures |culture ,14.0
+people |Peoples |peoples |people ,12.0
+yogyakarta |Yogyakarta ,12.0
+area |area |areas ,12.0
+west java |West Java ,11.0
+hindu |Hindu ,11.0
+history |history |History ,10.0
+coast |coast ,10.0
+bali |Bali ,9.0
+north |north ,9.0
+islam |Islam ,9.0
+sundanese |Sundanese ,9.0
+religion |religions |Religion ,8.0
+isbn |ISBN ,8.0
+banten |Banten ,8.0
+east |east ,8.0
+world |world ,8.0
+first |first ,8.0
+central |central ,8.0
+home |home ,7.0
+era |era ,7.0
+madura |Madura ,7.0
+growth |growth ,7.0
+part |parts |part ,7.0
+source |source |sources ,6.0
+surabaya |Surabaya ,6.0
+sumatra |Sumatra ,6.0
+indian |Indian ,6.0
+end |ends |end ,6.0
+river |rivers |river ,6.0
+number |numbers |number ,6.0
+majapahit |Majapahit ,6.0
+india |India ,6.0
+west |west ,6.0
+capital |capital ,5.0
+help |help ,5.0
+interior |interior ,5.0
+rainforest |rainforest |rainforests ,5.0
+deprecated parameter |deprecated parameters ,5.0
+kingdom |kingdom ,5.0
+agriculture |agriculture ,5.0
+university |University ,5.0
+periplus edition |Periplus Editions ,5.0
+betawi |Betawis |Betawi ,5.0
+wet |wet ,5.0
+cirebon |Cirebon ,5.0
+madurese |Madurese ,5.0
+population growth |population growth ,5.0
+british |British ,5.0
+bandung |Bandung ,5.0
+chinese |Chinese ,5.0
+place |places |place ,5.0
+kyai |kyais |Kyai ,5.0
+coffee |coffee ,5.0
+malay |Malay ,5.0
+dialect |dialect |dialects ,5.0
+maluku |Maluku ,5.0
+papua |Papua ,4.0
+javanese culture |Javanese culture ,4.0
+ancient time |ancient times ,4.0
+south |south ,4.0
+province |Province |provinces ,4.0
+cultivation |cultivation ,4.0
+belief |belief ,4.0
+period |period ,4.0
+semarang |Semarang ,4.0
+java and bali |Java and Bali ,4.0
+ecology |Ecology ,4.0
+mountain |mountains ,4.0
+mataram |Mataram ,4.0
+division |division ,4.0
+sultanate |sultanates ,4.0
+london |London ,4.0
+hong kong |Hong Kong ,4.0
+centre |centre |centres ,4.0
+trade |Trade |trade ,4.0
+cite |Cite ,4.0
+article |article |Articles ,4.0
+resi |Resi |resi ,4.0
+suraya |Suraya ,3.0
+rainfall |rainfall ,3.0
+business |Business |business ,3.0
+april |April ,3.0
+indonesian archipelago |Indonesian archipelago ,3.0
+construction |construction ,3.0
+surakarta |Surakarta ,3.0
+nusa tenggara |Nusa Tenggara ,3.0
+remnant |remnants |Remnants ,3.0
+periplus editions ltd p |Periplus Editions Ltd p ,3.0
+political |political ,3.0
+netherlands |Netherlands ,3.0
+spread |Spread ,3.0
+balinese |Balinese ,3.0
+soeriaatmadja |Soeriaatmadja ,3.0
+rice cultivation |rice cultivation ,3.0
+colonial period |colonial period ,3.0
+suharto |Suharto ,3.0
+hayam wuruk |Hayam Wuruk ,3.0
+large number |large numbers ,3.0
+majority |majority ,3.0
+rice agriculture |rice agriculture ,3.0
+batavia |Batavia ,3.0
+whitten |Whitten ,3.0
+north coast |north coast ,3.0
+communication |communication ,3.0
+java great post road |Java Great Post Road ,3.0
+commercial |commercial ,3.0
+highland |highlands ,3.0
+portuguese |Portuguese ,3.0
+age |Age |age ,3.0
+banyumasan |Banyumasan ,3.0
+ricklef |Ricklefs ,3.0
+result |result ,3.0
+western java |western Java |Western Java ,3.0
+muslim |Muslim |Muslims ,3.0
+city |city ,3.0
+page |Pages ,3.0
+ethnic group |ethnic groups ,3.0
+raffle |Raffles ,3.0
+power |power ,3.0
+prambanan |Prambanan ,3.0
+islamic sultanate |Islamic sultanates ,3.0
+sunda kingdom |Sunda kingdom |Sunda kingdoms ,2.0
+wet season |wet season ,2.0
+islam and rise |Islam and rise ,2.0
+slope |slopes ,2.0
+java sea |Java Sea ,2.0
+osing |Osing ,2.0
+city population |City Population ,2.0
+oxford university press |Oxford University Press ,2.0
+climate |climate ,2.0
+jawa |Jawa ,2.0
+asia |Asia ,2.0
+religious belief |religious belief |religious beliefs ,2.0
+schiller |Schiller ,2.0
+orthodox |orthodox ,2.0
+bengawan solo river |Bengawan Solo River ,2.0
+village |villages ,2.0
+british empire |British Empire ,2.0
+volcano |Volcanoes ,2.0
+santri |santri ,2.0
+dki jakarta |DKI Jakarta ,2.0
+kejawen |kejawen ,2.0
+ecosystem |ecosystem |ecosystems ,2.0
+ujung kulon |Ujung Kulon ,2.0
+mosque |mosque ,2.0
+abangan |abangan ,2.0
+extinct |extinct ,2.0
+rice field |rice field |rice fields ,2.0
+sect |sects ,2.0
+chinese indonesian |Chinese Indonesian |Chinese Indonesians ,2.0
+practice |practice ,2.0
+china |China ,2.0
+control |control ,2.0
+java java |Java Java ,2.0
+advent |advent ,2.0
+combined population |combined population ,2.0
+official religion |official religions ,2.0
+increase |increase ,2.0
+islamic belief |Islamic belief ,2.0
+branta |Brantas ,2.0
+programming language |programming language ,2.0
+four province |four provinces ,2.0
+coordinate |Coordinates ,2.0
+chain |chain ,2.0
+populous island |populous island ,2.0
+resident |residents ,2.0
+borneo |Borneo ,2.0
+malacca |Malacca ,2.0
+medang |Medang ,2.0
+east-west spine |east-west spine ,2.0
+town |towns |town ,2.0
+islamic kingdom |Islamic kingdoms ,2.0
+tradition |tradition ,2.0
+longman |Longman |Longmans ,2.0
+labour |labour ,2.0
+pre-islamic |pre-Islamic ,2.0
+group |group ,2.0
+pope |Pope ,2.0
+search |search ,2.0
+struggle |struggle ,2.0
+dutch east india company |Dutch East India Company ,2.0
+special region |special regions ,2.0
+ramayana |Ramayana ,2.0
+treaty |treaty |Treaty ,2.0
+colonial government |colonial government ,2.0
+society |society ,2.0
+dv pa |dv pa ,2.0
+daendel |Daendels ,2.0
+plant |plant ,2.0
+series |series ,2.0
+active volcano |active volcano |active volcanoes ,2.0
+yawadvipa |Yawadvipa ,2.0
+eastern java |eastern Java ,2.0
+baduy |Baduy ,2.0
+buddhism |Buddhism ,2.0
+rise |rise ,2.0
+independence |independence ,2.0
+unsourced statement |unsourced statements ,2.0
+half |half ,2.0
+thomas e |Thomas E ,2.0
+plantation |plantations ,2.0
+student |students |Students ,2.0
+ancient kingdom |Ancient kingdoms |ancient kingdom ,2.0
+volcanic mountain |volcanic mountains ,2.0
+japanese |Japanese ,2.0
+nation |nation ,2.0
+java island |Java island |Java Island ,2.0
+javan rhino |Javan rhino ,2.0
+center |center ,2.0
+art |arts ,2.0
+tax |tax ,2.0
+parahyangan |Parahyangan ,2.0
+tenggerese |Tenggerese ,2.0
+fall |fall ,2.0
+ethnicity |Ethnicity ,2.0
+term |terms ,2.0
+rice export |rice export ,1.0
+en wikipedia |en wikipedia ,1.0
+cimanuk |Cimanuk ,1.0
+dominant metropolis |dominant metropolis ,1.0
+hindu-buddhist kingdoms era edit |Hindu-Buddhist kingdoms era edit ,1.0
+routledgecurzon press |RoutledgeCurzon Press ,1.0
+statistics map |Statistics Maps ,1.0
+creole people |creole people ,1.0
+panarukan |Panarukan ,1.0
+serayu |Serayu ,1.0
+ijen plateau |Ijen Plateau ,1.0
+european colonial power |European colonial powers ,1.0
+javanese-language text |Javanese-language text ,1.0
+brantas and sala river |Brantas and Sala rivers ,1.0
+surabaya and cirebon |Surabaya and Cirebon ,1.0
+semarang east java |Semarang East Java ,1.0
+blangkon headgear |blangkon headgear ,1.0
+truck |trucks ,1.0
+queen |queen ,1.0
+maduran |Madurans ,1.0
+major kingdom |major kingdoms ,1.0
+thirty-eight mountain |thirty-eight mountains ,1.0
+java disambiguation |Java disambiguation ,1.0
+wallace stevens |Wallace Stevens ,1.0
+mount halimun-salak |Mount Halimun-Salak ,1.0
+no absolute preference |no absolute preference ,1.0
+meaning |meaning ,1.0
+abbreviation |abbreviation ,1.0
+eastern javanese kingdom |eastern Javanese kingdoms ,1.0
+bird |birds ,1.0
+base |base ,1.0
+pestilence |Pestilence ,1.0
+wettest month |wettest months ,1.0
+large population |large population ,1.0
+pt kompas media nusantara |PT Kompas Media Nusantara ,1.0
+pdf |PDF ,1.0
+lawu volcano |Lawu volcano ,1.0
+southwestern part |southwestern part ,1.0
+imposed end |imposed end ,1.0
+freshwater finfish biodiversity and conservation |Freshwater finfish biodiversity and conservation ,1.0
+dutch colonial government |Dutch colonial government ,1.0
+small-holder |small-holders ,1.0
+loosenees |looseneess ,1.0
+four major cultural area |Four major cultural areas ,1.0
+bank |banks ,1.0
+anyer |Anyer ,1.0
+greater cirebon |Greater Cirebon ,1.0
+deprecated parameters page |deprecated parameters Pages ,1.0
+contemporary king |contemporary kings ,1.0
+united state |United States ,1.0
+ancient javanese kingdom |ancient Javanese kingdom ,1.0
+dry season |dry season ,1.0
+large portion |large portion ,1.0
+bali ethnologue |Bali Ethnologue ,1.0
+northern coastal plain |northern coastal plains ,1.0
+country |country ,1.0
+writ kyai |writ Kyai ,1.0
+deficiency |deficiency ,1.0
+dieng plateau |Dieng Plateau ,1.0
+day |day ,1.0
+chinese and indian |Chinese and Indian ,1.0
+java word |Java word ,1.0
+hope |hope ,1.0
+backbone |backbone ,1.0
+asian hominidae |Asian Hominidae ,1.0
+local power |Local powers ,1.0
+evidence |Evidence ,1.0
+landscape |landscapes ,1.0
+java javanese |Java Javanese ,1.0
+fifth largest island |fifth largest island ,1.0
+mass rape |mass rapes ,1.0
+greater bandung |Greater Bandung ,1.0
+pudjangga sacred literati legitimised ruler |pudjangga sacred literati legitimised rulers ,1.0
+road span |road span ,1.0
+peasant |peasants ,1.0
+music |Music ,1.0
+andrew |Andrew ,1.0
+abangan more traditional and santri |abangan more traditional and santri ,1.0
+globe encompassed |Globe Encompassed ,1.0
+sir stamford raffle |Sir Stamford Raffles ,1.0
+east corresponding |east corresponding ,1.0
+geography edit mount semeru |Geography edit Mount Semeru ,1.0
+tarumanagara mataram |Tarumanagara Mataram ,1.0
+ken arok |Ken Arok ,1.0
+indonesian history |Indonesian history ,1.0
+beatty |Beatty ,1.0
+brown |Brown ,1.0
+resi lived |resi lived ,1.0
+main mean |main means ,1.0
+word ja |word ja ,1.0
+pre-colonial islamic kingdom |pre-colonial Islamic kingdoms ,1.0
+main language |main languages ,1.0
+madura strait |Madura Strait ,1.0
+larger plantation |larger plantations ,1.0
+banyuwangi |Banyuwangi ,1.0
+villages mass |villages masses ,1.0
+appreciative allusion |appreciative allusion ,1.0
+anthropological account |Anthropological Account ,1.0
+no hierarchy |no hierarchy ,1.0
+element |elements ,1.0
+hold |hold ,1.0
+motorway |motorways ,1.0
+shipping lane |shipping lanes ,1.0
+two-third |two-thirds ,1.0
+ascetic |ascetics ,1.0
+famine elimination |famine elimination ,1.0
+health |Health ,1.0
+schism |schism ,1.0
+colony |colony ,1.0
+mahabharata |Mahabharata ,1.0
+elaborate rank order |elaborate rank order ,1.0
+rama |Rama ,1.0
+europe |Europe ,1.0
+indonesian constitution |Indonesian constitution ,1.0
+highland area |highland areas ,1.0
+road transportation network |road transportation networks ,1.0
+road |roads ,1.0
+hawaii press |Hawaii Press ,1.0
+gajah mada |Gajah Mada ,1.0
+sundanese and madurese account |Sundanese and Madurese account ,1.0
+entire indonesian archipelago |entire Indonesian archipelago ,1.0
+green |Green ,1.0
+religious leadership |religious leadership ,1.0
+master |master ,1.0
+rich biodiversity |rich biodiversity ,1.0
+hindu god shiva |Hindu god Shiva ,1.0
+four-ship expedition |four-ship expedition ,1.0
+penerbit buku kompa |Penerbit Buku Kompas ,1.0
+volcanic mountains form |volcanic mountains forms ,1.0
+variation |variations ,1.0
+fifth area |fifth area ,1.0
+islamic state |Islamic states ,1.0
+bernard |Bernard ,1.0
+january |January ,1.0
+trucks and railway |trucks and railways ,1.0
+javan environment |Javan environment ,1.0
+cite template |cite templates ,1.0
+laporan jurnalistik kompa |Laporan Jurnalistik Kompas ,1.0
+taruma |Taruma ,1.0
+religious elite |religious elite ,1.0
+small hindu enclave |Small Hindu enclaves ,1.0
+sovereignty |sovereignty ,1.0
+richest |richest ,1.0
+humid dense rainforest |humid dense rainforest ,1.0
+surrender term |surrender terms ,1.0
+parahyangan highland |Parahyangan highlands ,1.0
+demak |Demak ,1.0
+islamic preaching school |Islamic preaching schools ,1.0
+formal priesthood |formal priesthood ,1.0
+pati |Pati ,1.0
+bromo |Bromo ,1.0
+rice land |rice lands ,1.0
+political elite |political elite ,1.0
+independence edit indonesian nationalism |Independence edit Indonesian nationalism ,1.0
+large riot |large riots ,1.0
+javanese coffee |Javanese coffee ,1.0
+kyai leadership structure |kyai leadership structure ,1.0
+islamic law |Islamic law ,1.0
+wet-rice cultivation |wet-rice cultivation ,1.0
+superficial acceptance |superficial acceptance ,1.0
+javanese aristocracy |Javanese aristocracy ,1.0
+south-central java |south-central Java ,1.0
+wijaya |Wijaya ,1.0
+suharto regime |Suharto regime ,1.0
+yogyakarta initially |Yogyakarta Initially ,1.0
+western part |western parts ,1.0
+temperature |Temperature ,1.0
+historical population year pop |Historical population Year Pop ,1.0
+spice producing island |spice producing islands ,1.0
+hayam wuruk r |Hayam Wuruk r ,1.0
+dominant power |dominant power ,1.0
+dry savanna environment |dry savanna environment ,1.0
+natural environment |natural environment ,1.0
+cilegon tangerang bekasi karawang gresik |Cilegon Tangerang Bekasi Karawang Gresik ,1.0
+wet season and road use |wet season and road use ,1.0
+wet-field rice cultivation |wet-field rice cultivation ,1.0
+sondaar |Sondaar ,1.0
+java north coast road indonesian |Java North Coast Road Indonesian ,1.0
+small number |small numbers ,1.0
+status structure |status structure ,1.0
+system |system ,1.0
+climate weather and temperature |Climate Weather and Temperature ,1.0
+mystical practice |mystical practices ,1.0
+java man |Java Man ,1.0
+kraton |kraton ,1.0
+patron |patron ,1.0
+territory |territory ,1.0
+casava and maize |casava and maize ,1.0
+b raffles thomas e |b Raffles Thomas E ,1.0
+shaivism |Shaivism ,1.0
+native language |native language ,1.0
+pogrom |pogroms ,1.0
+modern indonesia |Modern Indonesia ,1.0
+st john |St John ,1.0
+globally endangered |Globally Endangered ,1.0
+sophisticated level |sophisticated levels ,1.0
+java programming language |Java programming language ,1.0
+taruma and sunda kingdom |Taruma and Sunda kingdoms ,1.0
+rocky coastal cliff |rocky coastal cliffs ,1.0
+site |site ,1.0
+buffalo |buffalo ,1.0
+javan peafowl |Javan peafowl ,1.0
+sita |Sita ,1.0
+fourth group |fourth group ,1.0
+culture edit |culture edit ,1.0
+java transportation network java |Java transportation network Java ,1.0
+outskirt |outskirts ,1.0
+javanese religion |Javanese Religion ,1.0
+october |October ,1.0
+french proxy rule |French proxy rule ,1.0
+religious affair |Religious Affairs ,1.0
+higher population density |higher population density ,1.0
+synonym |synonym ,1.0
+good |goods ,1.0
+kediri singhasari and majapahit |Kediri Singhasari and Majapahit ,1.0
+high altitude rainforest |high altitude rainforests ,1.0
+surakarta solo |Surakarta Solo ,1.0
+science |Sciences ,1.0
+volcanic origin |volcanic origin ,1.0
+historic poverty |historic poverty ,1.0
+baluran |Baluran ,1.0
+care |care ,1.0
+macmillan |MacMillan ,1.0
+modernist |modernist ,1.0
+district official |district officials ,1.0
+mouth |mouth ,1.0
+javan hawk-eagle |Javan hawk-eagle ,1.0
+possibility |possibility ,1.0
+mount merbabu |Mount Merbabu ,1.0
+cart |carts ,1.0
+tourism |tourism ,1.0
+jalan pantura |Jalan Pantura ,1.0
+jawa- topography |Jawa- Topography ,1.0
+encyclopedia jump |encyclopedia Jump ,1.0
+sala river |Sala rivers ,1.0
+railway |railways ,1.0
+navigation |navigation ,1.0
+javanese heartland |Javanese heartland ,1.0
+large hindu population |large Hindu population ,1.0
+india and china |India and China ,1.0
+religions and culture |religions and cultures ,1.0
+sunda strait |Sunda Strait ,1.0
+global trade |global trade ,1.0
+no significant famine |no significant famines ,1.0
+singapore |Singapore ,1.0
+permanent bridge |permanent bridges ,1.0
+gamelan music |gamelan music ,1.0
+major urban centre |major urban centres ,1.0
+kejawen or javanese heartland |kejawen or Javanese heartland ,1.0
+brahmin cleric |Brahmin clerics ,1.0
+child |children ,1.0
+indigenous tradition and culture |indigenous tradition and culture ,1.0
+great population growth |great population growth ,1.0
+isolated region |isolated regions ,1.0
+reksodiharjo-lilley |Reksodiharjo-Lilley ,1.0
+surrounding sundanese and javanese |surrounding Sundanese and Javanese ,1.0
+birdwatcher |birdwatcher ,1.0
+plague |Plagues ,1.0
+reign |reign ,1.0
+food plant |food plants ,1.0
+village alliance |village alliances ,1.0
+ambonese |Ambonese ,1.0
+catholic |Catholic ,1.0
+eastern coast |eastern coast ,1.0
+core |core ,1.0
+wikimedia common |Wikimedia Commons ,1.0
+indonesian capital city |Indonesian capital city ,1.0
+homo erectus |Homo erectus ,1.0
+taxation burden |taxation burdens ,1.0
+higher birth rate |higher birth rates ,1.0
+bugi |Bugis ,1.0
+majapahit era |Majapahit era ,1.0
+estimated population |estimated population ,1.0
+indian ocean |Indian Ocean ,1.0
+early part |early part ,1.0
+banyumasan culture citation |Banyumasan culture citation ,1.0
+northern coast |northern coast ,1.0
+internal conflict |Internal conflict ,1.0
+bandung central java |Bandung Central Java ,1.0
+pre-islamic javan tradition |Pre-Islamic Javan traditions ,1.0
+bali strait |Bali Strait ,1.0
+religious sect |Religious Sects ,1.0
+betawi people |Betawi people ,1.0
+port |ports ,1.0
+translation |translations ,1.0
+male javan rhino shot |Male Javan rhino shot ,1.0
+pandemic |Pandemics ,1.0
+help ricklef |help Ricklefs ,1.0
+alas purwo |Alas Purwo ,1.0
+paris |Paris ,1.0
+b c population growth good |b c Population growth good ,1.0
+deprecated map |deprecated map ,1.0
+severe pressure |severe pressure ,1.0
+district |districts ,1.0
+associated highland |associated highlands ,1.0
+pre-islamic animistic and hindu-indian concept |pre-Islamic animistic and Hindu-Indian concepts ,1.0
+pantai utara |Pantai Utara ,1.0
+honolulu |Honolulu ,1.0
+ports and shipping lane |ports and shipping lanes ,1.0
+recently arrived settler |recently arrived settlers ,1.0
+british-allied force |British-allied forces ,1.0
+degree |degrees ,1.0
+pasisir region |pasisir region ,1.0
+j wa-wut plant |j wa-wut plant ,1.0
+deprecated coordinate |deprecated coordinates ,1.0
+languages edit language |Languages edit Languages ,1.0
+population spurt |population spurts ,1.0
+coastal mangrove forest |coastal mangrove forests ,1.0
+decline |decline ,1.0
+isolated peninsula |isolated peninsulas ,1.0
+densely populated part |densely populated parts ,1.0
+contrast |contrast ,1.0
+millennium |millennium ,1.0
+etiquette |etiquette ,1.0
+national parks exist |national parks exist ,1.0
+chief |chief ,1.0
+napoleonic war |Napoleonic wars ,1.0
+badan pusat statistik |Badan Pusat Statistik ,1.0
+kejawen sumarah subud |Kejawen Sumarah Subud ,1.0
+coastal java |coastal Java ,1.0
+first dutch contact |first Dutch contact ,1.0
+javan wildlife |Javan wildlife ,1.0
+january and february |January and February ,1.0
+british invasion |British invasion ,1.0
+quinine |quinine ,1.0
+european colonialism |European colonialism ,1.0
+coins and token |Coins And Tokens ,1.0
+ethnic balinese |ethnic Balinese ,1.0
+france republic |France Republic ,1.0
+mahayana buddhism |Mahayana Buddhism ,1.0
+javanese king |Javanese kings ,1.0
+mapping cultural region |Mapping cultural regions ,1.0
+ken dede |Ken Dedes ,1.0
+ethnic composition |ethnic composition ,1.0
+wikidata page |Wikidata Pages ,1.0
+buddhist stupa |Buddhist stupa ,1.0
+couple |couples ,1.0
+indonesia portal history |Indonesia portal History ,1.0
+beginning |beginning ,1.0
+civil war |civil war ,1.0
+buitenzorg |Buitenzorg ,1.0
+addition |addition ,1.0
+pre-islamic and islamic lore |pre-Islamic and Islamic lore ,1.0
+world war ii |World War II ,1.0
+kediri singhasari |Kediri Singhasari ,1.0
+foreign ethnic group |foreign ethnic groups ,1.0
+average humidity |average humidity ,1.0
+sidoarjo |Sidoarjo ,1.0
+art culture and tourism |art culture and tourism ,1.0
+yale university press |Yale University Press ,1.0
+malay creole dialect |Malay creole dialect ,1.0
+monk |Monk ,1.0
+eventually subjugated |eventually subjugated ,1.0
+pramoedya ananta toer |Pramoedya Ananta Toer ,1.0
+encyclop dia britannica |Encyclop dia Britannica ,1.0
+coordinated distribution system |coordinated distribution systems ,1.0
+surrounding sundanese |surrounding Sundanese ,1.0
+story |story ,1.0
+suharto era |Suharto era ,1.0
+highland slope |highland slopes ,1.0
+fragile wildlife |fragile wildlife ,1.0
+javanese folklore |Javanese folklore ,1.0
+mixed result |mixed results ,1.0
+freshwater finfish biodiversity |Freshwater finfish biodiversity ,1.0
+conduit |conduit ,1.0
+population and area |population and area ,1.0
+death |death ,1.0
+cia factbook |CIA factbook ,1.0
+highest volcano |highest volcano ,1.0
+abortive coup |abortive coup ,1.0
+february |February ,1.0
+indonesia bird watching tour |Indonesia bird watching tour ,1.0
+divine authority |divine authority ,1.0
+introduction |introduction ,1.0
+greater jakarta |Greater Jakarta ,1.0
+arab |Arab ,1.0
+dating hominid site |Dating hominid sites ,1.0
+java bali |Java Bali ,1.0
+past result |past results ,1.0
+mountains and highland |mountains and highlands ,1.0
+pre-islamic animistic |pre-Islamic animistic ,1.0
+official indonesian religion |official Indonesian religions ,1.0
+flora and fauna |flora and fauna ,1.0
+language distinct |language distinct ,1.0
+barley |barley ,1.0
+possession |possession ,1.0
+cirebon semarang and surabaya |Cirebon Semarang and Surabaya ,1.0
+colonial administration |colonial administration ,1.0
+dominant language |dominant language ,1.0
+historical legend |historical legends ,1.0
+history and present state |history and present state ,1.0
+indonesia list |Indonesia List ,1.0
+coffea arabica |Coffea arabica ,1.0
+national academy |National Academy ,1.0
+banyumas |Banyumas ,1.0
+dutch colonial rule |Dutch colonial rule ,1.0
+java bali and madura |Java Bali and Madura ,1.0
+telegraph system |telegraph systems ,1.0
+present state |present state ,1.0
+military supply route |military supply route ,1.0
+lineage |lineages ,1.0
+north east coast |north east coast ,1.0
+central jakarta |Central Jakarta ,1.0
+indonesian government |Indonesian government ,1.0
+kejawen javanese culture |kejawen Javanese culture ,1.0
+modern republic |modern Republic ,1.0
+abangan more traditional |abangan more traditional ,1.0
+islamic sultanates edit |Islamic sultanates edit ,1.0
+tea plantation |Tea plantation ,1.0
+monarch |monarchs ,1.0
+department |Department ,1.0
+sunda land |Sunda lands ,1.0
+citypopulation de |Citypopulation de ,1.0
+hinduism |Hinduism ,1.0
+indonesian population |Indonesian population ,1.0
+indonesia urban city population |Indonesia Urban City Population ,1.0
+greater serang |Greater Serang ,1.0
+experience |experiences ,1.0
+martin-schiller |Martin-Schiller ,1.0
+first marriage |first marriage ,1.0
+greater sukabumi |Greater Sukabumi ,1.0
+economic life |economic life ,1.0
+famous contemporary indonesian author |famous contemporary Indonesian author ,1.0
+eastern salient |eastern salient ,1.0
+mystical direction |mystical direction ,1.0
+ancient agricultural kingdom |ancient agricultural kingdoms ,1.0
+cirebon semarang |Cirebon Semarang ,1.0
+cornelis de houtman |Cornelis de Houtman ,1.0
+wikivoyage v t e province |Wikivoyage v t e Provinces ,1.0
+london and honolulu |London and Honolulu ,1.0
+ancient india kapur |Ancient India Kapur ,1.0
+employment |employment ,1.0
+lucas |Lucas ,1.0
+java native |Java Native ,1.0
+subsistence |subsistence ,1.0
+special capital region |Special Capital Region ,1.0
+court |courts ,1.0
+islamic school |Islamic schools ,1.0
+banda |Banda ,1.0
+tropical rainforest |tropical rainforest ,1.0
+different name |different names ,1.0
+realm |realm ,1.0
+islamic lore |Islamic lore ,1.0
+sanskrit yava |Sanskrit yava ,1.0
+melting pot |melting pot ,1.0
+hindu-indian concept |Hindu-Indian concepts ,1.0
+climate and rainfall |climate and rainfall ,1.0
+small kingdom |small kingdoms ,1.0
+traditional javanese attire |traditional Javanese attire ,1.0
+central and eastern java |central and eastern Java ,1.0
+indigenous tradition |indigenous tradition ,1.0
+foothold |foothold ,1.0
+eastern island |eastern islands ,1.0
+development |development ,1.0
+javan leopard |Javan leopard ,1.0
+shaivism and buddhism |Shaivism and Buddhism ,1.0
+tarumanagara mataram and majapahit |Tarumanagara Mataram and Majapahit ,1.0
+influence |influence ,1.0
+proficiency |proficiency ,1.0
+batik sarong and kris |batik sarong and kris ,1.0
+average temperature range |average temperature ranges ,1.0
+java travel guide |Java travel guide ,1.0
+less-populated island |less-populated islands ,1.0
+javan warty pig |Javan warty pig ,1.0
+influential kingdom |influential kingdoms ,1.0
+railway network |railway networks ,1.0
+lion |lion ,1.0
+royal legacy |royal legacy ,1.0
+makassar |Makassar ,1.0
+small-holders and larger plantation |small-holders and larger plantations ,1.0
+wayang puppet show |wayang puppet shows ,1.0
+batik sarong |batik sarong ,1.0
+long-distance communication |long-distance communication ,1.0
+kedu plain |Kedu Plain ,1.0
+route |routes ,1.0
+wikipedia |Wikipedia ,1.0
+climate weather |Climate Weather ,1.0
+intermittently |intermittently ,1.0
+bps go id |Bps go id ,1.0
+jakarta region |Jakarta region ,1.0
+jakarta post |Jakarta Post ,1.0
+remains |remains ,1.0
+south coast |south coast ,1.0
+culture and language distinct |culture and language distinct ,1.0
+middle |middle ,1.0
+prior |prior ,1.0
+eastern survey |Eastern survey ,1.0
+medang kingdom |Medang Kingdom ,1.0
+dutch colonial period |Dutch colonial period ,1.0
+indonesia references edit |Indonesia References edit ,1.0
+indonesian national awakening |Indonesian National Awakening ,1.0
+fundamental factor |fundamental factors ,1.0
+european architecture |European architecture ,1.0
+mountainous region |mountainous regions ,1.0
+chinese ceramic |Chinese ceramics ,1.0
+encyclopedia |Encyclopedia ,1.0
+hindu cosmology |Hindu cosmology ,1.0
+indianization |Indianization ,1.0
+indonesian island |Indonesian island ,1.0
+byrne |Byrne ,1.0
+voc era |VOC era ,1.0
+minang |Minang ,1.0
+gede pangrango |Gede Pangrango ,1.0
+commercial plant |commercial plants ,1.0
+javanese author |Javanese authors ,1.0
+madurese account |Madurese account ,1.0
+resentment |resentment ,1.0
+sugriva |Sugriva ,1.0
+classic art |Classic arts ,1.0
+economy edit |Economy edit ,1.0
+conservation |conservation ,1.0
+cooperation |cooperation ,1.0
+orthodox kyai |orthodox kyais ,1.0
+first place |first place ,1.0
+increased expansion |increased expansion ,1.0
+afternoon |afternoons ,1.0
+javan elephant |Javan elephants ,1.0
+human |humans ,1.0
+dominant religion |dominant religion ,1.0
+kangeanese |Kangeanese ,1.0
+mysticism |mysticism ,1.0
+historical atlas |Historical Atlas ,1.0
+growing population |growing population ,1.0
+local |locals ,1.0
+japanese occupation |Japanese occupation ,1.0
+fauna |fauna ,1.0
+major language |major languages ,1.0
+jakarta indonesia |Jakarta Indonesia ,1.0
+export gov |export gov ,1.0
+dense western |dense Western ,1.0
+banyumasan region |Banyumasan region ,1.0
+bbc news |BBC News ,1.0
+prambanan hindu temple |Prambanan Hindu temple ,1.0
+javan rice terrace |Javan rice terraces ,1.0
+javanese kakawin tantu pagelaran |Javanese kakawin Tantu Pagelaran ,1.0
+mataram sultanate |Mataram Sultanate ,1.0
+mythical origin |mythical origin ,1.0
+proto-austronesian root word |Proto-Austronesian root word ,1.0
+western side |Western side ,1.0
+ethnological factor |Ethnological factors ,1.0
+adherent |adherents ,1.0
+ekspedisi anjer-panaroekan |Ekspedisi Anjer-Panaroekan ,1.0
+ethnicity and culture edit |Ethnicity and culture edit ,1.0
+five million people |five million people ,1.0
+java mouse-deer |Java mouse-deer ,1.0
+turn |turn ,1.0
+nguyen t t t |Nguyen T T T ,1.0
+toll road highway network |toll road highway networks ,1.0
+highland slopes or isolated peninsula |highland slopes or isolated peninsulas ,1.0
+total membership |total membership ,1.0
+content |Contents ,1.0
+proceeding |Proceedings ,1.0
+coming |coming ,1.0
+conflict |conflicts ,1.0
+javan environment and climate |Javan environment and climate ,1.0
+javanese pesantren |Javanese pesantren ,1.0
+european discovery |European Discovery ,1.0
+javan rhinoceros rhinoceros sondaicus |Javan Rhinoceros Rhinoceros sondaicus ,1.0
+b c d e hefner |b c d e Hefner ,1.0
+citarum |Citarum ,1.0
+administrative division edit |Administrative division edit ,1.0
+figure |figure ,1.0
+javan tiger |Javan tigers ,1.0
+constant maintenance |constant maintenance ,1.0
+religious leader |religious leaders ,1.0
+flora |flora ,1.0
+factor |Factors ,1.0
+indonesian social political |Indonesian social political ,1.0
+orphan |orphan ,1.0
+edge evolutionarily distinct |EDGE Evolutionarily Distinct ,1.0
+producer |producer ,1.0
+short-lived daendels administration |short-lived Daendels administration ,1.0
+cultural mingling |cultural mingling ,1.0
+wider effect |wider effect ,1.0
+road use |road use ,1.0
+buffalo and cart |buffalo and carts ,1.0
+rice paddy |rice paddy ,1.0
+rich agricultural land |rich agricultural lands ,1.0
+javan rusa |Javan rusa ,1.0
+white |white ,1.0
+previous javanese kingdom |Previous Javanese kingdoms ,1.0
+maluku spice |Maluku spice ,1.0
+mass emigration |mass emigration ,1.0
+first major principality |first major principality ,1.0
+major river |major rivers ,1.0
+indonesian coffee |Indonesian coffee ,1.0
+kamlesh hatley |Kamlesh Hatley ,1.0
+kris |kris ,1.0
+sharp division |sharp divisions ,1.0
+external links edit |External links edit ,1.0
+higher rainfall |higher rainfall ,1.0
+indonesian-language text article |Indonesian-language text Articles ,1.0
+yogyakarta and surakarta |Yogyakarta and Surakarta ,1.0
+vast majority |vast majority ,1.0
+casava |casava ,1.0
+local dialect |local dialect ,1.0
+recent advance |Recent advances ,1.0
+ramayana and mahabharata |Ramayana and Mahabharata ,1.0
+statistics indonesia |Statistics Indonesia ,1.0
+sugarcane rubber coffee tea |sugarcane rubber coffee tea ,1.0
+volcanic eruption |volcanic eruptions ,1.0
+nusa tenggara and maluku |Nusa Tenggara and Maluku ,1.0
+subsequent violent anti-communist purge |subsequent violent anti-communist purge ,1.0
+needed |needed ,1.0
+cholera |Cholera ,1.0
+china and india |China and India ,1.0
+school |school ,1.0
+service |services ,1.0
+demography edit |Demography edit ,1.0
+muslim scholar |Muslim scholar ,1.0
+bantenese |Bantenese ,1.0
+regent |regents ,1.0
+literary work |literary works ,1.0
+malay dialect |Malay dialect ,1.0
+volcanic nature |volcanic nature ,1.0
+sundanese culture |Sundanese culture ,1.0
+broad continuum |broad continuum ,1.0
+cirebonese |Cirebonese ,1.0
+quaritch |Quaritch ,1.0
+jakarta yogyakarta history edit |Jakarta Yogyakarta History edit ,1.0
+blitar |Blitar ,1.0
+classical javanese culture |classical Javanese culture ,1.0
+javan banteng |Javan banteng ,1.0
+transmigration program |transmigration programs ,1.0
+indian influence |Indian influences ,1.0
+annual review |Annual Review ,1.0
+javanese comprise |Javanese comprise ,1.0
+maize |maize ,1.0
+blambangan |Blambangan ,1.0
+javan rhinoceros |Javan rhinoceros ,1.0
+rice yield |rice yields ,1.0
+king |king ,1.0
+low-lying tropical forest |low-lying tropical forests ,1.0
+north-central coast |north-central coast ,1.0
+diverse mixture |diverse mixture ,1.0
+growing human population |growing human population ,1.0
+christmas island |Christmas Island ,1.0
+length |length ,1.0
+serang west java |Serang West Java ,1.0
+baduy betawi madurese java indonesian |Baduy Betawi Madurese Java Indonesian ,1.0
+java spread |Java Spread ,1.0
+haven |Haven ,1.0
+indian archipelago |Indian Archipelago ,1.0
+ethnic chinese |Ethnic Chinese ,1.0
+natural environment edit |Natural environment edit ,1.0
+wildlifenews co uk |wildlifenews co uk ,1.0
+industrial |Industrial ,1.0
+jakarta and bandung |Jakarta and Bandung ,1.0
+cultivation system |Cultivation System ,1.0
+ascendant |ascendant ,1.0
+powerful hindu-buddhist empire |powerful Hindu-Buddhist empires ,1.0
+ames |Ames ,1.0
+impact |impact ,1.0
+global popularity |global popularity ,1.0
+developed island |developed island ,1.0
+woman |woman ,1.0
+religion edit mosque |Religion edit Mosque ,1.0
+traditional religious pattern |traditional religious pattern ,1.0
+rural area |rural areas ,1.0
+larger island |larger islands ,1.0
+densely populated place |densely populated places ,1.0
+javan silvery gibbon |Javan silvery gibbon ,1.0
+java indonesia |Java Indonesia ,1.0
+eastern paleoanthropology |eastern paleoanthropology ,1.0
+population density |Population Density ,1.0
+first or second language |first or second language ,1.0
+wet and humid dense rainforest |wet and humid dense rainforest ,1.0
+toll gate |toll gates ,1.0
+program |program ,1.0
+frete |Fretes ,1.0
+colonial periods edit |Colonial periods edit ,1.0
+southern coast |southern coast ,1.0
+meru betiri |Meru Betiri ,1.0
+broad range |broad range ,1.0
+management |Management ,1.0
+indonesia and music |Indonesia and Music ,1.0
+asian perspective |asian perspective ,1.0
+harbour |harbour ,1.0
+interior region |interior regions ,1.0
+effective alliance |effective alliances ,1.0
+portuguese presence |Portuguese presence ,1.0
+mountainous volcanic region |mountainous volcanic regions ,1.0
+monument |monuments ,1.0
+rice surplus |rice surpluses ,1.0
+vos |Vos ,1.0
+art culture |art culture ,1.0
+descendant |descendants ,1.0
+origin |origins ,1.0
+indonesian struggle |Indonesian struggle ,1.0
+colonial time |colonial times ,1.0
+modern scientific concept |modern scientific concepts ,1.0
+southeast asian region |Southeast Asian region ,1.0
+supernatural |supernatural ,1.0

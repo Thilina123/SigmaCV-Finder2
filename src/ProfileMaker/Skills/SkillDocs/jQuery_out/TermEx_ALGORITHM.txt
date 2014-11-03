@@ -1,0 +1,422 @@
+jquery |JQuery |jQuery |jquery ,1.9569147844753914
+asynchronous processing json parsing extensibility |asynchronous processing JSON parsing Extensibility ,1.6700087513085453
+wakandadb kona cloud libraries list |WakandaDB KONA Cloud Libraries list ,1.61109124096095
+web run-time widget development platform |Web Run-Time widget development platform ,1.61109124096095
+microsoft ajax content delivery network |Microsoft Ajax Content Delivery Network ,1.6098241977276682
+cross-browser support browser support edit |cross-browser support Browser support edit ,1.590818549228444
+deprecated interfaces and code cleanup |deprecated interfaces and code cleanup ,1.5850527906949714
+basic dom selecting and manipulation |basic DOM selecting and manipulation ,1.5840873820516352
+ui jquery mobile references edit |UI jQuery Mobile References edit ,1.5804139971303284
+jquery promotes brevity and clarity |jQuery promotes brevity and clarity ,1.578182361307338
+microsoft and nokia bundle jquery |Microsoft and Nokia bundle jQuery ,1.577886870868147
+api jquery com jquery noconflict |api jquery com jquery noconflict ,1.5767639520189336
+javascript |Javascript |JavaScript ,1.5480182887445972
+addclass blue slidedown slow |addClass blue slideDown slow ,1.3989262616561404
+function |functions |function ,1.391130570224252
+element |element |elements ,1.3826897632407191
+motif open look cross-platform |Motif OPEN LOOK Cross-platform ,1.3596479214244104
+no url commons category |no URL Commons category ,1.3465551413471668
+dom |DOM ,1.3280221141518131
+closure dojo toolkit ember |Closure Dojo Toolkit Ember ,1.3143267596185677
+feature detection compatibility method |feature detection Compatibility methods ,1.3091471982693286
+version number release date |Version number Release date ,1.2941840210381932
+powerful dynamic web page |powerful dynamic web pages ,1.276726980935202
+asp net mvc framework |ASP NET MVC Framework ,1.2703789663522962
+code |code ,1.2629033335948994
+script type text javascript |script type text javascript ,1.2602968255441513
+event callback function definition |event callback function definition ,1.2589525401030655
+javascript ajax programming software |JavaScript Ajax programming Software ,1.2575242368219117
+utility functions or function |utility functions or functions ,1.2556758443404186
+javascript libraries usage statistic |JavaScript libraries usage statistics ,1.2550900861596637
+global properties and behaviour |global properties and behaviour ,1.254216587118187
+vag and text volkswagen |VAG and text Volkswagen ,1.2538985438774441
+low-level interaction and animation |low-level interaction and animation ,1.2535964027987387
+ajax and associated method |ajax and associated methods ,1.2518414131288103
+initialization code and event |initialization code and event ,1.2507908070679008
+search jquery original author |search jQuery Original author ,1.2500820249885312
+access to and manipulation |access to and manipulation ,1.2498017156916055
+html tags and javascript |HTML tags and Javascript ,1.2496685687755655
+similartech jquery usage statistic |SimilarTech jQuery Usage Statistics ,1.2496036458991495
+jquery team initial release |jQuery Team Initial release ,1.2494769671158987
+github com jquery plugin |github com jquery plugins ,1.2489007215229153
+no-conflict mode edit jquery |No-Conflict Mode edit jQuery ,1.2486937778501066
+event |events |event ,1.2245772301850029
+plugin |Plugins |plugins |plugin ,1.1824056809211312
+example |example ,1.1507439999187574
+git hub-hosted repository |Git Hub-hosted repository ,1.135450051292169
+developer |developers |Developer ,1.115867015973182
+john resig |John Resig ,1.0927369797297963
+tree structure representation |tree structure representation ,1.0885654317720055
+backbone swfobject swfaddres |Backbone SWFObject SWFAddress ,1.0885654317720055
+script |script ,1.0770563562943147
+resig |Resig ,1.0770563562943147
+html |HTML |html ,1.0770563562943147
+microsoft |Microsoft ,1.0770563562943147
+browser |browser |browsers ,1.058295096178288
+john resig speaker |John Resig speaker ,1.0505122930905646
+user agent information |user agent information ,1.0296479214244103
+json stringify xmlhttprequest |JSON stringify xmlHttpRequest ,1.0296479214244103
+high-level theme-able widget |high-level theme-able widgets ,1.0296479214244103
+content delivery network |content delivery networks ,1.012814347039383
+ample sdk atom |Ample SDK Atoms ,1.012814347039383
+document ready function |document ready function ,1.0007085360042771
+animation |animations |animation ,0.9832734632893984
+team |team |Team ,0.9832734632893984
+pages download md |pages download md ,0.982513913146334
+learning center |Learning Center ,0.981982017793575
+performance improvement |performance improvements ,0.981982017793575
+css selector string |CSS selector string ,0.9760865483811417
+first stable release |First stable release ,0.9760865483811417
+open source software |open source software ,0.9760865483811417
+class attribute quote |class attribute quote ,0.9661982948962305
+jquery cd n |jQuery CD N ,0.9650101106437682
+current stable version |current stable version ,0.9623136238843012
+xml http request |XML Http Request ,0.9589469090072957
+property e g |property e g ,0.956001033489916
+public code repository |public code repository ,0.9510912409609498
+div test add |div test add ,0.9510912409609498
+attributes e g |attributes e g ,0.9490239598961219
+ajax module rewrite |ajax module rewrite ,0.9490239598961219
+basic dom selecting |basic DOM selecting ,0.9471634069377767
+class attribute test |class attribute test ,0.9471634069377767
+img image element |img image element ,0.9412716559030172
+test automation framework |test automation framework ,0.9412716559030172
+further reading edit |Further reading edit ,0.9400933056960653
+animations ajax deferred |animations AJAX Deferred ,0.9400933056960653
+dom data structure |DOM data structures ,0.9400933056960653
+typical start-point edit |Typical start-point edit ,0.9390055978127251
+external links edit |External links edit ,0.9390055978127251
+multiple dom node |multiple DOM nodes ,0.9390055978127251
+john resig developer |John Resig Developer ,0.9379984608837063
+asynchronous edit note |Asynchronous edit Note ,0.9361925601833969
+browser support size |Browser support Size ,0.9353799048682576
+event handling callback |event handling callbacks ,0.9346196789282887
+edit free software |edit Free software ,0.9346196789282887
+event e g |event e g ,0.9339069671095678
+html select element |HTML select element ,0.9339069671095678
+release history edit |Release history edit ,0.9332374499465269
+shorthand function name |shorthand function names ,0.9332374499465269
+usage styles edit |Usage styles edit ,0.9320131899912522
+google libraries api |Google Libraries API ,0.9314520708450846
+dom events effect |DOM Events Effects ,0.9299413654515565
+single javascript file |single JavaScript file ,0.9290570500992474
+select dom element |select DOM elements ,0.9290570500992474
+script callback function |script Callback functions ,0.9286464751142467
+dom manipulation library |DOM manipulation library ,0.9275242368219115
+generic javascript code |generic JavaScript code ,0.9254092492709722
+server-side javascript code |server-side JavaScript code ,0.925152714392826
+utility functions edit |Utility Functions edit ,0.924905680806463
+nokia |Nokia ,0.9248104504618309
+yui |YUI ,0.9248104504618309
+manipulation |manipulation ,0.9248104504618309
+class |class ,0.9248104504618309
+javascript net developer |JavaScript Net developers ,0.9244380815179899
+dom elements edit |DOM elements edit ,0.9240027304563082
+popular javascript library |popular JavaScript library ,0.9234032306336645
+cross-platform javascript library |cross-platform JavaScript library ,0.923216289828754
+attr and val |attr and val ,0.9213670915963971
+brevity and clarity |Brevity and Clarity ,0.9212397023848348
+id and class |id and class ,0.920877133090388
+code and plugin |code and plugins ,0.9191775895226689
+jquery promotes brevity |jQuery promotes brevity ,0.9181254911236048
+jquery learning center |jQuery Learning Center ,0.918069627491796
+nokia bundle jquery |Nokia bundle jQuery ,0.9179608148524468
+jquery command return |jQuery command returns ,0.9179078155927638
+jquery codebase release |jQuery codebase release ,0.9178557223033318
+script src jquery |script src jquery ,0.9177541622768762
+returned jquery object |returned jQuery object ,0.9177046517639791
+jquery object hierarchy |jQuery object hierarchy ,0.9177046517639791
+typical jquery usage |typical jQuery usage ,0.917655959606667
+jquery project website |jQuery Project website ,0.917655959606667
+jquery plugins search |jQuery Plugins Search ,0.9175609505192288
+following jquery code |following jQuery code ,0.9174240921908953
+history edit jquery |History edit jQuery ,0.9170500127601169
+features edit jquery |Features edit jQuery ,0.9170115045834191
+browser support jquery |Browser Support jQuery ,0.9169735585698848
+jquery plug-ins edit |jQuery plug-ins edit ,0.9168993045002349
+jquery eases javascript |jQuery Eases JavaScript ,0.9166224934106558
+jquery and microsoft |jQuery and Microsoft ,0.915573592879066
+event handling |event handling ,0.8892915187393076
+plug-in |plug-ins ,0.8762127524053891
+version |versions |version ,0.8762127524053891
+mouse click |mouse click ,0.8574726250778559
+sizzle |Sizzle ,0.854645826848687
+dojo |Dojo ,0.854645826848687
+ready |ready ,0.854645826848687
+document |document ,0.854645826848687
+alert |alert ,0.854645826848687
+user |users |user ,0.854645826848687
+callback |callbacks |callback ,0.823277413872241
+method |methods ,0.823277413872241
+yui theater |YUI Theater ,0.8218985128733647
+mit license |MIT license |MIT License ,0.8218985128733647
+page |Pages |page ,0.8178711006196968
+main web-browser |main web-browsers ,0.8174829421196009
+queryselector queryselectorall |querySelector querySelectorAll ,0.8174829421196009
+in-house unit |in-house unit ,0.8174829421196009
+dave methvin |Dave Methvin ,0.8174829421196009
+specific error |specific error ,0.8174829421196009
+nerror thrown |nError Thrown ,0.8174829421196009
+jquerytesting pbwork |jquerytesting pbworks ,0.8174829421196009
+fusing algorithm |fusing algorithms ,0.8174829421196009
+xslt tool |XSLT tools ,0.8174829421196009
+barcamp nyc |BarCamp NYC ,0.8174829421196009
+dean edward |Dean Edwards ,0.8174829421196009
+encyclopedia jump |encyclopedia Jump ,0.8174829421196009
+fast adption |fast adption ,0.8174829421196009
+replace mt |replace mt ,0.8174829421196009
+dom element |DOM elements ,0.8102603983668701
+library |library ,0.7943081167627473
+set |set ,0.7671894291170411
+following |following ,0.7671894291170411
+img |img ,0.7671894291170411
+site |site ,0.7671894291170411
+xml |XML ,0.7671894291170411
+core |core ,0.7671894291170411
+cdn |CDN ,0.7671894291170411
+usage |Usage ,0.7627369797297961
+jquery object |jQuery objects |jQuery object ,0.7604445521067986
+node |nodes ,0.7507538163082483
+javascript library |JavaScript library ,0.7471452675138819
+software |software ,0.745204048803168
+en wikipedia |en wikipedia ,0.7389262616561405
+low-level interaction |low-level interaction ,0.7389262616561405
+language cli |language CLI ,0.7389262616561405
+modular approach |modular approach ,0.7389262616561405
+console log |console log ,0.7389262616561405
+specialized approach |specialized approaches ,0.7389262616561405
+submission requirement |submission requirements ,0.7389262616561405
+consistent interface |consistent interface ,0.7389262616561405
+fade out |fade outs ,0.7389262616561405
+mac os |Mac OS ,0.7389262616561405
+prod dev |prod dev ,0.7389262616561405
+deprecated interface |deprecated interfaces ,0.7389262616561405
+client-side scripting |client-side scripting ,0.7389262616561405
+div test |div test ,0.7233855867686199
+status text |status Text ,0.7229655368055355
+jquery project |jQuery Project |jQuery project ,0.7201063695773651
+use |use ,0.7186296830178758
+chaplin j |Chaplin js ,0.701835884183207
+selector engine |selector engine ,0.701835884183207
+empty url |empty url ,0.6996479214244102
+cloudfront cdn |CloudFront CDN ,0.6996479214244102
+finding selecting |finding selecting ,0.6996479214244102
+local copy |local copy ,0.6996479214244102
+nstatus text |nStatus Text ,0.6996479214244102
+important source |important source ,0.6996479214244102
+single step |single step ,0.6996479214244102
+id carmake |ID carmakes ,0.6996479214244102
+example php |example php ,0.6963428227398665
+different browser |different browsers ,0.6831594752758491
+element selection |element selections ,0.6763680538549917
+form submission |form submission ,0.6760809172853721
+modal window |modal windows ,0.6760809172853721
+inside ready |inside ready ,0.6760809172853721
+matched set |matched set ,0.6760809172853721
+css development |CSS Development ,0.6760809172853721
+local link |local link ,0.6760809172853721
+text volkswagen |text Volkswagen ,0.6760809172853721
+deferred nature |deferred nature ,0.6760809172853721
+jquery plug-in |jQuery plug-ins ,0.6745358444331331
+dom node |DOM nodes ,0.6707085360042772
+libraries part |Libraries Part ,0.6682183481499628
+client-side list |Client-side list ,0.66036958119268
+nokia wrt |Nokia WRT ,0.66036958119268
+single location |single location ,0.66036958119268
+forum nokia |Forum Nokia ,0.66036958119268
+guarana ui |Guarana UI ,0.66036958119268
+utility function |utility functions ,0.6537299824521337
+video |Video ,0.6519820177935749
+errorthrown |errorThrown ,0.6519820177935749
+apis |APIs ,0.6519820177935749
+subdomain |subdomain ,0.6519820177935749
+architecture |architecture ,0.6519820177935749
+qunit |QUnit ,0.6519820177935749
+vag |VAG ,0.6519820177935749
+help |help ,0.6519820177935749
+attr |attr ,0.6519820177935749
+creation |creation ,0.6519820177935749
+volkswagen |Volkswagen ,0.6519820177935749
+console |console ,0.6519820177935749
+mediawiki |MediaWiki ,0.6519820177935749
+standard |standard ,0.6519820177935749
+option |option ,0.6519820177935749
+string |string ,0.6519820177935749
+control |control ,0.6519820177935749
+msg |msg ,0.6519820177935749
+clarity |Clarity |clarity ,0.6519820177935749
+line |line ,0.6519820177935749
+addclas |addClass ,0.6519820177935749
+status |status ,0.6519820177935749
+jquery foundation |jQuery Foundation ,0.6510997079138193
+blog jquery |blog jquery ,0.6504410028291878
+functionality |functionality ,0.6493544084218504
+request |request ,0.6493544084218504
+comparison |comparison ,0.6493544084218504
+license |License ,0.6493544084218504
+return |returns ,0.6493544084218504
+called command |called commands ,0.6491471982693285
+team wiki |Team Wiki ,0.6491471982693285
+cookie handling |cookie handling ,0.6491471982693285
+asynchronous process |asynchronous process ,0.6491471982693285
+programming style |programming style ,0.6491471982693285
+public server |public servers ,0.6491471982693285
+p tag |p tags ,0.6491471982693285
+wikimedia common |Wikimedia Commons ,0.6491471982693285
+factory method |factory method ,0.6491471982693285
+data saved |Data Saved ,0.6491471982693285
+associated method |associated methods ,0.6491471982693285
+no-conflict mode |no-conflict mode ,0.6491471982693285
+dynamic list |dynamic lists ,0.6491471982693285
+asynchronous nature |asynchronous nature ,0.6407304110768149
+referenced node |referenced nodes ,0.6407304110768149
+google chrome |Google Chrome ,0.6407304110768149
+div tag |div tags ,0.6407304110768149
+javascript framework |JavaScript frameworks ,0.637750167344234
+css selector |CSS selectors ,0.6341840210381932
+microsoft corporation |Microsoft Corporation ,0.6341840210381932
+separate project |separate project ,0.6341840210381932
+following feature |following features ,0.6341840210381932
+b history |b History ,0.6341840210381932
+widget toolkit |widget toolkits ,0.6341840210381932
+node set |node set ,0.6289469090072958
+opera version |Opera Version ,0.6289469090072958
+jquery blog |jQuery Blog ,0.62144612410371
+jquery team |jQuery team ,0.62144612410371
+wide use |wide use ,0.6210912409609498
+example post |example posts ,0.6210912409609498
+html tag |HTML tags ,0.6210912409609498
+code jquery |code jquery ,0.6206010974723415
+jquery code |jQuery code ,0.6206010974723415
+project |Project ,0.6201277310368609
+jquery library |jQuery library ,0.6197728753478466
+plugins subdomain |plugins subdomain ,0.6180698301738936
+usage style |usage styles ,0.615480049499274
+html attribute |HTML attributes ,0.615480049499274
+class test |class test ,0.615480049499274
+initialization code |initialization code ,0.6132355729146037
+code cleanup |code cleanup ,0.6132355729146037
+html page |HTML page ,0.6112716559030172
+web service |web services ,0.6112716559030172
+web citation |web citations ,0.6112716559030172
+asp net |ASP net ,0.6095387879516173
+ajax helper |Ajax helpers ,0.6079984608837063
+modern browser |modern browsers ,0.6066202735071544
+ajax type |ajax type ,0.6066202735071544
+event handler |event handler ,0.6053799048682577
+event assignment |event assignment ,0.6053799048682577
+web application |web applications ,0.6053799048682577
+ajax development |AJAX Development ,0.6053799048682577
+hiding element |hiding elements ,0.6042576665759225
+code google |code google ,0.6042576665759225
+matching element |matching elements ,0.6042576665759225
+load event |load event ,0.6042576665759225
+ajax application |Ajax applications ,0.6042576665759225
+option element |option element ,0.603237449946527
+matched element |matched element ,0.603237449946527
+plug-in code |plug-in code ,0.602305947806644
+img element |img element ,0.602305947806644
+chaining edit |Chaining edit ,0.602305947806644
+click event |click event ,0.602305947806644
+common dom |common DOM ,0.602305947806644
+web page |web page ,0.602305947806644
+div element |div elements ,0.6014520708450847
+ui library |UI Library ,0.5986464751142467
+anonymous function |anonymous functions ,0.5980660070320045
+-prefixed function |-prefixed functions ,0.5980660070320045
+success function |success function ,0.5980660070320045
+chain-able function |chain-able functions ,0.5980660070320045
+function msg |function msg ,0.5975242368219116
+usage edit |Usage edit ,0.5975242368219116
+ajax framework |Ajax frameworks ,0.5975242368219116
+function xmlhttprequest |function xmlHttpRequest ,0.5975242368219116
+ajax edit |AJAX edit ,0.5945518218854564
+separates javascript |Separates Javascript ,0.594216587118187
+fade in |fade ins ,0.5938985438774442
+library edit |library edit ,0.5925251753378732
+javascript platform |JavaScript Platform ,0.5925251753378732
+ajax function |Ajax functions ,0.5925251753378732
+javascript engine |Javascript engines ,0.5922871247910143
+javascript code |Javascript code ,0.5910548631366854
+javascript function |Javascript functions ,0.5890642866181544
+website jquery |Website jquery ,0.5859474628588753
+jquery version |jQuery version ,0.5858073082104125
+jquery support |jQuery support ,0.5857737417609906
+jquery plugin |jQuery plugins ,0.5857407347523925
+framework |framework ,0.5331830236162702
+feature |features ,0.5315193877266597
+url |url ,0.5274726250778559
+effect |effects ,0.5274726250778559
+fail |fail ,0.5274726250778559
+command |commands ,0.5274726250778559
+visibility |visibility ,0.48748294211960097
+datagrid |datagrids ,0.48748294211960097
+missing |Missing ,0.48748294211960097
+extensible |Extensible ,0.48748294211960097
+array |arrays ,0.48748294211960097
+kanakiya |Kanakiya ,0.48748294211960097
+isbn |ISBN ,0.48748294211960097
+paradigm |paradigm ,0.48748294211960097
+height |height ,0.48748294211960097
+traversal |traversal ,0.48748294211960097
+jay |Jay ,0.48748294211960097
+spam |spam ,0.48748294211960097
+val |val ,0.48748294211960097
+analysis |Analysis ,0.48748294211960097
+thousand |thousands ,0.48748294211960097
+advantage |advantages ,0.48748294211960097
+color |color ,0.48748294211960097
+youtube |YouTube ,0.48748294211960097
+firefox |Firefox ,0.48748294211960097
+recommendation |Recommendation ,0.48748294211960097
+abstraction |abstractions ,0.48748294211960097
+qunitj |qunitjs ,0.48748294211960097
+replacement |replacement ,0.48748294211960097
+web-page |web-page ,0.48748294211960097
+flexibility |flexibility ,0.48748294211960097
+argument |argument ,0.48748294211960097
+spin-off |spin-off ,0.48748294211960097
+iterating |iterating ,0.48748294211960097
+older |older ,0.48748294211960097
+back |backs ,0.48748294211960097
+guthrie |Guthrie ,0.48748294211960097
+scottgu |ScottGu ,0.48748294211960097
+krill |Krill ,0.48748294211960097
+removal |Removal ,0.48748294211960097
+effort |effort ,0.48748294211960097
+difference |differences ,0.48748294211960097
+failure |failure ,0.48748294211960097
+navigation |navigation ,0.48748294211960097
+identifier |identifier ,0.48748294211960097
+inarray |inArray ,0.48748294211960097
+top |top ,0.48748294211960097
+infoworld |InfoWorld ,0.48748294211960097
+promise |Promise ,0.48748294211960097
+unix |Unix ,0.48748294211960097
+eweek |eWeek ,0.48748294211960097
+cover |cover ,0.48748294211960097
+wikidata |Wikidata ,0.48748294211960097
+jquer |jquer ,0.48748294211960097
+union |union ,0.48748294211960097
+prop |props ,0.48748294211960097
+access |access ,0.48748294211960097
+safari |Safari ,0.48748294211960097
+reduction |reduction ,0.48748294211960097
+javascript-native |Javascript-native ,0.48748294211960097
+behaviour |behaviour ,0.48748294211960097
+york |York ,0.48748294211960097
+wiley |Wiley ,0.48748294211960097
+taft |Taft ,0.48748294211960097
+mode |mode ,0.46521792871999623
+ajax |ajax ,0.4442391591779913
+style |style ,0.4278651109052805
+server |server ,0.4278651109052805
+website |websites ,0.4278651109052805
+multi-browser |Multi-browser ,0.3696479214244103
+wikipedia |Wikipedia ,0.3696479214244103
+maxcdn |maxcdn ,0.3696479214244103
+noconflict |noConflict ,0.3696479214244103
+brevity |Brevity ,0.3696479214244103
+post |POST ,0.3696479214244103
+content |Contents ,0.33036958119268006
+platform |platforms ,0.2854800494992741

@@ -1,0 +1,493 @@
+net framework |NET framework |NET Framework |Net Framework ,57.26582904218979
+visual studio |Visual Studio ,18.731813238099466
+net |NET |net ,16.215354569047214
+common language infrastructure cli |Common Language Infrastructure CLI ,14.249367368115049
+common language infrastructure |Common Language Infrastructure ,12.242011616246348
+window |Windows ,10.312764281245126
+visual studio net |Visual Studio NET ,9.793609292997077
+ado net |ADO NET ,7.4927252952397865
+asp net |ASP NET ,7.4927252952397865
+windows presentation foundation |Windows Presentation Foundation ,6.529072861998052
+source code |source code ,6.422335967348388
+garbage collection |Garbage Collection |garbage collection ,6.422335967348388
+microsoft |Microsoft ,6.382455227392817
+common language runtime clr |Common Language Runtime CLR ,6.1068717291921635
+framework class library fcl |Framework Class Library FCL ,6.1068717291921635
+windows form |Windows Forms ,5.35194663945699
+object |Objects |object |objects ,5.087630378747596
+microsoft net framework |Microsoft NET Framework ,4.896804646498539
+net compact framework |NET Compact Framework ,4.896804646498539
+net framework developer |NET Framework Developer ,4.896804646498539
+net micro framework |NET Micro Framework ,4.896804646498539
+alternative implementation |alternative implementations |Alternative implementations ,4.281557311565592
+microsoft window |Microsoft Windows ,4.281557311565592
+windows communication foundation wcf |Windows Communication Foundation WCF ,4.071247819461442
+language integrated query linq |Language Integrated Query LINQ ,4.071247819461442
+base class library bcl |Base Class Library BCL ,4.071247819461442
+windows workflow foundation wf |Windows Workflow Foundation WF ,4.071247819461442
+net framework class library |NET Framework class library |NET Framework Class Library ,4.071247819461442
+class library |class library ,3.344966649660619
+writing graphic rendering |writing graphic rendering ,3.264536430999026
+common intermediate language |Common Intermediate Language ,3.264536430999026
+framework developer center |Framework Developer Center ,3.264536430999026
+common type system |Common Type System ,3.264536430999026
+dotfuscator community edition |Dotfuscator Community Edition ,3.264536430999026
+cli and c |CLI and C ,3.264536430999026
+c language specification |C Language Specification ,3.264536430999026
+xml document manipulation |XML document manipulation ,3.264536430999026
+automatic memory management |Automatic Memory Management ,3.264536430999026
+entire class library |entire class library ,3.264536430999026
+public key token |public key token ,3.264536430999026
+ecma and iso |ECMA and ISO ,3.264536430999026
+gc run |GC runs ,3.211167983674194
+private key |private key ,3.211167983674194
+main article |Main article ,3.211167983674194
+garbage collector |garbage collector ,3.211167983674194
+windows xp |Windows XP ,3.211167983674194
+visual basic |Visual Basic ,3.211167983674194
+expression blend |Expression Blend ,3.211167983674194
+exception handling |exception handling ,3.211167983674194
+operating system |operating systems ,3.211167983674194
+cli |CLI ,3.02507752249857
+system |system |System ,2.5610031298425397
+c and vb net compiler |C and VB NET compilers ,2.3504972470841334
+microsoft net framework sdk version |Microsoft NET Framework SDK version ,2.3504972470841334
+replaces development tool windows window |Replaces Development tool Windows Windows ,2.3504972470841334
+local variables or method parameter |local variables or method parameters ,2.3504972470841334
+shared source microsoft reference license |shared source Microsoft Reference License ,2.3504972470841334
+net micro framework dev mobile |NET Micro Framework dev mobile ,2.3504972470841334
+net framework framework class library |NET Framework Framework Class Library ,2.3504972470841334
+common language infrastructure cli specification |Common Language Infrastructure CLI specification ,2.3504972470841334
+assembly cli common intermediate language |Assembly CLI Common Intermediate Language ,2.3504972470841334
+b c d e f |b c d e f ,2.3504972470841334
+windows winhelp winsat write retrieved |Windows WinHelp WinSAT Write Retrieved ,2.3504972470841334
+net framework version history microsoft |NET Framework version history Microsoft ,2.3504972470841334
+non-deterministic compacting mark-and-sweep garbage collector |non-deterministic compacting mark-and-sweep garbage collector ,2.3504972470841334
+view talk edit design edit |view talk edit Design edit ,2.3504972470841334
+mobile or embedded device use |mobile or embedded device use ,2.3504972470841334
+net framework pronounced dot net |NET Framework pronounced dot net ,2.3504972470841334
+security |Security |security ,2.3375599037488954
+ecma |ECMA ,2.3100591989989083
+fcl |FCL ,2.2688081418739277
+implementation |implementation |implementations ,2.2688081418739277
+clr |CLR ,2.245890887915605
+full framework |full framework ,2.140778655782796
+version number |version number ,2.140778655782796
+control panel |Control Panel ,2.140778655782796
+visual c |Visual C ,2.140778655782796
+portable net |Portable NET ,2.140778655782796
+common function |common functions ,2.140778655782796
+international organization |International Organization ,2.140778655782796
+strong naming |Strong naming |strong naming ,2.140778655782796
+ecma-international org |ecma-international org ,2.140778655782796
+unsourced statement |unsourced statements ,2.140778655782796
+file reading |file reading ,2.140778655782796
+windows platform |Windows platform ,2.140778655782796
+vb net |VB NET ,2.140778655782796
+patent right |patent rights ,2.140778655782796
+programming language |programming languages |Programming languages ,2.140778655782796
+database interaction |database interaction ,2.140778655782796
+simd extension |SIMD Extensions ,2.140778655782796
+version |versions |version ,2.047274686943477
+application |application |applications ,2.0453649157802833
+design features and tool |design features and tools ,2.035623909730721
+datatypes and programming construct |datatypes and programming constructs ,2.035623909730721
+language independence net framework |Language independence NET Framework ,2.035623909730721
+application development and execution |application development and execution ,2.035623909730721
+portable executable pe format |Portable Executable PE format ,2.035623909730721
+partition iv xml file |Partition IV XML File ,2.035623909730721
+standardization and licensing edit |Standardization and licensing edit ,2.035623909730721
+simplified deployment net framework |Simplified deployment NET Framework ,2.035623909730721
+open source mit license |open source MIT License ,2.035623909730721
+net framework delivery channel |NET Framework delivery channel ,2.035623909730721
+silverlight and alternative implementation |Silverlight and Alternative implementations ,2.035623909730721
+managed heap managed object |managed heap managed objects ,2.035623909730721
+net garbage collector gc |NET Garbage Collector GC ,2.035623909730721
+microsoft silverlight and mono |Microsoft Silverlight and Mono ,2.035623909730721
+software framework license proprietary |Software framework License Proprietary ,2.035623909730721
+website microsoft com net |Website microsoft com net ,2.035623909730721
+b c garbage collection |b c Garbage collection ,2.035623909730721
+reasonable and non-discriminatory term |reasonable and non-discriminatory terms ,2.035623909730721
+newer and older program |newer and older programs ,2.035623909730721
+closed-source microsoft reference license |closed-source Microsoft Reference License ,2.035623909730721
+reverse engineering risk assessment |Reverse Engineering Risk Assessment ,2.035623909730721
+generation windows services ngw |Generation Windows Services NGWS ,2.035623909730721
+net development foundation wikiversity |NET Development Foundation Wikiversity ,2.035623909730721
+windows-specific functionality and behavior |Windows-specific functionality and behavior ,2.035623909730721
+expression blend and design |Expression Blend and Design ,2.035623909730721
+visual basic net java |Visual Basic NET Java ,2.035623909730721
+streaming simd extensions sse |Streaming SIMD Extensions SSE ,2.035623909730721
+code access security ca |Code Access Security CAS ,2.035623909730721
+windows presentation foundation part |Windows Presentation Foundation part ,2.035623909730721
+dll and exe file |DLL and EXE files ,2.035623909730721
+iso |ISO ,1.7325443992491811
+code |code ,1.6729595389575427
+higher generation object |Higher generation objects ,1.632268215499513
+lower generation object |lower generation objects ,1.632268215499513
+net decompiler program |NET decompiler programs ,1.632268215499513
+intranet or internet |intranet or Internet ,1.632268215499513
+p invoke feature |P Invoke feature ,1.632268215499513
+language integrated query |Language Integrated Query ,1.632268215499513
+windows ce platform |Windows CE platforms ,1.632268215499513
+severely resource-constrained device |severely resource-constrained devices ,1.632268215499513
+first beta version |first beta versions ,1.632268215499513
+fcl and clr |FCL and CLR ,1.632268215499513
+properties and behavior |properties and behaviors ,1.632268215499513
+previously installed software |previously installed software ,1.632268215499513
+alternative implementations edit |Alternative implementations edit ,1.632268215499513
+common security model |common security model ,1.632268215499513
+extremely resource-constrained device |extremely resource-constrained devices ,1.632268215499513
+class library edit |Class library edit ,1.632268215499513
+microsoft visual studio |Microsoft Visual Studio ,1.632268215499513
+frequently asked question |Frequently Asked Questions ,1.632268215499513
+system core dll |System core dll ,1.632268215499513
+libraries and application |libraries and applications ,1.632268215499513
+windows mobile device |Windows Mobile devices ,1.632268215499513
+application virtual machine |application virtual machine ,1.632268215499513
+cli and fcl |CLI and FCL ,1.632268215499513
+conforming net language |conforming NET language ,1.632268215499513
+windows communication foundation |Windows Communication Foundation ,1.632268215499513
+modern programming language |modern programming languages ,1.632268215499513
+standards iso org |Standards iso org ,1.632268215499513
+ecma iso standard |ECMA ISO standard ,1.632268215499513
+call stack walk |call stack walk ,1.632268215499513
+system runtime interopservice |System Runtime InteropServices ,1.632268215499513
+needed security edit |needed Security edit ,1.632268215499513
+method-level encryption tool |Method-level encryption tools ,1.632268215499513
+newly created object |newly created objects ,1.632268215499513
+integrated development environment |integrated development environment ,1.632268215499513
+b scott guthrie |b Scott Guthrie ,1.632268215499513
+red gate software |Red Gate Software ,1.632268215499513
+proprietary software license |proprietary software licenses ,1.632268215499513
+memory management edit |Memory management edit ,1.632268215499513
+previous version assembly |previous version assembly ,1.632268215499513
+third-party obfuscation tool |Third-party obfuscation tools ,1.632268215499513
+global assembly cache |Global Assembly Cache ,1.632268215499513
+ecma iso specification |ECMA ISO specification ,1.632268215499513
+christec co nz |Christec co nz ,1.632268215499513
+cli compliant language |CLI compliant languages ,1.632268215499513
+cli and portion |CLI and portions ,1.632268215499513
+no reverse-engineering skill |no reverse-engineering skills ,1.632268215499513
+large class library |large class library ,1.632268215499513
+validation and verification |validation and verification ,1.632268215499513
+web application development |web application development ,1.632268215499513
+mono simd namespace |Mono Simd namespace ,1.632268215499513
+base class library |Base Class Library ,1.632268215499513
+net framework release |NET Framework release ,1.632268215499513
+net framework family |NET Framework family ,1.632268215499513
+security edit net |Security edit NET ,1.632268215499513
+common functionality programmer |common functionality programmers ,1.632268215499513
+system enterpriseservices namespace |System EnterpriseServices namespaces ,1.632268215499513
+microsoft initial release |Microsoft Initial release ,1.632268215499513
+top-level internet domain |top-level Internet domain ,1.632268215499513
+license control mechanism |license control mechanisms ,1.632268215499513
+source |Source |source ,1.6156664040617366
+memory management |memory management ,1.605583991837097
+language |languages |language ,1.546914642186769
+software |software ,1.512538761249285
+memory |memory ,1.4300366469993242
+assembly |assembly ,1.3750352374993502
+garbage |garbage ,1.2650324184994022
+framework |framework ,1.2375317137494153
+mono |Mono ,1.1000281899994802
+part |parts |part ,1.1000281899994802
+local variable |local variables ,1.070389327891398
+runtime engine |runtime engine ,1.070389327891398
+en wikipedia |en wikipedia ,1.070389327891398
+network communication |network communications ,1.070389327891398
+design feature |design features ,1.070389327891398
+root object |root objects ,1.070389327891398
+general feature |general features ,1.070389327891398
+architecture edit |Architecture edit ,1.070389327891398
+additional functionality |additional functionality ,1.070389327891398
+cpu register |CPU registers ,1.070389327891398
+direct reference |direct reference ,1.070389327891398
+core aspect |core aspects ,1.070389327891398
+neil macdonald |Neil MacDonald ,1.070389327891398
+separate thread |separate thread ,1.070389327891398
+net environment |NET environment ,1.070389327891398
+final release |final release ,1.070389327891398
+open standard |open standard ,1.070389327891398
+unanticipated delay |unanticipated delays ,1.070389327891398
+large application |large applications ,1.070389327891398
+mark phase |mark phase ,1.070389327891398
+java c |Java C ,1.070389327891398
+cross-platform clr |Cross-Platform CLR ,1.070389327891398
+copyright restriction |copyright restrictions ,1.070389327891398
+mono safe |Mono safe ,1.070389327891398
+simple text |simple text ,1.070389327891398
+older application |older applications ,1.070389327891398
+built-in apis |built-in APIs ,1.070389327891398
+integrated debugging |integrated debugging ,1.070389327891398
+managed code |managed code ,1.070389327891398
+cli metadata |CLI metadata ,1.070389327891398
+amrit williams |Amrit Williams ,1.070389327891398
+call stack |call stack ,1.070389327891398
+cil bytecode |CIL bytecode ,1.070389327891398
+system namespace |System namespace ,1.070389327891398
+windows vista |Windows Vista ,1.070389327891398
+security requirement |security requirements ,1.070389327891398
+official standard |official standards ,1.070389327891398
+dll exe |DLL EXE ,1.070389327891398
+small version |small version ,1.070389327891398
+cross-platform implementation |cross-platform implementations ,1.070389327891398
+computer software |computer software ,1.070389327891398
+application development |application development ,1.070389327891398
+execution engine |execution engine ,1.070389327891398
+current version |current version ,1.070389327891398
+c ecma |C ECMA ,1.070389327891398
+reusable type |reusable types ,1.070389327891398
+cil code |CIL code ,1.070389327891398
+collection run |collection run ,1.070389327891398
+compiler optimization |compiler optimizations ,1.070389327891398
+managing memory |managing memory ,1.070389327891398
+net disambiguation |NET disambiguation ,1.070389327891398
+reduced version |reduced version ,1.070389327891398
+reflection citation |reflection citation ,1.070389327891398
+numeric algorithm |numeric algorithms ,1.070389327891398
+cts specification |CTS specification ,1.070389327891398
+native code |native code ,1.070389327891398
+required permission |required permission ,1.070389327891398
+simd support |SIMD support ,1.070389327891398
+computer system |computer systems ,1.070389327891398
+objects reachable |objects reachable ,1.070389327891398
+wide range |wide range ,1.070389327891398
+specific assembly |specific assembly ,1.070389327891398
+newer object |newer objects ,1.070389327891398
+non-free implementation |non-free implementation ,1.070389327891398
+static object |static objects ,1.070389327891398
+c compiler |C compiler ,1.070389327891398
+collection object |collection objects ,1.070389327891398
+future release |future releases ,1.070389327891398
+fcl class |FCL classes ,1.070389327891398
+iso standard |ISO standards ,1.070389327891398
+local machine |local machine ,1.070389327891398
+small subset |small subset ,1.070389327891398
+language interoperability |language interoperability ,1.070389327891398
+data access |data access ,1.070389327891398
+mscorlib dll |mscorlib dll ,1.070389327891398
+fewer object |fewer objects ,1.070389327891398
+compatible implementation |compatible implementations ,1.070389327891398
+net application |NET application ,1.070389327891398
+microsoft silverlight |Microsoft Silverlight ,1.070389327891398
+system dll |System dll ,1.070389327891398
+software citation |software citation ,1.070389327891398
+trade secret |trade secrets ,1.070389327891398
+ecma standard |ECMA standards ,1.070389327891398
+scott guthrie |Scott Guthrie ,1.070389327891398
+visual overview |Visual overview ,1.070389327891398
+database connectivity |database connectivity ,1.070389327891398
+direct control |direct control ,1.070389327891398
+patent issue |patent issues ,1.070389327891398
+basic api |basic API ,1.070389327891398
+non-microsoft implementation |non-Microsoft implementations ,1.070389327891398
+net program |NET programs ,1.070389327891398
+memory contiguous |memory contiguous ,1.070389327891398
+references edit |References edit ,1.070389327891398
+managed heap |managed heap ,1.070389327891398
+hardware environment |hardware environment ,1.070389327891398
+gui framework |GUI framework ,1.070389327891398
+non-windows platform |non-Windows platforms ,1.070389327891398
+security mechanism |security mechanism ,1.070389327891398
+software environment |software environment ,1.070389327891398
+older object |older objects ,1.070389327891398
+single language |single language ,1.070389327891398
+software foundation |Software Foundation ,1.070389327891398
+learning material |learning materials ,1.070389327891398
+net platform |NET platform ,1.070389327891398
+navigation search |navigation search ,1.070389327891398
+longer lifetime |longer lifetime ,1.070389327891398
+hype cycle |Hype Cycle ,1.070389327891398
+buffer overflow |buffer overflows ,1.070389327891398
+enough pressure |enough pressure ,1.070389327891398
+large number |large number ,1.070389327891398
+tirania org |Tirania org ,1.070389327891398
+malicious software |malicious software ,1.070389327891398
+net code |NET code ,1.070389327891398
+unusable object |unusable objects ,1.070389327891398
+net software |NET software ,1.070389327891398
+performance edit |Performance edit ,1.070389327891398
+predominant implementation |predominant implementation ,1.070389327891398
+user interface |user interface ,1.070389327891398
+net jump |NET Jump ,1.070389327891398
+no reference |no reference ,1.070389327891398
+technical report |Technical Report ,1.070389327891398
+expanded set |expanded set ,1.070389327891398
+language-neutral platform |language-neutral platform ,1.070389327891398
+pentium iii |Pentium III ,1.070389327891398
+net type |NET types ,1.070389327891398
+archived |Archived ,0.9625246662495451
+original |original ,0.9625246662495451
+collection |collection ,0.8937729043745777
+functionality |functionality ,0.8250211424996101
+support |support ,0.8250211424996101
+standard |standard ,0.7975204377496231
+library |library ,0.7944648038885135
+scope |scope ,0.6875176187496751
+feature |features |feature ,0.6875176187496751
+management |management ,0.6875176187496751
+development |development ,0.6646003647913525
+silverlight |Silverlight ,0.6416831108330301
+number |number ,0.6187658568747076
+tool |tools ,0.5500140949997401
+internet |Internet ,0.5500140949997401
+reference |references |reference ,0.5500140949997401
+environment |environment ,0.5500140949997401
+class |classes ,0.5362637426247465
+platform |platforms ,0.530370734464035
+specification |specification |specifications ,0.5156382140622563
+developer |developer |developers ,0.48126233312477257
+standardization |Standardization ,0.41251057124980506
+set |set ,0.41251057124980506
+evidence |evidence ,0.41251057124980506
+creator |creator ,0.41251057124980506
+use |use ,0.41251057124980506
+older |older ,0.41251057124980506
+core |core ,0.41251057124980506
+access |access ,0.41251057124980506
+permission |permissions |permission ,0.41251057124980506
+patent |Patents |patents ,0.34375880937483755
+generation |generation ,0.27500704749987004
+introduction |Introduction |introduction ,0.27500704749987004
+execution |execution ,0.27500704749987004
+newer |newer ,0.27500704749987004
+root |root |roots ,0.27500704749987004
+long |long ,0.27500704749987004
+component |components ,0.27500704749987004
+reflection |reflection ,0.27500704749987004
+area |areas ,0.27500704749987004
+java |Java ,0.27500704749987004
+subject |subject ,0.27500704749987004
+space |space ,0.27500704749987004
+bcl |BCL ,0.27500704749987004
+vendor |vendors ,0.27500704749987004
+extension |extensions ,0.27500704749987004
+method |method ,0.27500704749987004
+design |Design ,0.27500704749987004
+technology |technology ,0.27500704749987004
+installation |installation ,0.27500704749987004
+debugging |debugging ,0.27500704749987004
+interoperability |Interoperability |interoperability ,0.27500704749987004
+amount |amount ,0.27500704749987004
+demand |demand ,0.27500704749987004
+complete |complete ,0.27500704749987004
+reachable |reachable ,0.27500704749987004
+instruction |instructions ,0.27500704749987004
+ship |ships ,0.27500704749987004
+namespace |namespaces ,0.27500704749987004
+crossnet |CrossNet ,0.27500704749987004
+dll |DLL ,0.27500704749987004
+purpose |purpose ,0.27500704749987004
+function |functions ,0.24750634274988303
+file |files ,0.24063116656238628
+type |types ,0.22917253958322503
+guthrie |Guthrie ,0.20625528562490253
+heap |heap ,0.20625528562490253
+cyberthreat |Cyberthreats ,0.13750352374993502
+partner |partners ,0.13750352374993502
+behavior |behaviors |behavior ,0.13750352374993502
+wikibook |Wikibooks ,0.13750352374993502
+possession |possession ,0.13750352374993502
+hacking |hacking ,0.13750352374993502
+architecture |architectures ,0.13750352374993502
+bypassing |bypassing ,0.13750352374993502
+codeplex |Codeplex ,0.13750352374993502
+derived |Derived ,0.13750352374993502
+consequence |consequence ,0.13750352374993502
+hope |hope ,0.13750352374993502
+mobile |mobile ,0.13750352374993502
+hewlett-packard |Hewlett-Packard ,0.13750352374993502
+lab |Labs ,0.13750352374993502
+keypair |keypair ,0.13750352374993502
+concern |concern ,0.13750352374993502
+chen |Chen ,0.13750352374993502
+element |elements ,0.13750352374993502
+cryptography |cryptography ,0.13750352374993502
+pointer |pointers ,0.13750352374993502
+hardware |hardware ,0.13750352374993502
+manifest |manifest ,0.13750352374993502
+gartner |Gartner ,0.13750352374993502
+hierarchy |hierarchy ,0.13750352374993502
+note |Notes ,0.13750352374993502
+portion |portions ,0.13750352374993502
+datatype |datatypes ,0.13750352374993502
+efficiency |efficiency ,0.13750352374993502
+safenet |SafeNet ,0.13750352374993502
+location |location ,0.13750352374993502
+disk |disk ,0.13750352374993502
+encyclopedia |encyclopedia ,0.13750352374993502
+loss |loss ,0.13750352374993502
+gaming |Gaming ,0.13750352374993502
+unobfuscated |Unobfuscated ,0.13750352374993502
+subset |subset ,0.13750352374993502
+emulator |emulator ,0.13750352374993502
+inkball |InkBall ,0.13750352374993502
+interface |interfaces ,0.13750352374993502
+tomboy |Tomboy ,0.13750352374993502
+foreword |Foreword ,0.13750352374993502
+content |Contents ,0.13750352374993502
+document |document ,0.13750352374993502
+xenocode |Xenocode ,0.13750352374993502
+chinnathambi |Chinnathambi ,0.13750352374993502
+overview |Overview ,0.13750352374993502
+instance |instances ,0.13750352374993502
+condition |conditions ,0.13750352374993502
+cpu |CPUs ,0.13750352374993502
+possibility |possibility ,0.13750352374993502
+case |case ,0.13750352374993502
+portability |Portability ,0.13750352374993502
+vmware |vmware ,0.13750352374993502
+attention |Attention ,0.13750352374993502
+variety |variety ,0.13750352374993502
+intel |Intel ,0.13750352374993502
+chunk |chunks ,0.13750352374993502
+disclaimer |disclaimer ,0.13750352374993502
+supervision |supervision ,0.13750352374993502
+revision |revision ,0.13750352374993502
+burden |burden ,0.13750352374993502
+arm |ARM ,0.13750352374993502
+exchange |exchange ,0.13750352374993502
+topic |topic ,0.13750352374993502
+dotgnu |DotGNU ,0.13750352374993502
+interaction |interaction ,0.13750352374993502
+harder |harder ,0.13750352374993502
+culture |culture ,0.13750352374993502
+superset |superset ,0.13750352374993502
+smartphone |smartphones ,0.13750352374993502
+contrast |contrast ,0.13750352374993502
+mips |MIPS ,0.13750352374993502
+metadata |metadata ,0.13750352374993502
+lack |lack ,0.13750352374993502
+instantiation |Instantiations ,0.13750352374993502
+pool |pool ,0.13750352374993502
+addition |addition ,0.13750352374993502
+term |terms ,0.13750352374993502
+administrator |Administrators ,0.13750352374993502
+book |book ,0.13750352374993502
+filename |filename ,0.13750352374993502
+software framework |software framework ,0.0
+framework version |Framework Versions ,0.0
+embedded device use |embedded device use ,0.0
+programmer |Programmers ,0.0
+exe file |EXE files ,0.0
+verification |verification ,0.0
+vb net compiler |VB NET compilers ,0.0
+wikipedia |Wikipedia ,0.0
+strong |strong ,0.0
+non-discriminatory term |non-discriminatory terms ,0.0
+intranet |intranet ,0.0
+validation |validation ,0.0
+reasonable |reasonable ,0.0
+programming construct |programming constructs ,0.0
+scott gu |Scott Gu ,0.0
+service |services ,0.0
+older program |older programs ,0.0
+end |end ,0.0
+method parameter |method parameters ,0.0
+licensing edit |licensing edit ,0.0
+program |Programs ,0.0
+windows-specific functionality |Windows-specific functionality ,0.0
+graph |graph ,-0.13750352374993502
+alternative |alternatives ,-0.18333803166658005
+integrate |integrates ,-0.20625528562490253
+article |articles ,-0.27500704749987004

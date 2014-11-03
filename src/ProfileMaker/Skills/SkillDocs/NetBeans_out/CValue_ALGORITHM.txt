@@ -1,0 +1,399 @@
+netbeans ide |NetBeans IDE ,52.805873509308974
+netbean |NetBeans |Netbeans ,18.56297570624123
+netbeans ide bundle |NetBeans IDE Bundle |NetBeans IDE bundle ,16.322682154995128
+java ee |Java EE ,12.202438337961938
+integrated development environment |integrated development environment |integrated development environments |Integrated development environments ,9.793609292997077
+netbeans platform |NetBeans platform |NetBeans Platform ,9.633503951022583
+netbeans org |Netbeans org ,9.633503951022583
+ide |IDE ,8.846060027912486
+java |Java ,7.855443243907579
+community news |Community News ,6.422335967348388
+sun microsystem |Sun Microsystems ,6.422335967348388
+web and java ee |Web and Java EE ,6.1068717291921635
+ide bundle |IDE Bundle ,6.065539524717923
+java se |Java SE ,5.35194663945699
+sun |Sun ,4.317610645747959
+code completion |code completion ,4.281557311565592
+sun studio |Sun Studio ,4.281557311565592
+os x |OS X ,3.7463626476198932
+application |application |applications |Applications ,3.66103131984202
+software |software ,3.5750916174983107
+support |support ,3.5750916174983107
+oracle solaris studio |Oracle Solaris Studio ,3.264536430999026
+dynamic bytecode instrumentation |dynamic bytecode instrumentation ,3.264536430999026
+netbeans javascript editor |NetBeans JavaScript editor ,3.264536430999026
+web java ee |Web Java EE ,3.264536430999026
+programming tool |programming tools ,3.211167983674194
+definitive guide |Definitive Guide ,3.211167983674194
+java application |Java application |Java applications ,3.211167983674194
+netbeans profiler |NetBeans Profiler ,3.211167983674194
+development |development ,2.504528468302388
+development software web development software |development software Web development software ,2.3504972470841334
+open-source software general alternative term |open-source software General Alternative terms ,2.3504972470841334
+netbeans ide download bundles edit |NetBeans IDE Download Bundles edit ,2.3504972470841334
+c open source anjuta code |C Open source Anjuta Code ,2.3504972470841334
+open-source graphics device driver comparison |open-source graphics device driver Comparison ,2.3504972470841334
+language platform java se ide |Language Platform Java SE IDE ,2.3504972470841334
+data window management wizard framework |data Window management Wizard framework ,2.3504972470841334
+netbeans ide dual license header |NetBeans IDE Dual License Header ,2.3504972470841334
+javaserver pages jsp hibernate spring |JavaServer Pages JSP Hibernate Spring ,2.3504972470841334
+cvs version control semantic analysis |CVS version control semantic analysis ,2.3504972470841334
+bundled primefaces library improved editing |bundled PrimeFaces library Improved editing ,2.3504972470841334
+b c catalan localization group |b c Catalan localization group ,2.3504972470841334
+opensolaris opensparc openjdk osum retrieved |OpenSolaris OpenSPARC OpenJDK OSUM Retrieved ,2.3504972470841334
+netbeans base ide java se |NetBeans Base IDE Java SE ,2.3504972470841334
+gui builder formerly project matisse |GUI Builder formerly Project Matisse ,2.3504972470841334
+list view and file structure |List View and file structure ,2.3504972470841334
+netbeans ide edit netbeans ide |NetBeans IDE edit NetBeans IDE ,2.3504972470841334
+c c and fortran development |C C and FORTRAN development ,2.3504972470841334
+uml tools java development tool |UML tools Java development tools ,2.3504972470841334
+user interface management e g |User interface management e g ,2.3504972470841334
+license |License |license ,2.180413019463255
+following language |following languages ,2.140778655782796
+packt publishing |Packt Publishing ,2.140778655782796
+project matisse |project Matisse |Project Matisse ,2.140778655782796
+syntax highlighting |syntax highlighting ,2.140778655782796
+desktop application |desktop applications ,2.140778655782796
+b ck |B ck ,2.140778655782796
+netbeans plugin |NetBeans plugins ,2.140778655782796
+web service |web services ,2.140778655782796
+zend framework |Zend Framework ,2.140778655782796
+netbeans team |NetBeans Team ,2.140778655782796
+java card |Java Card ,2.140778655782796
+mobile application |mobile applications |Mobile Applications ,2.140778655782796
+symfony framework |Symfony framework ,2.140778655782796
+native objects and function |native objects and functions ,2.035623909730721
+automatic browser compatibility check |automatic browser compatibility checks ,2.035623909730721
+declaration order list tree |declaration order List Tree ,2.035623909730721
+cldc and cdc development |CLDC and CDC development ,2.035623909730721
+execution and measure execution |execution and measure execution ,2.035623909730721
+soa visual design tool |SOA visual design tools ,2.035623909730721
+mac os x developer |Mac OS X Developer ,2.035623909730721
+java operating system window |Java Operating system Windows ,2.035623909730721
+java swing gui builder |Java Swing GUI builder ,2.035623909730721
+existing java ee feature |existing Java EE features ,2.035623909730721
+rich-client applications learning trail |Rich-Client Applications Learning Trail ,2.035623909730721
+tools software development kit |tools Software development kits ,2.035623909730721
+xdebug php unit testing |xdebug PHP Unit testing ,2.035623909730721
+further reading edit boudreau |Further reading edit Boudreau ,2.035623909730721
+java swing desktop application |Java Swing desktop applications ,2.035623909730721
+java persistence new support |Java Persistence New support ,2.035623909730721
+daily articles and tip |daily articles and tips ,2.035623909730721
+sun laboratories research project |Sun Laboratories research project ,2.035623909730721
+netbeans v t e |NetBeans v t e ,2.035623909730721
+glassfish and apache tomcat |GlassFish and Apache Tomcat ,2.035623909730721
+sun java studio enterprise |Sun Java Studio Enterprise ,2.035623909730721
+programming languages c c |programming languages C C ,2.035623909730721
+supported jerry blogger platform |Supported Jerry Blogger platform ,2.035623909730721
+mozilla public license mpl |Mozilla Public License MPL ,2.035623909730721
+sun java studio creator |Sun Java Studio Creator ,2.035623909730721
+netbeans ide field guide |NetBeans IDE Field Guide ,2.035623909730721
+netbeans javascript editor edit |NetBeans JavaScript editor edit ,2.035623909730721
+open-source integrated development environment |open-source integrated development environment ,2.035623909730721
+java ide student project |Java IDE student project ,2.035623909730721
+oracle corporation stable release |Oracle Corporation Stable release ,2.035623909730721
+cultural works free license |Cultural Works Free license ,2.035623909730721
+download netbeans ide bundle |download NetBeans IDE bundles ,2.035623909730721
+no related software edit |No Related software edit ,2.035623909730721
+web |Web |web ,1.9938010943740578
+community |Community |community ,1.7875458087491554
+org |org ,1.6500422849992202
+module |module |Modules |modules ,1.6500422849992202
+easier code navigation |easier code navigation ,1.632268215499513
+latest java ee |latest Java EE ,1.632268215499513
+java ee edit |Java EE edit ,1.632268215499513
+netbeans for python |NetBeans for Python ,1.632268215499513
+brazilian portuguese br |Brazilian Portuguese BR ,1.632268215499513
+css rule declaration |CSS rule declaration ,1.632268215499513
+open-source software package |open-source software packages ,1.632268215499513
+robust testing environment |robust testing environment ,1.632268215499513
+modular software component |modular software components ,1.632268215499513
+netbeans platform edit |NetBeans Platform edit ,1.632268215499513
+overridden implemented annotation |Overridden Implemented annotations ,1.632268215499513
+issue tracking integration |issue tracking integration ,1.632268215499513
+java application type |Java application types ,1.632268215499513
+no no dutch |No No Dutch ,1.632268215499513
+open-source android application |open-source Android applications ,1.632268215499513
+improved code completion |improved code completion ,1.632268215499513
+gpl linking exception |GPL linking exception ,1.632268215499513
+netbeans profiler edit |NetBeans Profiler edit ,1.632268215499513
+recognition scps list |recognition SCPs List ,1.632268215499513
+including code completion |including code completion ,1.632268215499513
+mac os x |Mac OS X ,1.632268215499513
+application platform framework |application platform framework ,1.632268215499513
+open-source cross-platform ide |open-source cross-platform IDE ,1.632268215499513
+happy birthday netbean |Happy Birthday NetBeans ,1.632268215499513
+update center module |Update Center module ,1.632268215499513
+javascript class skeleton |JavaScript class skeletons ,1.632268215499513
+bean validation support |Bean Validation Support ,1.632268215499513
+java persistence support |Java Persistence support ,1.632268215499513
+java programming language |Java Programming Language ,1.632268215499513
+java me edit |Java ME edit ,1.632268215499513
+netbeans enterprise pack |NetBeans Enterprise Pack ,1.632268215499513
+early access download |early access download ,1.632268215499513
+prototype and design |prototype and design ,1.632268215499513
+cvs versioning system |CVS versioning system ,1.632268215499513
+external links edit |External links edit ,1.632268215499513
+yii framework support |Yii Framework support ,1.632268215499513
+distribution license cddl |Distribution License CDDL ,1.632268215499513
+community common development |Community Common Development ,1.632268215499513
+edit free software |edit Free software ,1.632268215499513
+no additional sdk |no additional SDK ,1.632268215499513
+major linux distribution |major Linux distributions ,1.632268215499513
+ide bundle form |IDE bundle form ,1.632268215499513
+rich client application |rich client applications ,1.632268215499513
+s netbeans blog |s NetBeans blog ,1.632268215499513
+comprise code completion |comprise code completion ,1.632268215499513
+xelfi word play |Xelfi word play ,1.632268215499513
+netbeans release roadmap |NetBeans Release Roadmap ,1.632268215499513
+rule name tree |rule name Tree ,1.632268215499513
+original xelfi homepage |original Xelfi homepage ,1.632268215499513
+web application development |web application development ,1.632268215499513
+xml schema tool |XML schema tools ,1.632268215499513
+java desktop application |Java desktop applications ,1.632268215499513
+large java application |large Java applications ,1.632268215499513
+mathematics and physic |Mathematics and Physics ,1.632268215499513
+ant-based project system |Ant-based project system ,1.632268215499513
+current versions edit |Current versions edit ,1.632268215499513
+web services orchestration |web services orchestration ,1.632268215499513
+java web application |Java Web Applications ,1.632268215499513
+jaroslav yarda tulach |Jaroslav Yarda Tulach ,1.632268215499513
+version |version ,1.6303989244635153
+php |PHP ,1.512538761249285
+language |languages |Language ,1.473252040177875
+platform |platform |platforms ,1.3357485164279403
+open-source |open-source ,1.2375317137494153
+feature |features ,1.2375317137494153
+download |download |Download ,1.2375317137494153
+linux |Linux ,1.2375317137494153
+windows software |Windows Software ,1.070389327891398
+https netbean |https netbeans ,1.070389327891398
+daily article |daily articles ,1.070389327891398
+wider community |wider community ,1.070389327891398
+gui builder |GUI builder ,1.070389327891398
+complete support |complete support ,1.070389327891398
+gui component |GUI components ,1.070389327891398
+javafx project |JavaFX projects ,1.070389327891398
+opensolaris netbean |OpenSolaris NetBeans ,1.070389327891398
+oracle corporation |Oracle Corporation ,1.070389327891398
+cddl license |CDDL license ,1.070389327891398
+localization edit |Localization edit ,1.070389327891398
+mobile device |mobile devices ,1.070389327891398
+mobile phone |mobile phones ,1.070389327891398
+related topic |Related topics ,1.070389327891398
+logic specific |logic specific ,1.070389327891398
+reusable service |reusable services ,1.070389327891398
+cvs support |CVS support ,1.070389327891398
+python bundle |Python bundle ,1.070389327891398
+entire application |entire application ,1.070389327891398
+rest service |REST services ,1.070389327891398
+extended support |extended support ,1.070389327891398
+css editor |CSS editor ,1.070389327891398
+japanese version |Japanese version ,1.070389327891398
+no vietnamese |No Vietnamese ,1.070389327891398
+community testing |Community testing ,1.070389327891398
+java language |Java language ,1.070389327891398
+javascript engine |JavaScript engine ,1.070389327891398
+instant messaging |instant messaging ,1.070389327891398
+netbeans module |NetBeans Modules ,1.070389327891398
+netbeans bugzilla |Netbeans Bugzilla ,1.070389327891398
+system requirement |System Requirements ,1.070389327891398
+runtime information |runtime information ,1.070389327891398
+expression language |Expression Language ,1.070389327891398
+no azerbaijani |No Azerbaijani ,1.070389327891398
+java development |Java development ,1.070389327891398
+struts framework |Struts frameworks ,1.070389327891398
+native object |native objects ,1.070389327891398
+complete tool |complete tools ,1.070389327891398
+notable employee |notable employees ,1.070389327891398
+dual license |dual license ,1.070389327891398
+javafx web |JavaFX Web ,1.070389327891398
+quick navigation |quick navigation ,1.070389327891398
+java platform |Java platforms ,1.070389327891398
+occurrence highlighting |occurrence highlighting ,1.070389327891398
+gpl version |GPL version ,1.070389327891398
+ide module |IDE modules ,1.070389327891398
+defined function |defined function ,1.070389327891398
+feature-limited os |feature-limited OS ,1.070389327891398
+entry-level pda |entry-level PDAs ,1.070389327891398
+php edit |PHP edit ,1.070389327891398
+profiling point |Profiling Points ,1.070389327891398
+gui design-tool |GUI design-tool ,1.070389327891398
+tree view |Tree View ,1.070389327891398
+source comparison |source Comparison ,1.070389327891398
+charles university |Charles University ,1.070389327891398
+feature suggestion |feature suggestions ,1.070389327891398
+outline view |outline view ,1.070389327891398
+software comparison |software Comparison ,1.070389327891398
+full support |full support ,1.070389327891398
+netbeans community |NetBeans community ,1.070389327891398
+version control |version control ,1.070389327891398
+license notice |License Notice ,1.070389327891398
+albanian indonesian |Albanian Indonesian ,1.070389327891398
+encyclopedia jump |encyclopedia Jump ,1.070389327891398
+specific development |specific development ,1.070389327891398
+source file |source files ,1.070389327891398
+built-in support |built-in support ,1.070389327891398
+editor enhancement |editor enhancements ,1.070389327891398
+third-party emulator |third-party emulators ,1.070389327891398
+additional algorithm |additional algorithms ,1.070389327891398
+website netbean |Website netbeans ,1.070389327891398
+first ide |first IDE ,1.070389327891398
+maven support |Maven support ,1.070389327891398
+running application |running application ,1.070389327891398
+control structure |Control Structures ,1.070389327891398
+wikimedia common |Wikimedia Commons ,1.070389327891398
+roadmap document |roadmap document ,1.070389327891398
+memory leak |memory leaks ,1.070389327891398
+application framework |Application Framework ,1.070389327891398
+glass education |Glass Education ,1.070389327891398
+apache tomcat |Apache Tomcat ,1.070389327891398
+commercial version |commercial versions ,1.070389327891398
+html editor |HTML editors ,1.070389327891398
+programming language |programming languages ,1.070389327891398
+single download |single download ,1.070389327891398
+prentice hall |Prentice Hall ,1.070389327891398
+uml modeling |UML modeling ,1.070389327891398
+specific technique |specific techniques ,1.070389327891398
+release plan |release plans ,1.070389327891398
+step-by-step dialog |step-by-step dialogs ,1.070389327891398
+netbeans wiki |Netbeans wiki ,1.070389327891398
+closure support |closure support ,1.070389327891398
+party developer |party developers ,1.070389327891398
+additional module |additional modules ,1.070389327891398
+ajax callback |Ajax callbacks ,1.070389327891398
+open-source project |open-source projects ,1.070389327891398
+official release |official release ,1.070389327891398
+navigator panel |navigator panel ,1.070389327891398
+error highlighting |error highlighting ,1.070389327891398
+development environment |development environments ,1.070389327891398
+styles name |styles names ,1.070389327891398
+precise point |precise points ,1.070389327891398
+oracle |Oracle ,1.0083591741661901
+isbn |ISBN ,0.9625246662495451
+enterprise |Enterprise ,0.9625246662495451
+javascript |Javascript |JavaScript ,0.8937729043745777
+june |June ,0.8250211424996101
+release |release ,0.6875176187496751
+navigation |navigation ,0.6875176187496751
+project |project ,0.6482308976782651
+framework |Framework ,0.6482308976782651
+profiler |profilers |Profiler ,0.6187658568747076
+history |History ,0.5500140949997401
+developer |Developers |developers ,0.5500140949997401
+design |design ,0.5500140949997401
+user |Users |users |user ,0.5500140949997401
+bundle |bundles |bundle ,0.5270968410414175
+highlighting |highlighting ,0.5041795870830951
+solaris |Solaris ,0.5041795870830951
+tool |tool ,0.49501268549976607
+apres |Apress ,0.41251057124980506
+python |Python ,0.41251057124980506
+hint |hints ,0.41251057124980506
+glassfish |GlassFish ,0.41251057124980506
+jsf |JSF ,0.41251057124980506
+cddl |CDDL ,0.41251057124980506
+generation |generation ,0.27500704749987004
+heiko |Heiko ,0.27500704749987004
+standard |standards ,0.27500704749987004
+part |part ,0.27500704749987004
+javafx |JavaFX ,0.27500704749987004
+upgrade |upgrade |upgrades ,0.27500704749987004
+window |Windows ,0.27500704749987004
+ejb |EJB ,0.27500704749987004
+desktop |Desktop ,0.18333803166658003
+bpel |BPEL ,0.13750352374993502
+monitoring |monitoring ,0.13750352374993502
+petri |Petri ,0.13750352374993502
+git |Git ,0.13750352374993502
+faculty |Faculty ,0.13750352374993502
+crawley |Crawley ,0.13750352374993502
+jason |Jason ,0.13750352374993502
+ludovic |Ludovic ,0.13750352374993502
+execution |execution ,0.13750352374993502
+beginner |Beginners ,0.13750352374993502
+ajax |Ajax ,0.13750352374993502
+nyland |Nyland ,0.13750352374993502
+afrikaans |Afrikaans ,0.13750352374993502
+guidance |guidance ,0.13750352374993502
+set |set ,0.13750352374993502
+following |following ,0.13750352374993502
+experience |Experiences ,0.13750352374993502
+simeon |Simeon ,0.13750352374993502
+speed |speed ,0.13750352374993502
+walter |Walter ,0.13750352374993502
+jesse |Jesse ,0.13750352374993502
+box |box ,0.13750352374993502
+overhead |overhead ,0.13750352374993502
+prague |Prague ,0.13750352374993502
+menu |menus ,0.13750352374993502
+czech |Czech ,0.13750352374993502
+glick |Glick ,0.13750352374993502
+gregory |Gregory ,0.13750352374993502
+wiki |Wiki ,0.13750352374993502
+product |product ,0.13750352374993502
+interview |interview ,0.13750352374993502
+wikipedia |Wikipedia ,0.13750352374993502
+classpath |classpath ,0.13750352374993502
+jack |Jack ,0.13750352374993502
+osgi |OSGi ,0.13750352374993502
+technique |techniques ,0.13750352374993502
+modularity |Modularity ,0.13750352374993502
+hunt |Hunt ,0.13750352374993502
+template |template ,0.13750352374993502
+built-in-support |built-in-support ,0.13750352374993502
+wexbridge |Wexbridge ,0.13750352374993502
+charlie |Charlie ,0.13750352374993502
+webster |Webster ,0.13750352374993502
+greene |Greene ,0.13750352374993502
+kenai |kenai ,0.13750352374993502
+champenoi |Champenois ,0.13750352374993502
+mercurial |Mercurial ,0.13750352374993502
+heffelfinger |Heffelfinger ,0.13750352374993502
+javaee |javaEE ,0.13750352374993502
+instance |instance ,0.13750352374993502
+roadmap |Roadmap ,0.13750352374993502
+compatible |compatible ,0.13750352374993502
+svn |SVN ,0.13750352374993502
+core |core ,0.13750352374993502
+tim |Tim ,0.13750352374993502
+annotation |annotations ,0.13750352374993502
+subversion |Subversion ,0.13750352374993502
+clearcase |Clearcase ,0.13750352374993502
+phpunit |PHPUnit ,0.13750352374993502
+jfluid |JFluid ,0.13750352374993502
+cdi |CDI ,0.13750352374993502
+david |David ,0.13750352374993502
+myatt |Myatt ,0.13750352374993502
+kind |kind ,0.13750352374993502
+keegan |Keegan ,0.13750352374993502
+woehr |Woehr ,0.13750352374993502
+research |research ,0.13750352374993502
+function |functions ,0.13750352374993502
+idrsolution |IDRsolutions ,0.13750352374993502
+patrick |Patrick ,0.13750352374993502
+company |company ,0.13750352374993502
+refactoring |refactorings ,0.13750352374993502
+parameter |parameters ,0.13750352374993502
+spurlin |Spurlin ,0.13750352374993502
+jax-w |JAX-WS ,0.13750352374993502
+nashorn |Nashorn ,0.13750352374993502
+adam |Adam ,0.13750352374993502
+search |search ,0.0
+fortran development |FORTRAN development ,0.0
+mathematics |Mathematics ,0.0
+physic |Physics ,0.0
+open source |open source ,0.0
+type |type ,0.0
+date |date ,0.0
+fortran |Fortran ,0.0
+cldc |CLDC ,0.0
+prototype |prototype ,0.0
+tip |tips ,0.0
+file structure |file structure ,0.0
+list view |List View ,0.0
+rule declaration |rule declarations ,0.0
+bug |Bug ,0.0
+cdc development |CDC development ,0.0
+measure execution |measure execution ,0.0
+plugin |plugin ,-0.13750352374993502

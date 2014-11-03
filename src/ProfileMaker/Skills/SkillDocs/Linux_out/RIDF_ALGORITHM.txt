@@ -1,0 +1,1663 @@
+system |systems |system ,0.0
+linux |Linux ,0.0
+desktop |desktops |desktop |Desktops ,0.0
+software |software ,0.0
+source |source ,0.0
+distribution |Distributions |distribution |distributions ,0.0
+torvald |Torvald |Torvalds ,0.0
+gnu |GNU ,0.0
+linux distribution |Linux distributions |Linux distribution ,0.0
+kernel |kernel ,0.0
+operating system |operating systems |operating system ,0.0
+use |use |Use ,-1.6017132519074588E-16
+linux kernel |Linux kernel ,-2.40256987786119E-15
+february |February ,-6.727195658011343E-15
+server |servers |server ,-1.8259531071745147E-14
+application |application |applications ,-4.9653110809132084E-14
+project |Projects |projects |project ,-2.7115403641566854E-12
+component |component |Components |components ,-2.7115403641566854E-12
+code |code |Code ,-2.7115403641566854E-12
+popular |popular ,-7.370924213971764E-12
+linus |Linus ,-7.370924213971764E-12
+original |original ,-7.370924213971764E-12
+android |Android ,-2.0035991239574723E-11
+user |users |user ,-2.0035991239574723E-11
+computer |computer |computers ,-5.4463696390938126E-11
+september |September ,-1.480476372520042E-10
+unix |Unix ,-1.480476372520042E-10
+market |market |Market ,-1.480476372520042E-10
+development |development ,-4.024350995663086E-10
+support |support ,-2.9736160530936045E-9
+device |devices ,-2.9736160530936045E-9
+open-source |open-source ,-2.9736160530936045E-9
+debian |Debian ,-2.9736160530936045E-9
+archived |Archived ,-8.083126674742944E-9
+version |versions |version ,-8.083126674742944E-9
+language |languages |language ,-5.9726677344563E-8
+april |April ,-5.9726677344563E-8
+ubuntu |Ubuntu ,-5.9726677344563E-8
+gnome |GNOME ,-1.6235394765018338E-7
+gnu linux |GNU Linux ,-1.6235394765018338E-7
+example |example |examples ,-1.6235394765018338E-7
+mobile |mobile ,-1.6235394765018338E-7
+wayland |Wayland ,-1.6235394765018338E-7
+google |Google ,-4.4132382824574925E-7
+license |licenses |license ,-4.4132382824574925E-7
+linus torvald |Linus Torvalds ,-4.4132382824574925E-7
+interface |interface ,-1.19964285817542E-6
+kde |KDE ,-1.19964285817542E-6
+minix |MINIX |minix ,-1.19964285817542E-6
+gpl |GPL ,-1.19964285817542E-6
+microsoft |Microsoft ,-1.19964285817542E-6
+list |List ,-1.19964285817542E-6
+window |Windows |windows ,-3.2609697116566853E-6
+ibm |IBM ,-3.2609697116566853E-6
+article |articles |article ,-8.864251924287394E-6
+developer |developer |Developers |developers ,-2.409566212435918E-5
+graphical |graphical ,-2.409566212435918E-5
+security |security ,-2.409566212435918E-5
+linux system |Linux systems |Linux system |Linux System ,-2.409566212435918E-5
+desktop environment |desktop environments |Desktop environment |desktop environment ,-2.409566212435918E-5
+source code |source code ,-2.409566212435918E-5
+environment |environments ,-2.409566212435918E-5
+hardware |hardware ,-2.409566212435918E-5
+open-source software |open-source software ,-6.549974037810964E-5
+software foundation |Software Foundation ,-6.549974037810964E-5
+supercomputer |supercomputers ,-6.549974037810964E-5
+program |programs |program ,-6.549974037810964E-5
+window manager |window managers |window manager ,-1.7805369936495883E-4
+market share |Market Share |Market share ,-1.7805369936495883E-4
+steam |Steam ,-1.7805369936495883E-4
+management |management ,-1.7805369936495883E-4
+gnu project |GNU project |GNU Project ,-1.7805369936495883E-4
+platform |platform ,-1.7805369936495883E-4
+game |games ,-1.7805369936495883E-4
+trademark |trademark |trademarks ,-1.7805369936495883E-4
+form |form |forms ,-1.7805369936495883E-4
+specific |specific ,-1.7805369936495883E-4
+architecture |architectures |architecture ,-4.84051464806915E-4
+mozilla |Mozilla ,-4.84051464806915E-4
+nsa |NSA ,-4.84051464806915E-4
+general |general ,-4.84051464806915E-4
+number |number |Numbers ,-4.84051464806915E-4
+history |History ,-4.84051464806915E-4
+copyright |Copyright |copyright ,-4.84051464806915E-4
+smartphone |smartphones ,-4.84051464806915E-4
+package |packages ,-4.84051464806915E-4
+purpose |purpose ,-4.84051464806915E-4
+part |parts |part ,-4.84051464806915E-4
+needed |needed ,-4.84051464806915E-4
+shell |shell ,-4.84051464806915E-4
+ten |ten |tens ,-4.84051464806915E-4
+library |library ,-0.0013161677756548663
+world |World |world ,-0.0013161677756548663
+line |line |lines ,-0.0013161677756548663
+installation |installation |installations ,-0.0013161677756548663
+linux foundation |Linux Foundation ,-0.0013161677756548663
+unsourced statement |unsourced statements ,-0.0013161677756548663
+embedded system |embedded systems ,-0.0013161677756548663
+display server |display server ,-0.0013161677756548663
+cli |CLI ,-0.0013161677756548663
+first |first ,-0.0013161677756548663
+unix-like |Unix-like ,-0.0013161677756548663
+tizen |Tizen ,-0.0013161677756548663
+valve |Valve ,-0.0013161677756548663
+red hat |Red Hat ,-0.0013161677756548663
+stallman |Stallman ,-0.0013161677756548663
+gnu gpl |GNU GPL ,-0.003580522922930523
+gaming |gaming ,-0.003580522922930523
+implementation |implementation ,-0.003580522922930523
+gnu component |GNU components ,-0.003580522922930523
+performance |performance |Performance ,-0.003580522922930523
+suse |SUSE ,-0.003580522922930523
+network |network ,-0.003580522922930523
+standard |standards ,-0.003580522922930523
+netbook |Netbooks |netbooks ,-0.003580522922930523
+work |work |Work ,-0.003580522922930523
+main article |Main article ,-0.003580522922930523
+nokia |Nokia ,-0.003580522922930523
+fedora |Fedora ,-0.003580522922930523
+cost |cost ,-0.003580522922930523
+gui |GUI |GUIs ,-0.003580522922930523
+copyleft |copyleft ,-0.003580522922930523
+adoption |adoption ,-0.003580522922930523
+backdoor |backdoor |backdoors |Backdoor ,-0.003580522922930523
+widely |widely ,-0.003580522922930523
+lamp |LAMP ,-0.003580522922930523
+intel |Intel ,-0.003580522922930523
+mir |Mir ,-0.003580522922930523
+user interface |user interface ,-0.003580522922930523
+gnu general public license |GNU General Public License ,-0.009753699703469945
+tool |tools |tool ,-0.009753699703469945
+lwn net |LWN net ,-0.009753699703469945
+python |Python ,-0.009753699703469945
+year |years ,-0.009753699703469945
+case |cases |case ,-0.009753699703469945
+mac os |Mac OS ,-0.009753699703469945
+range |range ,-0.009753699703469945
+freebsd |FreeBSD ,-0.009753699703469945
+gnu org |Gnu org ,-0.009753699703469945
+variant |variant ,-0.009753699703469945
+wikipedia |Wikipedia ,-0.009753699703469945
+study |study ,-0.009753699703469945
+edit linux |edit Linux ,-0.009753699703469945
+model |model ,-0.009753699703469945
+popularity |popularity ,-0.009753699703469945
+enlightenment |Enlightenment ,-0.009753699703469945
+file |files ,-0.009753699703469945
+wine |Wine ,-0.009753699703469945
+x window system |X Window System ,-0.009753699703469945
+sublicense |sublicense ,-0.009753699703469945
+corporation |corporations ,-0.009753699703469945
+focus |focus ,-0.009753699703469945
+mainframe |mainframes ,-0.009753699703469945
+linux mark institute |Linux Mark Institute ,-0.009753699703469945
+desktop linux |desktop Linux ,-0.009753699703469945
+perl |Perl ,-0.009753699703469945
+yamaha |Yamaha ,-0.009753699703469945
+text |text ,-0.009753699703469945
+canonical |Canonical ,-0.02666886246432323
+brazil |Brazil ,-0.02666886246432323
+os x |OS X ,-0.02666886246432323
+united state |United States ,-0.02666886246432323
+compositing |compositing ,-0.02666886246432323
+netcraft |Netcraft ,-0.02666886246432323
+graphical user interface |graphical user interfaces |graphical user interface ,-0.02666886246432323
+audio |audio ,-0.02666886246432323
+richard stallman |Richard Stallman ,-0.02666886246432323
+xfce |Xfce |xfce ,-0.02666886246432323
+stack |stack ,-0.02666886246432323
+display server protocol |display server protocol ,-0.02666886246432323
+mean |means ,-0.02666886246432323
+vista |Vista ,-0.02666886246432323
+potentially dated statement |potentially dated statements ,-0.02666886246432323
+php |PHP ,-0.02666886246432323
+ars technica |Ars Technica ,-0.02666886246432323
+building |building |Building ,-0.02666886246432323
+operating system market share |Operating System Market Share ,-0.02666886246432323
+web link |Web link ,-0.02666886246432323
+laptop |Laptop |laptops ,-0.02666886246432323
+gtk |GTK ,-0.02666886246432323
+llc |LLC ,-0.02666886246432323
+format |formats ,-0.02666886246432323
+software license |software licenses ,-0.02666886246432323
+commonly |commonly ,-0.02666886246432323
+local |local ,-0.02666886246432323
+linux journal |Linux Journal ,-0.02666886246432323
+libreoffice |LibreOffice ,-0.02666886246432323
+input |input ,-0.02666886246432323
+meego |MeeGo ,-0.02666886246432323
+top |top ,-0.02666886246432323
+david |David ,-0.02666886246432323
+system market share |System Market Share ,-0.02666886246432323
+gentoo |Gentoo ,-0.02666886246432323
+term |terms ,-0.02666886246432323
+role |role ,-0.07367725408829676
+licensing |licensing ,-0.07367725408829676
+reference implementation |reference implementation ,-0.07367725408829676
+basis |basis ,-0.07367725408829676
+education |education ,-0.07367725408829676
+help |help ,-0.07367725408829676
+freax |Freax ,-0.07367725408829676
+television |television |Television ,-0.07367725408829676
+worldwide |Worldwide ,-0.07367725408829676
+linux adoption |Linux adoption ,-0.07367725408829676
+legal |legal ,-0.07367725408829676
+mer project |Mer Project |Mer project ,-0.07367725408829676
+topic |topic ,-0.07367725408829676
+arch linux |Arch Linux ,-0.07367725408829676
+process |processes ,-0.07367725408829676
+linux format |Linux Format ,-0.07367725408829676
+eclipse |Eclipse ,-0.07367725408829676
+key |key ,-0.07367725408829676
+ruby |Ruby ,-0.07367725408829676
+gcc |GCC ,-0.07367725408829676
+open source |open source ,-0.07367725408829676
+software application |software application |software applications ,-0.07367725408829676
+comparison |comparison ,-0.07367725408829676
+rise |rise ,-0.07367725408829676
+overview |Overview ,-0.07367725408829676
+billion |billion ,-0.07367725408829676
+variety |variety ,-0.07367725408829676
+userland |userland ,-0.07367725408829676
+mobile device |mobile devices ,-0.07367725408829676
+customized linux |customized Linux ,-0.07367725408829676
+kali linux |Kali Linux ,-0.07367725408829676
+web server |web servers |Web servers ,-0.07367725408829676
+method |methods |method ,-0.07367725408829676
+type |types ,-0.07367725408829676
+family |family ,-0.07367725408829676
+original research |original research ,-0.07367725408829676
+tablet |tablets ,-0.07367725408829676
+usage |usage ,-0.07367725408829676
+programming language |programming languages ,-0.07367725408829676
+linux community |Linux community ,-0.07367725408829676
+framework |framework ,-0.07367725408829676
+compiler |compilers ,-0.07367725408829676
+usage share |Usage share ,-0.07367725408829676
+wine project |Wine project ,-0.07367725408829676
+mobile phone |mobile phones ,-0.07367725408829676
+windowing system |Windowing system |windowing system ,-0.07367725408829676
+michael |Michael ,-0.07367725408829676
+idc |IDC ,-0.07367725408829676
+daniel |Daniel ,-0.07367725408829676
+blender |Blender ,-0.07367725408829676
+google chrome os |Google Chrome OS ,-0.07367725408829676
+principle |principle |principles ,-0.07367725408829676
+technology |Technology ,-0.07367725408829676
+freedesktop org |freedesktop org ,-0.07367725408829676
+tux |Tux ,-0.07367725408829676
+dead link |dead link ,-0.07367725408829676
+place |place ,-0.07367725408829676
+infrastructure |infrastructure ,-0.07367725408829676
+success |success ,-0.07367725408829676
+page |pages ,-0.07367725408829676
+arm |ARM ,-0.07367725408829676
+linux user group |Linux User Group ,-0.07367725408829676
+lxde |LXDE ,-0.07367725408829676
+comp os minix |comp os minix ,-0.07367725408829676
+penetration testing |penetration testing ,-0.2097872745459192
+firmware |firmware ,-0.2097872745459192
+answer |Answer |answer ,-0.2097872745459192
+greg |Greg ,-0.2097872745459192
+linux mint |Linux Mint ,-0.2097872745459192
+mozilla firefox |Mozilla Firefox ,-0.2097872745459192
+dead external link |dead external links ,-0.2097872745459192
+basic |BASIC ,-0.2097872745459192
+preferred |preferred ,-0.2097872745459192
+linux gaming |Linux gaming ,-0.2097872745459192
+wheeler |Wheeler ,-0.2097872745459192
+falkvinge |Falkvinge ,-0.2097872745459192
+package manager |package manager |package managers ,-0.2097872745459192
+ftp server |FTP server ,-0.2097872745459192
+linux trademark |Linux trademark ,-0.2097872745459192
+steamo |SteamOS ,-0.2097872745459192
+la n k |la n ks ,-0.2097872745459192
+device driver |device drivers |Device drivers ,-0.2097872745459192
+joe |Joe ,-0.2097872745459192
+linux market |Linux market ,-0.2097872745459192
+eight |eight ,-0.2097872745459192
+computer system |computer system ,-0.2097872745459192
+tablet computer |tablet computers ,-0.2097872745459192
+sugar |Sugar ,-0.2097872745459192
+gnome and kde |GNOME and KDE ,-0.2097872745459192
+iso |ISO ,-0.2097872745459192
+deprecated parameter |deprecated parameters ,-0.2097872745459192
+favor |favor ,-0.2097872745459192
+source comparison |source Comparison ,-0.2097872745459192
+scripting |scripting ,-0.2097872745459192
+safalra |Safalra ,-0.2097872745459192
+worldwide used android |worldwide used Android ,-0.2097872745459192
+sun microsystem |Sun Microsystems ,-0.2097872745459192
+embedded linux |Embedded Linux ,-0.2097872745459192
+china |China ,-0.2097872745459192
+init |init ,-0.2097872745459192
+dominant mobile operating system |dominant mobile operating system ,-0.2097872745459192
+quarter |quarter ,-0.2097872745459192
+sailfish os |Sailfish OS ,-0.2097872745459192
+special edition |special edition |special editions ,-0.2097872745459192
+samsung z |Samsung Z ,-0.2097872745459192
+linux-based system |Linux-based systems |Linux-based system ,-0.2097872745459192
+operating system kernel |operating system kernel ,-0.2097872745459192
+proprietary software |proprietary software ,-0.2097872745459192
+ballmer |Ballmer ,-0.2097872745459192
+shield |Shield ,-0.2097872745459192
+intended use |intended use ,-0.2097872745459192
+automation |automation ,-0.2097872745459192
+selinux |SELinux ,-0.2097872745459192
+mips |MIPS ,-0.2097872745459192
+mark |mark ,-0.2097872745459192
+open-source project |open-source projects ,-0.2097872745459192
+linux kernel archive |Linux Kernel Archives ,-0.2097872745459192
+x window manager |X window managers ,-0.2097872745459192
+oracle |Oracle ,-0.2097872745459192
+c standard library |C standard library ,-0.2097872745459192
+hollywood |Hollywood ,-0.2097872745459192
+tesla model |Tesla Model S ,-0.2097872745459192
+gnu linux naming controversy |GNU Linux naming controversy ,-0.2097872745459192
+programming |Programming ,-0.2097872745459192
+larabel |Larabel ,-0.2097872745459192
+transparency |transparency ,-0.2097872745459192
+computer hardware |computer hardware ,-0.2097872745459192
+large amount |large amount ,-0.2097872745459192
+area |area |areas ,-0.2097872745459192
+linux user |Linux users ,-0.2097872745459192
+word linux |word Linux ,-0.2097872745459192
+son |son ,-0.2097872745459192
+dollar |dollars ,-0.2097872745459192
+redistribution |redistribution ,-0.2097872745459192
+reliability |reliability ,-0.2097872745459192
+linux linus torvald |Linux Linus Torvalds ,-0.2097872745459192
+national government |national governments ,-0.2097872745459192
+concept |concepts ,-0.2097872745459192
+bruce |Bruce ,-0.2097872745459192
+entertainment system |entertainment system ,-0.2097872745459192
+suse linux |SUSE Linux ,-0.2097872745459192
+gnu system |GNU System ,-0.2097872745459192
+ars technica ars technica |Ars Technica Ars Technica ,-0.2097872745459192
+popular user interface |popular user interfaces ,-0.2097872745459192
+news |News ,-0.2097872745459192
+d-bu |D-Bus ,-0.2097872745459192
+fact |Facts |fact ,-0.2097872745459192
+linux server |Linux servers ,-0.2097872745459192
+detail |details ,-0.2097872745459192
+kroah-hartman |Kroah-Hartman ,-0.2097872745459192
+net application |Net Applications ,-0.2097872745459192
+result |result ,-0.2097872745459192
+software project |software projects ,-0.2097872745459192
+ryan |Ryan ,-0.2097872745459192
+x org server |X Org Server ,-0.2097872745459192
+moblin |Moblin ,-0.2097872745459192
+dennis ritchie |Dennis Ritchie ,-0.2097872745459192
+gnu linux faq |GNU Linux FAQ ,-0.2097872745459192
+india |India ,-0.2097872745459192
+vlc |VLC ,-0.2097872745459192
+cloud |cloud ,-0.2097872745459192
+maemo |Maemo ,-0.2097872745459192
+text editor |text editors ,-0.2097872745459192
+application software |application software ,-0.2097872745459192
+manufacturer |manufacturer ,-0.2097872745459192
+servers mainframe |Servers mainframes ,-0.2097872745459192
+compositing manager |compositing manager ,-0.2097872745459192
+gnu general public license gpl |GNU General Public License GPL ,-0.2097872745459192
+website |websites ,-0.2097872745459192
+decade |decades |decade ,-0.2097872745459192
+video game console |video game consoles ,-0.2097872745459192
+mobile os |mobile OS ,-0.2097872745459192
+linux range |Linux range ,-0.2097872745459192
+animation |animation ,-0.2097872745459192
+freebasic |FreeBASIC ,-0.2097872745459192
+netbean |NetBeans ,-0.2097872745459192
+netbook market |netbook market ,-0.2097872745459192
+bash |bash ,-0.2097872745459192
+helsinki |Helsinki ,-0.2097872745459192
+pda |PDAs ,-0.2097872745459192
+founder |founder ,-0.2097872745459192
+dan |Dan ,-0.2097872745459192
+analysis |analysis ,-0.2097872745459192
+embedded device |embedded devices |embedded device ,-0.2097872745459192
+thousand |thousands ,-0.2097872745459192
+appearance |appearance ,-0.2097872745459192
+linux kernel development |Linux kernel development ,-0.2097872745459192
+top ten |top ten ,-0.2097872745459192
+journal phoronix |Journal Phoronix ,-0.2097872745459192
+router |routers ,-0.2097872745459192
+home |home ,-0.2097872745459192
+in-vehicle infotainment ivi |in-vehicle infotainment IVI ,-0.2097872745459192
+prominent game |prominent games ,-0.2097872745459192
+visual effect |visual effects ,-0.2097872745459192
+team |teams ,-0.2097872745459192
+vogl |VOGL ,-0.2097872745459192
+mark shuttleworth |Mark Shuttleworth ,-0.2097872745459192
+digital security |Digital security ,-0.2097872745459192
+agreement |agreement ,-0.2097872745459192
+bell lab |Bell Labs ,-0.2097872745459192
+synaptic |Synaptic ,-0.2097872745459192
+linux-watch |Linux-watch ,-0.2097872745459192
+fortran |Fortran ,-0.2097872745459192
+lmi |LMI ,-0.2097872745459192
+wide variety |wide variety ,-0.2097872745459192
+powerpc |PowerPC ,-0.2097872745459192
+download |download ,-0.2097872745459192
+good |good ,-0.2097872745459192
+control |controls ,-0.2097872745459192
+sound |Sound ,-0.2097872745459192
+prakash |Prakash ,-0.2097872745459192
+linuxtv org |linuxtv org ,-0.2097872745459192
+smart tv |smart TVs ,-0.2097872745459192
+desktop system |desktop systems ,-0.2097872745459192
+people |people ,-0.2097872745459192
+customized linux distribution |customized Linux distributions ,-0.2097872745459192
+switch |switch ,-0.2097872745459192
+module |modules ,-0.2097872745459192
+lyn-uk |LYN-uks ,-0.2097872745459192
+slackware |Slackware ,-0.2097872745459192
+unix-like operating system |Unix-like operating systems ,-0.2097872745459192
+videolan |VideoLAN ,-0.2097872745459192
+gnu operating system |GNU operating system |GNU Operating System ,-0.2097872745459192
+federal government |federal government ,-0.2097872745459192
+gamba |Gambas ,-0.2097872745459192
+non-gnu component |non-GNU components ,-0.2097872745459192
+jolla |Jolla ,-0.2097872745459192
+availability |availability ,-0.2097872745459192
+university |University ,-0.2097872745459192
+business model |business model ,-0.2097872745459192
+emac |Emacs ,-0.2097872745459192
+pulseaudio |PulseAudio ,-0.2097872745459192
+magic |Magic ,-0.2097872745459192
+domain |domain ,-0.2097872745459192
+complete linux |complete Linux ,-0.2097872745459192
+microsoft office |Microsoft Office ,-0.2097872745459192
+apis |APIs ,-0.2097872745459192
+reliable hosting company site |Reliable Hosting Company Site |Reliable Hosting Company Sites ,-0.2097872745459192
+efl |EFL ,-0.2097872745459192
+local and national government |local and national governments ,-0.2097872745459192
+pronunciation |pronunciation |Pronunciation ,-0.2097872745459192
+low cost |low cost ,-0.2097872745459192
+commercial |Commercial ,-0.2097872745459192
+frustration |Frustration |frustration ,-0.2097872745459192
+assembly language |assembly language ,-0.2097872745459192
+advani |Advani ,-0.2097872745459192
+region |regions ,-0.2097872745459192
+gartner |Gartner ,-0.2097872745459192
+performance and application |Performance and applications ,-0.2097872745459192
+extension |extensions ,-0.2097872745459192
+individual |individuals ,-0.2097872745459192
+mac os x |Mac OS X ,-0.2097872745459192
+love |love ,-0.2097872745459192
+jack |Jack ,-0.2097872745459192
+linux device |Linux Devices |Linux devices ,-0.2097872745459192
+opensuse |openSUSE ,-0.2097872745459192
+lisp |Lisp ,-0.2097872745459192
+raspberry pi |Raspberry Pi ,-0.2097872745459192
+gnu copyleft |GNU copyleft ,-0.2097872745459192
+naming edit |naming edit |Naming edit ,-0.2097872745459192
+choice |Choice |choice ,-0.2097872745459192
+monolithic kernel |monolithic kernel ,-0.2097872745459192
+scratch |scratch ,-0.2097872745459192
+securityspace |SecuritySpace ,-0.2097872745459192
+half |half ,-0.2097872745459192
+kwin |KWin ,-0.2097872745459192
+open-source software license |open-source software licenses ,-0.2097872745459192
+palm |Palm ,-0.2097872745459192
+james |James ,-0.2097872745459192
+kerala |Kerala ,-0.2097872745459192
+hand |hand ,-0.2097872745459192
+software development |software development ,-0.2097872745459192
+kernel development |kernel development ,-0.2097872745459192
+school |schools ,-0.2097872745459192
+daemon |daemons ,-0.2097872745459192
+media player |media player ,-0.2097872745459192
+gnu c library |GNU C Library ,-0.2097872745459192
+upstart |Upstart ,-0.2097872745459192
+collaboration |collaboration ,-0.2097872745459192
+memory management |Memory management ,-0.2097872745459192
+popular os |popular OS ,-0.2097872745459192
+design guide |design guide ,-0.2097872745459192
+uclibc |uClibc ,-0.2097872745459192
+order |order ,-0.2097872745459192
+efficiency and transparency |efficiency and transparency ,-0.6617283576289674
+community forum |community forums ,-0.6617283576289674
+digital rights management |digital rights management ,-0.6617283576289674
+event |Events ,-0.6617283576289674
+moblin and maemo |Moblin and Maemo ,-0.6617283576289674
+different window manager |different window manager ,-0.6617283576289674
+dawe |Dawe ,-0.6617283576289674
+computer industry |computer industry ,-0.6617283576289674
+entertainment platform |entertainment platform ,-0.6617283576289674
+g h ost project |G H ost Project ,-0.6617283576289674
+galaxy nexus |Galaxy Nexus ,-0.6617283576289674
+linux boot process |Linux boot process ,-0.6617283576289674
+eglibc |EGLIBC ,-0.6617283576289674
+video game development |video game development ,-0.6617283576289674
+controversies gnu linux |Controversies GNU Linux ,-0.6617283576289674
+popular linux distribution main article |popular Linux distribution Main article ,-0.6617283576289674
+electronic mass surveillance |Electronic Mass Surveillance ,-0.6617283576289674
+llvm project |LLVM project ,-0.6617283576289674
+ari lemmke |Ari Lemmke ,-0.6617283576289674
+kernel developer con koliva |kernel developer Con Kolivas ,-0.6617283576289674
+cli shell |CLI shells ,-0.6617283576289674
+grep |grep ,-0.6617283576289674
+engadget |Engadget ,-0.6617283576289674
+associated hardware |associated hardware ,-0.6617283576289674
+linux distributions list |Linux distributions List ,-0.6617283576289674
+popular lamp application stack |popular LAMP application stack ,-0.6617283576289674
+sbrk |sbrk ,-0.6617283576289674
+kernel org |Kernel org ,-0.6617283576289674
+user interface program |User interface programs ,-0.6617283576289674
+given list |given list ,-0.6617283576289674
+wholehogiii console |WholeHogIII console ,-0.6617283576289674
+controversy tanenbaum torvalds debate sco |controversy Tanenbaum Torvalds debate SCO ,-0.6617283576289674
+downloadable version |downloadable versions ,-0.6617283576289674
+b c lyon |b c Lyons ,-0.6617283576289674
+mobile operating system market share |Mobile Operating System Market Share ,-0.6617283576289674
+splice |splice ,-0.6617283576289674
+forbes |Forbes ,-0.6617283576289674
+root |root ,-0.6617283576289674
+change |Change ,-0.6617283576289674
+exception |exceptions ,-0.6617283576289674
+open-source software general alternative term |open-source software General Alternative terms ,-0.6617283576289674
+juan jo |Juan Jos ,-0.6617283576289674
+dmoz link |DMOZ links ,-0.6617283576289674
+text-based user interface |text-based user interfaces ,-0.6617283576289674
+standard desktop computer |standard desktop computers ,-0.6617283576289674
+elf-format executable file |ELF-format executable files ,-0.6617283576289674
+challenging process |challenging process ,-0.6617283576289674
+operating system program |operating system programs ,-0.6617283576289674
+world week |world Weeks ,-0.6617283576289674
+related topic |Related topics ,-0.6617283576289674
+no government agency |no government agency ,-0.6617283576289674
+fopen |fopen ,-0.6617283576289674
+complete linux distribution |complete Linux distributions ,-0.6617283576289674
+justice |Justice ,-0.6617283576289674
+user interface edit bash |User interface edit Bash ,-0.6617283576289674
+broken computer system |broken computer system ,-0.6617283576289674
+santhanam |Santhanam ,-0.6617283576289674
+download and installation |download and installation ,-0.6617283576289674
+media and common usage |media and common usage ,-0.6617283576289674
+original kernel |original kernel ,-0.6617283576289674
+no longer sponsoring debian |no longer sponsoring Debian ,-0.6617283576289674
+business |businesses ,-0.6617283576289674
+print magazine |Print magazines ,-0.6617283576289674
+external monitor |external monitor ,-0.6617283576289674
+no fee |no fees ,-0.6617283576289674
+linux tv |Linux TV ,-0.6617283576289674
+opengroup org |opengroup org ,-0.6617283576289674
+server hardware |server hardware ,-0.6617283576289674
+large linux distribution |large Linux distributions ,-0.6617283576289674
+uclibc target |uClibc targets ,-0.6617283576289674
+layer |layers ,-0.6617283576289674
+main method |main methods ,-0.6617283576289674
+editing windows registry |editing Windows registry ,-0.6617283576289674
+linux live cd session |Linux Live CD sessions ,-0.6617283576289674
+high-availability web server solution |high-availability web server solution ,-0.6617283576289674
+open source video framework |Open Source video framework ,-0.6617283576289674
+freak |freak ,-0.6617283576289674
+dynamic language |dynamic languages ,-0.6617283576289674
+gnulinex |gnuLinEx ,-0.6617283576289674
+linux desktop stack |Linux desktop stack ,-0.6617283576289674
+awio web services llc |Awio Web Services LLC ,-0.6617283576289674
+install backdoors into gnu linux |Install Backdoors Into GNU Linux ,-0.6617283576289674
+kernel mode linux kernel stat |Kernel mode Linux kernel stat ,-0.6617283576289674
+norm |norm ,-0.6617283576289674
+conventional proprietary mean |conventional proprietary means ,-0.6617283576289674
+kdevelop |KDevelop ,-0.6617283576289674
+high-level language |high-level language ,-0.6617283576289674
+linux movies group |Linux Movies Group ,-0.6617283576289674
+steam box phase |Steam Box phase ,-0.6617283576289674
+laptop per child |Laptop Per Child ,-0.6617283576289674
+cornerstone |cornerstone ,-0.6617283576289674
+sco-linux controversies linux kernel |SCO-Linux controversies Linux kernel ,-0.6617283576289674
+linux-based operating system |Linux-based operating system ,-0.6617283576289674
+underlying source code |underlying source code ,-0.6617283576289674
+source engine |Source Engine ,-0.6617283576289674
+open-source android application |open-source Android applications ,-0.6617283576289674
+installing updating |Installing updating ,-0.6617283576289674
+paid developer |paid developers ,-0.6617283576289674
+note |notes ,-0.6617283576289674
+linux kernel mailing list torvald |Linux Kernel Mailing List Torvalds ,-0.6617283576289674
+haskell |Haskell ,-0.6617283576289674
+low cost and ease |low cost and ease ,-0.6617283576289674
+nvidia |Nvidia ,-0.6617283576289674
+gaming and entertainment platform |gaming and entertainment platform ,-0.6617283576289674
+case study |Case Study ,-0.6617283576289674
+spain |Spain ,-0.6617283576289674
+freeo |freeos ,-0.6617283576289674
+widget engine |widget engines ,-0.6617283576289674
+download tor |Download Tor ,-0.6617283576289674
+weston |Weston ,-0.6617283576289674
+eye |Eye ,-0.6617283576289674
+analyst |Analysts ,-0.6617283576289674
+nils torvald |Nils Torvalds ,-0.6617283576289674
+portmanteau |portmanteau ,-0.6617283576289674
+peripheral |peripheral ,-0.6617283576289674
+latest accepted revision |latest accepted revision ,-0.6617283576289674
+european parliament mep |European Parliament MEP ,-0.6617283576289674
+runtime environment |runtime environment ,-0.6617283576289674
+rowe |Rowe ,-0.6617283576289674
+ken thompson |Ken Thompson ,-0.6617283576289674
+numerous extension |numerous extensions ,-0.6617283576289674
+linux helps bring titanic |Linux Helps Bring Titanic ,-0.6617283576289674
+window maker |Window Maker ,-0.6617283576289674
+affected organization |affected organizations ,-0.6617283576289674
+expiry wikipedia |expiry Wikipedia ,-0.6617283576289674
+mobile-oriented os |mobile-oriented OSes ,-0.6617283576289674
+kaffe and jikesrvm |Kaffe and JikesRVM ,-0.6617283576289674
+servers and desktop |servers and desktops ,-0.6617283576289674
+equivalent software |equivalent software ,-0.6617283576289674
+local association |local associations ,-0.6617283576289674
+dynamic stacking |dynamic stacking ,-0.6617283576289674
+egham |Egham ,-0.6617283576289674
+openelec |OpenELEC ,-0.6617283576289674
+current issue |Current Issue ,-0.6617283576289674
+elks kernel fork |ELKS kernel fork ,-0.6617283576289674
+complete lisp interpreter built-in |complete Lisp interpreter built-in ,-0.6617283576289674
+discussion |discussion ,-0.6617283576289674
+linux distributions host mailing list |Linux distributions host mailing lists ,-0.6617283576289674
+packagekit |PackageKit ,-0.6617283576289674
+topics including market share |topics including market share ,-0.6617283576289674
+technology independence |technology independence ,-0.6617283576289674
+desktops and laptop |Desktops and laptops ,-0.6617283576289674
+daryll |Daryll ,-0.6617283576289674
+desktop and server use |desktop and server use ,-0.6617283576289674
+cisco linksy |Cisco Linksys ,-0.6617283576289674
+terminal emulator window |terminal emulator windows ,-0.6617283576289674
+x org server and xlib |X Org Server and Xlib ,-0.6617283576289674
+linux disambiguation |Linux disambiguation ,-0.6617283576289674
+large corporations sell |large corporations sell ,-0.6617283576289674
+pidgin |Pidgin ,-0.6617283576289674
+freedomhec |FreedomHEC ,-0.6617283576289674
+installation edit |installation edit ,-0.6617283576289674
+sort |sort ,-0.6617283576289674
+proponent |proponents ,-0.6617283576289674
+meta |META ,-0.6617283576289674
+life |Life ,-0.6617283576289674
+central location |central location ,-0.6617283576289674
+customization |customization ,-0.6617283576289674
+tech-insider org |tech-insider org ,-0.6617283576289674
+wayback engine |Wayback Engine ,-0.6617283576289674
+complexity and diversity |complexity and diversity ,-0.6617283576289674
+permissive variant |permissive variant ,-0.6617283576289674
+low-level linux component |low-level Linux components ,-0.6617283576289674
+human interface guideline |human interface guidelines ,-0.6617283576289674
+volunteer basis |volunteer basis ,-0.6617283576289674
+open-source software development |open-source software development ,-0.6617283576289674
+additional shell |additional shells ,-0.6617283576289674
+kde software compilation |KDE Software Compilation ,-0.6617283576289674
+tomoyo |TOMOYO ,-0.6617283576289674
+digital security edit |Digital security edit ,-0.6617283576289674
+additional user interface |additional user interfaces ,-0.6617283576289674
+fltk |FLTK ,-0.6617283576289674
+united states patent |United States Patent ,-0.6617283576289674
+carl |Carl ,-0.6617283576289674
+community version |community version ,-0.6617283576289674
+germany |Germany ,-0.6617283576289674
+ibm developer work |IBM Developer Works ,-0.6617283576289674
+repetitive |repetitive ,-0.6617283576289674
+gaming edit main article |Gaming edit Main article ,-0.6617283576289674
+korg oasy |Korg OASYS ,-0.6617283576289674
+installing updating and removing software |Installing updating and removing software ,-0.6617283576289674
+sparc |SPARC ,-0.6617283576289674
+given desktop environment |given desktop environment ,-0.6617283576289674
+traditional desktop linux |traditional desktop Linux ,-0.6617283576289674
+popular cli shell |popular CLI shell ,-0.6617283576289674
+download pre-compiled package |download pre-compiled packages ,-0.6617283576289674
+navigation |navigation ,-0.6617283576289674
+linux os operating system |Linux OS Operating System ,-0.6617283576289674
+sharp electronics |Sharp Electronics ,-0.6617283576289674
+minimalist functionality |minimalist functionality ,-0.6617283576289674
+consumer market |consumer market ,-0.6617283576289674
+attempt |attempt ,-0.6617283576289674
+stability security localization |stability security localization ,-0.6617283576289674
+irc chatrooms or newsgroup |IRC chatrooms or newsgroups ,-0.6617283576289674
+mir project |Mir projects ,-0.6617283576289674
+breach |breach ,-0.6617283576289674
+haudio microformats article |hAudio microformats Articles ,-0.6617283576289674
+standard installation |standard installations ,-0.6617283576289674
+niccolai |Niccolai ,-0.6617283576289674
+server operating system |server operating systems ,-0.6617283576289674
+liberty not price |liberty not price ,-0.6617283576289674
+question |question ,-0.6617283576289674
+cengage learning |Cengage Learning ,-0.6617283576289674
+typical linux distribution |typical Linux distribution ,-0.6617283576289674
+inter and nokia |Inter and Nokia ,-0.6617283576289674
+charge |charge ,-0.6617283576289674
+effect |effect ,-0.6617283576289674
+file manager |file manager ,-0.6617283576289674
+organization cease |organization ceases ,-0.6617283576289674
+nominal sublicensing fee |nominal sublicensing fee ,-0.6617283576289674
+linksvayer |Linksvayer ,-0.6617283576289674
+default gnome shell |default GNOME Shell ,-0.6617283576289674
+software foundation management |Software Foundation Management ,-0.6617283576289674
+penguin |Penguin ,-0.6617283576289674
+industry |Industry ,-0.6617283576289674
+fiddle |fiddle ,-0.6617283576289674
+no problem |no problem ,-0.6617283576289674
+linux focus |Linux focus ,-0.6617283576289674
+start |start ,-0.6617283576289674
+dmoz graphical map |DMOZ Graphical map ,-0.6617283576289674
+linux standard base |Linux Standard Base ,-0.6617283576289674
+russian military |Russian military ,-0.6617283576289674
+placement |placement ,-0.6617283576289674
+b torvalds linus |b Torvalds Linus ,-0.6617283576289674
+complexity |complexity ,-0.6617283576289674
+newer systemd |newer systemd ,-0.6617283576289674
+major corporation |Major corporations ,-0.6617283576289674
+fedora and suse |Fedora and SUSE ,-0.6617283576289674
+external window manager |external window manager ,-0.6617283576289674
+popular mobile platform |popular mobile platform ,-0.6617283576289674
+desktop use |desktop use ,-0.6617283576289674
+stand-alone project |stand-alone projects ,-0.6617283576289674
+networking |networking ,-0.6617283576289674
+sos publications group |SOS Publications Group ,-0.6617283576289674
+specialized linux distribution |specialized Linux distribution ,-0.6617283576289674
+popular environment |popular environments ,-0.6617283576289674
+example mozilla firefox |example Mozilla Firefox ,-0.6617283576289674
+s education |s education ,-0.6617283576289674
+vlc media player |VLC media player ,-0.6617283576289674
+vendors develop |vendors develop ,-0.6617283576289674
+open-source software development and distribution |open-source software development and distribution ,-0.6617283576289674
+higher number |higher numbers ,-0.6617283576289674
+major supporter |Major supporters ,-0.6617283576289674
+linux two api specification |Linux Two API Specification ,-0.6617283576289674
+resource intensive desktop |resource intensive desktop ,-0.6617283576289674
+formats and standard |formats and standards ,-0.6617283576289674
+lilo |LILO ,-0.6617283576289674
+zdnet |ZDNet ,-0.6617283576289674
+global web stat |Global Web Stats ,-0.6617283576289674
+public figure |public figures ,-0.6617283576289674
+egg |egg ,-0.6617283576289674
+in-vehicle infotainment system |in-vehicle infotainment systems ,-0.6617283576289674
+linux dead copyright holder |Linux Dead Copyright Holders ,-0.6617283576289674
+blackfin |Blackfin ,-0.6617283576289674
+function |functions ,-0.6617283576289674
+contrast |contrast ,-0.6617283576289674
+individuals and corporation |individuals and corporations ,-0.6617283576289674
+infopolicy |Infopolicy ,-0.6617283576289674
+process tree |process tree ,-0.6617283576289674
+trademark office |Trademark Office ,-0.6617283576289674
+default configuration |default configuration ,-0.6617283576289674
+potentially dated statements article |potentially dated statements Articles ,-0.6617283576289674
+eu citizen |EU Citizens ,-0.6617283576289674
+permission |permission ,-0.6617283576289674
+apple do |Apple DOS ,-0.6617283576289674
+early version |early version ,-0.6617283576289674
+reciprocity |reciprocity ,-0.6617283576289674
+first process |first process ,-0.6617283576289674
+business user |business users ,-0.6617283576289674
+cultural works free license |Cultural Works Free license ,-0.6617283576289674
+linuxcon keynote |LinuxCon keynote ,-0.6617283576289674
+advanced text editor |advanced text editors ,-0.6617283576289674
+gnu pending approval |GNU pending approval ,-0.6617283576289674
+original sun microsystems jvm |original Sun Microsystems JVM ,-0.6617283576289674
+fruition |fruition ,-0.6617283576289674
+text processing |text processing ,-0.6617283576289674
+open-source wine project |open-source Wine project ,-0.6617283576289674
+prompt-free security |Prompt-free security ,-0.6617283576289674
+fledgling operating system |fledgling operating system ,-0.6617283576289674
+compositing window manager |compositing window managers ,-0.6617283576289674
+shell scripting language |shell scripting languages ,-0.6617283576289674
+system marketshare |System Marketshare ,-0.6617283576289674
+deprecated parameters wikipedia pending change |deprecated parameters Wikipedia pending changes ,-0.6617283576289674
+linux copyright |Linux copyright ,-0.6617283576289674
+grievance |grievances ,-0.6617283576289674
+addition |addition ,-0.6617283576289674
+public figures and software project |public figures and software projects ,-0.6617283576289674
+amd catalyst |AMD Catalyst ,-0.6617283576289674
+linux distributions comparison |Linux distributions Comparison ,-0.6617283576289674
+earlier antitrust case |earlier antitrust case ,-0.6617283576289674
+raspberry pi raspberrypi org |Raspberry Pi raspberrypi org ,-0.6617283576289674
+linuxquestion |LinuxQuestions ,-0.6617283576289674
+sailfish os in-car entertainment system |Sailfish OS In-car entertainment system ,-0.6617283576289674
+digia |Digia ,-0.6617283576289674
+freedom |freedom ,-0.6617283576289674
+original license |original license ,-0.6617283576289674
+tivo gnu linux source code |TiVo GNU Linux Source Code ,-0.6617283576289674
+uptake edit main article |uptake edit Main article ,-0.6617283576289674
+anjuta |Anjuta ,-0.6617283576289674
+contribution |contributions ,-0.6617283576289674
+linux motion picture technology |Linux Motion Picture Technology ,-0.6617283576289674
+long-established editors vim nano |long-established editors Vim nano ,-0.6617283576289674
+aplus net |Aplus Net ,-0.6617283576289674
+home and enterprise desktop |home and enterprise desktops ,-0.6617283576289674
+france and germany |France and Germany ,-0.6617283576289674
+macintosh computer |Macintosh computers ,-0.6617283576289674
+modern kernel-userspace apis |modern kernel-userspace APIs ,-0.6617283576289674
+specific region |specific region ,-0.6617283576289674
+real-time application |real-time applications ,-0.6617283576289674
+broad overview |Broad overview ,-0.6617283576289674
+popular tivo digital video recorder |popular TiVo digital video recorder ,-0.6617283576289674
+administrative task |administrative tasks ,-0.6617283576289674
+distribution specific support |distribution specific support ,-0.6617283576289674
+different device |different devices ,-0.6617283576289674
+different window managers variant |Different window managers variants ,-0.6617283576289674
+perpetual worldwide sublicense |perpetual worldwide sublicense ,-0.6617283576289674
+dynamic linker |dynamic linker ,-0.6617283576289674
+stein |Stein ,-0.6617283576289674
+mer technology |Mer technology ,-0.6617283576289674
+france |France ,-0.6617283576289674
+common business model |common business model ,-0.6617283576289674
+oem firmware |OEM firmwares ,-0.6617283576289674
+standard install |standard install ,-0.6617283576289674
+partition editor |partition editor ,-0.6617283576289674
+compatible license |compatible license ,-0.6617283576289674
+proprietary support packages and tool |proprietary support packages and tools ,-0.6617283576289674
+data storage device |data storage devices ,-0.6617283576289674
+gnustep |GNUstep ,-0.6617283576289674
+education and official institution |education and official institutions ,-0.6617283576289674
+meego codebase |MeeGo codebase ,-0.6617283576289674
+suse linux and red hat |SUSE Linux and Red Hat ,-0.6617283576289674
+separate project |Separate projects ,-0.6617283576289674
+legal obligation |legal obligation ,-0.6617283576289674
+modern linux distribution |modern Linux distribution ,-0.6617283576289674
+kernel and i o |kernel and I O ,-0.6617283576289674
+apache openoffice |Apache OpenOffice ,-0.6617283576289674
+app ecosystem |App ecosystem ,-0.6617283576289674
+tiling |tiling ,-0.6617283576289674
+larger scale project |larger scale projects ,-0.6617283576289674
+sdl |SDL ,-0.6617283576289674
+kaffe |Kaffe ,-0.6617283576289674
+localizing proprietary system |localizing proprietary systems ,-0.6617283576289674
+standalone display server |standalone display servers ,-0.6617283576289674
+enterprise desktop |enterprise desktops ,-0.6617283576289674
+smith-heister |Smith-Heisters ,-0.6617283576289674
+windows server |Windows Server ,-0.6617283576289674
+c library |C library ,-0.6617283576289674
+open-source software package |open-source software packages ,-0.6617283576289674
+graphical design |graphical design ,-0.6617283576289674
+developer work |Developer Works ,-0.6617283576289674
+gnu gpl ed os software |GNU GPL ed OS software ,-0.6617283576289674
+b paul |b Paul ,-0.6617283576289674
+seventy three thousand man-year |seventy three thousand man-years ,-0.6617283576289674
+first linux gcc binary |first linux gcc binary ,-0.6617283576289674
+notable example |notable examples ,-0.6617283576289674
+linux format dvd content |Linux Format DVD contents ,-0.6617283576289674
+richard stallman president |Richard Stallman president ,-0.6617283576289674
+five |five ,-0.6617283576289674
+small market |small market ,-0.6617283576289674
+clinux kernel fork |Clinux kernel fork ,-0.6617283576289674
+specific region or language |specific region or language ,-0.6617283576289674
+mission |mission ,-0.6617283576289674
+jeffrey s smith |Jeffrey S Smith ,-0.6617283576289674
+recorded pronunciation |recorded pronunciations ,-0.6617283576289674
+linux-only mainframe |Linux-only mainframes ,-0.6617283576289674
+funet |FUNET ,-0.6617283576289674
+diverse hardware |diverse hardware ,-0.6617283576289674
+ring |Ring ,-0.6617283576289674
+network router |network routers ,-0.6617283576289674
+modern distribution |modern distributions ,-0.6617283576289674
+intel c compiler |Intel C Compiler ,-0.6617283576289674
+creation |creation ,-0.6617283576289674
+running process |running processes ,-0.6617283576289674
+technology website |technology websites ,-0.6617283576289674
+popular desktop environment |popular desktop environments ,-0.6617283576289674
+user experience |user experience ,-0.6617283576289674
+measuring etch |Measuring Etch ,-0.6617283576289674
+quicken |Quicken ,-0.6617283576289674
+recently wearable technology |recently wearable technology ,-0.6617283576289674
+academic institution |academic institutions ,-0.6617283576289674
+memory management unit |memory management unit ,-0.6617283576289674
+well-known example |well-known example ,-0.6617283576289674
+linux kernel mailing list |linux kernel mailing list ,-0.6617283576289674
+digital forensic |digital forensics ,-0.6617283576289674
+replacement |replacement ,-0.6617283576289674
+video streams and radio |video streams and radio ,-0.6617283576289674
+cross-platform reference |cross-platform reference ,-0.6617283576289674
+great product greater |great product greater ,-0.6617283576289674
+x org implementation |X org implementation ,-0.6617283576289674
+open-source software collaboration |open-source software collaboration ,-0.6617283576289674
+wayback machine |Wayback Machine ,-0.6617283576289674
+dynamic stacking and compositing |dynamic stacking and compositing ,-0.6617283576289674
+ubuntu unity |Ubuntu Unity ,-0.6617283576289674
+entire body |entire body ,-0.6617283576289674
+open source patch |Open Source Patches ,-0.6617283576289674
+encyclopedia |encyclopedia ,-0.6617283576289674
+forbidding drm |Forbidding DRM ,-0.6617283576289674
+constructive cost model |Constructive Cost Model ,-0.6617283576289674
+c standard library open |C standard library open ,-0.6617283576289674
+windows xp |Windows XP ,-0.6617283576289674
+complete unix-compatible software system |complete Unix-compatible software system ,-0.6617283576289674
+home theater pc edit |Home theater PC edit ,-0.6617283576289674
+strict design guide |strict design guide ,-0.6617283576289674
+programming language c |programming language C ,-0.6617283576289674
+microblaze |Microblaze ,-0.6617283576289674
+staff |Staff ,-0.6617283576289674
+flexibility customizability |flexibility customizability ,-0.6617283576289674
+lazarus |Lazarus ,-0.6617283576289674
+official google blog |Official Google Blog ,-0.6617283576289674
+university professor |university professors ,-0.6617283576289674
+mary jo foley |Mary Jo Foley ,-0.6617283576289674
+general-purpose base |general-purpose bases ,-0.6617283576289674
+linux-kernel mailing list faq |linux-kernel mailing list FAQ ,-0.6617283576289674
+linux laundry detergent |Linux laundry detergent ,-0.6617283576289674
+andrew s tanenbaum |Andrew S Tanenbaum ,-0.6617283576289674
+chicken and egg |Chicken and egg ,-0.6617283576289674
+linus vs tanenbaum debate |Linus vs Tanenbaum debate ,-0.6617283576289674
+oracle suse and nokia |Oracle SUSE and Nokia ,-0.6617283576289674
+helsinki university |Helsinki University ,-0.6617283576289674
+mobile device market |mobile device market ,-0.6617283576289674
+warcraft |Warcraft ,-0.6617283576289674
+bbc news |BBC News ,-0.6617283576289674
+scheme |Scheme ,-0.6617283576289674
+turn |turn ,-0.6617283576289674
+brockmeier |Brockmeier ,-0.6617283576289674
+modular unix-like operating system |modular Unix-like operating system ,-0.6617283576289674
+powerful supercomputer |powerful supercomputer ,-0.6617283576289674
+vista aiding linux desktop |Vista Aiding Linux Desktop ,-0.6617283576289674
+systemrescuecd |SystemRescueCD ,-0.6617283576289674
+steam machine |Steam Machines ,-0.6617283576289674
+falkvinge net |Falkvinge net ,-0.6617283576289674
+weta digital job |Weta Digital Jobs ,-0.6617283576289674
+gui shell |GUI shells ,-0.6617283576289674
+third-party non-gnu component |third-party non-GNU components ,-0.6617283576289674
+java virtual machine |Java Virtual Machines ,-0.6617283576289674
+estimate |estimate ,-0.6617283576289674
+commercialization |commercialization ,-0.6617283576289674
+systemd aim |systemd aim ,-0.6617283576289674
+open-source model |open-source model ,-0.6617283576289674
+easier portability |easier portability ,-0.6617283576289674
+official page |Official page ,-0.6617283576289674
+linux-magazine |linux-magazine ,-0.6617283576289674
+patrick thibodeau |Patrick Thibodeau ,-0.6617283576289674
+creation edit |Creation edit ,-0.6617283576289674
+commercial and popular uptake edit |Commercial and popular uptake edit ,-0.6617283576289674
+interoperability |interoperability ,-0.6617283576289674
+system service |system services ,-0.6617283576289674
+qt creator |Qt Creator ,-0.6617283576289674
+opengl debugger |OpenGL debugger ,-0.6617283576289674
+grabham |Grabham ,-0.6617283576289674
+sun studio |Sun Studio ,-0.6617283576289674
+servers mainframes and supercomputers edit |Servers mainframes and supercomputers edit ,-0.6617283576289674
+terminal programming or quickbasic |terminal programming or QuickBASIC ,-0.6617283576289674
+integrated web browser |integrated web browser ,-0.6617283576289674
+linux based distribution |Linux based distributions ,-0.6617283576289674
+itwire itwire |iTWire iTWire ,-0.6617283576289674
+highly diverse range |highly diverse range ,-0.6617283576289674
+mashable |mashable ,-0.6617283576289674
+project linux |project Linux ,-0.6617283576289674
+extremadura |Extremadura ,-0.6617283576289674
+web servers idc |Web servers IDC ,-0.6617283576289674
+jeos principle |JeOS principle ,-0.6617283576289674
+index |Index ,-0.6617283576289674
+fvwm |FVWM ,-0.6617283576289674
+example gnu grub |example GNU GRUB ,-0.6617283576289674
+fun |Fun ,-0.6617283576289674
+wayland and mir project |Wayland and Mir projects ,-0.6617283576289674
+size |size ,-0.6617283576289674
+montavista linux |MontaVista Linux ,-0.6617283576289674
+unix system |Unix systems ,-0.6617283576289674
+widely ported operating system kernel |widely ported operating system kernel ,-0.6617283576289674
+numerous widget toolkit |Numerous widget toolkits ,-0.6617283576289674
+external links edit |External links edit ,-0.6617283576289674
+growing number |growing number ,-0.6617283576289674
+quicken and quickbook |Quicken and QuickBooks ,-0.6617283576289674
+linux application |Linux applications ,-0.6617283576289674
+minority |minority ,-0.6617283576289674
+irc chatroom |IRC chatrooms ,-0.6617283576289674
+powerful computer |powerful computers ,-0.6617283576289674
+pc tablet phone and cloud |PC tablet phone and cloud ,-0.6617283576289674
+sfml |SFML ,-0.6617283576289674
+gamingonlinux |GamingonLinux ,-0.6617283576289674
+remote collection |remote collection ,-0.6617283576289674
+educational use |educational use ,-0.6617283576289674
+gnu application |GNU applications ,-0.6617283576289674
+video stream |video streams ,-0.6617283576289674
+open-source nature |open-source nature ,-0.6617283576289674
+itanium |Itanium ,-0.6617283576289674
+additional package management software |additional package management software ,-0.6617283576289674
+eight thousand man-year |eight thousand man-years ,-0.6617283576289674
+microsoft window |Microsoft Windows ,-0.6617283576289674
+desktops and server |desktops and servers ,-0.6617283576289674
+fsf |FSF ,-0.6617283576289674
+debian-based linux distribution |Debian-based Linux distribution ,-0.6617283576289674
+demonstration |demonstrations ,-0.6617283576289674
+guadalinex |Guadalinex ,-0.6617283576289674
+enlightenment team |Enlightenment team ,-0.6617283576289674
+sublicensing program |sublicensing program ,-0.6617283576289674
+hardware conference |hardware conferences ,-0.6617283576289674
+proprietary compiler |Proprietary compilers ,-0.6617283576289674
+skype |Skype ,-0.6617283576289674
+non-free source code |non-free source code ,-0.6617283576289674
+linux distributions support shell script |Linux distributions support shell scripts ,-0.6617283576289674
+visual basic |Visual Basic ,-0.6617283576289674
+extremadura and guadalinex |Extremadura and Guadalinex ,-0.6617283576289674
+android smart tv |Android smart TVs ,-0.6617283576289674
+global desktop project |Global Desktop Project ,-0.6617283576289674
+press release |Press Release ,-0.6617283576289674
+information |Information ,-0.6617283576289674
+wing |Wings ,-0.6617283576289674
+minimal linux |minimal Linux ,-0.6617283576289674
+libe committee inquiry |LIBE Committee Inquiry ,-0.6617283576289674
+nvidia shield |NVIDIA Shield ,-0.6617283576289674
+minister |Minister ,-0.6617283576289674
+facility automation control |facility automation controls ,-0.6617283576289674
+fsf org |Fsf org ,-0.6617283576289674
+video game |video games ,-0.6617283576289674
+gentoo-based distribution |Gentoo-based distribution ,-0.6617283576289674
+gnome project |GNOME project ,-0.6617283576289674
+collaborative nature |collaborative nature ,-0.6617283576289674
+terminal programming |terminal programming ,-0.6617283576289674
+mascot |mascot ,-0.6617283576289674
+ground |ground ,-0.6617283576289674
+laptop org |laptop org ,-0.6617283576289674
+individual vendor |individual vendors ,-0.6617283576289674
+boston |Boston ,-0.6617283576289674
+basic design |basic design ,-0.6617283576289674
+popular mainstream |popular mainstream ,-0.6617283576289674
+hotspot |HotSpot ,-0.6617283576289674
+installed linux kernel |installed Linux kernel ,-0.6617283576289674
+nsa request edit |NSA request edit ,-0.6617283576289674
+no single official linux desktop |No single official Linux desktop ,-0.6617283576289674
+important part |important part ,-0.6617283576289674
+no linux port |no Linux port ,-0.6617283576289674
+home theater pc htpc |home theater PC HTPC ,-0.6617283576289674
+gibbs |Gibbs ,-0.6617283576289674
+invisible component |invisible components ,-0.6617283576289674
+non-mobile telecommunications equipment sector |non-mobile telecommunications equipment sector ,-0.6617283576289674
+linux operating system |Linux Operating System ,-0.6617283576289674
+computer associates international |Computer Associates International ,-0.6617283576289674
+preferred distribution |preferred distribution ,-0.6617283576289674
+adobe photoshop version |Adobe Photoshop versions ,-0.6617283576289674
+building technology |Building Technology ,-0.6617283576289674
+proprietary product |proprietary product ,-0.6617283576289674
+gnu generation |GNU Generation ,-0.6617283576289674
+newsgroup |newsgroups ,-0.6617283576289674
+mdy date |mdy dates ,-0.6617283576289674
+big iron system |big iron systems ,-0.6617283576289674
+dead external links article |dead external links Articles ,-0.6617283576289674
+rest |Rest ,-0.6617283576289674
+strauss |Strauss ,-0.6617283576289674
+wikibooks learning resource |Wikibooks Learning resources ,-0.6617283576289674
+david diamond |David Diamond ,-0.6617283576289674
+video input infrastructure edit |Video input infrastructure edit ,-0.6617283576289674
+simple inter-process communication |simple inter-process communication ,-0.6617283576289674
+split perspective |Split Perspective ,-0.6617283576289674
+init program |init program ,-0.6617283576289674
+openrisc |OpenRISC ,-0.6617283576289674
+specialized distribution |Specialized distributions ,-0.6617283576289674
+douglas mcilroy |Douglas McIlroy ,-0.6617283576289674
+operating system citation |operating system citation ,-0.6617283576289674
+matter |matter ,-0.6617283576289674
+separation |separation ,-0.6617283576289674
+linux rules supercomputer |Linux rules supercomputers ,-0.6617283576289674
+squid |Squid ,-0.6617283576289674
+bionic |bionic ,-0.6617283576289674
+server installation |server installations ,-0.6617283576289674
+widespread widget toolkit |widespread widget toolkits ,-0.6617283576289674
+system software |system software ,-0.6617283576289674
+yamaha developer |Yamaha developers ,-0.6617283576289674
+ntchosting |Ntchosting ,-0.6617283576289674
+linux distributor |Linux distributors ,-0.6617283576289674
+linux antecedents edit |Linux Antecedents edit ,-0.6617283576289674
+wayland situation |Wayland Situation ,-0.6617283576289674
+linux vendor |Linux vendors ,-0.6617283576289674
+en wikipedia |en wikipedia ,-0.6617283576289674
+minix-like kernel source |minix-like kernel sources ,-0.6617283576289674
+meta magazine |Meta magazine ,-0.6617283576289674
+original research article |original research Articles ,-0.6617283576289674
+dpkg |dpkg ,-0.6617283576289674
+sony electronics |Sony Electronics ,-0.6617283576289674
+login prompt |login prompts ,-0.6617283576289674
+mobile devices android |Mobile devices Android ,-0.6617283576289674
+debian faq |Debian FAQ ,-0.6617283576289674
+gnu bourne-again shell bash |GNU Bourne-Again Shell bash ,-0.6617283576289674
+first major film |first major film ,-0.6617283576289674
+common kernel |common kernel ,-0.6617283576289674
+wayland compositor |Wayland compositor ,-0.6617283576289674
+desktop counterpart |desktop counterpart ,-0.6617283576289674
+volunteer organization |volunteer organizations ,-0.6617283576289674
+open-source software focus |open-source software focus ,-0.6617283576289674
+knowledge |knowledge ,-0.6617283576289674
+child olpc |Child OLPC ,-0.6617283576289674
+category commons book v |Category Commons Book v ,-0.6617283576289674
+key component |key components ,-0.6617283576289674
+maemo platform overview |maemo Platform Overview ,-0.6617283576289674
+training |training ,-0.6617283576289674
+gnu toolchain |GNU toolchain ,-0.6617283576289674
+delayed task |delayed tasks ,-0.6617283576289674
+coherent |coherent ,-0.6617283576289674
+key pioneering approach |key pioneering approach ,-0.6617283576289674
+smart devices edit |Smart devices edit ,-0.6617283576289674
+member |Member ,-0.6617283576289674
+dvb api |DVB API ,-0.6617283576289674
+simplified history |Simplified history ,-0.6617283576289674
+xfwm |Xfwm ,-0.6617283576289674
+volunteer administrator |volunteer administrators ,-0.6617283576289674
+relative success |relative success ,-0.6617283576289674
+hardware abstraction layer |hardware abstraction layer ,-0.6617283576289674
+pc tablet phone |PC tablet phone ,-0.6617283576289674
+register |Register ,-0.6617283576289674
+buckley |Buckley ,-0.6617283576289674
+coauthor |Coauthors ,-0.6617283576289674
+placement and appearance |placement and appearance ,-0.6617283576289674
+base |base ,-0.6617283576289674
+interact |interacts ,-0.6617283576289674
+third-party component |third-party components ,-0.6617283576289674
+customer-premises equipment cpe hardware |customer-premises equipment CPE hardware ,-0.6617283576289674
+faster boot |faster boot ,-0.6617283576289674
+accidental revolutionary |Accidental Revolutionary ,-0.6617283576289674
+significant example |significant example ,-0.6617283576289674
+major desktop environments gnome |major desktop environments GNOME ,-0.6617283576289674
+client |clients ,-0.6617283576289674
+pdf |PDF ,-0.6617283576289674
+hardware manufacturer |hardware manufacturers ,-0.6617283576289674
+computer architecture support |computer architecture support ,-0.6617283576289674
+command shell |command shells ,-0.6617283576289674
+desktop experience |desktop experience ,-0.6617283576289674
+gparted project |GParted project ,-0.6617283576289674
+terminal mode |terminal mode ,-0.6617283576289674
+general system security |general system security ,-0.6617283576289674
+debian project |Debian project ,-0.6617283576289674
+desktop performance |desktop performance ,-0.6617283576289674
+system family linux |system Family Linux ,-0.6617283576289674
+portable music player |portable music players ,-0.6617283576289674
+allusion |allusion ,-0.6617283576289674
+beta testing |beta testing ,-0.6617283576289674
+indian state |Indian state ,-0.6617283576289674
+game developer |game developers ,-0.6617283576289674
+linux guide |Linux Guide ,-0.6617283576289674
+different software package |different software packages ,-0.6617283576289674
+ibm xl c c compiler |IBM XL C C Compiler ,-0.6617283576289674
+fit other device |fit other devices ,-0.6617283576289674
+vast body |vast body ,-0.6617283576289674
+keyboard magazine |Keyboard Magazine ,-0.6617283576289674
+common feature |common feature ,-0.6617283576289674
+extensive desktop environment |extensive desktop environments ,-0.6617283576289674
+common free software license |common free software license ,-0.6617283576289674
+oracle suse |Oracle SUSE ,-0.6617283576289674
+netfilter linux security module |Netfilter Linux Security Modules ,-0.6617283576289674
+packaged software |packaged software ,-0.6617283576289674
+team fortress |Team Fortress ,-0.6617283576289674
+bash homepage |Bash homepage ,-0.6617283576289674
+geany |Geany ,-0.6617283576289674
+qt widget toolkit |Qt widget toolkits ,-0.6617283576289674
+linux comparison |Linux Comparison ,-0.6617283576289674
+awk sed |awk sed ,-0.6617283576289674
+great |Great ,-0.6617283576289674
+community edit |Community edit ,-0.6617283576289674
+specialized uses edit |Specialized uses edit ,-0.6617283576289674
+programmer |programmers ,-0.6617283576289674
+schrecker |Schrecker ,-0.6617283576289674
+specific topic |specific topic ,-0.6617283576289674
+byte |byte ,-0.6617283576289674
+lumma |Lumma ,-0.6617283576289674
+eissfeldt |Eissfeldt ,-0.6617283576289674
+common platform |common platforms ,-0.6617283576289674
+individual application window |individual application windows ,-0.6617283576289674
+industrial light magic |Industrial Light Magic ,-0.6617283576289674
+proprietary solution |proprietary solution ,-0.6617283576289674
+system daemon |System daemons ,-0.6617283576289674
+turbo basic programming |Turbo BASIC programming ,-0.6617283576289674
+common unix tool |common Unix tools ,-0.6617283576289674
+non-obvious but quite central role |non-obvious but quite central role ,-0.6617283576289674
+samsung z smartphone |Samsung Z smartphones ,-0.6617283576289674
+security exploit |security exploits ,-0.6617283576289674
+netbook-specific comparison distribution |Netbook-specific comparison Distributions ,-0.6617283576289674
+etrax cri |ETRAX CRIS ,-0.6617283576289674
+linux user groups lug |Linux User Groups LUGs ,-0.6617283576289674
+lxde or xfce |LXDE or Xfce ,-0.6617283576289674
+loongson processor family |Loongson processor family ,-0.6617283576289674
+firefox os architecture |Firefox OS architecture ,-0.6617283576289674
+dozen distribution |dozen distributions ,-0.6617283576289674
+wholehogiii run |WholeHogIII runs ,-0.6617283576289674
+communities combine |communities combine ,-0.6617283576289674
+header file |header files ,-0.6617283576289674
+knoppix distribution |Knoppix distribution ,-0.6617283576289674
+command-line interface cli |command-line interface CLI ,-0.6617283576289674
+diversity |diversity ,-0.6617283576289674
+dozen |dozens ,-0.6617283576289674
+offering graphical front-end |offering graphical front-ends ,-0.6617283576289674
+popular x display server |popular X display servers ,-0.6617283576289674
+linus torvalds joke |Linus Torvalds Jokes ,-0.6617283576289674
+efficiency |efficiency ,-0.6617283576289674
+established computing standard |established computing standards ,-0.6617283576289674
+alsa |ALSA ,-0.6617283576289674
+system rescue edit |System rescue edit ,-0.6617283576289674
+system development |system development ,-0.6617283576289674
+difficulty |difficulty ,-0.6617283576289674
+home affair |Home Affairs ,-0.6617283576289674
+openrc |OpenRC ,-0.6617283576289674
+request |requests ,-0.6617283576289674
+matta |Mattas ,-0.6617283576289674
+socket |socket ,-0.6617283576289674
+cite template |cite templates ,-0.6617283576289674
+freely available code |freely available code ,-0.6617283576289674
+acer aspire one shipping |Acer Aspire One shipping ,-0.6617283576289674
+asus eee pc |ASUS Eee PC ,-0.6617283576289674
+commons quotation |Commons Quotations ,-0.6617283576289674
+animosity |animosity ,-0.6617283576289674
+wikisource textbook |Wikisource Textbooks ,-0.6617283576289674
+human machine interface |human machine interface ,-0.6617283576289674
+film production |Film production ,-0.6617283576289674
+security and appearance |security and appearance ,-0.6617283576289674
+locale |locales ,-0.6617283576289674
+computer hardware platform |computer hardware platforms ,-0.6617283576289674
+ease |ease ,-0.6617283576289674
+embedded devices edit |Embedded devices edit ,-0.6617283576289674
+revenue |revenue ,-0.6617283576289674
+provision |provisions ,-0.6617283576289674
+apc magazine |APC Magazine ,-0.6617283576289674
+joe ossanna |Joe Ossanna ,-0.6617283576289674
+localized system |localized system ,-0.6617283576289674
+plan |plans ,-0.6617283576289674
+step |steps ,-0.6617283576289674
+linux code |Linux code ,-0.6617283576289674
+enlightenment foundation libraries efl |Enlightenment Foundation Libraries EFL ,-0.6617283576289674
+customer |customers ,-0.6617283576289674
+unix-like system |Unix-like systems ,-0.6617283576289674
+gnu copyright |GNU copyright ,-0.6617283576289674
+deep discount |deep discounts ,-0.6617283576289674
+crossover |CrossOver ,-0.6617283576289674
+industry association |industry associations ,-0.6617283576289674
+webo |webOS ,-0.6617283576289674
+convergence |convergence ,-0.6617283576289674
+gnu c library glibc |GNU C Library glibc ,-0.6617283576289674
+integrated development environment |Integrated development environments ,-0.6617283576289674
+ashurst |Ashurst ,-0.6617283576289674
+yum |yum ,-0.6617283576289674
+pricing |pricing ,-0.6617283576289674
+components and installation edit |Components and installation edit ,-0.6617283576289674
+alternative cross-platform open-source compiler |alternative cross-platform open-source compiler ,-0.6617283576289674
+graphic |Graphics ,-0.6617283576289674
+invention freax |invention Freax ,-0.6617283576289674
+low-level element |low-level elements ,-0.6617283576289674
+chromebook |Chromebooks ,-0.6617283576289674
+source game engine |Source game engine ,-0.6617283576289674
+linux exclusively |Linux exclusively ,-0.6617283576289674
+mainstream architecture |mainstream architectures ,-0.6617283576289674
+codelite |CodeLite ,-0.6617283576289674
+repetitive or delayed task |repetitive or delayed tasks ,-0.6617283576289674
+graphical user interface or gui |graphical user interface or GUI ,-0.6617283576289674
+software comparison |software Comparison ,-0.6617283576289674
+linux system administrator |Linux System Administrator ,-0.6617283576289674
+hostile environment |hostile environment ,-0.6617283576289674
+minix and application |MINIX and applications ,-0.6617283576289674
+tactic |tactic ,-0.6617283576289674
+usage or development |usage or development ,-0.6617283576289674
+robin |Robin ,-0.6617283576289674
+calloc |calloc ,-0.6617283576289674
+techweekeurope |TechWeekEurope ,-0.6617283576289674
+common practice |common practice ,-0.6617283576289674
+development kit |development kits ,-0.6617283576289674
+condition |condition ,-0.6617283576289674
+sublicense agreement |sublicense agreement ,-0.6617283576289674
+different purposes including |different purposes including ,-0.6617283576289674
+lawrence livermore |Lawrence Livermore ,-0.6617283576289674
+steam game |Steam games ,-0.6617283576289674
+hand-held arm-based ipaq |hand-held ARM-based iPAQ ,-0.6617283576289674
+common usage |common usage ,-0.6617283576289674
+recording mastering |Recording Mastering ,-0.6617283576289674
+mythbuntu |Mythbuntu ,-0.6617283576289674
+graphical user interface gui |graphical user interface GUI ,-0.6617283576289674
+linux web development tool |Linux Web development tools ,-0.6617283576289674
+rise and rise |rise and rise ,-0.6617283576289674
+certifying linux |Certifying Linux ,-0.6617283576289674
+peripheral and file system access |peripheral and file system access ,-0.6617283576289674
+jake edge |Jake Edge ,-0.6617283576289674
+general-purpose distribution |general-purpose distribution ,-0.6617283576289674
+network connection |network connection ,-0.6617283576289674
+originating source code |originating source code ,-0.6617283576289674
+d-bus and pulseaudio |D-Bus and PulseAudio ,-0.6617283576289674
+attention |attention ,-0.6617283576289674
+open ioctl write mmap |open ioctl write mmap ,-0.6617283576289674
+major studio |major studios ,-0.6617283576289674
+resource overhead |resource overhead ,-0.6617283576289674
+server use |server use ,-0.6617283576289674
+infoworld |InfoWorld ,-0.6617283576289674
+qt project |Qt Project ,-0.6617283576289674
+home theater system |Home theater system ,-0.6617283576289674
+kernel-related matter |kernel-related matters ,-0.6617283576289674
+basic operating system task |basic operating system tasks ,-0.6617283576289674
+process control |process control ,-0.6617283576289674
+person |persons ,-0.6617283576289674
+mythtv media center software |MythTV media center software ,-0.6617283576289674
+original unix |original Unix ,-0.6617283576289674
+local developer |local developers ,-0.6617283576289674
+erinn |erinn ,-0.6617283576289674
+xo laptop project |XO laptop project ,-0.6617283576289674
+million |millions ,-0.6617283576289674
+debian-based distribution |Debian-based distribution ,-0.6617283576289674
+video input device |video input devices ,-0.6617283576289674
+good userspace device library |good userspace device library ,-0.6617283576289674
+major linux distribution |major Linux distributions ,-0.6617283576289674
+goal |goal ,-0.6617283576289674
+full ubuntu desktop |full Ubuntu desktop ,-0.6617283576289674
+in-vehicle infotainment ivi system |in-vehicle infotainment IVI systems ,-0.6617283576289674
+state high school |state high schools ,-0.6617283576289674
+block |Blocks ,-0.6617283576289674
+openwrt |OpenWrt ,-0.6617283576289674
+archives linux |archives Linux ,-0.6617283576289674
+linux storms hollywood |Linux Storms Hollywood ,-0.6617283576289674
+linux shares similar architecture |Linux shares similar architecture ,-0.6617283576289674
+posix standard |POSIX standard ,-0.6617283576289674
+graphical environment |graphical environments ,-0.6617283576289674
+pvt |Pvt ,-0.6617283576289674
+openmoko |Openmoko ,-0.6617283576289674
+manufacturer-created operating system |manufacturer-created operating system ,-0.6617283576289674
+software community |software community ,-0.6617283576289674
+inconsistent citation formats page |inconsistent citation formats Pages ,-0.6617283576289674
+computer architecture |computer architectures ,-0.6617283576289674
+specialized gaming platform |specialized gaming platform ,-0.6617283576289674
+d-bus or pulseaudio |D-Bus or PulseAudio ,-0.6617283576289674
+principal author |principal author ,-0.6617283576289674
+debian org |debian org ,-0.6617283576289674
+radio |radio ,-0.6617283576289674
+digital tv reception |digital TV reception ,-0.6617283576289674
+multilingual platforms alpha |Multilingual Platforms Alpha ,-0.6617283576289674
+computer science |computer science ,-0.6617283576289674
+shared commonality |shared commonality ,-0.6617283576289674
+leading operating system |leading operating system ,-0.6617283576289674
+oldest son |oldest son ,-0.6617283576289674
+survey |survey ,-0.6617283576289674
+xbasic |XBasic ,-0.6617283576289674
+analysts and proponent |Analysts and proponents ,-0.6617283576289674
+computerworld |Computerworld ,-0.6617283576289674
+majority |majority ,-0.6617283576289674
+kernel module |kernel modules ,-0.6617283576289674
+large animation |large animation ,-0.6617283576289674
+jump |Jump ,-0.6617283576289674
+hundred distribution |hundred distributions ,-0.6617283576289674
+go and fortran |Go and Fortran ,-0.6617283576289674
+application software package |application software packages ,-0.6617283576289674
+network transparency |network transparency ,-0.6617283576289674
+output |output ,-0.6617283576289674
+high-end field |high-end field ,-0.6617283576289674
+removing software |removing software ,-0.6617283576289674
+corresponding toolkit gtk |corresponding toolkit GTK ,-0.6617283576289674
+pool |pool ,-0.6617283576289674
+gnu compiler collection gcc |GNU Compiler Collection GCC ,-0.6617283576289674
+intuit application |Intuit applications ,-0.6617283576289674
+minix component |MINIX components ,-0.6617283576289674
+coreboot |Coreboot ,-0.6617283576289674
+pub linux kernel sillysound |pub linux kernel SillySounds ,-0.6617283576289674
+couple |couple ,-0.6617283576289674
+journal cnet |Journal CNET ,-0.6617283576289674
+seattle post-intelligencer |Seattle Post-Intelligencer ,-0.6617283576289674
+differentiate linux distribution |differentiate Linux distributions ,-0.6617283576289674
+funding |funding ,-0.6617283576289674
+trolltech |Trolltech ,-0.6617283576289674
+linux tux |Linux Tux ,-0.6617283576289674
+linux vendors and communities combine |Linux vendors and communities combine ,-0.6617283576289674
+measuring desktop adoption |Measuring desktop adoption ,-0.6617283576289674
+file system access |file system access ,-0.6617283576289674
+krane |Krane ,-0.6617283576289674
+externally visible component |externally visible components ,-0.6617283576289674
+store |store ,-0.6617283576289674
+ditches android |ditches Android ,-0.6617283576289674
+proprietary desktop application |proprietary desktop applications ,-0.6617283576289674
+recipient |recipient ,-0.6617283576289674
+story |Story ,-0.6617283576289674
+fully functional |fully functional ,-0.6617283576289674
+quickbasic |QuickBASIC ,-0.6617283576289674
+government |Government ,-0.6617283576289674
+greater than one percent |Greater Than One Percent ,-0.6617283576289674
+simpler x window manager |Simpler X window managers ,-0.6617283576289674
+syslinux |SYSLINUX ,-0.6617283576289674
+introduction |introduction ,-0.6617283576289674
+fault virtual memory storage access |fault Virtual memory Storage access ,-0.6617283576289674
+idea |idea ,-0.6617283576289674
+linux edit most linux distribution |Linux edit Most Linux distributions ,-0.6617283576289674
+windows version |Windows versions ,-0.6617283576289674
+linux-kernel-mailing-list mailing list |linux-kernel-mailing-list mailing list ,-0.6617283576289674
+on-line dictionary |On-Line Dictionary ,-0.6617283576289674
+linux format open source |Linux Format Open Source ,-0.6617283576289674
+use list |use List ,-0.6617283576289674
+unix shell |Unix shell ,-0.6617283576289674
+modification |modifications ,-0.6617283576289674
+portage |Portage ,-0.6617283576289674
+gnu userland |GNU userland ,-0.6617283576289674
+major part |major part ,-0.6617283576289674
+autodesk maya |Autodesk Maya ,-0.6617283576289674
+quick guide |Quick Guide ,-0.6617283576289674
+fr-v |FR-V ,-0.6617283576289674
+user application |user applications ,-0.6617283576289674
+mainframe computer |mainframe computers ,-0.6617283576289674
+popular game distribution platform |popular game distribution platform ,-0.6617283576289674
+neutralizing law |Neutralizing Laws ,-0.6617283576289674
+xitimonitor |XiTiMonitor ,-0.6617283576289674
+web standard |web standards ,-0.6617283576289674
+cp m |CP M ,-0.6617283576289674
+widely used operating system |widely used operating system ,-0.6617283576289674
+expression |expression ,-0.6617283576289674
+open standard |Open standards ,-0.6617283576289674
+gnu project initial announcement |GNU Project Initial Announcement ,-0.6617283576289674
+mozilla developer network |Mozilla Developer Network ,-0.6617283576289674
+graphical user environment |graphical user environment ,-0.6617283576289674
+web interactivity |Web Interactivity ,-0.6617283576289674
+accompanying desktop environment |accompanying desktop environment ,-0.6617283576289674
+future |future ,-0.6617283576289674
+low-level system component |Low-level system components ,-0.6617283576289674
+superh |SuperH ,-0.6617283576289674
+specific purpose |specific purpose ,-0.6617283576289674
+copyleft piece |copyleft piece ,-0.6617283576289674
+palm pre smartphone |Palm Pre smartphones ,-0.6617283576289674
+security ring |Security rings ,-0.6617283576289674
+internet xiti |Internet XiTi ,-0.6617283576289674
+synthesizer |synthesizers ,-0.6617283576289674
+blackberry share slide |BlackBerry Share Slides ,-0.6617283576289674
+original unix or minix |original Unix or MINIX ,-0.6617283576289674
+torvalds state |Torvalds states ,-0.6617283576289674
+s core |S core ,-0.6617283576289674
+firmware initialization |firmware initialization ,-0.6617283576289674
+microsoft operating system |Microsoft operating systems ,-0.6617283576289674
+prominent software |prominent software ,-0.6617283576289674
+differing oss application |differing OSS applications ,-0.6617283576289674
+website hosting |website hosting ,-0.6617283576289674
+available worldwide |Available Worldwide ,-0.6617283576289674
+openoffice org libreoffice |OpenOffice org LibreOffice ,-0.6617283576289674
+earliest mobile os |earliest mobile OSes ,-0.6617283576289674
+older or less powerful computer |older or less powerful computers ,-0.6617283576289674
+integration |integration ,-0.6617283576289674
+government linux distribution |government Linux distributions ,-0.6617283576289674
+sample |Samples ,-0.6617283576289674
+embedded linux and linux device |Embedded Linux and Linux devices ,-0.6617283576289674
+gummiboot |Gummiboot ,-0.6617283576289674
+non-commercially |non-commercially ,-0.6617283576289674
+maker |makers ,-0.6617283576289674
+pedro |Pedro ,-0.6617283576289674
+commercial distribution |commercial distributions ,-0.6617283576289674
+meeting |meetings ,-0.6617283576289674
+popular contemporary operating system |popular contemporary operating systems ,-0.6617283576289674
+specialized business version |specialized business version ,-0.6617283576289674
+growth |growth ,-0.6617283576289674
+network subsystem other component |Network subsystem Other components ,-0.6617283576289674
+low-cost connected laptop |low-cost connected laptop ,-0.6617283576289674
+prohibit free software |Prohibit Free Software ,-0.6617283576289674
+microprocessor report |Microprocessor Report ,-0.6617283576289674
+defining component |defining component ,-0.6617283576289674
+google chrome browser |Google Chrome browser ,-0.6617283576289674
+graciously |graciously ,-0.6617283576289674
+strategist |Strategist ,-0.6617283576289674
+wayland phoronix |Wayland Phoronix ,-0.6617283576289674
+dell |Dell ,-0.6617283576289674
+popular uptake edit |popular uptake edit ,-0.6617283576289674
+softimage xsi |Softimage XSI ,-0.6617283576289674
+commitment |commitment ,-0.6617283576289674
+sinhalese citation |Sinhalese citation ,-0.6617283576289674
+different degree |different degrees ,-0.6617283576289674
+gigabuck |Gigabuck ,-0.6617283576289674
+general-purpose use |general-purpose use ,-0.6617283576289674
+lvm |LVM ,-0.6617283576289674
+computer geeks anymore |Computer Geeks Anymore ,-0.6617283576289674
+visible software component |Visible software components ,-0.6617283576289674
+whitwam |Whitwam ,-0.6617283576289674
+windows option citation |Windows option citation ,-0.6617283576289674
+userspace application |userspace applications ,-0.6617283576289674
+b beer |b Beer ,-0.6617283576289674
+open-source graphics device driver comparison |open-source graphics device driver Comparison ,-0.6617283576289674
+schoolchildren |schoolchildren ,-0.6617283576289674
+chicken |Chicken ,-0.6617283576289674
+tizen software |Tizen software ,-0.6617283576289674
+cell phone |Cell phones ,-0.6617283576289674
+star trek |Star Trek ,-0.6617283576289674
+systemd runit logind networkd soundd |systemd runit logind networkd soundd ,-0.6617283576289674
+techrepublic |TechRepublic ,-0.6617283576289674
+leading os |leading OS ,-0.6617283576289674
+linux version |Linux version ,-0.6617283576289674
+media center software xbmc |media center software XBMC ,-0.6617283576289674
+significant amount |significant amount ,-0.6617283576289674
+current development edit |Current development edit ,-0.6617283576289674
+distro |distros ,-0.6617283576289674
+amor |Amor ,-0.6617283576289674
+additional audio system |additional audio system ,-0.6617283576289674
+audio guide |audio guide ,-0.6617283576289674
+community driven example |community driven example ,-0.6617283576289674
+wikiquote source text |Wikiquote Source texts ,-0.6617283576289674
+pa-risc |PA-RISC ,-0.6617283576289674
+linux market share |Linux market share ,-0.6617283576289674
+general purpose use |general purpose use ,-0.6617283576289674
+quickbook |QuickBooks ,-0.6617283576289674
+supported platform |supported platform ,-0.6617283576289674
+egotistical |egotistical ,-0.6617283576289674
+activestate komodo |ActiveState Komodo ,-0.6617283576289674
+b galli |b Galli ,-0.6617283576289674
+default mode |default mode ,-0.6617283576289674
+copyright holder |copyright holders ,-0.6617283576289674
+prominent os |prominent OSes ,-0.6617283576289674
+trademark linux |trademark Linux ,-0.6617283576289674
+perpetual sublicense terminate |Perpetual sublicense terminates ,-0.6617283576289674
+anand |Anand ,-0.6617283576289674
+stackoverflow |stackoverflow ,-0.6617283576289674
+loose-knit team |loose-knit teams ,-0.6617283576289674
+confined usage range |confined usage range ,-0.6617283576289674
+academic institutions and business |academic institutions and businesses ,-0.6617283576289674
+linux network scheduler |Linux Network Scheduler ,-0.6617283576289674
+major platform |major platforms ,-0.6617283576289674
+tablet sale |tablet sales ,-0.6617283576289674
+film industry |film industry ,-0.6617283576289674
+volunteer |volunteers ,-0.6617283576289674
+c via mono vala |C via Mono Vala ,-0.6617283576289674
+acp magazine |ACP Magazines ,-0.6617283576289674
+extent |extent ,-0.6617283576289674
+device mapper |device mapper ,-0.6617283576289674
+major operating system |major operating systems ,-0.6617283576289674
+wayland architecture |Wayland Architecture ,-0.6617283576289674
+technical support |technical support ,-0.6617283576289674
+open-source platform |open-source platforms ,-0.6617283576289674
+gtk and clutter software |GTK and Clutter software ,-0.6617283576289674
+massachusetts |Massachusetts ,-0.6617283576289674
+embedded programming language |embedded programming language ,-0.6617283576289674
+ada |Ada ,-0.6617283576289674
+william r della croce |William R Della Croce ,-0.6617283576289674
+dreamworks animation pixar weta digital |DreamWorks Animation Pixar Weta Digital ,-0.6617283576289674
+european company |European company ,-0.6617283576289674
+proprietary support package |proprietary support packages ,-0.6617283576289674
+corresponding toolkit gtk or qt |corresponding toolkit GTK or Qt ,-0.6617283576289674
+google press center |Google Press Center ,-0.6617283576289674
+schofield |Schofield ,-0.6617283576289674
+input and output |input and output ,-0.6617283576289674
+supercomputers edit |supercomputers edit ,-0.6617283576289674
+hexagon |Hexagon ,-0.6617283576289674
+kernel source code |kernel source code ,-0.6617283576289674
+wine-devel mailing list |wine-devel mailing list ,-0.6617283576289674
+b c wheeler |b c Wheeler ,-0.6617283576289674
+kegel |Kegel ,-0.6617283576289674
+wikiversity linux |Wikiversity Linux ,-0.6617283576289674
+xlib |Xlib ,-0.6617283576289674
+ubuntu touch |Ubuntu Touch ,-0.6617283576289674
+c programming language |C programming language ,-0.6617283576289674
+trend |trend ,-0.6617283576289674
+high-performance |high-performance ,-0.6617283576289674
+content |Contents ,-0.6617283576289674
+traditional sysvinit |traditional sysvinit ,-0.6617283576289674
+different computer platform |different computer platforms ,-0.6617283576289674
+developer interest |developer interest ,-0.6617283576289674
+conflict |Conflicts ,-0.6617283576289674
+shade |Shades ,-0.6617283576289674
+web server statistic |web server statistics ,-0.6617283576289674
+frank |Frank ,-0.6617283576289674
+europarl europa eu |Europarl europa eu ,-0.6617283576289674
+date |date ,-0.6617283576289674
+jeos philosophy |JeOS philosophy ,-0.6617283576289674
+tor browser bundle |Tor Browser Bundle ,-0.6617283576289674
+desktop edit |Desktop edit ,-0.6617283576289674
+older |older ,-0.6617283576289674
+byfield |Byfield ,-0.6617283576289674
+significant business |significant business ,-0.6617283576289674
+front |fronts ,-0.6617283576289674
+smart device |smart devices ,-0.6617283576289674
+ansi standard |ANSI standards ,-0.6617283576289674
+relationship |relationship ,-0.6617283576289674
+origins and history |Origins and History ,-0.6617283576289674
+popular game |popular games ,-0.6617283576289674
+gnu emac |GNU Emacs ,-0.6617283576289674
+global smartphone shipment |Global Smartphone Shipments ,-0.6617283576289674
+runtime environment and user interface |runtime environment and user interface ,-0.6617283576289674
+suse linux enterprise server |SUSE Linux Enterprise Server ,-0.6617283576289674
+official institution |official institutions ,-0.6617283576289674
+respect |respect ,-0.6617283576289674
+jikesrvm |JikesRVM ,-0.6617283576289674
+network firewall |network firewalls ,-0.6617283576289674
+monodevelop |MonoDevelop ,-0.6617283576289674
+regular expression |regular expressions ,-0.6617283576289674
+legal complication |legal complications ,-0.6617283576289674
+ld-linux |ld-linux ,-0.6617283576289674
+windows compatibility layer |Windows compatibility layer ,-0.6617283576289674
+developing world |developing world ,-0.6617283576289674
+codeweaver |CodeWeavers ,-0.6617283576289674
+vendor lock-in |vendor lock-in ,-0.6617283576289674
+alternative |alternatives ,-0.6617283576289674
+blogger |Blogger ,-0.6617283576289674
+dup |dup ,-0.6617283576289674
+standard c program |standard C programs ,-0.6617283576289674
+separate virtual console |separate virtual console ,-0.6617283576289674
+exec |exec ,-0.6617283576289674
+forum |forum ,-0.6617283576289674
+larger framework |larger framework ,-0.6617283576289674
+samsung product |Samsung products ,-0.6617283576289674
+linux kernel free software |Linux Kernel Free Software ,-0.6617283576289674
+apparmor |AppArmor ,-0.6617283576289674
+sublicense holder |sublicense holders ,-0.6617283576289674
+prominent example |prominent examples ,-0.6617283576289674
+rackspace most reliable hoster |Rackspace Most Reliable Hoster ,-0.6617283576289674
+help info |help info ,-0.6617283576289674
+longest |longest ,-0.6617283576289674
+online forum |Online forums ,-0.6617283576289674
+traditional specific-purpose programming language |traditional specific-purpose programming languages ,-0.6617283576289674
+linux timeline |Linux Timeline ,-0.6617283576289674
+dri |DRI ,-0.6617283576289674
+linux watch |Linux Watch ,-0.6617283576289674
+original development tool |original development tools ,-0.6617283576289674
+guardian london |Guardian London ,-0.6617283576289674
+gtk and qt widget toolkit |GTK and Qt widget toolkits ,-0.6617283576289674
+design edit |Design edit ,-0.6617283576289674
+inter |Inter ,-0.6617283576289674
+clutter software |Clutter software ,-0.6617283576289674
+common implementation |common implementation ,-0.6617283576289674
+web server survey |Web Server Survey ,-0.6617283576289674
+shine |shine ,-0.6617283576289674
+extension free software |extension free software ,-0.6617283576289674
+controversial topic citation |controversial topic citation ,-0.6617283576289674
+arc |ARC ,-0.6617283576289674
+nokia x |Nokia X ,-0.6617283576289674
+mainframe-based enterprise linux server |mainframe-based Enterprise Linux Server ,-0.6617283576289674
+mit license |MIT License ,-0.6617283576289674
+exit |exit ,-0.6617283576289674
+cite |Cite ,-0.6617283576289674
+additional data recovery |additional data recovery ,-0.6617283576289674
+specific user group |specific user groups ,-0.6617283576289674
+commercial version |commercial version ,-0.6617283576289674
+estimated market share |estimated market share ,-0.6617283576289674
+gimp |GIMP ,-0.6617283576289674
+apple shake |Apple Shake ,-0.6617283576289674
+kind |kind ,-0.6617283576289674
+commercial linux distribution |commercial Linux distribution ,-0.6617283576289674
+money |money ,-0.6617283576289674
+cover disks including software |cover disks including software ,-0.6617283576289674
+commercial redistribution |commercial redistribution ,-0.6617283576289674
+cities and region |cities and regions ,-0.6617283576289674
+jack wallen |Jack Wallen ,-0.6617283576289674
+stage lighting control system |stage lighting control systems ,-0.6617283576289674
+hut |HUT ,-0.6617283576289674
+linux certification |Linux Certification ,-0.6617283576289674
+linux desktop market share |Linux Desktop Market Share ,-0.6617283576289674
+conventional mean |conventional means ,-0.6617283576289674
+steam and source engine |Steam and Source Engine ,-0.6617283576289674
+commercial supplier |commercial suppliers ,-0.6617283576289674
+kde plasma desktop citation |KDE Plasma Desktop citation ,-0.6617283576289674
+b anatomy |b Anatomy ,-0.6617283576289674
+yum extender |Yum Extender ,-0.6617283576289674
+linux-derived operating system |Linux-derived operating system ,-0.6617283576289674
+commercial interest |commercial interests ,-0.6617283576289674
+part i video |Part I Video ,-0.6617283576289674
+gist |gist ,-0.6617283576289674
+c rte-real |C rte-Real ,-0.6617283576289674
+commonly used software library |commonly used software library ,-0.6617283576289674
+solution stack |solution stack ,-0.6617283576289674
+dominant shell |dominant shell ,-0.6617283576289674
+yast |YAST ,-0.6617283576289674
+linux users and developer |Linux users and developers ,-0.6617283576289674
+system repair software |system repair software ,-0.6617283576289674
+graphical application |graphical application ,-0.6617283576289674
+gnu kernel |GNU kernel ,-0.6617283576289674
+language localization |language localization ,-0.6617283576289674
+cifaldi |Cifaldi ,-0.6617283576289674
+lack |lack ,-0.6617283576289674
+korg krono |Korg KRONOS ,-0.6617283576289674
+faqs org |Faqs org ,-0.6617283576289674
+synaptic package manager |Synaptic Package Manager ,-0.6617283576289674
+wider adoption |wider adoption ,-0.6617283576289674
+popular application |popular applications ,-0.6617283576289674
+inexpensive minimal unix-like operating system |inexpensive minimal Unix-like operating system ,-0.6617283576289674
+fedora linux |Fedora Linux ,-0.6617283576289674
+uclinux |uClinux ,-0.6617283576289674
+cross-platform software unix |Cross-platform software Unix ,-0.6617283576289674
+development edit |Development edit ,-0.6617283576289674
+commercial red hat enterprise linux |commercial Red Hat Enterprise Linux ,-0.6617283576289674
+system configuration |system configuration ,-0.6617283576289674
+widget toolkit |Widget toolkits ,-0.6617283576289674
+server market |server market ,-0.6617283576289674
+eweek ziff davis enterprise |eWEEK Ziff Davis Enterprise ,-0.6617283576289674
+ftp server ftp funet fi |FTP server ftp funet fi ,-0.6617283576289674
+andalusia |Andalusia ,-0.6617283576289674
+ebay |eBay ,-0.6617283576289674
+years linux |years Linux ,-0.6617283576289674
+linux-based os |Linux-based OS ,-0.6617283576289674
+origin |Origins ,-0.6617283576289674
+lamp software bundle |LAMP software bundle ,-0.6617283576289674
+smack hardware cpu main memory |Smack Hardware CPU main memory ,-0.6617283576289674
+andrew d balsa |Andrew D Balsa ,-0.6617283576289674
+eckert |Eckert ,-0.6617283576289674
+summer |summer ,-0.6617283576289674
+unmodified windows application |unmodified Windows applications ,-0.6617283576289674
+b vista |b Vista ,-0.6617283576289674

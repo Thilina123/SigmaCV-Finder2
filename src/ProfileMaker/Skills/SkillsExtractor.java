@@ -1,5 +1,6 @@
 package ProfileMaker.Skills;
 
+import PhraseExtractor.PhraseAnalyzer;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
@@ -13,6 +14,12 @@ import org.jsoup.select.Elements;
  * Created by Thilina on 11/1/2014.
  */
 public class SkillsExtractor {
+    PhraseAnalyzer phraseAnalyzer;
+
+    public SkillsExtractor() {
+        this.phraseAnalyzer = new PhraseAnalyzer();
+    }
+
     public static void main(String[] args){
         SkillsExtractor sk=new SkillsExtractor();
         sk.ExtractSkills("https://www.linkedin.com/in/nisansadds");
@@ -32,6 +39,7 @@ public class SkillsExtractor {
         Elements skillElements = doc != null ? doc.select("span[class=skill-pill]") : null;
         for (Element skillElement : skillElements) {
             System.out.println(skillElement.text());
+//            writeFile();
             wiki.GetTerms(skillElement.text());
         }
     }

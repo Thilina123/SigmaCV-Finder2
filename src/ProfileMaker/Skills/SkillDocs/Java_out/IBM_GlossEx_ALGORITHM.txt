@@ -1,0 +1,925 @@
+periplus edition |Periplus Editions ,-0.6444381648675372
+java java |Java Java ,-0.6767314447891211
+east java |East Java ,-0.7277651260599397
+central java |central Java |Central Java ,-0.7574723389599562
+west java |West Java ,-0.7910139801835578
+java island |Java island |Java Island ,-0.8051009933672836
+java indonesia |Java Indonesia ,-0.836378840875717
+deprecated parameter |deprecated parameters ,-0.8386275201098029
+java javanese |Java Javanese ,-0.8450467385475536
+java and bali |Java and Bali ,-0.8562534462927882
+hong kong |Hong Kong ,-0.8764949508217132
+population and area |population and area ,-0.9305091713004717
+central and eastern java |central and eastern Java ,-0.9352783497159775
+java bali |Java Bali ,-0.9746698826131892
+eastern java |eastern Java ,-0.9806911972871419
+java bali and madura |Java Bali and Madura ,-0.9842337446839545
+western java |western Java |Western Java ,-0.9864670498733001
+javanese culture |Javanese culture ,-1.004194443198875
+indonesian island |Indonesian island ,-1.0074849591354091
+hayam wuruk |Hayam Wuruk ,-1.0115593757185146
+population growth |population growth ,-1.0162421955681333
+ancient time |ancient times ,-1.0190283521409458
+indonesian population |Indonesian population ,-1.0277259202102256
+religions and culture |religions and cultures ,-1.032006472890705
+semarang east java |Semarang East Java ,-1.0463532673545095
+nusa tenggara |Nusa Tenggara ,-1.051598024625104
+bandung central java |Bandung Central Java ,-1.0551164232750687
+coastal java |coastal Java ,-1.0556889728795906
+jakarta indonesia |Jakarta Indonesia ,-1.0621689002809651
+jakarta and bandung |Jakarta and Bandung ,-1.0652391515616526
+indonesia and music |Indonesia and Music ,-1.0765552455348504
+city population |City Population ,-1.0782227441782979
+java north coast road indonesian |Java North Coast Road Indonesian ,-1.0823761657534183
+java word |Java word ,-1.0844418926241954
+java man |Java Man ,-1.0844418926241954
+java native |Java Native ,-1.0844418926241954
+java spread |Java Spread ,-1.0844418926241954
+serang west java |Serang West Java ,-1.086051977921256
+java transportation network java |Java transportation network Java ,-1.0903310444070147
+north coast |north coast ,-1.0936390479381748
+islamic kingdom |Islamic kingdoms ,-1.1068213271267018
+eastern island |eastern islands ,-1.1112136759380193
+central jakarta |Central Jakarta ,-1.1124813011506909
+ethnicity and culture edit |Ethnicity and culture edit ,-1.1134478000210197
+large number |large numbers ,-1.116863790965076
+ethnic group |ethnic groups ,-1.116863790965076
+languages edit language |Languages edit Languages ,-1.1181151391610087
+java sea |Java Sea ,-1.1190346466330654
+jakarta region |Jakarta region ,-1.1217854832738419
+javanese religion |Javanese Religion ,-1.1218194449507246
+yogyakarta and surakarta |Yogyakarta and Surakarta ,-1.1223924823309097
+colonial period |colonial period ,-1.1251595776153254
+islamic sultanate |Islamic sultanates ,-1.125335147177946
+java programming language |Java programming language ,-1.1263674615825452
+surrounding sundanese and javanese |surrounding Sundanese and Javanese ,-1.1283615366019573
+ancient javanese kingdom |ancient Javanese kingdom ,-1.1286150335746898
+islam and rise |Islam and rise ,-1.133558357653898
+surabaya and cirebon |Surabaya and Cirebon ,-1.134473531152249
+chinese and indian |Chinese and Indian ,-1.134473531152249
+indonesian archipelago |Indonesian archipelago ,-1.1352263294505307
+eastern javanese kingdom |eastern Javanese kingdoms ,-1.1362631478191285
+culture and language distinct |culture and language distinct ,-1.136384610048233
+north east coast |north east coast ,-1.137250639886541
+rice cultivation |rice cultivation ,-1.1373015569434706
+rice agriculture |rice agriculture ,-1.1373015569434706
+culture edit |culture edit ,-1.1399848019071739
+large population |large population ,-1.1438769069016173
+indonesian history |Indonesian history ,-1.1454247601987437
+ancient kingdom |Ancient kingdoms |ancient kingdom ,-1.1476224887281972
+mountains and highland |mountains and highlands ,-1.14933086492407
+jakarta yogyakarta history edit |Jakarta Yogyakarta History edit ,-1.1635800636117715
+javan environment and climate |Javan environment and climate ,-1.1674255534901752
+large hindu population |large Hindu population ,-1.1679357688807124
+sunda kingdom |Sunda kingdom |Sunda kingdoms ,-1.168230115215242
+java great post road |Java Great Post Road ,-1.1711153712256905
+chinese indonesian |Chinese Indonesian |Chinese Indonesians ,-1.1839084702816487
+indonesia urban city population |Indonesia Urban City Population ,-1.1862500812808598
+major kingdom |major kingdoms ,-1.1863313784334026
+major language |major languages ,-1.1863313784334026
+javanese coffee |Javanese coffee ,-1.1896603319385968
+ujung kulon |Ujung Kulon ,-1.1926033866267876
+east-west spine |east-west spine ,-1.1926033866267876
+dv pa |dv pa ,-1.1926033866267876
+unsourced statement |unsourced statements ,-1.1926033866267876
+special region |special regions ,-1.1939259700584977
+java disambiguation |Java disambiguation ,-1.1942720223469832
+south-central java |south-central Java ,-1.1942720223469832
+java mouse-deer |Java mouse-deer ,-1.1942720223469832
+india and china |India and China ,-1.1955022833389959
+china and india |China and India ,-1.1955022833389959
+indonesian capital city |Indonesian capital city ,-1.1966885826234503
+islamic sultanates edit |Islamic sultanates edit ,-1.1985847834748873
+combined population |combined population ,-1.2020712495993762
+islamic belief |Islamic belief ,-1.2048416144057295
+taruma and sunda kingdom |Taruma and Sunda kingdoms ,-1.20553255609252
+colonial periods edit |Colonial periods edit ,-1.20717421867866
+cirebon semarang and surabaya |Cirebon Semarang and Surabaya ,-1.2077209681908645
+sundanese culture |Sundanese culture ,-1.2083604187296904
+larger island |larger islands ,-1.2084208776154424
+climate and rainfall |climate and rainfall ,-1.2146418904917904
+greater jakarta |Greater Jakarta ,-1.214948810825755
+kejawen javanese culture |kejawen Javanese culture ,-1.2162019080726456
+baduy betawi madurese java indonesian |Baduy Betawi Madurese Java Indonesian ,-1.218905586061701
+indonesian coffee |Indonesian coffee ,-1.2212348996402398
+sundanese and madurese account |Sundanese and Madurese account ,-1.2221290344001727
+periplus editions ltd p |Periplus Editions Ltd p ,-1.2226734461403272
+religious belief |religious belief |religious beliefs ,-1.223207290744409
+dutch colonial period |Dutch colonial period ,-1.2246523255004393
+wet season and road use |wet season and road use ,-1.2262584633484686
+populous island |populous island ,-1.227441409203773
+growing population |growing population ,-1.2275624696491458
+population density |Population Density ,-1.2275624696491458
+dutch east india company |Dutch East India Company ,-1.227949142495739
+highland area |highland areas ,-1.229491328096411
+modern indonesia |Modern Indonesia ,-1.2323667552620239
+great population growth |great population growth ,-1.233532788869498
+official religion |official religions ,-1.2349855943100472
+interior region |interior regions ,-1.2374734709768538
+colonial time |colonial times ,-1.2377614762097031
+official indonesian religion |official Indonesian religions ,-1.2384453118559526
+eastern coast |eastern coast ,-1.2398462506949823
+javanese king |Javanese kings ,-1.2400387305826486
+four province |four provinces ,-1.2409104650330844
+volcanic mountain |volcanic mountains ,-1.2409104650330844
+rice field |rice field |rice fields ,-1.241327230662702
+javan rhino |Javan rhino ,-1.241327230662702
+javan environment |Javan environment ,-1.2420076423918118
+rice land |rice lands ,-1.2420076423918118
+dominant language |dominant language ,-1.2420076423918118
+small kingdom |small kingdoms ,-1.2420076423918118
+nusa tenggara and maluku |Nusa Tenggara and Maluku ,-1.2423049798087507
+british empire |British Empire ,-1.2437134863698942
+major river |major rivers ,-1.2467266892104645
+hindu-buddhist kingdoms era edit |Hindu-Buddhist kingdoms era edit ,-1.2484675084959553
+developed island |developed island ,-1.2487707974086821
+colonial government |colonial government ,-1.2511494109576096
+wet season |wet season ,-1.2512763045164206
+south coast |south coast ,-1.2517910624923398
+special capital region |Special Capital Region ,-1.2563051424193779
+pre-islamic and islamic lore |pre-Islamic and Islamic lore ,-1.2568568716244042
+history and present state |history and present state ,-1.2579100362207734
+indigenous tradition and culture |indigenous tradition and culture ,-1.2602832539221622
+art culture and tourism |art culture and tourism ,-1.2602832539221622
+javan rice terrace |Javan rice terraces ,-1.2623246926455771
+oxford university press |Oxford University Press ,-1.263805674469876
+indonesia references edit |Indonesia References edit ,-1.2648313464778804
+religion edit mosque |Religion edit Mosque ,-1.2673101527844681
+estimated population |estimated population ,-1.2678152926593143
+jakarta post |Jakarta Post ,-1.26804343727964
+dutch colonial government |Dutch colonial government ,-1.2686728284783946
+dutch colonial rule |Dutch colonial rule ,-1.2686728284783946
+london and honolulu |London and Honolulu ,-1.2686839966122034
+first or second language |first or second language ,-1.2696793953724772
+indonesian government |Indonesian government ,-1.2709942532446896
+b c population growth good |b c Population growth good ,-1.2719830674511998
+indonesia list |Indonesia List ,-1.2725882674270494
+previous javanese kingdom |Previous Javanese kingdoms ,-1.273244179782762
+road use |road use ,-1.2733923707258985
+active volcano |active volcano |active volcanoes ,-1.2735906596478417
+bengawan solo river |Bengawan Solo River ,-1.2751399504031444
+betawi people |Betawi people ,-1.275163135406275
+ancient agricultural kingdom |ancient agricultural kingdoms ,-1.2764335186013551
+islamic state |Islamic states ,-1.278145475920593
+programming language |programming language ,-1.2782385319137495
+dki jakarta |DKI Jakarta ,-1.2799365101001055
+javanese aristocracy |Javanese aristocracy ,-1.2802029810815105
+javanese author |Javanese authors ,-1.2802029810815105
+thomas e |Thomas E ,-1.2860681566866463
+isolated region |isolated regions ,-1.2867316091373076
+economy edit |Economy edit ,-1.2867316091373076
+banyumasan region |Banyumasan region ,-1.2867316091373076
+tarumanagara mataram and majapahit |Tarumanagara Mataram and Majapahit ,-1.2880945683037814
+classical javanese culture |classical Javanese culture ,-1.2888406673258586
+western part |western parts ,-1.2893443686275603
+dominant religion |dominant religion ,-1.2896176597675342
+native language |native language ,-1.2910958031408233
+javan wildlife |Javan wildlife ,-1.2910958031408233
+javan rhinoceros |Javan rhinoceros ,-1.2910958031408233
+four major cultural area |Four major cultural areas ,-1.294446259446874
+abangan more traditional and santri |abangan more traditional and santri ,-1.2951476508888724
+indonesia portal history |Indonesia portal History ,-1.2991173793143425
+majapahit era |Majapahit era ,-1.3021130190659875
+fifth largest island |fifth largest island ,-1.3039923366483837
+islamic school |Islamic schools ,-1.3055053557006764
+first place |first place ,-1.3069920354829307
+higher population density |higher population density ,-1.3075226260983583
+natural environment edit |Natural environment edit ,-1.3093389926597983
+european colonial power |European colonial powers ,-1.309378081889522
+indonesian struggle |Indonesian struggle ,-1.3107997671431024
+art culture |art culture ,-1.310830629800148
+trucks and railway |trucks and railways ,-1.3148533566904292
+shaivism and buddhism |Shaivism and Buddhism ,-1.3148533566904292
+ramayana and mahabharata |Ramayana and Mahabharata ,-1.3148533566904292
+mountainous volcanic region |mountainous volcanic regions ,-1.3148941682054807
+greater cirebon |Greater Cirebon ,-1.3172576876103679
+greater bandung |Greater Bandung ,-1.3172576876103679
+early part |early part ,-1.3172576876103679
+sunda land |Sunda lands ,-1.3172576876103679
+ethnic chinese |Ethnic Chinese ,-1.3172576876103679
+less-populated island |less-populated islands ,-1.3178807331547016
+christmas island |Christmas Island ,-1.3178807331547016
+pre-colonial islamic kingdom |pre-colonial Islamic kingdoms ,-1.3184525197500987
+first major principality |first major principality ,-1.318454333189218
+independence edit indonesian nationalism |Independence edit Indonesian nationalism ,-1.3191227894244828
+first dutch contact |first Dutch contact ,-1.3220504234911057
+deprecated parameters page |deprecated parameters Pages ,-1.32611240925724
+mountainous region |mountainous regions ,-1.3262355918246123
+demography edit |Demography edit ,-1.3262355918246123
+small number |small numbers ,-1.3290239071608028
+indian archipelago |Indian Archipelago ,-1.3290239071608028
+rice export |rice export ,-1.330495533015777
+main language |main languages ,-1.330495533015777
+language distinct |language distinct ,-1.330495533015777
+medang kingdom |Medang Kingdom ,-1.330495533015777
+growing human population |growing human population ,-1.334171777074283
+fifth area |fifth area ,-1.334943879681187
+administrative division edit |Administrative division edit ,-1.3353408374886708
+population spurt |population spurts ,-1.3368212620018076
+small-holders and larger plantation |small-holders and larger plantations ,-1.3370336397993798
+brantas and sala river |Brantas and Sala rivers ,-1.3371360309543678
+southeast asian region |Southeast Asian region ,-1.3412533764972536
+wet and humid dense rainforest |wet and humid dense rainforest ,-1.34155325924043
+statistics indonesia |Statistics Indonesia ,-1.3415604193428858
+dominant power |dominant power ,-1.3428774447214495
+malay dialect |Malay dialect ,-1.3428774447214495
+bali strait |Bali Strait ,-1.3432088071588761
+religious sect |Religious Sects ,-1.3432088071588761
+geography edit mount semeru |Geography edit Mount Semeru ,-1.3432648868635106
+pre-islamic javan tradition |Pre-Islamic Javan traditions ,-1.343653737932616
+mataram sultanate |Mataram Sultanate ,-1.346959644173475
+kejawen or javanese heartland |kejawen or Javanese heartland ,-1.347548920078825
+javanese heartland |Javanese heartland ,-1.349112952924848
+javanese folklore |Javanese folklore ,-1.349112952924848
+javanese pesantren |Javanese pesantren ,-1.349112952924848
+javanese comprise |Javanese comprise ,-1.349112952924848
+traditional javanese attire |traditional Javanese attire ,-1.35400853877771
+colonial administration |colonial administration ,-1.3550103065082006
+east corresponding |east corresponding ,-1.3572730563140212
+climate weather and temperature |Climate Weather and Temperature ,-1.3572806273168592
+kediri singhasari and majapahit |Kediri Singhasari and Majapahit ,-1.3573328908866245
+local power |Local powers ,-1.3598401554855108
+cirebon semarang |Cirebon Semarang ,-1.3598401554855108
+local dialect |local dialect ,-1.3598401554855108
+cultivation system |Cultivation System ,-1.3598401554855108
+madura strait |Madura Strait ,-1.3603127834359272
+volcanic origin |volcanic origin ,-1.3603127834359272
+sunda strait |Sunda Strait ,-1.3603127834359272
+deprecated coordinate |deprecated coordinates ,-1.3603127834359272
+ethnic balinese |ethnic Balinese ,-1.3603127834359272
+suharto era |Suharto era ,-1.3603127834359272
+greater serang |Greater Serang ,-1.3603127834359272
+creole people |creole people ,-1.3607210154038285
+casava and maize |casava and maize ,-1.361042618267252
+january and february |January and February ,-1.361042618267252
+coins and token |Coins And Tokens ,-1.361042618267252
+flora and fauna |flora and fauna ,-1.361042618267252
+buffalo and cart |buffalo and carts ,-1.361042618267252
+java travel guide |Java travel guide ,-1.3648878520805445
+densely populated part |densely populated parts ,-1.365936897811127
+historical population year pop |Historical population Year Pop ,-1.3664632642557804
+northern coast |northern coast ,-1.3667757355584929
+five million people |five million people ,-1.3679481088156094
+highest volcano |highest volcano ,-1.3703762070512937
+indian influence |Indian influences ,-1.3703762070512937
+entire indonesian archipelago |entire Indonesian archipelago ,-1.3716881907295926
+abangan more traditional |abangan more traditional ,-1.3726299182300108
+road transportation network |road transportation networks ,-1.3756402181866507
+b c d e hefner |b c d e Hefner ,-1.377112279081949
+nguyen t t t |Nguyen T T T ,-1.3772571229687214
+indonesian constitution |Indonesian constitution ,-1.379311738543993
+major urban centre |major urban centres ,-1.3796539526071994
+densely populated place |densely populated places ,-1.37976752323357
+religious leadership |religious leadership ,-1.3801064695374021
+religious elite |religious elite ,-1.3801064695374021
+surrounding sundanese |surrounding Sundanese ,-1.3801064695374021
+natural environment |natural environment ,-1.3819188072714892
+help ricklef |help Ricklefs ,-1.3819188072714892
+mixed result |mixed results ,-1.3819188072714892
+wet-field rice cultivation |wet-field rice cultivation ,-1.3828395155927575
+indonesian national awakening |Indonesian National Awakening ,-1.3856746836543246
+prambanan hindu temple |Prambanan Hindu temple ,-1.3884650110298142
+malay creole dialect |Malay creole dialect ,-1.3919222936865006
+external links edit |External links edit ,-1.3928024448609155
+hayam wuruk r |Hayam Wuruk r ,-1.393473055415253
+mapping cultural region |Mapping cultural regions ,-1.3941112709290198
+pasisir region |pasisir region ,-1.394403528944744
+deprecated map |deprecated map ,-1.3955076498793841
+dense western |dense Western ,-1.3955076498793841
+spice producing island |spice producing islands ,-1.3955940679046352
+surakarta solo |Surakarta Solo ,-1.3956323053839395
+commercial plant |commercial plants ,-1.3956323053839395
+freshwater finfish biodiversity and conservation |Freshwater finfish biodiversity and conservation ,-1.3984803638791492
+javan peafowl |Javan peafowl ,-1.3985427563531867
+javan hawk-eagle |Javan hawk-eagle ,-1.3985427563531867
+javan leopard |Javan leopard ,-1.3985427563531867
+influential kingdom |influential kingdoms ,-1.3985427563531867
+javan elephant |Javan elephants ,-1.3985427563531867
+javan tiger |Javan tigers ,-1.3985427563531867
+rice paddy |rice paddy ,-1.3985427563531867
+javan rusa |Javan rusa ,-1.3985427563531867
+javan banteng |Javan banteng ,-1.3985427563531867
+rice yield |rice yields ,-1.3985427563531867
+rice surplus |rice surpluses ,-1.3985427563531867
+famous contemporary indonesian author |famous contemporary Indonesian author ,-1.3997999170244912
+ancient india kapur |Ancient India Kapur ,-1.4018430573939578
+rural area |rural areas ,-1.4028502702720869
+small hindu enclave |Small Hindu enclaves ,-1.4032759285033094
+indonesian social political |Indonesian social political ,-1.4038978377045577
+parahyangan highland |Parahyangan highlands ,-1.4042331624029103
+highland slope |highland slopes ,-1.4042331624029103
+orthodox kyai |orthodox kyais ,-1.4042331624029103
+toll road highway network |toll road highway networks ,-1.4056546920792186
+b raffles thomas e |b Raffles Thomas E ,-1.408172623733781
+traditional religious pattern |traditional religious pattern ,-1.4109875278902484
+islamic law |Islamic law ,-1.4120218068378876
+islamic lore |Islamic lore ,-1.4120218068378876
+foreign ethnic group |foreign ethnic groups ,-1.412146709848457
+larger plantation |larger plantations ,-1.4129327032704897
+villages mass |villages masses ,-1.4129327032704897
+tea plantation |Tea plantation ,-1.4129327032704897
+higher rainfall |higher rainfall ,-1.4129327032704897
+tropical rainforest |tropical rainforest ,-1.4138644610633349
+different name |different names ,-1.4138644610633349
+madurese account |Madurese account ,-1.4138644610633349
+maluku spice |Maluku spice ,-1.4138644610633349
+rich agricultural land |rich agricultural lands ,-1.413936135444341
+wikivoyage v t e province |Wikivoyage v t e Provinces ,-1.414856463503707
+javan rhinoceros rhinoceros sondaicus |Javan Rhinoceros Rhinoceros sondaicus ,-1.4200181703078978
+islamic preaching school |Islamic preaching schools ,-1.42112748563893
+highland slopes or isolated peninsula |highland slopes or isolated peninsulas ,-1.42275293877214
+banyumasan culture citation |Banyumasan culture citation ,-1.4236145192070848
+resi lived |resi lived ,-1.424711006836128
+main mean |main means ,-1.424711006836128
+district official |district officials ,-1.424711006836128
+global trade |global trade ,-1.424711006836128
+railway network |railway networks ,-1.424711006836128
+yale university press |Yale University Press ,-1.4259773352709
+pre-islamic animistic and hindu-indian concept |pre-Islamic animistic and Hindu-Indian concepts ,-1.4261737564992518
+yogyakarta initially |Yogyakarta Initially ,-1.4273893159155244
+kyai leadership structure |kyai leadership structure ,-1.4288123721986214
+volcanic mountains form |volcanic mountains forms ,-1.4305768600366968
+hindu cosmology |Hindu cosmology ,-1.4330029664794721
+north-central coast |north-central coast ,-1.4330029664794721
+southern coast |southern coast ,-1.4330029664794721
+contemporary king |contemporary kings ,-1.437424280979227
+dry season |dry season ,-1.437424280979227
+rich biodiversity |rich biodiversity ,-1.437424280979227
+political elite |political elite ,-1.437424280979227
+mystical practice |mystical practices ,-1.437424280979227
+village alliance |village alliances ,-1.437424280979227
+modern republic |modern Republic ,-1.437424280979227
+world war ii |World War II ,-1.4376326003506115
+northern coastal plain |northern coastal plains ,-1.4377815796659934
+road span |road span ,-1.4388851360276138
+no significant famine |no significant famines ,-1.4440590989676558
+bali ethnologue |Bali Ethnologue ,-1.4450425694746478
+religious affair |Religious Affairs ,-1.4450425694746478
+sala river |Sala rivers ,-1.4450425694746478
+religious leader |religious leaders ,-1.4450425694746478
+ports and shipping lane |ports and shipping lanes ,-1.4467881204407782
+batik sarong and kris |batik sarong and kris ,-1.4467881204407782
+j wa-wut plant |j wa-wut plant ,-1.4478159128547932
+first marriage |first marriage ,-1.4514692286729263
+eastern salient |eastern salient ,-1.4514692286729263
+eastern survey |Eastern survey ,-1.4514692286729263
+eastern paleoanthropology |eastern paleoanthropology ,-1.4514692286729263
+average temperature range |average temperature ranges ,-1.453888392136925
+broad range |broad range ,-1.453888392136925
+national parks exist |national parks exist ,-1.4569603844961123
+powerful hindu-buddhist empire |powerful Hindu-Buddhist empires ,-1.4569603844961123
+southwestern part |southwestern part ,-1.458132812476179
+large portion |large portion ,-1.458132812476179
+large riot |large riots ,-1.458132812476179
+ethnic composition |ethnic composition ,-1.458132812476179
+greater sukabumi |Greater Sukabumi ,-1.458132812476179
+voc era |VOC era ,-1.458132812476179
+western side |Western side ,-1.458132812476179
+volcanic eruption |volcanic eruptions ,-1.458132812476179
+volcanic nature |volcanic nature ,-1.458132812476179
+routledgecurzon press |RoutledgeCurzon Press ,-1.4649470234399342
+lawu volcano |Lawu volcano ,-1.4649470234399342
+imposed end |imposed end ,-1.4649470234399342
+writ kyai |writ Kyai ,-1.4649470234399342
+hawaii press |Hawaii Press ,-1.4649470234399342
+fourth group |fourth group ,-1.4649470234399342
+indian ocean |Indian Ocean ,-1.4649470234399342
+associated highland |associated highlands ,-1.4649470234399342
+humid dense rainforest |humid dense rainforest ,-1.4691151549490424
+dry savanna environment |dry savanna environment ,-1.4691151549490424
+indonesian-language text article |Indonesian-language text Articles ,-1.4691151549490424
+coastal mangrove forest |coastal mangrove forests ,-1.4710901061748667
+male javan rhino shot |Male Javan rhino shot ,-1.4715981900069566
+dominant metropolis |dominant metropolis ,-1.4717113697607016
+mount halimun-salak |Mount Halimun-Salak ,-1.4717113697607016
+cite template |cite templates ,-1.4717113697607016
+wet-rice cultivation |wet-rice cultivation ,-1.4717113697607016
+mount merbabu |Mount Merbabu ,-1.4717113697607016
+british invasion |British invasion ,-1.4717113697607016
+wikidata page |Wikidata Pages ,-1.4717113697607016
+buddhist stupa |Buddhist stupa ,-1.4717113697607016
+past result |past results ,-1.4717113697607016
+chinese ceramic |Chinese ceramics ,-1.4717113697607016
+sharp division |sharp divisions ,-1.4717113697607016
+blangkon headgear |blangkon headgear ,-1.4721058299833218
+wallace stevens |Wallace Stevens ,-1.4721058299833218
+wettest month |wettest months ,-1.4721058299833218
+pudjangga sacred literati legitimised ruler |pudjangga sacred literati legitimised rulers ,-1.4721058299833218
+globe encompassed |Globe Encompassed ,-1.4721058299833218
+appreciative allusion |appreciative allusion ,-1.4721058299833218
+shipping lane |shipping lanes ,-1.4721058299833218
+gajah mada |Gajah Mada ,-1.4721058299833218
+four-ship expedition |four-ship expedition ,-1.4721058299833218
+formal priesthood |formal priesthood ,-1.4721058299833218
+superficial acceptance |superficial acceptance ,-1.4721058299833218
+cilegon tangerang bekasi karawang gresik |Cilegon Tangerang Bekasi Karawang Gresik ,-1.4721058299833218
+st john |St John ,-1.4721058299833218
+sophisticated level |sophisticated levels ,-1.4721058299833218
+historic poverty |historic poverty ,-1.4721058299833218
+jalan pantura |Jalan Pantura ,-1.4721058299833218
+permanent bridge |permanent bridges ,-1.4721058299833218
+brahmin cleric |Brahmin clerics ,-1.4721058299833218
+homo erectus |Homo erectus ,-1.4721058299833218
+taxation burden |taxation burdens ,-1.4721058299833218
+alas purwo |Alas Purwo ,-1.4721058299833218
+severe pressure |severe pressure ,-1.4721058299833218
+pantai utara |Pantai Utara ,-1.4721058299833218
+recently arrived settler |recently arrived settlers ,-1.4721058299833218
+british-allied force |British-allied forces ,-1.4721058299833218
+badan pusat statistik |Badan Pusat Statistik ,-1.4721058299833218
+kediri singhasari |Kediri Singhasari ,-1.4721058299833218
+eventually subjugated |eventually subjugated ,-1.4721058299833218
+pramoedya ananta toer |Pramoedya Ananta Toer ,-1.4721058299833218
+encyclop dia britannica |Encyclop dia Britannica ,-1.4721058299833218
+cia factbook |CIA factbook ,-1.4721058299833218
+abortive coup |abortive coup ,-1.4721058299833218
+divine authority |divine authority ,-1.4721058299833218
+coffea arabica |Coffea arabica ,-1.4721058299833218
+melting pot |melting pot ,-1.4721058299833218
+royal legacy |royal legacy ,-1.4721058299833218
+wayang puppet show |wayang puppet shows ,-1.4721058299833218
+batik sarong |batik sarong ,-1.4721058299833218
+gede pangrango |Gede Pangrango ,-1.4721058299833218
+increased expansion |increased expansion ,-1.4721058299833218
+bbc news |BBC News ,-1.4721058299833218
+ekspedisi anjer-panaroekan |Ekspedisi Anjer-Panaroekan ,-1.4721058299833218
+total membership |total membership ,-1.4721058299833218
+constant maintenance |constant maintenance ,-1.4721058299833218
+wider effect |wider effect ,-1.4721058299833218
+kamlesh hatley |Kamlesh Hatley ,-1.4721058299833218
+recent advance |Recent advances ,-1.4721058299833218
+subsequent violent anti-communist purge |subsequent violent anti-communist purge ,-1.4721058299833218
+literary work |literary works ,-1.4721058299833218
+annual review |Annual Review ,-1.4721058299833218
+diverse mixture |diverse mixture ,-1.4721058299833218
+wildlifenews co uk |wildlifenews co uk ,-1.4721058299833218
+meru betiri |Meru Betiri ,-1.4721058299833218
+freshwater finfish biodiversity |Freshwater finfish biodiversity ,-1.473067196967044
+modern scientific concept |modern scientific concepts ,-1.473067196967044
+indonesia bird watching tour |Indonesia bird watching tour ,-1.4750141209105854
+dating hominid site |Dating hominid sites ,-1.4760158045211362
+military supply route |military supply route ,-1.4760158045211362
+bps go id |Bps go id ,-1.4760158045211362
+low-lying tropical forest |low-lying tropical forests ,-1.4760158045211362
+thirty-eight mountain |thirty-eight mountains ,-1.4779707917900438
+united state |United States ,-1.4779707917900438
+tarumanagara mataram |Tarumanagara Mataram ,-1.4779707917900438
+food plant |food plants ,-1.4779707917900438
+european colonialism |European colonialism ,-1.4779707917900438
+national academy |National Academy ,-1.4779707917900438
+telegraph system |telegraph systems ,-1.4779707917900438
+present state |present state ,-1.4779707917900438
+citypopulation de |Citypopulation de ,-1.4779707917900438
+european architecture |European architecture ,-1.4779707917900438
+european discovery |European Discovery ,-1.4779707917900438
+cultural mingling |cultural mingling ,-1.4779707917900438
+sugarcane rubber coffee tea |sugarcane rubber coffee tea ,-1.4811977178469222
+asian hominidae |Asian Hominidae ,-1.4826565993821033
+mass rape |mass rapes ,-1.4826565993821033
+word ja |word ja ,-1.4826565993821033
+no hierarchy |no hierarchy ,-1.4826565993821033
+suharto regime |Suharto regime ,-1.4826565993821033
+isolated peninsula |isolated peninsulas ,-1.4826565993821033
+napoleonic war |Napoleonic wars ,-1.4826565993821033
+civil war |civil war ,-1.4826565993821033
+fragile wildlife |fragile wildlife ,-1.4826565993821033
+pre-islamic animistic |pre-Islamic animistic ,-1.4826565993821033
+historical legend |historical legends ,-1.4826565993821033
+indigenous tradition |indigenous tradition ,-1.4826565993821033
+long-distance communication |long-distance communication ,-1.4826565993821033
+climate weather |Climate Weather ,-1.4826565993821033
+fundamental factor |fundamental factors ,-1.4826565993821033
+classic art |Classic arts ,-1.4826565993821033
+historical atlas |Historical Atlas ,-1.4826565993821033
+mythical origin |mythical origin ,-1.4826565993821033
+ethnological factor |Ethnological factors ,-1.4826565993821033
+mass emigration |mass emigration ,-1.4826565993821033
+vast majority |vast majority ,-1.4826565993821033
+muslim scholar |Muslim scholar ,-1.4826565993821033
+asian perspective |asian perspective ,-1.4826565993821033
+portuguese presence |Portuguese presence ,-1.4826565993821033
+en wikipedia |en wikipedia ,-1.483065777437722
+statistics map |Statistics Maps ,-1.483065777437722
+ijen plateau |Ijen Plateau ,-1.483065777437722
+javanese-language text |Javanese-language text ,-1.483065777437722
+dieng plateau |Dieng Plateau ,-1.483065777437722
+ken arok |Ken Arok ,-1.483065777437722
+anthropological account |Anthropological Account ,-1.483065777437722
+famine elimination |famine elimination ,-1.483065777437722
+surrender term |surrender terms ,-1.483065777437722
+status structure |status structure ,-1.483065777437722
+globally endangered |Globally Endangered ,-1.483065777437722
+jawa- topography |Jawa- Topography ,-1.483065777437722
+encyclopedia jump |encyclopedia Jump ,-1.483065777437722
+gamelan music |gamelan music ,-1.483065777437722
+wikimedia common |Wikimedia Commons ,-1.483065777437722
+internal conflict |Internal conflict ,-1.483065777437722
+france republic |France Republic ,-1.483065777437722
+mahayana buddhism |Mahayana Buddhism ,-1.483065777437722
+ken dede |Ken Dedes ,-1.483065777437722
+average humidity |average humidity ,-1.483065777437722
+economic life |economic life ,-1.483065777437722
+mystical direction |mystical direction ,-1.483065777437722
+sanskrit yava |Sanskrit yava ,-1.483065777437722
+hindu-indian concept |Hindu-Indian concepts ,-1.483065777437722
+kedu plain |Kedu Plain ,-1.483065777437722
+japanese occupation |Japanese occupation ,-1.483065777437722
+export gov |export gov ,-1.483065777437722
+broad continuum |broad continuum ,-1.483065777437722
+transmigration program |transmigration programs ,-1.483065777437722
+global popularity |global popularity ,-1.483065777437722
+toll gate |toll gates ,-1.483065777437722
+effective alliance |effective alliances ,-1.483065777437722
+javan warty pig |Javan warty pig ,-1.484114776508418
+javan silvery gibbon |Javan silvery gibbon ,-1.484114776508418
+pt kompas media nusantara |PT Kompas Media Nusantara ,-1.4856132702615614
+elaborate rank order |elaborate rank order ,-1.4861020170787882
+edge evolutionarily distinct |EDGE Evolutionarily Distinct ,-1.4861020170787882
+short-lived daendels administration |short-lived Daendels administration ,-1.4861020170787882
+no absolute preference |no absolute preference ,-1.495194609351255
+sir stamford raffle |Sir Stamford Raffles ,-1.495194609351255
+penerbit buku kompa |Penerbit Buku Kompas ,-1.495194609351255
+laporan jurnalistik kompa |Laporan Jurnalistik Kompas ,-1.495194609351255
+french proxy rule |French proxy rule ,-1.495194609351255
+higher birth rate |higher birth rates ,-1.495194609351255
+kejawen sumarah subud |Kejawen Sumarah Subud ,-1.495194609351255
+proto-austronesian root word |Proto-Austronesian root word ,-1.495194609351255
+hindu god shiva |Hindu god Shiva ,-1.4974953732310086
+rocky coastal cliff |rocky coastal cliffs ,-1.500098204174255
+coordinated distribution system |coordinated distribution systems ,-1.500098204174255
+cornelis de houtman |Cornelis de Houtman ,-1.500098204174255
+high altitude rainforest |high altitude rainforests ,-1.502423681457916
+javanese kakawin tantu pagelaran |Javanese kakawin Tantu Pagelaran ,-1.5113462266043844
+java |Javas |Java ,-2.840730645153574
+island |islands |island ,-4.1101144848788
+population |populations |population ,-4.316617594469353
+indonesia |Indonesia ,-4.326197002298081
+javanese |Javanese ,-4.408179522291222
+east |east ,-4.621660108900958
+indonesian |Indonesian ,-4.755987197186058
+west |west ,-4.90319788292877
+edit |edit ,-4.928086138499085
+central |central ,-4.931761929766511
+region |region |regions ,-4.9631270341715945
+javan |Javan ,-4.978974277113449
+language |languages |language |Languages ,-4.978974277113449
+rice |rice ,-4.978974277113449
+jakarta |Jakarta ,-5.032764959154354
+area |area |areas ,-5.079660914207732
+kingdom |kingdom ,-5.0852343246980745
+dutch |Dutch ,-5.215423496755978
+culture |Culture |cultures |culture ,-5.215423496755978
+north |north ,-5.2687469083758325
+people |Peoples |peoples |people ,-5.3603738992753955
+yogyakarta |Yogyakarta ,-5.3603738992753955
+hindu |Hindu ,-5.442160349191983
+history |history |History ,-5.455406411509634
+coast |coast ,-5.455406411509634
+city |city ,-5.533658655851438
+religion |religions |Religion ,-5.559518234865492
+bali |Bali ,-5.630682099712683
+islam |Islam ,-5.630682099712683
+sundanese |Sundanese ,-5.630682099712683
+road |roads ,-5.632847335663999
+world |world ,-5.645860543318076
+river |rivers |river ,-5.674342230378398
+isbn |ISBN ,-5.741262580859495
+banten |Banten ,-5.741262580859495
+first |first ,-5.741262580859495
+source |source |sources ,-5.773304478802358
+home |home ,-5.866556086466303
+era |era ,-5.866556086466303
+madura |Madura ,-5.866556086466303
+growth |growth ,-5.866556086466303
+part |parts |part ,-5.866556086466303
+capital |capital ,-5.901282852995237
+south |south ,-5.916923942060582
+province |Province |provinces ,-5.916923942060582
+surabaya |Surabaya ,-6.011090893008604
+sumatra |Sumatra ,-6.011090893008604
+indian |Indian ,-6.011090893008604
+end |ends |end ,-6.011090893008604
+number |numbers |number ,-6.011090893008604
+majapahit |Majapahit ,-6.011090893008604
+india |India ,-6.011090893008604
+kyai |kyais |Kyai ,-6.03075475947806
+period |period ,-6.0490026967209625
+sultanate |sultanates ,-6.0490026967209625
+highland |highlands ,-6.065497697443632
+volcano |Volcanoes ,-6.079696655186042
+group |group ,-6.079696655186042
+help |help ,-6.181874973086225
+interior |interior ,-6.181874973086225
+rainforest |rainforest |rainforests ,-6.181874973086225
+agriculture |agriculture ,-6.181874973086225
+university |University ,-6.181874973086225
+betawi |Betawis |Betawi ,-6.181874973086225
+wet |wet ,-6.181874973086225
+cirebon |Cirebon ,-6.181874973086225
+madurese |Madurese ,-6.181874973086225
+british |British ,-6.181874973086225
+bandung |Bandung ,-6.181874973086225
+chinese |Chinese ,-6.181874973086225
+place |places |place ,-6.181874973086225
+coffee |coffee ,-6.181874973086225
+malay |Malay ,-6.181874973086225
+dialect |dialect |dialects ,-6.181874973086225
+maluku |Maluku ,-6.181874973086225
+cultivation |cultivation ,-6.203772497777708
+belief |belief ,-6.203772497777708
+division |division ,-6.203772497777708
+cite |Cite ,-6.203772497777708
+article |article |Articles ,-6.203772497777708
+result |result ,-6.223566498644912
+page |Pages ,-6.223566498644912
+power |power ,-6.223566498644912
+papua |Papua ,-6.3906222938737764
+semarang |Semarang ,-6.3906222938737764
+ecology |Ecology ,-6.3906222938737764
+mountain |mountains ,-6.3906222938737764
+mataram |Mataram ,-6.3906222938737764
+london |London ,-6.3906222938737764
+centre |centre |centres ,-6.3906222938737764
+trade |Trade |trade ,-6.3906222938737764
+resi |Resi |resi ,-6.3906222938737764
+plant |plant ,-6.436663231571395
+independence |independence ,-6.436663231571395
+system |system ,-6.452993544415778
+local |locals ,-6.452993544415778
+suraya |Suraya ,-6.659227160381184
+rainfall |rainfall ,-6.659227160381184
+business |Business |business ,-6.659227160381184
+april |April ,-6.659227160381184
+construction |construction ,-6.659227160381184
+surakarta |Surakarta ,-6.659227160381184
+remnant |remnants |Remnants ,-6.659227160381184
+political |political ,-6.659227160381184
+netherlands |Netherlands ,-6.659227160381184
+spread |Spread ,-6.659227160381184
+balinese |Balinese ,-6.659227160381184
+soeriaatmadja |Soeriaatmadja ,-6.659227160381184
+suharto |Suharto ,-6.659227160381184
+majority |majority ,-6.659227160381184
+batavia |Batavia ,-6.659227160381184
+whitten |Whitten ,-6.659227160381184
+communication |communication ,-6.659227160381184
+commercial |commercial ,-6.659227160381184
+portuguese |Portuguese ,-6.659227160381184
+age |Age |age ,-6.659227160381184
+banyumasan |Banyumasan ,-6.659227160381184
+ricklef |Ricklefs ,-6.659227160381184
+muslim |Muslim |Muslims ,-6.659227160381184
+raffle |Raffles ,-6.659227160381184
+prambanan |Prambanan ,-6.659227160381184
+climate |climate ,-6.687625075866003
+village |villages ,-6.687625075866003
+kejawen |kejawen ,-6.687625075866003
+mosque |mosque ,-6.687625075866003
+sect |sects ,-6.687625075866003
+practice |practice ,-6.687625075866003
+coordinate |Coordinates ,-6.687625075866003
+tradition |tradition ,-6.687625075866003
+pre-islamic |pre-Islamic ,-6.687625075866003
+rise |rise ,-6.687625075866003
+plantation |plantations ,-6.687625075866003
+art |arts ,-6.687625075866003
+fall |fall ,-6.687625075866003
+ethnicity |Ethnicity ,-6.687625075866003
+science |Sciences ,-6.709398826325181
+influence |influence ,-6.709398826325181
+factor |Factors ,-6.709398826325181
+school |school ,-6.709398826325181
+king |king ,-6.709398826325181
+woman |woman ,-6.709398826325181
+origin |origins ,-6.709398826325181
+slope |slopes ,-7.036639631339363
+osing |Osing ,-7.036639631339363
+jawa |Jawa ,-7.036639631339363
+asia |Asia ,-7.036639631339363
+schiller |Schiller ,-7.036639631339363
+orthodox |orthodox ,-7.036639631339363
+santri |santri ,-7.036639631339363
+ecosystem |ecosystem |ecosystems ,-7.036639631339363
+abangan |abangan ,-7.036639631339363
+extinct |extinct ,-7.036639631339363
+china |China ,-7.036639631339363
+control |control ,-7.036639631339363
+advent |advent ,-7.036639631339363
+increase |increase ,-7.036639631339363
+branta |Brantas ,-7.036639631339363
+chain |chain ,-7.036639631339363
+resident |residents ,-7.036639631339363
+borneo |Borneo ,-7.036639631339363
+malacca |Malacca ,-7.036639631339363
+medang |Medang ,-7.036639631339363
+town |towns |town ,-7.036639631339363
+longman |Longman |Longmans ,-7.036639631339363
+labour |labour ,-7.036639631339363
+pope |Pope ,-7.036639631339363
+search |search ,-7.036639631339363
+struggle |struggle ,-7.036639631339363
+ramayana |Ramayana ,-7.036639631339363
+treaty |treaty |Treaty ,-7.036639631339363
+society |society ,-7.036639631339363
+daendel |Daendels ,-7.036639631339363
+series |series ,-7.036639631339363
+yawadvipa |Yawadvipa ,-7.036639631339363
+baduy |Baduy ,-7.036639631339363
+buddhism |Buddhism ,-7.036639631339363
+half |half ,-7.036639631339363
+student |students |Students ,-7.036639631339363
+japanese |Japanese ,-7.036639631339363
+nation |nation ,-7.036639631339363
+center |center ,-7.036639631339363
+tax |tax ,-7.036639631339363
+parahyangan |Parahyangan ,-7.036639631339363
+tenggerese |Tenggerese ,-7.036639631339363
+term |terms ,-7.036639631339363
+bird |birds ,-7.06930025702813
+pdf |PDF ,-7.06930025702813
+country |country ,-7.06930025702813
+music |Music ,-7.06930025702813
+colony |colony ,-7.06930025702813
+temperature |Temperature ,-7.06930025702813
+site |site ,-7.06930025702813
+good |goods ,-7.06930025702813
+railway |railways ,-7.06930025702813
+child |children ,-7.06930025702813
+district |districts ,-7.06930025702813
+story |story ,-7.06930025702813
+possession |possession ,-7.06930025702813
+court |courts ,-7.06930025702813
+route |routes ,-7.06930025702813
+wikipedia |Wikipedia ,-7.06930025702813
+encyclopedia |Encyclopedia ,-7.06930025702813
+conservation |conservation ,-7.06930025702813
+human |humans ,-7.06930025702813
+conflict |conflicts ,-7.06930025702813
+figure |figure ,-7.06930025702813
+program |program ,-7.06930025702813
+cimanuk |Cimanuk ,-7.678081219748883
+panarukan |Panarukan ,-7.678081219748883
+serayu |Serayu ,-7.678081219748883
+truck |trucks ,-7.678081219748883
+queen |queen ,-7.678081219748883
+maduran |Madurans ,-7.678081219748883
+meaning |meaning ,-7.678081219748883
+abbreviation |abbreviation ,-7.678081219748883
+base |base ,-7.678081219748883
+pestilence |Pestilence ,-7.678081219748883
+small-holder |small-holders ,-7.678081219748883
+loosenees |looseneess ,-7.678081219748883
+bank |banks ,-7.678081219748883
+anyer |Anyer ,-7.678081219748883
+deficiency |deficiency ,-7.678081219748883
+day |day ,-7.678081219748883
+hope |hope ,-7.678081219748883
+backbone |backbone ,-7.678081219748883
+evidence |Evidence ,-7.678081219748883
+landscape |landscapes ,-7.678081219748883
+peasant |peasants ,-7.678081219748883
+andrew |Andrew ,-7.678081219748883
+beatty |Beatty ,-7.678081219748883
+brown |Brown ,-7.678081219748883
+banyuwangi |Banyuwangi ,-7.678081219748883
+element |elements ,-7.678081219748883
+hold |hold ,-7.678081219748883
+motorway |motorways ,-7.678081219748883
+two-third |two-thirds ,-7.678081219748883
+ascetic |ascetics ,-7.678081219748883
+health |Health ,-7.678081219748883
+schism |schism ,-7.678081219748883
+mahabharata |Mahabharata ,-7.678081219748883
+rama |Rama ,-7.678081219748883
+europe |Europe ,-7.678081219748883
+green |Green ,-7.678081219748883
+master |master ,-7.678081219748883
+variation |variations ,-7.678081219748883
+bernard |Bernard ,-7.678081219748883
+january |January ,-7.678081219748883
+taruma |Taruma ,-7.678081219748883
+sovereignty |sovereignty ,-7.678081219748883
+richest |richest ,-7.678081219748883
+demak |Demak ,-7.678081219748883
+pati |Pati ,-7.678081219748883
+bromo |Bromo ,-7.678081219748883
+wijaya |Wijaya ,-7.678081219748883
+sondaar |Sondaar ,-7.678081219748883
+kraton |kraton ,-7.678081219748883
+patron |patron ,-7.678081219748883
+territory |territory ,-7.678081219748883
+shaivism |Shaivism ,-7.678081219748883
+pogrom |pogroms ,-7.678081219748883
+buffalo |buffalo ,-7.678081219748883
+sita |Sita ,-7.678081219748883
+outskirt |outskirts ,-7.678081219748883
+october |October ,-7.678081219748883
+synonym |synonym ,-7.678081219748883
+baluran |Baluran ,-7.678081219748883
+care |care ,-7.678081219748883
+macmillan |MacMillan ,-7.678081219748883
+modernist |modernist ,-7.678081219748883
+mouth |mouth ,-7.678081219748883
+possibility |possibility ,-7.678081219748883
+cart |carts ,-7.678081219748883
+tourism |tourism ,-7.678081219748883
+navigation |navigation ,-7.678081219748883
+singapore |Singapore ,-7.678081219748883
+reksodiharjo-lilley |Reksodiharjo-Lilley ,-7.678081219748883
+birdwatcher |birdwatcher ,-7.678081219748883
+plague |Plagues ,-7.678081219748883
+reign |reign ,-7.678081219748883
+ambonese |Ambonese ,-7.678081219748883
+catholic |Catholic ,-7.678081219748883
+core |core ,-7.678081219748883
+bugi |Bugis ,-7.678081219748883
+port |ports ,-7.678081219748883
+translation |translations ,-7.678081219748883
+pandemic |Pandemics ,-7.678081219748883
+paris |Paris ,-7.678081219748883
+honolulu |Honolulu ,-7.678081219748883
+degree |degrees ,-7.678081219748883
+decline |decline ,-7.678081219748883
+contrast |contrast ,-7.678081219748883
+millennium |millennium ,-7.678081219748883
+etiquette |etiquette ,-7.678081219748883
+chief |chief ,-7.678081219748883
+quinine |quinine ,-7.678081219748883
+couple |couples ,-7.678081219748883
+beginning |beginning ,-7.678081219748883
+buitenzorg |Buitenzorg ,-7.678081219748883
+addition |addition ,-7.678081219748883
+sidoarjo |Sidoarjo ,-7.678081219748883
+monk |Monk ,-7.678081219748883
+conduit |conduit ,-7.678081219748883
+death |death ,-7.678081219748883
+february |February ,-7.678081219748883
+introduction |introduction ,-7.678081219748883
+arab |Arab ,-7.678081219748883
+barley |barley ,-7.678081219748883
+banyumas |Banyumas ,-7.678081219748883
+lineage |lineages ,-7.678081219748883
+monarch |monarchs ,-7.678081219748883
+department |Department ,-7.678081219748883
+hinduism |Hinduism ,-7.678081219748883
+experience |experiences ,-7.678081219748883
+martin-schiller |Martin-Schiller ,-7.678081219748883
+employment |employment ,-7.678081219748883
+lucas |Lucas ,-7.678081219748883
+subsistence |subsistence ,-7.678081219748883
+banda |Banda ,-7.678081219748883
+realm |realm ,-7.678081219748883
+foothold |foothold ,-7.678081219748883
+development |development ,-7.678081219748883
+proficiency |proficiency ,-7.678081219748883
+lion |lion ,-7.678081219748883
+makassar |Makassar ,-7.678081219748883
+intermittently |intermittently ,-7.678081219748883
+remains |remains ,-7.678081219748883
+middle |middle ,-7.678081219748883
+prior |prior ,-7.678081219748883
+indianization |Indianization ,-7.678081219748883
+byrne |Byrne ,-7.678081219748883
+minang |Minang ,-7.678081219748883
+resentment |resentment ,-7.678081219748883
+sugriva |Sugriva ,-7.678081219748883
+cooperation |cooperation ,-7.678081219748883
+afternoon |afternoons ,-7.678081219748883
+kangeanese |Kangeanese ,-7.678081219748883
+mysticism |mysticism ,-7.678081219748883
+fauna |fauna ,-7.678081219748883
+adherent |adherents ,-7.678081219748883
+turn |turn ,-7.678081219748883
+content |Contents ,-7.678081219748883
+proceeding |Proceedings ,-7.678081219748883
+coming |coming ,-7.678081219748883
+citarum |Citarum ,-7.678081219748883
+flora |flora ,-7.678081219748883
+orphan |orphan ,-7.678081219748883
+producer |producer ,-7.678081219748883
+white |white ,-7.678081219748883
+kris |kris ,-7.678081219748883
+casava |casava ,-7.678081219748883
+needed |needed ,-7.678081219748883
+cholera |Cholera ,-7.678081219748883
+service |services ,-7.678081219748883
+bantenese |Bantenese ,-7.678081219748883
+regent |regents ,-7.678081219748883
+cirebonese |Cirebonese ,-7.678081219748883
+quaritch |Quaritch ,-7.678081219748883
+blitar |Blitar ,-7.678081219748883
+maize |maize ,-7.678081219748883
+blambangan |Blambangan ,-7.678081219748883
+length |length ,-7.678081219748883
+haven |Haven ,-7.678081219748883
+industrial |Industrial ,-7.678081219748883
+ascendant |ascendant ,-7.678081219748883
+ames |Ames ,-7.678081219748883
+impact |impact ,-7.678081219748883
+frete |Fretes ,-7.678081219748883
+management |Management ,-7.678081219748883
+harbour |harbour ,-7.678081219748883
+monument |monuments ,-7.678081219748883
+vos |Vos ,-7.678081219748883
+descendant |descendants ,-7.678081219748883
+supernatural |supernatural ,-7.678081219748883

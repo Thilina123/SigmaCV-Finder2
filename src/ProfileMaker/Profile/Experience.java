@@ -31,5 +31,9 @@ public class Experience {
     public void setSummary(String summary) {
         this.summary = summary;
     }
-    
+
+    @Override
+    public String toString() {
+        return name+"\n"+summary;
+    }
 }

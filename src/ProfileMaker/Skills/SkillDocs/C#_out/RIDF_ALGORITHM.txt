@@ -1,0 +1,361 @@
+english |English ,-1.8259531071745147E-14
+letter |letter |letters ,-1.350244271358051E-13
+latin |Latin |Latin S ,-1.350244271358051E-13
+language |languages |language ,-1.480476372520042E-10
+alphabet |alphabets |alphabet ,-3.2609697116566853E-6
+sound |sound |sounds ,-8.864251924287394E-6
+use |use |Use ,-2.409566212435918E-5
+word |words ,-2.409566212435918E-5
+soft |soft ,-1.7805369936495883E-4
+latin letter |Latin letter ,-4.84051464806915E-4
+french |French ,-4.84051464806915E-4
+greek |Greek ,-4.84051464806915E-4
+italian |Italian ,-4.84051464806915E-4
+digraph |digraph ,-0.003580522922930523
+vowel |vowel ,-0.003580522922930523
+latin alphabet |Latin alphabet ,-0.003580522922930523
+front vowel |front vowels |front vowel ,-0.003580522922930523
+hard |Hard |hard ,-0.009753699703469945
+history |history |History ,-0.009753699703469945
+writing |writing ,-0.009753699703469945
+common |common ,-0.02666886246432323
+soft c |soft c ,-0.02666886246432323
+german |German ,-0.02666886246432323
+cyrillic |Cyrillic ,-0.02666886246432323
+spanish |Spanish ,-0.02666886246432323
+english word |English words ,-0.02666886246432323
+trigraph |trigraphs |trigraph ,-0.02666886246432323
+gimel |gimel ,-0.02666886246432323
+romance language |Romance languages ,-0.07367725408829676
+iso basic latin alphabet |ISO basic Latin alphabet ,-0.07367725408829676
+gamma |Gamma ,-0.07367725408829676
+cent |cent |Cent ,-0.07367725408829676
+etymology |etymology ,-0.07367725408829676
+usage |usage |usages ,-0.07367725408829676
+camel |camel ,-0.07367725408829676
+c stand |c stands ,-0.07367725408829676
+portuguese |Portuguese ,-0.07367725408829676
+wikipedia |Wikipedia ,-0.07367725408829676
+spelling |spelling ,-0.07367725408829676
+equivalent |equivalent ,-0.07367725408829676
+number |number ,-0.2097872745459192
+celt |Celts |Celt ,-0.2097872745459192
+interlingua |Interlingua ,-0.2097872745459192
+isbn |ISBN ,-0.2097872745459192
+france |France ,-0.2097872745459192
+meaning |meaning ,-0.2097872745459192
+change |change ,-0.2097872745459192
+unsourced statement |unsourced statements ,-0.2097872745459192
+norman |Norman ,-0.2097872745459192
+african language |African languages ,-0.2097872745459192
+sound k |sound k ,-0.2097872745459192
+dutch |Dutch ,-0.2097872745459192
+text |text ,-0.2097872745459192
+similar character |similar characters ,-0.2097872745459192
+example |example ,-0.2097872745459192
+wiktionary |Wiktionary ,-0.2097872745459192
+acute |acute ,-0.2097872745459192
+defence |defence ,-0.2097872745459192
+cedilla |cedilla ,-0.2097872745459192
+c-sharp |C-sharp ,-0.2097872745459192
+vulgar latin |Vulgar Latin ,-0.2097872745459192
+page |pages ,-0.2097872745459192
+latin k |Latin k ,-0.2097872745459192
+copyright symbol |copyright symbol ,-0.2097872745459192
+related letter |Related letters ,-0.2097872745459192
+form |form ,-0.2097872745459192
+hungarian |Hungarian ,-0.2097872745459192
+ascii |ASCII ,-0.2097872745459192
+encoding |encodings ,-0.2097872745459192
+cee |cee ,-0.2097872745459192
+short vowel |short vowels ,-0.2097872745459192
+roman numeral |Roman numerals |Roman numeral ,-0.2097872745459192
+powell |Powell ,-0.2097872745459192
+article |article ,-0.2097872745459192
+vowel letter |vowel letters ,-0.2097872745459192
+x-sampa symbol |X-SAMPA symbol ,-0.2097872745459192
+value |values ,-0.2097872745459192
+cyrillic letter es |Cyrillic letter Es ,-0.2097872745459192
+pence defence |pence defence ,-0.2097872745459192
+romanian |Romanian ,-0.2097872745459192
+representation |representations ,-0.2097872745459192
+polish |Polish ,-0.2097872745459192
+germanic language |Germanic languages ,-0.2097872745459192
+middle english |Middle English ,-0.2097872745459192
+capital c |capital C ,-0.2097872745459192
+specialist |specialist ,-0.6617283576289674
+kappa |kappa ,-0.6617283576289674
+writing system |writing systems ,-0.6617283576289674
+ambiguity |ambiguity ,-0.6617283576289674
+brazilian cruzeiro currency |Brazilian cruzeiro currency ,-0.6617283576289674
+en wikipedia |en wikipedia ,-0.6617283576289674
+dot |dot ,-0.6617283576289674
+blecien |blecien ,-0.6617283576289674
+lunate sigma |lunate sigma ,-0.6617283576289674
+english orthography |English orthography ,-0.6617283576289674
+col n currency |col n currency ,-0.6617283576289674
+ghana cedi currency |Ghana cedi currency ,-0.6617283576289674
+soft italian |soft Italian ,-0.6617283576289674
+international phonetic alphabet ipa |International Phonetic Alphabet IPA ,-0.6617283576289674
+corn crop c |corn crop c ,-0.6617283576289674
+place |place ,-0.6617283576289674
+defiance |defiance ,-0.6617283576289674
+sihler |Sihler ,-0.6617283576289674
+greek letter |Greek letter ,-0.6617283576289674
+seoke |seoke ,-0.6617283576289674
+swedish |Swedish ,-0.6617283576289674
+convention |convention ,-0.6617283576289674
+cyrillic letter tse |Cyrillic letter Tse ,-0.6617283576289674
+cild |cild ,-0.6617283576289674
+etymological use |etymological use ,-0.6617283576289674
+tatar |Tatar ,-0.6617283576289674
+content |Contents ,-0.6617283576289674
+macedonian |Macedonian ,-0.6617283576289674
+early etruscan |Early Etruscan ,-0.6617283576289674
+phonetic symbol |phonetic symbol ,-0.6617283576289674
+western greek alphabet |Western Greek alphabet ,-0.6617283576289674
+bletsien |bletsien ,-0.6617283576289674
+devize |devize ,-0.6617283576289674
+o and u |o and u ,-0.6617283576289674
+rounded vowel |rounded vowel ,-0.6617283576289674
+back-curl |back-curl ,-0.6617283576289674
+c form |c form ,-0.6617283576289674
+classical etruscan |Classical Etruscan ,-0.6617283576289674
+cwic quick |cwic quick ,-0.6617283576289674
+french word |French words ,-0.6617283576289674
+orthographies english |orthographies English ,-0.6617283576289674
+ka mo kypo |KA MO KYPO ,-0.6617283576289674
+polish czech |Polish Czech ,-0.6617283576289674
+italy |Italy ,-0.6617283576289674
+soccer |soccer ,-0.6617283576289674
+xhosa and zulu |Xhosa and Zulu ,-0.6617283576289674
+cent currency |cent currency ,-0.6617283576289674
+english alphabet |English alphabet ,-0.6617283576289674
+wiley blackwell |Wiley Blackwell ,-0.6617283576289674
+greek origin |Greek origin ,-0.6617283576289674
+norman conquest |Norman Conquest ,-0.6617283576289674
+somali |Somali ,-0.6617283576289674
+aboriginal language |aboriginal languages ,-0.6617283576289674
+matt |Matt ,-0.6617283576289674
+english candel |English candel ,-0.6617283576289674
+norwegian |Norwegian ,-0.6617283576289674
+civilization |Civilization ,-0.6617283576289674
+beninese yoruba |Beninese Yoruba ,-0.6617283576289674
+non-european language |non-European languages ,-0.6617283576289674
+advice |advice ,-0.6617283576289674
+zulu |Zulu ,-0.6617283576289674
+britain |Britain ,-0.6617283576289674
+americanist phonetic notation |Americanist phonetic notation ,-0.6617283576289674
+exception |exceptions ,-0.6617283576289674
+irish |Irish ,-0.6617283576289674
+cadmvs cyrv |cadmvs cyrvs ,-0.6617283576289674
+degree celsius |degree Celsius ,-0.6617283576289674
+dutch t |Dutch t ,-0.6617283576289674
+central spain |central Spain ,-0.6617283576289674
+similar language |similar languages ,-0.6617283576289674
+pashto |Pashto ,-0.6617283576289674
+italian and romanian |Italian and Romanian ,-0.6617283576289674
+hook c c |hook C c ,-0.6617283576289674
+italy and dalmatia |Italy and Dalmatia ,-0.6617283576289674
+champ |champ ,-0.6617283576289674
+voiced postalveolar affricate d |voiced postalveolar affricate d ,-0.6617283576289674
+manding |Manding ,-0.6617283576289674
+staff sling |staff sling ,-0.6617283576289674
+oxford university press |Oxford University Press ,-0.6617283576289674
+dalmatia |Dalmatia ,-0.6617283576289674
+ke kyng breke and seoke |ke kyng breke and seoke ,-0.6617283576289674
+xhosa |Xhosa ,-0.6617283576289674
+wikipedia indefinitely semi-protected pages wikipedia |Wikipedia indefinitely semi-protected pages Wikipedia ,-0.6617283576289674
+welsh |Welsh ,-0.6617283576289674
+possibility |possibility ,-0.6617283576289674
+double |double ,-0.6617283576289674
+caron |caron ,-0.6617283576289674
+encyclopedia jump |encyclopedia Jump ,-0.6617283576289674
+sign |sign ,-0.6617283576289674
+slovak x |Slovak x ,-0.6617283576289674
+albanian |Albanian ,-0.6617283576289674
+navigation |navigation ,-0.6617283576289674
+distinct value |distinct values ,-0.6617283576289674
+german and swedish |German and Swedish ,-0.6617283576289674
+wrecc e |wrecc e ,-0.6617283576289674
+azeri |Azeri ,-0.6617283576289674
+aspirated version |aspirated version ,-0.6617283576289674
+case |cases ,-0.6617283576289674
+common feature |common feature ,-0.6617283576289674
+thikk |thikk ,-0.6617283576289674
+neck |neck ,-0.6617283576289674
+voiceless palatal fricative |voiceless palatal fricative ,-0.6617283576289674
+merriam-webster |Merriam-Webster ,-0.6617283576289674
+etruscan language |Etruscan language ,-0.6617283576289674
+processiun emperice grace |processiun emperice grace ,-0.6617283576289674
+hand |hand ,-0.6617283576289674
+hausa |Hausa ,-0.6617283576289674
+england |England ,-0.6617283576289674
+pronunciation |pronunciation ,-0.6617283576289674
+use and derivation |use and derivation ,-0.6617283576289674
+ice |ice ,-0.6617283576289674
+english version |English version ,-0.6617283576289674
+diaresi |diaresis ,-0.6617283576289674
+technical reason |technical reasons ,-0.6617283576289674
+voiceless alveolar |voiceless alveolar ,-0.6617283576289674
+c and k |c and k ,-0.6617283576289674
+romanized mandarin chinese |romanized Mandarin Chinese ,-0.6617283576289674
+latin phoneme k spelled |Latin phoneme k spelled ,-0.6617283576289674
+phoci |phocis ,-0.6617283576289674
+theory and history |Theory and History ,-0.6617283576289674
+copyright symbol c |copyright symbol C ,-0.6617283576289674
+ido |Ido ,-0.6617283576289674
+italian x |Italian x ,-0.6617283576289674
+variety |variety ,-0.6617283576289674
+considerable re-spelling |considerable re-spelling ,-0.6617283576289674
+turkish c stand |Turkish c stands ,-0.6617283576289674
+hump |hump ,-0.6617283576289674
+serbian |Serbian ,-0.6617283576289674
+clif |clif ,-0.6617283576289674
+device |device ,-0.6617283576289674
+crescent moon |crescent moon ,-0.6617283576289674
+head and neck |head and neck ,-0.6617283576289674
+voiceless dental sibilant affricate |voiceless dental sibilant affricate ,-0.6617283576289674
+wikimedia common |Wikimedia Commons ,-0.6617283576289674
+hard and soft c reference |Hard and soft C References ,-0.6617283576289674
+ireland |Ireland ,-0.6617283576289674
+soft c reference |soft C References ,-0.6617283576289674
+hundred |hundred ,-0.6617283576289674
+malay |Malay ,-0.6617283576289674
+latin letter c cedilla |Latin letter C cedilla ,-0.6617283576289674
+iberian peninsula |Iberian peninsula ,-0.6617283576289674
+insular celtic language |insular Celtic languages ,-0.6617283576289674
+fijian |Fijian ,-0.6617283576289674
+circumflex |circumflex ,-0.6617283576289674
+course |course ,-0.6617283576289674
+break |break ,-0.6617283576289674
+english spelling |English spelling ,-0.6617283576289674
+k qu ch |k qu ch ,-0.6617283576289674
+lance |lance ,-0.6617283576289674
+former generation |Former generations ,-0.6617283576289674
+ukrainian |Ukrainian ,-0.6617283576289674
+voiceless dental fricative |voiceless dental fricative ,-0.6617283576289674
+etruscan alphabet |Etruscan alphabet ,-0.6617283576289674
+andrew l |Andrew L ,-0.6617283576289674
+k or t |k or ts ,-0.6617283576289674
+early middle english milce |early Middle English milce ,-0.6617283576289674
+allophonic sound |allophonic sounds ,-0.6617283576289674
+oe i |oe i ,-0.6617283576289674
+cniht knight |cniht knight ,-0.6617283576289674
+wiktionary v t |Wiktionary v t ,-0.6617283576289674
+romanized standard chinese other digraph |Romanized Standard Chinese Other digraphs ,-0.6617283576289674
+voiced counterpart |voiced counterpart ,-0.6617283576289674
+mycel |mycel ,-0.6617283576289674
+northern and central spain |northern and central Spain ,-0.6617283576289674
+modern english words kin |Modern English words kin ,-0.6617283576289674
+etymology citation |etymology citation ,-0.6617283576289674
+representing t |representing t ,-0.6617283576289674
+click |click ,-0.6617283576289674
+no contrastive voicing |no contrastive voicing ,-0.6617283576289674
+kniht |kniht ,-0.6617283576289674
+hatton gospel |Hatton Gospels ,-0.6617283576289674
+english language |English Language ,-0.6617283576289674
+romanization |romanization ,-0.6617283576289674
+length |length ,-0.6617283576289674
+english period |English period ,-0.6617283576289674
+k or c |k or c ,-0.6617283576289674
+final sound |final sound ,-0.6617283576289674
+latin-derived digraphs ae |Latin-derived digraphs ae ,-0.6617283576289674
+german x |German x ,-0.6617283576289674
+end |end ,-0.6617283576289674
+e and i |e and i ,-0.6617283576289674
+speaker |speakers ,-0.6617283576289674
+variant g |variant g ,-0.6617283576289674
+miltse |miltse ,-0.6617283576289674
+tenth century |tenth century ,-0.6617283576289674
+oe i and y |oe i and y ,-0.6617283576289674
+advize |advize ,-0.6617283576289674
+sound spelled kent |sound spelled Kent ,-0.6617283576289674
+k and q |k and q ,-0.6617283576289674
+semitic |Semitic ,-0.6617283576289674
+resemblance |resemblance ,-0.6617283576289674
+words delicious |words delicious ,-0.6617283576289674
+latinic form |Latinic forms ,-0.6617283576289674
+technology |Technology ,-0.6617283576289674
+glottal stop |glottal stop ,-0.6617283576289674
+ke kyng breke |ke kyng breke ,-0.6617283576289674
+sami language |Sami languages ,-0.6617283576289674
+diacritic |diacritics ,-0.6617283576289674
+cyn brecan brocen icc |cyn brecan brocen icc ,-0.6617283576289674
+cadmvs cyrvs and phoci |cadmvs cyrvs and phocis ,-0.6617283576289674
+anglo-saxon writing |Anglo-Saxon writing ,-0.6617283576289674
+external links wikisource |External links Wikisource ,-0.6617283576289674
+latin c c |Latin C c ,-0.6617283576289674
+portuguese k |Portuguese k ,-0.6617283576289674
+head |head ,-0.6617283576289674
+i-iii child chyld riche mychel |i-iii child chyld riche mychel ,-0.6617283576289674
+english cw n queen |English cw n queen ,-0.6617283576289674
+sence |sence ,-0.6617283576289674
+plosive consonant |plosive consonants ,-0.6617283576289674
+west slavic languages e g |West Slavic languages e g ,-0.6617283576289674
+cee pronounced si |cee pronounced si ,-0.6617283576289674
+dialect |dialects ,-0.6617283576289674
+bukawa |Bukawa ,-0.6617283576289674
+shape |shape ,-0.6617283576289674
+sense |sense ,-0.6617283576289674
+northern |northern ,-0.6617283576289674
+picture |picture ,-0.6617283576289674
+france and england |France and England ,-0.6617283576289674
+derivation |derivation ,-0.6617283576289674
+sounds c |sounds c ,-0.6617283576289674
+thik |thik ,-0.6617283576289674
+modified character |modified character ,-0.6617283576289674
+similar phonetic change |similar phonetic change ,-0.6617283576289674
+roman alphabet |Roman alphabet ,-0.6617283576289674
+indonesian |Indonesian ,-0.6617283576289674
+yup ik |Yup ik ,-0.6617283576289674
+iso basic latin letter |ISO basic Latin letters ,-0.6617283576289674
+polish czech and slovak x |Polish Czech and Slovak x ,-0.6617283576289674
+southern spain |southern Spain ,-0.6617283576289674
+ic thick |ic thick ,-0.6617283576289674
+following vowel |following vowel ,-0.6617283576289674
+state |states ,-0.6617283576289674
+theory |Theory ,-0.6617283576289674
+thirteenth century |thirteenth century ,-0.6617283576289674
+north |North ,-0.6617283576289674
+loanword |loanwords ,-0.6617283576289674
+latin camp-um |Latin camp-um ,-0.6617283576289674
+dice |dice ,-0.6617283576289674
+c oxford english dictionary |C Oxford English Dictionary ,-0.6617283576289674
+kurdish |Kurdish ,-0.6617283576289674
+explicitly cited english-language text |explicitly cited English-language text ,-0.6617283576289674
+york |York ,-0.6617283576289674
+cit |cit ,-0.6617283576289674
+barry b powell |Barry B Powell ,-0.6617283576289674
+etymological reason |etymological reasons ,-0.6617283576289674
+classical latin |Classical Latin ,-0.6617283576289674
+comparative grammar |Comparative Grammar ,-0.6617283576289674
+ipa symbol |IPA symbol ,-0.6617283576289674
+fula |Fula ,-0.6617283576289674
+gaelic |Gaelic ,-0.6617283576289674
+polish and cs |Polish and cs ,-0.6617283576289674
+classical period |classical period ,-0.6617283576289674
+french origin |French origin ,-0.6617283576289674
+rice |rice ,-0.6617283576289674
+voiced dental fricative |voiced dental fricative ,-0.6617283576289674
+yabem |Yabem ,-0.6617283576289674
+no etymological necessity |no etymological necessity ,-0.6617283576289674
+earliest latin inscription |earliest Latin inscriptions ,-0.6617283576289674
+cir i ce |cir i ce ,-0.6617283576289674
+loch |loch ,-0.6617283576289674
+greek word |Greek words ,-0.6617283576289674
+addition |addition ,-0.6617283576289674
+ace |ace ,-0.6617283576289674
+greek gamma |Greek gamma ,-0.6617283576289674
+common digraph |common digraphs ,-0.6617283576289674
+esperanto |Esperanto ,-0.6617283576289674
+blackletter c |blackletter C ,-0.6617283576289674
+c disambiguation |C disambiguation ,-0.6617283576289674
+egyptian hieroglyph |Egyptian hieroglyph ,-0.6617283576289674
+largely |largely ,-0.6617283576289674
+transliteration |transliteration ,-0.6617283576289674
+continent |continent ,-0.6617283576289674
+balto-slavic language |Balto-Slavic languages ,-0.6617283576289674
+semite |Semites ,-0.6617283576289674
+ebcdic family |EBCDIC family ,-0.6617283576289674
+voiceless palatal plosive |voiceless palatal plosive ,-0.6617283576289674

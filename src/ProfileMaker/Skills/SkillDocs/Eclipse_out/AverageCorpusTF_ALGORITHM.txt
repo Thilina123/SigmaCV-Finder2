@@ -1,0 +1,472 @@
+eclipse |Eclipse |eclipses |Eclipses |eclipse ,159.0
+moon |moon |moons |Moon ,55.0
+solar |solar |Solar ,48.0
+earth |Earth ,33.0
+solar eclipse |Solar Eclipses |Solar eclipses |solar eclipse |solar eclipses ,32.0
+sun |Sun |sun ,31.0
+lunar |Lunar |lunar ,28.0
+star |stars |Stars |star ,20.0
+bce |BCE ,20.0
+system |system |System ,19.0
+lunar eclipse |Lunar eclipses |lunar eclipse |Lunar Eclipses |lunar eclipses ,17.0
+total |total ,12.0
+shadow |shadow ,12.0
+umbra |umbra ,12.0
+event |events |event ,11.0
+mar |Mars ,11.0
+jupiter |Jupiter ,11.0
+penumbra |penumbra ,11.0
+plane |plane |planes ,10.0
+saturn |Saturn ,10.0
+transit |transits |Transit |transit |Transits ,10.0
+planet |planets |planet ,9.0
+date |date ,9.0
+antumbra |antumbra ,8.0
+observer |observer ,7.0
+century |century ,7.0
+orbital plane |orbital plane ,6.0
+partial |partial ,6.0
+orbit |orbits |orbit ,6.0
+star system |star system ,6.0
+help |help ,6.0
+luminosity |luminosity ,6.0
+front |front ,6.0
+surface |surface ,6.0
+center |center ,6.0
+article |article ,6.0
+umbra penumbra and antumbra |Umbra penumbra and antumbra ,5.0
+totality |Totality |totality ,5.0
+light |light ,5.0
+example |example |examples ,5.0
+nasa |NASA ,5.0
+cassini |Cassini ,5.0
+main article |Main article ,5.0
+greek |Greek ,5.0
+saro |Saros |saros ,5.0
+umbra penumbra |Umbra penumbra ,5.0
+annular |annular ,5.0
+total eclipse |total eclipses |total eclipse ,5.0
+symbol |symbol ,5.0
+occulting object |occulting object ,4.0
+uranus |Uranus ,4.0
+isbn |ISBN ,4.0
+body |body ,4.0
+date help |date help ,4.0
+jpl solar system simulator |JPL Solar System Simulator ,4.0
+venus |Venus ,4.0
+series |series ,4.0
+date value |date values ,4.0
+type |types |type ,4.0
+partial eclipse |partial eclipse ,4.0
+phobos |Phobos ,4.0
+neptune |Neptune ,4.0
+total solar eclipse |total solar eclipse ,4.0
+part |parts |part ,4.0
+world |World |world ,4.0
+science |science ,4.0
+bibcode |Bibcode ,4.0
+mercury |Mercury ,4.0
+pair |pairs |pair ,4.0
+contact |contact ,4.0
+minute |minutes ,4.0
+time |times ,3.0
+fred |Fred ,3.0
+titan |Titan ,3.0
+eclipse cycle |eclipse cycles |eclipse cycle ,3.0
+node |nodes ,3.0
+maximum |maximum ,3.0
+day |days ,3.0
+total lunar eclipse |Total lunar eclipses |Total Lunar Eclipse |total lunar eclipse ,3.0
+month |months |Month ,3.0
+space |space ,3.0
+mercury and venus |Mercury and Venus ,3.0
+cambridge |Cambridge ,3.0
+annular eclipse |annular eclipse ,3.0
+espenak |Espenak ,3.0
+deprecated parameter |deprecated parameters ,3.0
+astronomy |Astronomy ,3.0
+site |site ,3.0
+period |periods |period ,3.0
+difference |difference ,3.0
+illumination |illumination ,3.0
+atmosphere |atmosphere ,3.0
+binary star system |binary star system ,3.0
+eclipsing binary |eclipsing binary ,3.0
+longitude |longitude ,3.0
+term |term |terms ,3.0
+movement |movements ,2.0
+universe |Universe ,2.0
+john |John ,2.0
+side |side ,2.0
+france |France ,2.0
+hour |hours ,2.0
+history |History ,2.0
+red |red ,2.0
+stone |Stone |stone ,2.0
+cambridge university press |Cambridge University Press ,2.0
+expected |expected ,2.0
+viewer |viewer ,2.0
+axial tilt |axial tilt ,2.0
+goodricke |Goodricke ,2.0
+region |region ,2.0
+interval |interval ,2.0
+distance |distance ,2.0
+eclipse magnitude |eclipse magnitude ,2.0
+location |location ,2.0
+variable star |Variable Star ,2.0
+scale |scale ,2.0
+rate |rate ,2.0
+list |Lists ,2.0
+technique |technique ,2.0
+eclipse disambiguation |Eclipse disambiguation ,2.0
+london |London ,2.0
+progression |progression ,2.0
+use |use ,2.0
+shadow cast |shadow cast ,2.0
+historical record |historical records ,2.0
+royal society |Royal Society ,2.0
+verb |verb ,2.0
+lunar motion |lunar motions ,2.0
+track |track ,2.0
+partial solar eclipse |Partial solar eclipses |partial solar eclipses ,2.0
+cite |Cite ,2.0
+radius |radius ,2.0
+line |line ,2.0
+philosophical transaction |Philosophical Transactions ,2.0
+point |points ,2.0
+deimos |Deimos ,2.0
+sun earth |Sun Earth ,2.0
+algol |Algol ,2.0
+physical parameter |Physical Parameters |physical parameters ,2.0
+pluto-charon system |Pluto-Charon System ,2.0
+buie |Buie ,2.0
+hubble |Hubble ,1.0
+cassini probe |Cassini probe ,1.0
+ugaritic language |Ugaritic language ,1.0
+en wikipedia |en wikipedia ,1.0
+four time |four times ,1.0
+astronomical event |astronomical event ,1.0
+paul griffin |Paul Griffin ,1.0
+body pass |body pass ,1.0
+equal frequency |equal frequency ,1.0
+image |Images ,1.0
+number |number ,1.0
+harmonic pattern |harmonic patterns ,1.0
+luminosity variation |luminosity variations ,1.0
+ratio |ratio ,1.0
+prefix |prefix ,1.0
+view |view ,1.0
+instruments and image |Instruments and Images ,1.0
+four solar |four solar ,1.0
+zombeck |Zombeck ,1.0
+imagination |Imagination ,1.0
+scale gamma historically significant eclipse |scale Gamma Historically significant eclipses ,1.0
+improved orbital |Improved Orbital ,1.0
+verb ekle p |verb ekle p ,1.0
+left |left ,1.0
+ole r mer |Ole R mer ,1.0
+man |Man ,1.0
+phillips |Phillips ,1.0
+total eclipse redirect |Total eclipse redirects ,1.0
+luminosity contribution |luminosity contributions ,1.0
+syzygy |syzygy ,1.0
+extrinsic variable star system |extrinsic variable star system ,1.0
+poland |Poland ,1.0
+strongly scatter light |strongly scatter light ,1.0
+sunset |sunset ,1.0
+volume |volume ,1.0
+shorter wavelength |shorter wavelengths ,1.0
+martian eclipse |Martian eclipses ,1.0
+change |changes ,1.0
+normal |normal ,1.0
+pluto edit main article |Pluto edit Main article ,1.0
+straight line |straight line ,1.0
+eclipsing body |eclipsing body ,1.0
+polk |Polk ,1.0
+images prof druckm ller |images Prof Druckm ller ,1.0
+passage |passage ,1.0
+description |descriptions ,1.0
+tony |Tony ,1.0
+mythology |Mythology ,1.0
+dimmer member |dimmer member ,1.0
+oxford university press |Oxford University Press ,1.0
+consequence |consequences ,1.0
+eclipsing binary system |eclipsing binary system ,1.0
+pluto pluto |Pluto Pluto ,1.0
+darkening |darkening ,1.0
+moon titan |moon Titan ,1.0
+dan |Dan ,1.0
+edit list |edit List ,1.0
+abandonment |abandonment ,1.0
+phase |phases ,1.0
+different part |different parts ,1.0
+le p |le p ,1.0
+observatio eclipseos solaris gedani |Observatio Eclipseos Solaris Gedani ,1.0
+historical record edit |Historical record edit ,1.0
+giovanni d cassini |Giovanni D Cassini ,1.0
+girault |Girault ,1.0
+five solar |five solar ,1.0
+syrian clay tablet |Syrian clay tablet ,1.0
+binary star |binary stars ,1.0
+roemer |Roemer ,1.0
+calendar |calendar ,1.0
+fraction |fraction ,1.0
+precision |precision ,1.0
+speed |speed ,1.0
+chinese historical record |Chinese historical records ,1.0
+night eclipse gallery solar |Night Eclipse Gallery Solar ,1.0
+davidson |Davidson ,1.0
+jong |Jong ,1.0
+approach |Approach ,1.0
+uk cambridge university press |UK Cambridge University Press ,1.0
+reason |reason ,1.0
+spherical astronomy |Spherical Astronomy ,1.0
+previously unsolved lunar motion |previously unsolved lunar motions ,1.0
+solar eclipse term |Solar Eclipse Terms ,1.0
+solar prominence |Solar prominences ,1.0
+confirmation |Confirmation ,1.0
+four to seven eclipse |four to seven eclipses ,1.0
+solar or lunar eclipse |solar or lunar eclipse ,1.0
+bruton |Bruton ,1.0
+ancient timekeeper |Ancient Timekeepers ,1.0
+ciel de la terra |ciel de la terra ,1.0
+babylonian astronomer |Babylonian astronomers ,1.0
+standard longitude |standard longitude ,1.0
+earth moon system edit |Earth Moon System edit ,1.0
+greenwich |Greenwich ,1.0
+geometry |Geometry ,1.0
+galilean moon |Galilean moons ,1.0
+smaller span |smaller span ,1.0
+venus edit |Venus edit ,1.0
+fourth or last contact |fourth or last contact ,1.0
+brighter star |brighter star ,1.0
+delay |delay ,1.0
+small |small ,1.0
+first accurate measurement |first accurate measurements ,1.0
+crew |crew ,1.0
+solar eclipses mark |Solar Eclipses Mark ,1.0
+frueh |Frueh ,1.0
+hipschman r |Hipschman R ,1.0
+penumbral lunar eclipse |penumbral lunar eclipses ,1.0
+umbral cone |umbral cone ,1.0
+monsieur cassini |Monsieur Cassini ,1.0
+portion |portions ,1.0
+green |Green ,1.0
+fourth |fourth ,1.0
+history and mythology |History and Mythology ,1.0
+discus |Discuss ,1.0
+wikipedia |Wikipedia ,1.0
+broadside |broadsides ,1.0
+eclipse date |Eclipse dates ,1.0
+meridian |Meridian ,1.0
+low axial tilt |low axial tilt ,1.0
+anciently attested greek technique |anciently attested Greek technique ,1.0
+refracted light |refracted light ,1.0
+solar eclipse edit main article |Solar eclipse edit Main article ,1.0
+binaries edit |binaries edit ,1.0
+miranda |Miranda ,1.0
+van soldt |van Soldt ,1.0
+first satellite |First Satellite ,1.0
+phrase |phrase ,1.0
+space astronomy |Space Astronomy ,1.0
+cassini huygens space probe |Cassini Huygens space probe ,1.0
+opaque object |opaque object ,1.0
+cite template |cite templates ,1.0
+earth producing |Earth producing ,1.0
+callisto |Callisto ,1.0
+ancient time |ancient times ,1.0
+bulletin |Bulletin ,1.0
+eclipse-pair |eclipse-pairs ,1.0
+big syzygy |Big Syzygy ,1.0
+concept |concept ,1.0
+synodic anomalistic draconitic |synodic anomalistic draconitic ,1.0
+recourse |recourse ,1.0
+sight |sight ,1.0
+mars opportunity rover |Mars Opportunity rover ,1.0
+daily event |daily events ,1.0
+marvin bolt |Marvin Bolt ,1.0
+ancient greek-language text article |Ancient Greek-language text Articles ,1.0
+annular solar eclipse |annular solar eclipse ,1.0
+first eclipsing binary star system |first eclipsing binary star system ,1.0
+eclipse season |eclipse season ,1.0
+thales |Thales ,1.0
+bruce |Bruce ,1.0
+instrument |Instruments ,1.0
+lists previous penumbral |lists Previous penumbral ,1.0
+section |section ,1.0
+sun earth and moon |Sun Earth and Moon ,1.0
+danzig |Danzig ,1.0
+local |local ,1.0
+circular shadow |circular shadows ,1.0
+midnightkite solution |Midnightkite Solutions ,1.0
+integral ratio |integral ratios ,1.0
+narrow track |narrow track ,1.0
+nature |Nature ,1.0
+reduced |Reduced ,1.0
+lunar eclipse edit main article |Lunar eclipse edit Main article ,1.0
+broader audience |broader audience ,1.0
+angular siz |angular sizes ,1.0
+place |place ,1.0
+average l |average L ,1.0
+stephanson |Stephanson ,1.0
+extensive coronal filament |extensive coronal filaments ,1.0
+larger light source |larger light source ,1.0
+rare occasion |rare occasions ,1.0
+century antiquity |century Antiquity ,1.0
+visual magnitude |visual magnitude ,1.0
+first two image |first two images ,1.0
+feasible |feasible ,1.0
+content |Contents ,1.0
+photosphere |photosphere ,1.0
+individual star |individual stars ,1.0
+price |Price ,1.0
+european astronomer |European astronomers ,1.0
+first estimate |first estimate ,1.0
+face |face ,1.0
+orbital element |orbital elements ,1.0
+four large moon |four large moons ,1.0
+york time |York Times ,1.0
+longer exposure |longer exposure ,1.0
+archived |Archived ,1.0
+babylonian eclipse record |Babylonian eclipse records ,1.0
+intersection |intersection ,1.0
+catalogue |Catalogue ,1.0
+ancient greek noun kleipsi |ancient Greek noun kleipsis ,1.0
+routledge |Routledge ,1.0
+fact |fact ,1.0
+original |original ,1.0
+full moon |full moon ,1.0
+respect |respect ,1.0
+higher inclination |higher inclination ,1.0
+fear |fear ,1.0
+common center |common center ,1.0
+astrophysics |Astrophysics ,1.0
+detail |details ,1.0
+jovian satellite eclipse |Jovian satellite eclipses ,1.0
+absent |absent ,1.0
+englefield |Englefield ,1.0
+back as eclipse |back as eclipses ,1.0
+langre |Langres ,1.0
+handbook |Handbook ,1.0
+instance |instance ,1.0
+timing |timing ,1.0
+greek finding |Greek finding ,1.0
+jsp |jsp ,1.0
+length l |length L ,1.0
+size |size ,1.0
+encyclopedia jump |encyclopedia Jump ,1.0
+heavenly body |heavenly body ,1.0
+navigation |navigation ,1.0
+e lunar |e Lunar ,1.0
+external links edit |External links edit ,1.0
+sun earth and node |Sun Earth and nodes ,1.0
+result |result ,1.0
+solar eclipse event |solar eclipse event ,1.0
+john goodricke |John Goodricke ,1.0
+sum |sum ,1.0
+antumbra cast |antumbra cast ,1.0
+earth moon system |Earth Moon system ,1.0
+attested ancient motion |attested ancient motions ,1.0
+math-indicated early eclipse record |math-indicated early eclipse records ,1.0
+common orbital plane |common orbital plane ,1.0
+orbital period |orbital period ,1.0
+downfall |downfall ,1.0
+nereid |Nereid ,1.0
+neptune a picture |Neptune A picture ,1.0
+larger moon |larger moons ,1.0
+umbra portion |umbra portion ,1.0
+aristarcho |Aristarchos ,1.0
+improved orbital and physical parameter |Improved Orbital and Physical Parameters ,1.0
+wikimedia common |Wikimedia Commons ,1.0
+constellation |constellation ,1.0
+ireland record |Ireland records ,1.0
+hundred |hundreds ,1.0
+sun and moon |sun and moon ,1.0
+tip |tip ,1.0
+fol |Fol ,1.0
+page |Pages ,1.0
+faint illumination |faint illumination ,1.0
+press release |Press release ,1.0
+information |information ,1.0
+science watch |Science Watch ,1.0
+million |million ,1.0
+dates article |dates Articles ,1.0
+beta persei algol |Beta Persei Algol ,1.0
+noaa |NOAA ,1.0
+record |Records ,1.0
+term eclipse |term eclipse ,1.0
+martin v |Martin V ,1.0
+favorable circumstance |favorable circumstances ,1.0
+solar and lunar eclipse |Solar and Lunar Eclipses ,1.0
+satellite eclipse |Satellite Eclipse ,1.0
+viewpoint |viewpoint ,1.0
+ecliptic |ecliptic ,1.0
+astronomical eclipse |astronomical eclipses ,1.0
+polarization |Polarization ,1.0
+bookseller |booksellers ,1.0
+spin |spin ,1.0
+moon io |moon Io ,1.0
+lunar and solar eclipse |lunar and solar eclipses ,1.0
+lunar event |lunar events ,1.0
+observation |Observations ,1.0
+home page international astronomical union |home page International Astronomical Union ,1.0
+mars transit |Mars Transit ,1.0
+limb |limb ,1.0
+orbital motion |orbital motions ,1.0
+russia |Russia ,1.0
+ancient astronomer |ancient astronomers ,1.0
+total eclipse disambiguation |Total Eclipse disambiguation ,1.0
+moonblink info eclipse lists stat |moonblink info Eclipse lists stats ,1.0
+antumbra edit umbra penumbra |antumbra edit Umbra penumbra ,1.0
+first contact |first contact ,1.0
+black spot |black spot ,1.0
+mathpage |MathPages ,1.0
+mars edit main article |Mars edit Main article ,1.0
+eclipse cycles edit |Eclipse cycles edit ,1.0
+astronomical object |astronomical object ,1.0
+shot |shots ,1.0
+mass |mass ,1.0
+contrast |contrast ,1.0
+successive eclipse |successive eclipses ,1.0
+astrology |astrology ,1.0
+striking involve jupiter |striking involve Jupiter ,1.0
+symbolic orbital diagram |symbolic orbital diagram ,1.0
+commonplace |commonplace ,1.0
+planetary transit |Planetary Transits ,1.0
+tholen |Tholen ,1.0
+julian stile |Julian Stile ,1.0
+sunlight |Sunlight ,1.0
+given location |given location ,1.0
+celestial sphere |celestial sphere ,1.0
+uranus and solar eclipse |Uranus and Solar eclipses ,1.0
+host planet |host planet ,1.0
+word |Word ,1.0
+diagram |diagrams ,1.0
+umbra and penumbra |umbra and penumbra ,1.0
+digital universe |Digital Universe ,1.0
+repetition |repetition ,1.0
+mercury and venus edit |Mercury and Venus edit ,1.0
+exact table |Exact Tables ,1.0
+eight year |eight years ,1.0
+alignment |alignment ,1.0
+annular and total eclipse |annular and total eclipses ,1.0
+chronological dating |chronological dating ,1.0
+maximum luminosity |maximum luminosity ,1.0
+system b motion |System B motion ,1.0
+object |objects ,1.0
+dio |DIO ,1.0
+proportionately large moon charon |proportionately large moon Charon ,1.0
+bibliotheca alexandrina |Bibliotheca Alexandrina ,1.0
+order |order ,1.0
+long-eclipse-cycle-based reconstruction |Long-eclipse-cycle-based reconstructions ,1.0
+gas giant |gas giants ,1.0
+no moon |no moons ,1.0
+binzel |Binzel ,1.0
+mutual eclipse |mutual eclipses ,1.0
+book |books ,1.0
+preposition ek |preposition ek ,1.0
+constituent star |constituent stars ,1.0
+entire hemisphere |entire hemisphere ,1.0
+larger planet |larger planet ,1.0
+pluto edit gas giants edit |Pluto edit Gas giants edit ,1.0
+novosibirsk |Novosibirsk ,1.0

@@ -1,5 +1,6 @@
 package ProfileMaker.Skills;
 
+import PhraseExtractor.PhraseAnalyzer;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.jsoup.Jsoup;
@@ -8,6 +9,8 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import utils.NetworkManager;
 
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -17,10 +20,13 @@ import java.util.Iterator;
  */
 public class Wikipedia {
     private NetworkManager networkManager;
+    public String filePath="src/ProfileMaker/Skills/SkillDocs";
+    PhraseAnalyzer phraseAnalyzer;
     public Wikipedia() {
         networkManager=new NetworkManager();
+        phraseAnalyzer=new PhraseAnalyzer();
     }
-    public ArrayList<String> GetTerms(String searchTerm){
+    public void GetTerms(String searchTerm){
         ArrayList<String> terms=new ArrayList<String>();
         JSONObject json = null;
         searchTerm=searchTerm.replace(' ','-');
@@ -38,15 +44,16 @@ public class Wikipedia {
                 String key=keys.next().toString();
                 System.out.println(key);
                 if (!key.equals("-1")){
-                    return tokenizePage(key);
+                    String text=tokenizePage(key);
+                    writeFile(searchTerm,text);
                 }
             }
         } catch (JSONException e) {
             e.printStackTrace();
         }
-        return  terms;
+        return;
     }
-    private ArrayList<String> tokenizePage(String pageId){
+    private String tokenizePage(String pageId){
         ArrayList<String> terms=new ArrayList<String>();
         String url="http://en.wikipedia.org/wiki?curid="+pageId;
         Document doc = null;
@@ -58,7 +65,34 @@ public class Wikipedia {
         Element body = doc != null ? doc.select("div[id=bodyContent]").first() : null;
         System.out.println(url);
         System.out.println(body.text());
-        return terms;
+
+        return body.text();
+    }
+    private void writeFile(String skillName,String text){
+        boolean b = new File(filePath+"/"+skillName).mkdirs();
+        if(b) {
+            File file = new File(filePath + "/" + skillName + "/" + skillName + ".txt");
+            // creates the file
+            try {
+                file.createNewFile();
+                // creates a FileWriter Object
+                FileWriter writer = new FileWriter(file);
+                // Writes the content to the file
+                writer.write(text);
+                writer.flush();
+                writer.close();
+                new File(filePath + "/" + skillName+"_out").mkdirs();
+                phraseAnalyzer.GenerateTF_IDF(filePath + "/" + skillName,filePath + "/" + skillName+"_out"  );
+
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+
+//        new File(filePath + "/" + skillName,filePath + "/" + skillName+"_out").mkdirs();
+//        phraseAnalyzer.GenerateTF_IDF(filePath + "/" + skillName,filePath + "/" + skillName+"_out"  );
+
+
     }
 
 }

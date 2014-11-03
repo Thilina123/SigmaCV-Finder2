@@ -1,0 +1,24 @@
+article disambiguation page |article disambiguation pages ,-0.6217182245673765
+microsoft xna |Microsoft xna ,-0.6280553871073457
+xna or xna |XNA or xna ,-0.6378580778955227
+north arabian xeno nucleic acid |North Arabian Xeno Nucleic Acid ,-0.7046535672112832
+artificial genetic material alternative |artificial genetic material alternative ,-0.7046535672112832
+northwest arkansas regional airport |Northwest Arkansas Regional Airport ,-0.7046535672112832
+encyclopedia jump |encyclopedia Jump ,-0.7046535672112832
+game developer |game developers ,-0.7046535672112832
+intended article |intended article ,-0.7152043366100647
+internal link |internal link ,-0.7156135146656837
+en wikipedia |en wikipedia ,-0.7156135146656837
+usenet newsgroup header microsoft xna |Usenet newsgroup header Microsoft XNA ,-0.7395719386698641
+xna |xna |XNA ,-2.4130209039921304
+article |articles ,-3.2558636438510087
+link |link ,-3.5831044488651895
+title |title ,-3.5831044488651895
+wikipedia |Wikipedia ,-3.615765074553957
+set |set ,-4.224546037274709
+tool |tools ,-4.224546037274709
+dictionary |dictionary ,-4.224546037274709
+wiktionary |Wiktionary ,-4.224546037274709
+dna |DNA ,-4.224546037274709
+search |search ,-4.224546037274709
+navigation |navigation ,-4.224546037274709

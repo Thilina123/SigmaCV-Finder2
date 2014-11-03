@@ -1,0 +1,1000 @@
+iso iec |ISO IEC ,37.46362647619893
+sql |SQL ,37.418146400451064
+sql standard |SQL standard |SQL standards ,14.985450590479573
+relational database management system |relational database management systems |relational database management system ,12.213743458384327
+relational model |relational model |Relational Model ,10.70389327891398
+sql psm |SQL PSM ,9.633503951022583
+relational database |Relational Databases |relational database |relational databases ,8.919911065761651
+sql server |SQL Server ,8.027919959185486
+standard |standards |standard |Standards ,7.556715392170342
+database |Databases |databases |database ,7.10787445845818
+group by clause |GROUP BY clause ,6.529072861998052
+data type |Data Types |data types ,6.422335967348388
+iso |ISO ,6.15710223013598
+database language |Database languages |database language ,6.154738635375539
+structured query language sql |Structured Query Language SQL ,6.1068717291921635
+large shared data bank |Large Shared Data Banks ,6.1068717291921635
+oracle database documentation library |Oracle Database Documentation Library ,6.1068717291921635
+optional feature |optional features ,5.35194663945699
+sql code |SQL code ,5.35194663945699
+language |languages |language ,5.104818319216338
+null |Nulls |NULLs |nulls |NULL |Null ,5.087630378747596
+foundation sql foundation |Foundation SQL Foundation ,4.896804646498539
+raymond f boyce |Raymond F Boyce ,4.896804646498539
+donald d chamberlin |Donald D Chamberlin ,4.896804646498539
+structured query language |Structured Query Language ,4.896804646498539
+distinct from row value expression |DISTINCT FROM row value expression ,4.700994494168267
+american national standards institute ansi |American National Standards Institute ANSI ,4.700994494168267
+three-valued logic |three-valued logic ,4.281557311565592
+sql statement |SQL statements ,4.281557311565592
+sql database |SQL database |SQL databases ,4.281557311565592
+information technology |Information Technology |Information technology ,4.281557311565592
+definition schemas sql schema |Definition Schemas SQL Schemata ,4.071247819461442
+mandatory and optional feature |mandatory and optional features ,4.071247819461442
+american national standards institute |American National Standards Institute ,4.071247819461442
+update account set amount |UPDATE Account SET amount ,4.071247819461442
+ibm |IBM |ibm ,3.9876021887481157
+iec |IEC ,3.9876021887481157
+table |tables |table ,3.944180023353399
+programming language |programming languages |programming language ,3.7463626476198932
+unknown |Unknown ,3.4375880937483756
+edit |edit ,3.4375880937483756
+xml query language |XML query languages |XML Query Language ,3.264536430999026
+object language binding |Object Language Bindings ,3.264536430999026
+framework sql framework |Framework SQL Framework ,3.264536430999026
+java programming language |Java Programming Language ,3.264536430999026
+order by clause |ORDER BY clause ,3.264536430999026
+s-q-l or sequel |S-Q-L or Sequel ,3.264536430999026
+row value expression |row value expression ,3.264536430999026
+ms sql server |MS SQL Server ,3.264536430999026
+database language sql |Database Language SQL ,3.264536430999026
+si kw l |si kw l ,3.264536430999026
+microsoft sql server |Microsoft SQL Server ,3.264536430999026
+sundeep amor |Sundeep Amor ,3.211167983674194
+redwood city |Redwood City ,3.211167983674194
+oracle sql |Oracle SQL ,3.211167983674194
+sql cli |SQL CLI ,3.211167983674194
+basic element |Basic Elements ,3.211167983674194
+mary beth |Mary Beth ,3.211167983674194
+universal quantification |Universal quantification |universal quantification ,3.211167983674194
+unsourced statement |unsourced statements ,3.211167983674194
+application sql |application sql ,3.211167983674194
+following example |following example ,3.211167983674194
+start transaction |START TRANSACTION ,3.211167983674194
+oracle |Oracle ,3.2084155541651502
+example |Example |example ,3.000076881816764
+query |query ,2.651853672320175
+system |systems |system ,2.601989757114155
+select |SELECT ,2.5867850405456525
+row |row |rows ,2.5025641322488172
+true |True ,2.4750634274988306
+date |dates |Date |DATE |date ,2.46448623336422
+book |Book |books |book ,2.459785258193282
+database management system |Database management systems |database management system ,2.4484023232492693
+set |SET |set ,2.4292289195821857
+clause |clauses |Clauses |clause ,2.3833944116655403
+kleene and lukasiewicz three-valued logic |Kleene and Lukasiewicz three-valued logic ,2.3504972470841334
+hibernate persistence library lin q |Hibernate persistence library LIN Q ,2.3504972470841334
+n characters national character n |n characters NATIONAL CHARACTER n ,2.3504972470841334
+b ron van der meyden |b Ron van der Meyden ,2.3504972470841334
+ibm san jose research laboratory |IBM San Jose Research Laboratory ,2.3504972470841334
+sql tables and query result |SQL tables and query results ,2.3504972470841334
+select from book where price |SELECT FROM Book WHERE price ,2.3504972470841334
+abbreviated syntax called simple case |abbreviated syntax called simple case ,2.3504972470841334
+information schema and definition schema |Information Schema and Definition Schema ,2.3504972470841334
+character n or char n |CHARACTER n or CHAR n ,2.3504972470841334
+insert join merge null order |Insert Join Merge Null Order ,2.3504972470841334
+u c berkeley ingres project |U C Berkeley Ingres project ,2.3504972470841334
+prepare select truncate union update |Prepare Select Truncate Union Update ,2.3504972470841334
+sql based interfaces and package |SQL based interfaces and packages ,2.3504972470841334
+jooq os cross-platform file format |jOOQ OS Cross-platform File format ,2.3504972470841334
+dynamic infrastructure guide international ibm |Dynamic infrastructure GUIDE International IBM ,2.3504972470841334
+no corresponding oracle data type |no corresponding Oracle data type ,2.3504972470841334
+relational data stream management system |relational data stream management system ,2.3504972470841334
+syntax edit language elements edit |Syntax edit Language elements edit ,2.3504972470841334
+price from book where price |price FROM Book WHERE price ,2.3504972470841334
+languages including perl python tcl |languages including Perl Python Tcl ,2.3504972470841334
+closely related but separate standard |closely related but separate standard ,2.3504972470841334
+date or time data type |DATE or TIME data types ,2.3504972470841334
+relational operator or aggregation function |relational operator or aggregation function ,2.3504972470841334
+operators edit operator description example |Operators edit Operator Description Example ,2.3504972470841334
+uk-based hawker siddeley aircraft company |UK-based Hawker Siddeley aircraft company ,2.3504972470841334
+international character set national character |international character set NATIONAL CHARACTER ,2.3504972470841334
+persistent stored modules sql psm |Persistent Stored Modules SQL PSM ,2.3504972470841334
+n bits numbers edit integer |n bits Numbers edit INTEGER ,2.3504972470841334
+sequel structured english query language |SEQUEL Structured English Query Language ,2.3504972470841334
+java programming language sql jrt |Java Programming Language SQL JRT ,2.3504972470841334
+false |False ,2.3375599037488954
+information |Information |information ,2.2611690572211534
+column |column |columns ,2.2000563799989603
+postgresql |PostgreSQL ,2.172555675248973
+xml |XML ,2.172555675248973
+including detail |including details ,2.140778655782796
+width string |width string ,2.140778655782796
+iec standard |IEC standards ,2.140778655782796
+truncate statement |TRUNCATE statement |TRUNCATE statements ,2.140778655782796
+relational software |Relational Software ,2.140778655782796
+sql dialect |SQL dialect ,2.140778655782796
+international organization |International Organization ,2.140778655782796
+computing machinery |Computing Machinery ,2.140778655782796
+select isbn |SELECT isbn ,2.140778655782796
+data mining |data mining |Data mining ,2.140778655782796
+multiple table |multiple tables ,2.140778655782796
+missing information |missing information ,2.140778655782796
+iso standard |ISO standards ,2.140778655782796
+existing table |existing table ,2.140778655782796
+direct comparison |direct comparisons ,2.140778655782796
+book table |Book table ,2.140778655782796
+comparison predicate |comparison predicate ,2.140778655782796
+sql implementation |SQL implementation |SQL implementations ,2.140778655782796
+significant digit |significant digits ,2.140778655782796
+n bit |n bits ,2.140778655782796
+standard sql |Standard SQL ,2.140778655782796
+sql multimedia |SQL Multimedia ,2.140778655782796
+postgresql contributor |PostgreSQL contributors ,2.140778655782796
+xml-related specification |XML-Related Specifications ,2.140778655782796
+system r |System R ,2.140778655782796
+database system |database systems ,2.140778655782796
+sql table |SQL tables |SQL table ,2.140778655782796
+data change |data changes ,2.140778655782796
+standardization iso |Standardization ISO ,2.140778655782796
+language construct |language constructs ,2.140778655782796
+application package |Application Packages ,2.140778655782796
+persistent effect |persistent effect |persistent effects ,2.140778655782796
+sql language |SQL language ,2.140778655782796
+program flow |program flow ,2.140778655782796
+select list |select list ,2.140778655782796
+set operation |set operations ,2.140778655782796
+pronouncing sql |Pronouncing SQL ,2.140778655782796
+varying n |VARYING n ,2.140778655782796
+sql routine |SQL Routines ,2.140778655782796
+statement |Statements |statements ,2.131304618123993
+result |result |results ,2.062552856249025
+date and time syntax |date and time syntax ,2.035623909730721
+data management and interchange |Data management and interchange ,2.035623909730721
+approved iso international standard |approved ISO international standard ,2.035623909730721
+optional keywords and clause |optional keywords and clauses ,2.035623909730721
+procedural and object-oriented programmability |procedural and object-oriented programmability ,2.035623909730721
+ansi iso iec international |ANSI ISO IEC International ,2.035623909730721
+definition schemas sql routine |Definition Schemas SQL Routines ,2.035623909730721
+internet engineering task force |Internet Engineering Task Force ,2.035623909730721
+high from some table |high FROM some table ,2.035623909730721
+example sql code request |example SQL code Requests ,2.035623909730721
+first commercially available implementation |first commercially available implementation ,2.035623909730721
+n or nvarchar n |n or NVARCHAR n ,2.035623909730721
+procedural and control-of-flow statement |procedural and control-of-flow statements ,2.035623909730721
+ibm mergers and acquisition |IBM Mergers and acquisitions ,2.035623909730721
+standards and technology nist |Standards and Technology NIST ,2.035623909730721
+table and index structure |table and index structure ,2.035623909730721
+radix binary or decimal |radix binary or decimal ,2.035623909730721
+needed character varying n |needed CHARACTER VARYING n ,2.035623909730721
+date and time edit |Date and time edit ,2.035623909730721
+insert and update element |INSERT and UPDATE elements ,2.035623909730721
+existing table e g |existing table e g ,2.035623909730721
+important areas e g |important areas e g ,2.035623909730721
+p and q p |p AND q p ,2.035623909730721
+persistent database language routine |persistent database language routines ,2.035623909730721
+structured english query language |Structured English Query Language ,2.035623909730721
+additional sales tax column |additional sales tax column ,2.035623909730721
+iso iec initial release |ISO IEC Initial release ,2.035623909730721
+example from some user |example FROM some user ,2.035623909730721
+system r research team |System R research team ,2.035623909730721
+whitemarsh information systems corporation |Whitemarsh Information Systems Corporation ,2.035623909730721
+transitive closure triggers support |transitive closure triggers support ,2.035623909730721
+sql cli procedure call |SQL CLI procedure calls ,2.035623909730721
+sql-based dbms implementation information |SQL-based DBMS implementation information ,2.035623909730721
+security and authorization specification |security and authorization specifications ,2.035623909730721
+schema creation and modification |schema creation and modification ,2.035623909730721
+create alter rename drop |CREATE ALTER RENAME DROP ,2.035623909730721
+procedural extensions edit sql |Procedural extensions edit SQL ,2.035623909730721
+data manipulation language dml |Data Manipulation Language DML ,2.035623909730721
+standard sql psm extension |standard SQL PSM extensions ,2.035623909730721
+book order by title |Book ORDER BY title ,2.035623909730721
+set-based declarative query language |set-based declarative query language ,2.035623909730721
+object-relational database management system |object-relational database management systems ,2.035623909730721
+ibm fellow pulse conference |IBM Fellow Pulse conference ,2.035623909730721
+recursive queries e g |recursive queries e g ,2.035623909730721
+unmanaged extended stored procedure |unmanaged extended stored procedures ,2.035623909730721
+program understanding and maintenance |program understanding and maintenance ,2.035623909730721
+transaction controls edit transaction |Transaction controls edit Transactions ,2.035623909730721
+tree or graph traversal |tree or graph traversals ,2.035623909730721
+data control language dcl |Data Control Language DCL ,2.035623909730721
+xml and conventional sql-data |XML and conventional SQL-data ,2.035623909730721
+ndl and sql standard |NDL and SQL standards ,2.035623909730721
+call-level interface sql cli |Call-Level Interface SQL CLI ,2.035623909730721
+application packages sql mm |Application Packages SQL MM ,2.035623909730721
+large existing customer base |large existing customer bases ,2.035623909730721
+timestamp with time zone |TIMESTAMP WITH TIME ZONE ,2.035623909730721
+century year month date |century year month date ,2.035623909730721
+internet assigned numbers authority |Internet Assigned Numbers Authority ,2.035623909730721
+procedural programming language functionality |procedural programming language functionality ,2.035623909730721
+structure and integrity constraint |structure and integrity constraints ,2.035623909730721
+group by book title |GROUP BY Book title ,2.035623909730721
+scale or decimal precision |scale or DECIMAL precision ,2.035623909730721
+sql wikibook sql comparison |SQL Wikibook SQL Comparison ,2.035623909730721
+union and intersect operator |UNION and INTERSECT operators ,2.035623909730721
+sql server language reference |SQL Server Language Reference ,2.035623909730721
+postgresql global development group |PostgreSQL Global Development Group ,2.035623909730721
+widely used database language |widely used database language ,2.035623909730721
+xml-to-sql data type mapping |XML-to-SQL data type mappings ,2.035623909730721
+international workshop dagstuhl castle |International Workshop Dagstuhl Castle ,2.035623909730721
+title |title |Title ,1.9250493324990903
+feature |features ,1.7875458087491554
+java |Java ,1.7569894701380586
+number |number |Numbers ,1.6500422849992202
+expression |expression |Expressions |expressions ,1.6500422849992202
+part |parts |part ,1.6500422849992202
+c or basic |C or BASIC ,1.632268215499513
+audio pronunciation english |audio pronunciation English ,1.632268215499513
+commit or rollback |COMMIT or ROLLBACK ,1.632268215499513
+j r opel |J R Opel ,1.632268215499513
+mary e treseler |Mary E Treseler ,1.632268215499513
+datetime data type |datetime data types ,1.632268215499513
+ronald r plew |Ronald R Plew ,1.632268215499513
+column naming convention |column naming conventions ,1.632268215499513
+usefulness and practicality |usefulness and practicality ,1.632268215499513
+no persistent effect |no persistent effects ,1.632268215499513
+conforming database system |conforming database system ,1.632268215499513
+java persistence api |Java Persistence API ,1.632268215499513
+fixed-width n-character string |fixed-width n-character string ,1.632268215499513
+runs sql statement |Runs SQL statements ,1.632268215499513
+details filename extension |details Filename extension ,1.632268215499513
+sql functions programmer |SQL Functions Programmer ,1.632268215499513
+strong major implementation |strong Major implementations ,1.632268215499513
+following sql ds |following SQL DS ,1.632268215499513
+datalog influenced cql |Datalog Influenced CQL ,1.632268215499513
+ps preprint note |PS preprint note ,1.632268215499513
+inclusive range cost |inclusive range Cost ,1.632268215499513
+hierarchical model list |Hierarchical model List ,1.632268215499513
+categories iso standard |Categories ISO standards ,1.632268215499513
+internet media type |Internet media type ,1.632268215499513
+operators and function |operators and functions ,1.632268215499513
+proprietary sql extension |proprietary SQL extensions ,1.632268215499513
+data control edit |Data control edit ,1.632268215499513
+precision numeric precision |PRECISION NUMERIC precision ,1.632268215499513
+subsequent commit operation |subsequent COMMIT operation ,1.632268215499513
+special-purpose programming language |special-purpose programming language ,1.632268215499513
+regular expression matching |regular expression matching ,1.632268215499513
+obvious such example |obvious such examples ,1.632268215499513
+different database system |different database systems ,1.632268215499513
+windows power shell |Windows Power Shell ,1.632268215499513
+sql e g |SQL e g ,1.632268215499513
+variable e g |variable e g ,1.632268215499513
+u s navy |U S Navy ,1.632268215499513
+system r prototype |System R prototype ,1.632268215499513
+true and false |True and False ,1.632268215499513
+static java method |static Java methods ,1.632268215499513
+access ordinary sql-data |access ordinary SQL-data ,1.632268215499513
+statement condition signal |statement condition signals ,1.632268215499513
+english-speaking database professional |English-speaking database professionals ,1.632268215499513
+negated existential quantification |negated existential quantification ,1.632268215499513
+manipulation and storage |manipulation and storage ,1.632268215499513
+null e g |NULL e g ,1.632268215499513
+sql object identifier |SQL object identifier ,1.632268215499513
+commit and rollback |COMMIT and ROLLBACK ,1.632268215499513
+comparison case sensitivity |comparison case sensitivity ,1.632268215499513
+common table expression |common table expression ,1.632268215499513
+string to date |string TO DATE ,1.632268215499513
+java sql olb |Java SQL OLB ,1.632268215499513
+data management standard |data management standards ,1.632268215499513
+sql standard mirror |SQL standard mirrors ,1.632268215499513
+microsoft command shell |Microsoft Command Shell ,1.632268215499513
+vice-versa sql jrt |vice-versa SQL JRT ,1.632268215499513
+typical database application |typical database applications ,1.632268215499513
+drop table example |DROP TABLE example ,1.632268215499513
+sql based interface |SQL based interfaces ,1.632268215499513
+syntax and semantics |syntax and semantics ,1.632268215499513
+following data type |following data types ,1.632268215499513
+data language specification |data language specification ,1.632268215499513
+relational database technology |relational database technology ,1.632268215499513
+null special marker |Null special marker ,1.632268215499513
+multiple possible value |multiple possible values ,1.632268215499513
+san carlos airport |San Carlos Airport ,1.632268215499513
+xml data type |XML data type ,1.632268215499513
+select into syntax |SELECT INTO syntax ,1.632268215499513
+ibm informix implementation |IBM Informix implementation ,1.632268215499513
+interfaces and package |interfaces and packages ,1.632268215499513
+first commercial language |first commercial languages ,1.632268215499513
+boolean type variable |BOOLEAN type variables ,1.632268215499513
+data definition edit |Data definition edit ,1.632268215499513
+standard number list |standard number List ,1.632268215499513
+complexity and size |complexity and size ,1.632268215499513
+sql standard conflict |SQL standard conflicts ,1.632268215499513
+ryan k stephen |Ryan K Stephens ,1.632268215499513
+columns and row |columns and rows ,1.632268215499513
+queries e g |queries e g ,1.632268215499513
+standard select statement |Standard SELECT statements ,1.632268215499513
+harvey mudd college |Harvey Mudd College ,1.632268215499513
+implicit equality comparison |implicit equality comparisons ,1.632268215499513
+variables and parameter |variables and parameters ,1.632268215499513
+no such operation |no such operation ,1.632268215499513
+sql dbms compliance |SQL DBMS compliance ,1.632268215499513
+postgresql server programming |PostgreSQL server programming ,1.632268215499513
+boolean truth value |Boolean truth values ,1.632268215499513
+sql database language |SQL database language ,1.632268215499513
+direct equality comparison |direct equality comparisons ,1.632268215499513
+data types edit |Data types edit ,1.632268215499513
+commit statement complete |COMMIT statement completes ,1.632268215499513
+define foreign-data wrapper |define foreign-data wrappers ,1.632268215499513
+page numbering differ |page numbering differs ,1.632268215499513
+numerics or date |numerics or dates ,1.632268215499513
+current system date |current system date ,1.632268215499513
+character strings edit |Character strings edit ,1.632268215499513
+data definition language |data definition language ,1.632268215499513
+select book title |SELECT Book title ,1.632268215499513
+optional join subclaus |optional JOIN subclauses ,1.632268215499513
+select avg price |SELECT AVG price ,1.632268215499513
+placeholder or mark |placeholder or mark ,1.632268215499513
+systems e g |systems e g ,1.632268215499513
+sql jrt extension |SQL JRT extensions ,1.632268215499513
+case create delete |Case Create Delete ,1.632268215499513
+customer test site |customer test sites ,1.632268215499513
+table e g |table e g ,1.632268215499513
+release data lock |release data locks ,1.632268215499513
+sales tax figure |sales tax figure ,1.632268215499513
+create table example |CREATE TABLE example ,1.632268215499513
+edgar f codd |Edgar F Codd ,1.632268215499513
+standardization edit sql |Standardization edit SQL ,1.632268215499513
+sql language element |SQL language elements ,1.632268215499513
+sql standards document |SQL standards documents ,1.632268215499513
+sql s kju |SQL s kju ,1.632268215499513
+common practical concern |common practical concern ,1.632268215499513
+data access control |data access control ,1.632268215499513
+tuple relational calculus |tuple relational calculus ,1.632268215499513
+international business machine |International Business Machines ,1.632268215499513
+data manipulation edit |Data manipulation edit ,1.632268215499513
+references edit codd |References edit Codd ,1.632268215499513
+infixed comparison operator |infixed comparison operator ,1.632268215499513
+event stream processing |Event stream processing ,1.632268215499513
+central intelligence agency |Central Intelligence Agency ,1.632268215499513
+different sql implementation |Different SQL Implementations ,1.632268215499513
+robert f garrett |Robert F Garrett ,1.632268215499513
+sql aggregation function |SQL aggregation functions ,1.632268215499513
+sql applications java-in-the-database |SQL applications Java-in-the-database ,1.632268215499513
+truncate table example |TRUNCATE TABLE example ,1.632268215499513
+tutorial d xquery |Tutorial D XQuery ,1.632268215499513
+oral history interview |Oral history interview ,1.632268215499513
+proprietary sql dbms |proprietary SQL DBMSs ,1.632268215499513
+sql olb jdbc |SQL OLB JDBC ,1.632268215499513
+intuitive logical semantics |intuitive logical semantics ,1.632268215499513
+zone or timetz |ZONE or TIMETZ ,1.632268215499513
+ess cue ell |ess cue ell ,1.632268215499513
+b c chamberlin |b c Chamberlin ,1.632268215499513
+declaration and maintenance |declaration and maintenance ,1.632268215499513
+wikibooks learning resource |Wikibooks Learning resources ,1.632268215499513
+media type registration |Media Type registration ,1.632268215499513
+j f aker |J F Akers ,1.632268215499513
+declarative select statement |declarative SELECT statement ,1.632268215499513
+value |values ,1.6042077770825751
+type |Types |type ,1.5950408754992462
+case |cases |case |CASE ,1.512538761249285
+user |Users |users |user ,1.512538761249285
+function |functions |function ,1.497260591943737
+operation |operation |operations ,1.4928954007135802
+dbms |DBMSs |DBMS ,1.3553918769636453
+vendor |vendor |vendors |Vendors ,1.2375317137494153
+definition |definition |Definition ,1.2203437732806732
+update |UPDATE ,1.2100310089994282
+comparison |comparisons |Comparisons |Comparison ,1.2069753751383185
+object |object |objects ,1.2031558328119314
+following |following ,1.1687799518744477
+extension |extensions ,1.1000281899994802
+price |price ,1.1000281899994802
+en wikipedia |en wikipedia ,1.070389327891398
+clause eliminate |clause eliminates ,1.070389327891398
+java package |Java packages ,1.070389327891398
+continuous improvement |continuous improvement ,1.070389327891398
+string concatenation |string concatenation ,1.070389327891398
+m negri |M Negri ,1.070389327891398
+auto-generated value |auto-generated values ,1.070389327891398
+example output |Example output ,1.070389327891398
+java class |Java classes ,1.070389327891398
+logical approach |Logical approaches ,1.070389327891398
+null-specific comparison |Null-specific comparison ,1.070389327891398
+integrity constraint |integrity constraints ,1.070389327891398
+l sbattella |L Sbattella ,1.070389327891398
+aggregation function |aggregation function ,1.070389327891398
+oracle-sql dialect |Oracle-SQL dialect ,1.070389327891398
+important element |important element ,1.070389327891398
+classic transfer |classic transfer ,1.070389327891398
+great extent |great extent ,1.070389327891398
+standard anymore |Standard Anymore ,1.070389327891398
+ascending order |ascending order ,1.070389327891398
+high end |high END ,1.070389327891398
+non-negative integer |non-negative integer ,1.070389327891398
+xml-related feature |XML-related features ,1.070389327891398
+single statement |single statement ,1.070389327891398
+reunion meeting |reunion meeting ,1.070389327891398
+cursor definition |cursor definitions ,1.070389327891398
+resignals cursor |resignals cursors ,1.070389327891398
+structured type |structured types ,1.070389327891398
+null sql |Null SQL ,1.070389327891398
+books table |Books table ,1.070389327891398
+final result |final result ,1.070389327891398
+decimal number |decimal number ,1.070389327891398
+people project |People Projects ,1.070389327891398
+pl i |PL I ,1.070389327891398
+template call |template calls ,1.070389327891398
+boolean null |BOOLEAN NULL ,1.070389327891398
+cleaner semantics |cleaner semantics ,1.070389327891398
+personal history |personal history ,1.070389327891398
+positive integer |positive integer ,1.070389327891398
+ars technica |Ars Technica ,1.070389327891398
+tuple calculus |tuple calculus ,1.070389327891398
+condition handling |condition handling ,1.070389327891398
+newer version |newer version ,1.070389327891398
+common value |common values ,1.070389327891398
+similar functionality |similar functionality ,1.070389327891398
+equality testing |equality testing ,1.070389327891398
+b wagner |b Wagner ,1.070389327891398
+select statement |SELECT statements ,1.070389327891398
+xml form |XML form ,1.070389327891398
+default grant |default grant ,1.070389327891398
+common sequel |common sequel ,1.070389327891398
+truth table |truth tables ,1.070389327891398
+official pronunciation |official pronunciation ,1.070389327891398
+exact numeric |exact numeric ,1.070389327891398
+backward compatibility |backward compatibility ,1.070389327891398
+fraction function |FRACTION functions ,1.070389327891398
+select decode |SELECT DECODE ,1.070389327891398
+table row |table rows ,1.070389327891398
+object-oriented feature |object-oriented features ,1.070389327891398
+constituent component |constituent components ,1.070389327891398
+hire date |Hire Date ,1.070389327891398
+cascon deep |CASCON Deep ,1.070389327891398
+oracle store |Oracle stores ,1.070389327891398
+sql-based rdbm |SQL-based RDBMS ,1.070389327891398
+outer query |outer query ,1.070389327891398
+resulting mechanism |resulting mechanism ,1.070389327891398
+encyclopedia britannica |Encyclopedia Britannica ,1.070389327891398
+fixpoint computation |fixpoint computations ,1.070389327891398
+san francisco |San Francisco ,1.070389327891398
+sql-based extension |SQL-based extensions ,1.070389327891398
+similar statement |similar statement ,1.070389327891398
+o reilly |O Reilly ,1.070389327891398
+revoke select |REVOKE SELECT ,1.070389327891398
+acronym-like pronunciation |acronym-like pronunciation ,1.070389327891398
+database server |database server ,1.070389327891398
+rdbms product |RDBMS products ,1.070389327891398
+sql example |SQL Examples ,1.070389327891398
+called upsert |called upsert ,1.070389327891398
+following form |following form ,1.070389327891398
+procedural element |procedural elements ,1.070389327891398
+g pelagatti |G Pelagatti ,1.070389327891398
+data domain |data domain ,1.070389327891398
+boolean unknown |BOOLEAN Unknown ,1.070389327891398
+current point |current point ,1.070389327891398
+national institute |National Institute ,1.070389327891398
+iso romanization |ISO romanizations ,1.070389327891398
+searched case |searched case ,1.070389327891398
+wide variety |wide variety ,1.070389327891398
+incomplete information |incomplete information ,1.070389327891398
+data insert |data insert ,1.070389327891398
+c postgresql |C PostgreSQL ,1.070389327891398
+case n |CASE n ,1.070389327891398
+word null |word NULL ,1.070389327891398
+encyclopedia jump |encyclopedia Jump ,1.070389327891398
+sql guide |SQL Guide ,1.070389327891398
+central element |central elements ,1.070389327891398
+optional keyword |optional keywords ,1.070389327891398
+sql deviate |SQL deviates ,1.070389327891398
+early life |early life ,1.070389327891398
+bigint float |BIGINT FLOAT ,1.070389327891398
+database connectivity |Database Connectivity ,1.070389327891398
+donald d |Donald D ,1.070389327891398
+clause predicate |clause predicate ,1.070389327891398
+end sql |END SQL ,1.070389327891398
+alex kriegel |Alex Kriegel ,1.070389327891398
+current transaction |current transaction ,1.070389327891398
+calling application |calling application ,1.070389327891398
+entire standard |entire standard ,1.070389327891398
+published version |published version ,1.070389327891398
+calculating value |calculating values ,1.070389327891398
+database vendor |database vendors ,1.070389327891398
+basic feature |basic features ,1.070389327891398
+diplomica verlag |Diplomica Verlag ,1.070389327891398
+ibm merger |IBM Mergers ,1.070389327891398
+non-scalar type |non-scalar types ,1.070389327891398
+sql specification |SQL specification ,1.070389327891398
+null value |Null Values ,1.070389327891398
+sql ds |SQL DS ,1.070389327891398
+current use |current use ,1.070389327891398
+commercial product |commercial products ,1.070389327891398
+common set |common set ,1.070389327891398
+theoretical foundation |theoretical foundation ,1.070389327891398
+queried table |queried tables ,1.070389327891398
+declarative language |declarative language ,1.070389327891398
+non-standard implementation |non-standard implementations ,1.070389327891398
+duplicate row |duplicate rows ,1.070389327891398
+addison wesley |Addison Wesley ,1.070389327891398
+sql grammar |SQL grammar ,1.070389327891398
+select title |SELECT title ,1.070389327891398
+maximum size |maximum size ,1.070389327891398
+sql default |SQL defaults ,1.070389327891398
+mosh zloof |Mosh Zloof ,1.070389327891398
+common fragment |common fragment ,1.070389327891398
+insignificant whitespace |Insignificant whitespace ,1.070389327891398
+local variable |local variables ,1.070389327891398
+subqueries edit |Subqueries edit ,1.070389327891398
+wiktionary textbook |Wiktionary Textbooks ,1.070389327891398
+nested query |nested query ,1.070389327891398
+acm association |ACM Association ,1.070389327891398
+sql operator |SQL operators ,1.070389327891398
+datalink type |datalink types ,1.070389327891398
+basic item |basic items ,1.070389327891398
+vax computer |VAX computers ,1.070389327891398
+book isbn |Book isbn ,1.070389327891398
+complex statement |complex statement ,1.070389327891398
+usual caveat |usual caveats ,1.070389327891398
+limit clause |LIMIT clause ,1.070389327891398
+hugh darwen |Hugh Darwen ,1.070389327891398
+api citation |API citation ,1.070389327891398
+contained class |contained classes ,1.070389327891398
+entire transaction |entire transaction ,1.070389327891398
+including identity-column |including identity-columns ,1.070389327891398
+oracle corporation |Oracle Corporation ,1.070389327891398
+reserved keyword |reserved keyword ,1.070389327891398
+varchar n |VARCHAR n ,1.070389327891398
+general form |general form ,1.070389327891398
+specific purpose |specific purpose ,1.070389327891398
+well-known superset |well-known superset ,1.070389327891398
+complete guide |Complete Guide ,1.070389327891398
+docs oracle |Docs oracle ,1.070389327891398
+sql foundation |SQL Foundation ,1.070389327891398
+different syntax |different syntax ,1.070389327891398
+dbms implementation |DBMS implementations ,1.070389327891398
+table operation |table operations ,1.070389327891398
+queries edit |Queries edit ,1.070389327891398
+existing object |existing object ,1.070389327891398
+binary portability |binary portability ,1.070389327891398
+gunter ed |Gunter Eds ,1.070389327891398
+guided tour |guided tour ,1.070389327891398
+correlated subquery |correlated subquery ,1.070389327891398
+control-of-flow construct |control-of-flow constructs ,1.070389327891398
+decod e |DECOD E ,1.070389327891398
+ibm archive |IBM Archives ,1.070389327891398
+expensive book |expensive books ,1.070389327891398
+equal rate |equal Rate ,1.070389327891398
+sql fundamental |SQL Fundamentals ,1.070389327891398
+standard part |standard part ,1.070389327891398
+database manipulation |database manipulation ,1.070389327891398
+truncate delete |TRUNCATE deletes ,1.070389327891398
+data debt |data Debt ,1.070389327891398
+continuous sql |continuous SQL ,1.070389327891398
+recent research |recent research ,1.070389327891398
+arie jones |Arie Jones ,1.070389327891398
+date value |date values ,1.070389327891398
+common column |common column ,1.070389327891398
+including flow |including flow ,1.070389327891398
+database behavior |database behavior ,1.070389327891398
+database supplier |database suppliers ,1.070389327891398
+sql paradigm |SQL Paradigm ,1.070389327891398
+data description |Data Description ,1.070389327891398
+additional feature |additional features ,1.070389327891398
+computationally superior |computationally superior ,1.070389327891398
+databases demystified |Databases Demystified ,1.070389327891398
+standards compliance |standards compliance ,1.070389327891398
+original standard |original standard ,1.070389327891398
+unified access |unified access ,1.070389327891398
+smaller set |smaller set ,1.070389327891398
+variable-width string |variable-width string ,1.070389327891398
+zip archive |zip archive ,1.070389327891398
+character n |CHARACTER n ,1.070389327891398
+imperative language |imperative language ,1.070389327891398
+main statement |main statements ,1.070389327891398
+relational algebra |relational algebra ,1.070389327891398
+stream processing |stream processing ,1.070389327891398
+multiple time |multiple times ,1.070389327891398
+explicit comparison |explicit comparisons ,1.070389327891398
+international standard |international standard ,1.070389327891398
+morgan kaufmann |Morgan Kaufmann ,1.070389327891398
+iata code |IATA code ,1.070389327891398
+prior behavior |prior behavior ,1.070389327891398
+xml document |XML documents ,1.070389327891398
+select query |SELECT query ,1.070389327891398
+video audio |video audio ,1.070389327891398
+file storage |file storage ,1.070389327891398
+commercial incentive |commercial incentive ,1.070389327891398
+stored value |stored values ,1.070389327891398
+larger set |larger set ,1.070389327891398
+respective member |respective members ,1.070389327891398
+begin transaction |BEGIN TRANSACTION ,1.070389327891398
+viewing result |viewing results ,1.070389327891398
+statement terminator |statement terminator ,1.070389327891398
+database software |database software ,1.070389327891398
+semantic inconsistency |semantic inconsistency ,1.070389327891398
+navigational database |navigational database ,1.070389327891398
+physical operation |physical operations ,1.070389327891398
+sqlj application |SQLJ applications ,1.070389327891398
+control association |Control Association ,1.070389327891398
+save transaction |SAVE TRANSACTION ,1.070389327891398
+funds transaction |funds transaction ,1.070389327891398
+b oppel |b Oppel ,1.070389327891398
+instance equality |instance equality ,1.070389327891398
+user-defined type |user-defined types ,1.070389327891398
+scalar value |scalar values ,1.070389327891398
+faster alternative |faster alternatives ,1.070389327891398
+relational calculus |relational calculus ,1.070389327891398
+osi protocol |OSI protocols ,1.070389327891398
+original foundation |original foundation ,1.070389327891398
+unknown truth |Unknown truth ,1.070389327891398
+lecture note |Lecture Notes ,1.070389327891398
+multi-paradigm designed |Multi-paradigm Designed ,1.070389327891398
+standards conformance |standards conformance ,1.070389327891398
+nchar n |NCHAR n ,1.070389327891398
+real-time processing |real-time processing ,1.070389327891398
+grant select |GRANT SELECT ,1.070389327891398
+data predicate |data Predicates ,1.070389327891398
+window function |window functions ,1.070389327891398
+unknown value |Unknown values ,1.070389327891398
+duplicate argument |duplicate arguments ,1.070389327891398
+vendor lock-in |vendor lock-in ,1.070389327891398
+sub-second precision |sub-second precision ,1.070389327891398
+joining table |joining tables ,1.070389327891398
+donald chamberlin |Donald Chamberlin ,1.070389327891398
+rollback discard |ROLLBACK discards ,1.070389327891398
+prior version |prior versions ,1.070389327891398
+update example |UPDATE example ,1.070389327891398
+dbms integration |DBMS integration ,1.070389327891398
+lower level |lower level ,1.070389327891398
+transact-sql reference |Transact-SQL Reference ,1.070389327891398
+sql query |SQL query ,1.070389327891398
+b chapple |b Chapple ,1.070389327891398
+subquery factoring |subquery factoring ,1.070389327891398
+mandatory feature |mandatory features ,1.070389327891398
+information system |Information Systems ,1.070389327891398
+mdr work |MDR work ,1.070389327891398
+procedural extension |procedural extensions ,1.070389327891398
+select keyword |SELECT keyword ,1.070389327891398
+language element |language elements ,1.070389327891398
+science teaching |Science Teaching ,1.070389327891398
+equivalent decode |equivalent DECODE ,1.070389327891398
+relational alternative |relational alternatives ,1.070389327891398
+information answer |Information Answers ,1.070389327891398
+paul mcjone |Paul McJones ,1.070389327891398
+sql platform |SQL platforms ,1.070389327891398
+net code |Net code ,1.070389327891398
+technology center |Technology Centers ,1.070389327891398
+database transaction |database transaction ,1.070389327891398
+b hans-joachim |b Hans-Joachim ,1.070389327891398
+iso retrieved |ISO Retrieved ,1.070389327891398
+dml operation |DML operations ,1.070389327891398
+java code |Java code ,1.070389327891398
+stanford university |Stanford University ,1.070389327891398
+logical concept |logical concepts ,1.070389327891398
+null test |NULL test ,1.070389327891398
+retrieval operation |retrieval operations ,1.070389327891398
+popular implementation |Popular implementations ,1.070389327891398
+acm org |ACM org ,1.070389327891398
+semantic interpretation |semantic interpretation ,1.070389327891398
+postgresql org |postgresql org ,1.070389327891398
+popular commercial |popular commercial ,1.070389327891398
+author alcott |Author Alcott ,1.070389327891398
+title author |Title Authors ,1.070389327891398
+ansi sql |ANSI SQL ,1.070389327891398
+chamberlin |Chamberlin ,1.0083591741661901
+support |support |Support ,0.9625246662495451
+use |use ,0.9625246662495451
+control |control ,0.9625246662495451
+return |returns ,0.9625246662495451
+transaction |transactions |transaction ,0.9281487853120614
+implementation |implementations ,0.9212736091245647
+ansi |ANSI ,0.9166901583329001
+semantics |semantics |Semantics ,0.8250211424996101
+codd |Codd ,0.8250211424996101
+syntax |syntax ,0.8250211424996101
+arora |Arora ,0.8250211424996101
+addition |addition ,0.8250211424996101
+group |GROUP |group ,0.8250211424996101
+commit |COMMIT ,0.8250211424996101
+sequel |SEQUEL |Sequel ,0.7791866345829651
+list |list |lists ,0.7791866345829651
+microsoft |Microsoft ,0.7562693806246426
+model |model ,0.7562693806246426
+scale |scale S |scale ,0.6875176187496751
+rollback |ROLLBACK |rollback ,0.6875176187496751
+history |History ,0.6875176187496751
+insert |INSERT ,0.6875176187496751
+guide |guide |Guide ,0.6875176187496751
+application |applications ,0.6285875371425601
+mysql |MySQL ,0.5500140949997401
+datalog |Datalog ,0.5500140949997401
+precision |precision ,0.5500140949997401
+procedural |procedural ,0.5500140949997401
+sybase |Sybase ,0.5500140949997401
+condition |conditions |condition ,0.5500140949997401
+sql-based |SQL-based ,0.5500140949997401
+manipulation |manipulation ,0.5500140949997401
+informix |Informix ,0.5500140949997401
+way |ways ,0.5500140949997401
+available |available ,0.5500140949997401
+alternative |alternatives ,0.5500140949997401
+version |version ,0.5500140949997401
+subquery |subquery ,0.5500140949997401
+aggregation |aggregation ,0.5041795870830951
+isbn |isbn ,0.48126233312477257
+lorentz |Lorentz ,0.41251057124980506
+hermann |Hermann ,0.41251057124980506
+zone |ZONE |zone ,0.41251057124980506
+source |source ,0.41251057124980506
+roeser |Roeser ,0.41251057124980506
+lance |Lance ,0.41251057124980506
+angela |Angela ,0.41251057124980506
+truth |truth ,0.41251057124980506
+original |original ,0.41251057124980506
+baer |Baer ,0.41251057124980506
+ashdown |Ashdown ,0.41251057124980506
+integer |integer ,0.41251057124980506
+bellamkonda |Bellamkonda ,0.41251057124980506
+geeta |Geeta ,0.41251057124980506
+product |products ,0.41251057124980506
+conjunction |conjunction ,0.41251057124980506
+vika |Vikas ,0.41251057124980506
+acronym |acronym ,0.41251057124980506
+timestamp |TIMESTAMP ,0.41251057124980506
+variable |variables ,0.41251057124980506
+nosql |NoSQL ,0.41251057124980506
+distinct |DISTINCT ,0.41251057124980506
+create |CREATE ,0.41251057124980506
+article |article ,0.41251057124980506
+grant |grant |GRANT ,0.41251057124980506
+compliance |compliance ,0.41251057124980506
+diana |Diana ,0.41251057124980506
+abraham |Abraham ,0.41251057124980506
+order |order ,0.3781346903123213
+predicate |predicate ,0.3666760633331601
+work |work |WORK ,0.3666760633331601
+package |packages ,0.35750916174983105
+array |array ,0.27500704749987004
+comparing |comparing ,0.27500704749987004
+change |changes ,0.27500704749987004
+drop |DROP ,0.27500704749987004
+tool |tools ,0.27500704749987004
+ddl |DDL ,0.27500704749987004
+rdbm |RDBMS ,0.27500704749987004
+treatment |treatment ,0.27500704749987004
+critic |critics |Critics ,0.27500704749987004
+sort |sort ,0.27500704749987004
+procedure |procedures ,0.27500704749987004
+alter |ALTER ,0.27500704749987004
+removal |removal ,0.27500704749987004
+question |question ,0.27500704749987004
+delete |DELETE ,0.27500704749987004
+alan |Alan ,0.27500704749987004
+storage |storage ,0.27500704749987004
+savepoint |SAVEPOINT ,0.27500704749987004
+operator |operators ,0.27500704749987004
+communication |Communications ,0.27500704749987004
+draft |draft ,0.27500704749987004
+structure |structure ,0.27500704749987004
+boyce |Boyce ,0.27500704749987004
+committee |committee ,0.27500704749987004
+subject |subject ,0.27500704749987004
+techrepublic |TechRepublic ,0.27500704749987004
+count |count |COUNT ,0.27500704749987004
+concept |concept |concepts ,0.27500704749987004
+asterisk |asterisk ,0.27500704749987004
+ada |Ada ,0.27500704749987004
+greater |Greater ,0.27500704749987004
+virginia |Virginia ,0.27500704749987004
+ability |ability ,0.27500704749987004
+pattern |pattern ,0.27500704749987004
+jpql |JPQL ,0.27500704749987004
+xquery |XQuery ,0.27500704749987004
+mandatory |mandatory ,0.20625528562490253
+routine |routines ,0.18333803166658003
+receivables |Receivables ,0.13750352374993502
+timestamptz |TIMESTAMPTZ ,0.13750352374993502
+distinction |distinction ,0.13750352374993502
+saake |Saake ,0.13750352374993502
+prefix |prefix ,0.13750352374993502
+interested |interested ,0.13750352374993502
+mathematics |Mathematics ,0.13750352374993502
+member |member ,0.13750352374993502
+join |joins ,0.13750352374993502
+abbreviation |abbreviation ,0.13750352374993502
+sequence |sequences ,0.13750352374993502
+pdf |PDF ,0.13750352374993502
+exception |exception ,0.13750352374993502
+jan |Jan ,0.13750352374993502
+criticism |criticism ,0.13750352374993502
+fast |fast ,0.13750352374993502
+education |education ,0.13750352374993502
+equal |Equal ,0.13750352374993502
+advantage |advantages ,0.13750352374993502
+reason |reasons ,0.13750352374993502
+cte |CTEs ,0.13750352374993502
+session |sessions ,0.13750352374993502
+space |spaces ,0.13750352374993502
+hierarchy |hierarchy ,0.13750352374993502
+jim |Jim ,0.13750352374993502
+revoke |REVOKE ,0.13750352374993502
+initialism |initialism ,0.13750352374993502
+paul |Paul ,0.13750352374993502
+aspiration |aspirations ,0.13750352374993502
+subset |subset ,0.13750352374993502
+interface |interfaces ,0.13750352374993502
+optimizing |optimizing ,0.13750352374993502
+technique |Technique ,0.13750352374993502
+discussion |Discussion ,0.13750352374993502
+ambiguity |ambiguity ,0.13750352374993502
+california |California ,0.13750352374993502
+cmu |CMU ,0.13750352374993502
+archived |Archived ,0.13750352374993502
+assignment |assignment ,0.13750352374993502
+shelley |Shelley ,0.13750352374993502
+practice |practice ,0.13750352374993502
+chart |chart ,0.13750352374993502
+progress |progress ,0.13750352374993502
+beaulieu |Beaulieu ,0.13750352374993502
+germany |Germany ,0.13750352374993502
+soql |SOQL ,0.13750352374993502
+navigation |navigation ,0.13750352374993502
+performance |performance ,0.13750352374993502
+effect |effects ,0.13750352374993502
+semicolon |semicolon ,0.13750352374993502
+smallint |SMALLINT ,0.13750352374993502
+tuple |tuples ,0.13750352374993502
+sqlj |SQLJ ,0.13750352374993502
+existence |existence ,0.13750352374993502
+revision |revisions ,0.13750352374993502
+platform |platform ,0.13750352374993502
+line |line ,0.13750352374993502
+preprint |preprint ,0.13750352374993502
+granularity |granularity ,0.13750352374993502
+survey |survey ,0.13750352374993502
+connection |connections ,0.13750352374993502
+patrick |Patrick ,0.13750352374993502
+picture |pictures ,0.13750352374993502
+precondition |precondition ,0.13750352374993502
+paper |Papers ,0.13750352374993502
+sqlite |SQLite ,0.13750352374993502
+evaluation |evaluation ,0.13750352374993502
+shortcut |shortcut ,0.13750352374993502
+thefreelibrary |Thefreelibrary ,0.13750352374993502
+potential |potential ,0.13750352374993502
+decimal |decimal ,0.13750352374993502
+address |Address ,0.13750352374993502
+first |First ,0.13750352374993502
+politics |Politics ,0.13750352374993502
+kawash |Kawash ,0.13750352374993502
+fratarcangeli |Fratarcangeli ,0.13750352374993502
+aim |aim ,0.13750352374993502
+view |views ,0.13750352374993502
+introduction |introduction ,0.13750352374993502
+aid |Aid ,0.13750352374993502
+execution |execution ,0.13750352374993502
+modification |modification |modifications ,0.13750352374993502
+debate |debate ,0.13750352374993502
+rdsm |RDSMS ,0.13750352374993502
+chomicki |Chomicki ,0.13750352374993502
+mike |Mike ,0.13750352374993502
+melton |Melton ,0.13750352374993502
+bonus |Bonus ,0.13750352374993502
+diagnostics |diagnostics ,0.13750352374993502
+employee |employee ,0.13750352374993502
+fragment |fragment ,0.13750352374993502
+operand |operands ,0.13750352374993502
+andy |Andy ,0.13750352374993502
+evaluierung |Evaluierung ,0.13750352374993502
+implementor |implementors ,0.13750352374993502
+merge |MERGE ,0.13750352374993502
+principle |principle ,0.13750352374993502
+adjustment |adjustments ,0.13750352374993502
+interpretation |interpretation ,0.13750352374993502
+item |items ,0.13750352374993502
+wikipedia |Wikipedia ,0.13750352374993502
+account |account ,0.13750352374993502
+gillespie |Gillespie ,0.13750352374993502
+accuracy |accuracy ,0.13750352374993502
+sebastapol |Sebastapol ,0.13750352374993502
+scope |scope ,0.13750352374993502
+real |REAL ,0.13750352374993502
+affiliate |affiliate ,0.13750352374993502
+manifesto |Manifesto ,0.13750352374993502
+doll |Doll ,0.13750352374993502
+content |Contents ,0.13750352374993502
+proceeding |Proceedings ,0.13750352374993502
+trademark |trademark ,0.13750352374993502
+collection |collections ,0.13750352374993502
+absence |absence ,0.13750352374993502
+field |field ,0.13750352374993502
+round |ROUND ,0.13750352374993502
+dept |Dept ,0.13750352374993502
+instance |instance ,0.13750352374993502
+text |text ,0.13750352374993502
+dispute |disputes ,0.13750352374993502
+maintenance |maintenance ,0.13750352374993502
+size |size ,0.13750352374993502
+input |input ,0.13750352374993502
+natural |natural ,0.13750352374993502
+portability |portability ,0.13750352374993502
+journal |Journal ,0.13750352374993502
+ryan |Ryan ,0.13750352374993502
+separate |separate ,0.13750352374993502
+grouping |grouping ,0.13750352374993502
+file |File ,0.13750352374993502
+compare |Compare ,0.13750352374993502
+motto |motto ,0.13750352374993502
+money |money ,0.13750352374993502
+readability |readability ,0.13750352374993502
+trigger |triggers ,0.13750352374993502
+transcript |transcript ,0.13750352374993502
+positive |positive ,0.13750352374993502
+implication |implication ,0.13750352374993502
+lack |lack ,0.13750352374993502
+default |default ,0.13750352374993502
+direction |direction ,0.13750352374993502
+rule |rules ,0.13750352374993502
+wiley |Wiley ,0.13750352374993502
+negative |negative ,0.13750352374993502
+management |Management ,0.09821680267852503
+duplicate |duplicates ,0.0
+practicality |practicality ,0.0
+data definition |Data Definition ,0.0
+sql-based dbms implementation |SQL-based DBMS implementations ,0.0
+interchange |interchange ,0.0
+ndl |NDL ,0.0
+author |authors ,0.0
+lin q |LIN Q ,0.0
+intersect operator |INTERSECT operators ,0.0
+acquisition |acquisitions ,0.0
+conventional sql-data |conventional SQL-data ,0.0
+char n |CHAR n ,0.0
+tutorial |tutorial ,0.0
+trunc |TRUNC ,0.0
+data manipulation language |data manipulation language ,0.0
+program understanding |program understanding ,0.0
+security |security ,0.0
+zip |Zip ,0.0
+control-of-flow statement |control-of-flow statements ,0.0
+oral history |oral history ,0.0
+schema creation |schema creation ,0.0
+decimal precision |DECIMAL precision ,0.0
+declaration |declaration ,0.0
+nvarchar n |NVARCHAR n ,0.0
+definition schema |Definition Schema ,0.0
+mechanism |mechanisms ,0.0
+tree |tree ,0.0
+complexity |complexity ,0.0
+data management |Data management ,0.0
+graph traversal |graph traversals ,0.0
+placeholder |placeholder ,0.0
+mark |mark ,0.0
+technology nist |Technology NIST ,0.0
+match |Match ,0.0
+computer |Computers ,0.0
+lukasiewicz three-valued logic |Lukasiewicz three-valued logic ,0.0
+relational operator |relational operator ,0.0
+sale |Sales ,0.0
+approach |approach ,0.0
+object-oriented programmability |object-oriented programmability ,0.0
+index structure |index structure ,0.0
+kleene |Kleene ,0.0
+timetz |TIMETZ ,0.0
+extend |EXTEND ,0.0
+query result |query results ,0.0
+radix binary |radix binary ,0.0
+factor |factors ,0.0
+index |indexes ,0.0
+relation |relations ,0.0
+numeric |numerics ,0.0
+usefulness |usefulness ,0.0
+page |Pages ,0.0
+correspond |correspond ,0.0
+union |UNION ,0.0
+information schema |Information Schema ,0.0
+access |Access ,0.0
+authorization specification |authorization specifications ,0.0
+update element |UPDATE elements ,0.0
+s-q-l |S-Q-L ,0.0
+parameter |parameters ,0.0
+schema |schemata ,-0.019643360535704993
+basic |BASIC ,-0.06875176187496751
+constraint |constraint ,-0.06875176187496751
+state |state ,-0.07857344214282001
+log |logs ,-0.11000281899994802
+detail |detail ,-0.13750352374993502
+logic |Logics ,-0.13750352374993502
+start |start ,-0.27500704749987004
+query language |query language ,-0.535194663945699

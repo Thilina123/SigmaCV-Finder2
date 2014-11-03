@@ -1,7 +1,5 @@
 
-import ProfileMaker.GitHubExtractor;
-import ProfileMaker.GoogleScholarExtractor;
-import ProfileMaker.LinkedInExtractor;
+import PhraseExtractor.PhraseAnalyzer;
 
 import java.util.Scanner;
 import ProfileMaker.Profile.Profile;
@@ -47,7 +45,8 @@ public class Main {
         System.out.print("Enter name: ");
         Scanner sc = new Scanner(System.in);
         String name = sc.nextLine();
-        Profile pr = new Profile(name);
+        PhraseAnalyzer phraseAnalyzer =new PhraseAnalyzer();
+        Profile pr = new Profile(name, phraseAnalyzer);
 //        System.out.println(pr.pic_url);
 //        LinkedInExtractor linkedIn = new LinkedInExtractor();
 //        GoogleScholarExtractor gscholar = new GoogleScholarExtractor();

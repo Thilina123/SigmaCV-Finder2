@@ -1,5 +1,6 @@
 package ProfileMaker;
 
+import ProfileMaker.Skills.SkillsExtractor;
 import org.jsoup.*;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -14,13 +15,18 @@ import java.util.ArrayList;
 
 public class LinkedInExtractor {
 
-    public static void main(String[] args) {
+    private String link;
+    private SkillsExtractor skillsExtractor;
+
+    public LinkedInExtractor() {
+        skillsExtractor=new SkillsExtractor();
     }
 
-    public Profile Extract1(String searchName, Profile profile) {
+    public Profile ExtractInformation(String searchName, Profile profile) {
 
         ProfileMaker.Google g = new ProfileMaker.Google();
-        String link = g.FindOnLinkedIn(searchName);
+        link = g.FindOnLinkedIn(searchName);
+
         System.out.println(link + "--------------------------");
         if (link.equals("")) {
             profile.setName("not found");
@@ -116,6 +122,11 @@ public class LinkedInExtractor {
                 profile.addProject(project2);
             }
         }
+
+        //===============================skills
+
+        ExtractSkills();
+
         return profile;
     }
 
@@ -178,5 +189,9 @@ public class LinkedInExtractor {
             profile.addPublication(pb);
         }
         return profile;
+    }
+
+    public void ExtractSkills(){
+        skillsExtractor.ExtractSkills(link);
     }
 }

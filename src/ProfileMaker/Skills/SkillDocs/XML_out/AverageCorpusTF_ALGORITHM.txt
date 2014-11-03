@@ -1,0 +1,947 @@
+xml |xml |XML ,307.0
+character |Characters |characters |character ,80.0
+document |document |documents ,65.0
+language |languages |language ,41.0
+element |element |elements ,37.0
+use |use ,34.0
+markup |markup |Markup ,34.0
+xml document |XML document |XML documents ,34.0
+unicode |Unicode ,30.0
+schema |schema |schemas |Schemas ,26.0
+attribute |attribute |attributes ,25.0
+encoding |encodings |Encodings |encoding ,23.0
+example |Examples |example |examples ,22.0
+syntax |syntax |syntaxes ,21.0
+sgml |SGML ,21.0
+application |application |Applications |applications ,20.0
+specification |specification |specifications ,18.0
+internet |Internet ,17.0
+text |texts |text ,17.0
+code |code |Code ,15.0
+iso |ISO ,15.0
+dtds |DTDs ,14.0
+content |content |contents |Contents ,14.0
+define |defines ,13.0
+processing |processing ,13.0
+xml schema |XML Schema |XML Schemas ,13.0
+support |support ,12.0
+dtd |DTD ,12.0
+information |information ,12.0
+extensible markup language |Extensible Markup Language ,10.0
+unicode character |Unicode character |Unicode characters ,10.0
+end |end ,10.0
+edition |editions |edition ,10.0
+set |set ,10.0
+comment |Comments |comments ,10.0
+design |design ,10.0
+list |list ,10.0
+rule |rules ,10.0
+fifth edition |Fifth Edition |fifth edition ,9.0
+reference |references |reference ,9.0
+extensible markup language xml |Extensible Markup Language XML ,9.0
+standard |standard |Standards ,9.0
+html |HTML ,9.0
+processor |processor |Processor ,9.0
+parsing |parsing ,9.0
+name |names ,8.0
+schema language |schema languages ,8.0
+working group |working group |Working Group ,8.0
+xpath |XPath ,8.0
+format |format ,8.0
+world wide web consortium |World Wide Web Consortium ,8.0
+xhtml |XHTML ,8.0
+bray |Bray ,8.0
+relax |RELAX ,8.0
+case |cases |case ,7.0
+start |start ,7.0
+definition |definition |definitions ,7.0
+apis |APIs ,7.0
+xml specification |XML specification |XML Specification ,7.0
+structure |structure |structures ,7.0
+dom |DOM ,7.0
+code point |code points |code point ,6.0
+control character |control characters ,6.0
+type |types ,6.0
+document type definition |Document Type Definition ,6.0
+sax |SAX ,6.0
+namespace |namespaces |namespace ,6.0
+data type |data type |Data types ,6.0
+infoset |infoset ,6.0
+parser |parser ,6.0
+microsoft |Microsoft ,6.0
+bosak |Bosak ,6.0
+xslt |XSLT ,6.0
+dsdl |DSDL ,6.0
+tim |Tim ,6.0
+object |objects ,6.0
+following |following ,5.0
+empty-element tag |empty-element tag |empty-element tags ,5.0
+jon |Jon ,5.0
+method |methods ,5.0
+single |single ,5.0
+xml processor |XML processors |XML processor ,5.0
+iso iec |ISO IEC ,5.0
+problem |problems |problem ,5.0
+feature |features ,5.0
+declaration |declaration ,5.0
+programming language |programming languages |programming language ,5.0
+represent |represents ,5.0
+tim bray |Tim Bray ,5.0
+section |section ,5.0
+string |Strings |string |strings ,5.0
+part |part ,5.0
+svg |SVG ,5.0
+schematron |Schematron ,5.0
+work |work ,5.0
+numeric character reference |numeric character reference |numeric character references ,5.0
+document object model |Document Object Model ,4.0
+project |project ,4.0
+base |base ,4.0
+entity |entity ,4.0
+java |Java ,4.0
+main article |Main article ,4.0
+elements and attribute |elements and attributes ,4.0
+implementation |implementation |implementations ,4.0
+well-formednes |well-formedness |Well-formedness ,4.0
+construct |constructs ,4.0
+memory |memory ,4.0
+element tag |element tags ,4.0
+constraint |constraints ,4.0
+item |items |item ,4.0
+comparison |Comparison ,4.0
+character reference |character references ,4.0
+jon bosak |Jon Bosak ,4.0
+xquery |XQuery ,4.0
+character set |character set ,4.0
+error |errors ,4.0
+document type definition dtd |Document Type Definition DTD ,3.0
+xml information set |XML Information Set ,3.0
+pdf |PDFs |PDF ,3.0
+software |software ,3.0
+component |components ,3.0
+day |day ,3.0
+xml base |XML Base ,3.0
+author |author ,3.0
+programmer |programmers ,3.0
+ascii |ASCII ,3.0
+valid character |Valid characters ,3.0
+database |databases ,3.0
+net framework |NET Framework ,3.0
+xml namespace |XML Namespaces ,3.0
+original |original ,3.0
+world |world ,3.0
+simple api |Simple API ,3.0
+profile |profile ,3.0
+xpath expression |XPath expressions ,3.0
+mechanism |mechanism ,3.0
+tree |tree ,3.0
+iso dsdl |ISO DSDL ,3.0
+logical |logical ,3.0
+text xml |text xml ,3.0
+representation |representation ,3.0
+august |August ,3.0
+user |users |user ,3.0
+xml-based language |XML-based languages |XML-based language ,3.0
+xml parser |XML parser |XML parsers ,3.0
+xml version |xml version ,3.0
+detection |detection ,3.0
+approach |approach ,3.0
+cdata |CDATA ,3.0
+iterator |iterator ,3.0
+highly structured |highly structured ,3.0
+javascript |JavaScript ,3.0
+violation |violations |violation ,3.0
+resource |resource ,3.0
+xsd |XSDs ,3.0
+validity |validity ,3.0
+start-tag |start-tags |start-tag ,3.0
+alternative |alternatives ,3.0
+xml syntax |XML syntax ,3.0
+tag |Tags |Tag ,3.0
+access |access ,3.0
+lack |lack ,3.0
+separation |separation ,3.0
+xml declaration |XML declaration ,2.0
+query language |query language ,2.0
+notation |notation ,2.0
+xml signature |XML Signature ,2.0
+xml database |XML databases ,2.0
+developer |Developer ,2.0
+internet engineering task force |Internet Engineering Task Force ,2.0
+change |changes ,2.0
+document character set |document character sets |document character set ,2.0
+non-character |non-characters ,2.0
+faq |FAQ ,2.0
+tree-traversal |Tree-traversal ,2.0
+potentially dated statement |potentially dated statements ,2.0
+co-editor |co-editor |co-editors ,2.0
+box |boxes ,2.0
+xmlsh |xmlsh ,2.0
+xml content |XML content ,2.0
+pull parser |pull parser |pull parsers ,2.0
+stax |StAX ,2.0
+current version |current versions |current version ,2.0
+apple |Apple ,2.0
+validating |validating ,2.0
+xml processing |XML processing ,2.0
+grammar |grammar ,2.0
+chinese character |Chinese character |Chinese characters ,2.0
+spread |SPREAD ,2.0
+discussion |discussion ,2.0
+whitespace |whitespace ,2.0
+data serialization format |data serialization formats ,2.0
+initial publication |initial publication ,2.0
+presence |presence ,2.0
+sun microsystem |Sun Microsystems ,2.0
+xml attribute |XML attribute ,2.0
+xinclude |XInclude ,2.0
+navigation |navigation ,2.0
+sgml dtds |SGML DTDs ,2.0
+design goal |design goals ,2.0
+json |JSON ,2.0
+ecmascript |ECMAScript ,2.0
+design decision |design decisions ,2.0
+syntax and processing rule |syntax and processing rules ,2.0
+xml serialization |XML Serialization ,2.0
+michael sperberg-mcqueen |Michael Sperberg-McQueen ,2.0
+media type |media types ,2.0
+link |link ,2.0
+entire document |entire document ,2.0
+xpointer |XPointer ,2.0
+processing instruction |processing instructions ,2.0
+netscape |Netscape ,2.0
+contrast |contrast ,2.0
+character and end |character and end ,2.0
+metadata |metadata ,2.0
+limitation |limitations ,2.0
+policy |policy ,2.0
+proper rendering support |proper rendering support ,2.0
+extended reference concrete syntax |Extended Reference Concrete Syntax ,2.0
+university |University ,2.0
+addition |addition ,2.0
+begin |begins ,2.0
+attribute value |attribute values ,2.0
+normal processing |normal processing ,2.0
+local variable |local variables ,2.0
+missing |missing ,2.0
+css class |CSS class ,2.0
+soap |SOAP ,2.0
+introduction |Introduction |introduction ,2.0
+future |Future ,2.0
+script |scripts ,2.0
+xml-based format |XML-based format |XML-based formats ,2.0
+resource description framework |Resource Description Framework ,2.0
+area |area ,2.0
+james clark |James Clark ,2.0
+alt |alt ,2.0
+experience |experience ,2.0
+draconian error handling |draconian error handling ,2.0
+requirement |requirements ,2.0
+xml edit |XML edit ,2.0
+question mark |question marks ,2.0
+postel |Postel ,2.0
+xml infoset |XML infoset ,2.0
+development |development ,2.0
+src |src ,2.0
+cdata section |CDATA section ,2.0
+atom |Atom ,2.0
+technology |technology ,2.0
+concept |Concepts |concept ,2.0
+scope |scope ,2.0
+markup and content |markup and content |Markup and content ,2.0
+xml data binding |XML data binding ,2.0
+xml core |XML core |XML Core ,2.0
+inclusion |inclusion ,2.0
+end-tag |end-tags ,2.0
+xml sig |XML SIG ,2.0
+ability |ability ,2.0
+line-break |line-break ,2.0
+xml media type |XML Media Types ,2.0
+publishing |publishing ,2.0
+first edition |first edition ,2.0
+instance |instance ,2.0
+xsl-fo |XSL-FO ,2.0
+legal unicode character |legal Unicode character |legal Unicode characters ,2.0
+xml language |XML languages ,2.0
+variety |variety ,2.0
+xlink |XLink ,2.0
+claim |claim ,2.0
+processing rule |processing rules ,2.0
+form |form ,2.0
+second-generation web |Second-Generation Web ,2.0
+web browser |Web browsers ,2.0
+well-formed xml document |well-formed XML document ,2.0
+control code |control codes |Control Codes ,2.0
+markup language |markup language ,2.0
+default |default ,2.0
+program |programs ,2.0
+unicode character set |Unicode character set ,2.0
+order |order ,2.0
+draconian error |draconian error ,2.0
+xml encryption |XML Encryption ,2.0
+multimedia |multimedia ,2.0
+dsdl schema language |DSDL schema languages ,1.0
+outermost element |outermost element ,1.0
+m murata |M Murata ,1.0
+en wikipedia |en wikipedia ,1.0
+xsl formatting object |XSL Formatting Objects ,1.0
+semantics |semantics ,1.0
+method return value |method return values ,1.0
+mozilla foundation |Mozilla Foundation ,1.0
+numeric code |numeric code ,1.0
+angle bracket tax |Angle Bracket Tax ,1.0
+notion |notion ,1.0
+individual value |individual values ,1.0
+line-break element |line-break Element ,1.0
+self-describing xml pdf |Self-Describing XML PDF ,1.0
+aspect |aspects ,1.0
+exhaustive list |exhaustive list ,1.0
+rich datatyping system |rich datatyping system ,1.0
+remaining character |remaining characters ,1.0
+editorial review board |Editorial Review Board ,1.0
+compatibility |compatibility ,1.0
+simple syntactic rule |simple syntactic rules ,1.0
+behavior |behavior ,1.0
+xml processing api |XML processing API ,1.0
+predate unicode |predate Unicode ,1.0
+technical lead |Technical Lead ,1.0
+conversation |conversation ,1.0
+future version |future versions ,1.0
+no information |no information ,1.0
+no exception |no exceptions ,1.0
+attributes local |attributes local ,1.0
+sgml unchanged |SGML unchanged ,1.0
+wikibook |Wikibooks ,1.0
+identifier name |identifier names ,1.0
+question marks or box |question marks or boxes ,1.0
+short burst |short burst ,1.0
+utility |utility ,1.0
+complex grammar |complex grammars ,1.0
+sequence |sequence ,1.0
+xml-oriented query language |XML-oriented query language ,1.0
+definition text-based itu-t and iso |definition text-based ITU-T and ISO ,1.0
+basis |basis ,1.0
+designing |designing ,1.0
+itu-t rec |ITU-T Rec ,1.0
+supplementary plane |supplementary planes ,1.0
+format markup language |format Markup language ,1.0
+usability |usability ,1.0
+interchange |interchange ,1.0
+comma |comma ,1.0
+key terminology edit |Key terminology edit ,1.0
+xml name |XML names ,1.0
+criticism |criticisms ,1.0
+wide adoption |wide adoption ,1.0
+bmp |BMP ,1.0
+edit list |edit List ,1.0
+unstructured content |unstructured content ,1.0
+iso hytime |ISO HyTime ,1.0
+base language |base language ,1.0
+mentor graphics context |Mentor Graphics Context ,1.0
+guidance |guidance ,1.0
+line-ending character |line-ending characters ,1.0
+detailed constraint |detailed constraints ,1.0
+sun microsystems engineer jon bosak |Sun Microsystems engineer Jon Bosak ,1.0
+john sculley |John Sculley ,1.0
+xml manipulation |XML manipulation ,1.0
+original developer |original developers ,1.0
+dom implementation |DOM implementations ,1.0
+washington university law review |Washington University Law Review ,1.0
+dynamic information display |dynamic information display ,1.0
+assertion |assertions ,1.0
+xml processor insert |XML processor inserts ,1.0
+sgml extended |SGML Extended ,1.0
+source |sources ,1.0
+numeric digit |numeric digit ,1.0
+end tag |end tags ,1.0
+original member |original members ,1.0
+bob ducharme |Bob DuCharme ,1.0
+data binding edit |Data binding edit ,1.0
+reason |reason ,1.0
+small community |small community ,1.0
+character encoding |Character Encodings ,1.0
+collaborator |collaborators ,1.0
+byte |bytes ,1.0
+php |PHP ,1.0
+report |Reports ,1.0
+xml shell |XML Shell ,1.0
+xmllist |XMLList ,1.0
+entity and character reference |entity and character references ,1.0
+small schema language |small schema languages ,1.0
+xml application |XML Applications ,1.0
+u fffe |U FFFE ,1.0
+u ffff |U FFFF ,1.0
+searching |searching ,1.0
+internet draft |Internet Drafts ,1.0
+regular grammar |regular grammars ,1.0
+recursive-descent parser |recursive-descent parsers ,1.0
+early digital media publisher |early digital media publishers ,1.0
+redundancy |redundancy ,1.0
+editorship |editorship ,1.0
+document type definition edit |Document Type Definition edit ,1.0
+hexadecimal numeric character reference |hexadecimal numeric character references ,1.0
+metadata element |metadata elements ,1.0
+no matter |no matter ,1.0
+binary encoding |binary encoding ,1.0
+xerox publishing system |Xerox Publishing System ,1.0
+xml infoset specification |XML Infoset specification ,1.0
+mozilla developer center |Mozilla Developer Center ,1.0
+space |spaces ,1.0
+official standard |official standards ,1.0
+world wide web consortium type |World Wide Web Consortium Type ,1.0
+naming collision |naming collisions ,1.0
+ubiquity |ubiquity ,1.0
+main change |main changes ,1.0
+fast infoset |Fast Infoset ,1.0
+hierarchy |hierarchy ,1.0
+construction |construction ,1.0
+augmented browsing bookmark |Augmented browsing Bookmarks ,1.0
+xml-sw sw |XML-SW SW ,1.0
+key point |key points ,1.0
+valid characters edit main article |Valid characters edit Main article ,1.0
+xml id function |xml id functions ,1.0
+basic tree model |basic tree model ,1.0
+data serialization formats notes edit |data serialization formats Notes edit ,1.0
+matching end-tag |matching end-tag ,1.0
+industrial publisher |industrial publishers ,1.0
+abstract data model |abstract data model ,1.0
+xml element |XML elements ,1.0
+plain text |plain text ,1.0
+python |Python ,1.0
+further guideline |Further guidelines ,1.0
+dtd technology |DTD technology ,1.0
+strong support |strong support ,1.0
+initialism |initialism ,1.0
+alternative encoding mechanism |alternative encoding mechanism ,1.0
+xml dtds |XML DTDs ,1.0
+misplaced vowel |misplaced vowels ,1.0
+restriction |restriction ,1.0
+permitted unicode character |permitted Unicode characters ,1.0
+human-readable |human-readable ,1.0
+data-binding apis |data-binding APIs ,1.0
+syntax rule |syntax rules ,1.0
+internet media type |Internet Media Types ,1.0
+no such claim |no such claim ,1.0
+sax parsing code |SAX parsing code ,1.0
+xml space attribute |xml space attribute ,1.0
+abstract syntax |Abstract Syntax ,1.0
+further design work |Further design work ,1.0
+computing machinery |Computing Machinery ,1.0
+resolution |resolution ,1.0
+scala |Scala ,1.0
+search xml filename extension |search XML Filename extension ,1.0
+subset |subsets ,1.0
+unique feature |unique features ,1.0
+vocabulary |vocabulary ,1.0
+task |tasks ,1.0
+comma or semi-colon delimited list |comma or semi-colon delimited list ,1.0
+attribute default |attribute defaults ,1.0
+contentiou |contentious ,1.0
+storage or transmission |storage or transmission ,1.0
+plan |plans ,1.0
+interactive multimedia |Interactive multimedia ,1.0
+web service |web services ,1.0
+ercs xml and html |ERCS XML and HTML ,1.0
+start or end element |start or end element ,1.0
+node object |node objects ,1.0
+major design decision |major design decisions ,1.0
+allowed character |allowed characters ,1.0
+common example |common example ,1.0
+ebcdic platform |EBCDIC platforms ,1.0
+relative uri reference |relative URI references ,1.0
+balinese cham |Balinese Cham ,1.0
+textual macro |textual macros ,1.0
+key construct |key constructs ,1.0
+charter |charter ,1.0
+laugh |laughs ,1.0
+communication protocol |communication protocols ,1.0
+xml recommendation |XML Recommendation ,1.0
+small number |small number ,1.0
+well-formed text |well-formed text ,1.0
+data type edit xml |data type edit XML ,1.0
+iso iec international standard |ISO IEC International Standard ,1.0
+conjunct |conjuncts ,1.0
+rudimentary datatype |rudimentary datatypes ,1.0
+xml document and programming-language object |XML document and programming-language objects ,1.0
+balinese cham or phoenician script |Balinese Cham or Phoenician scripts ,1.0
+common use |common use ,1.0
+elimination |elimination ,1.0
+declarative description |declarative description ,1.0
+archived |Archived ,1.0
+fairly lengthy list |fairly lengthy list ,1.0
+java programming language |Java programming language ,1.0
+lexical event-driven interface |lexical event-driven interface ,1.0
+detection edit |detection edit ,1.0
+material |material ,1.0
+base standard |base standard ,1.0
+msdn microsoft |Msdn microsoft ,1.0
+simon |Simon ,1.0
+office-productivity tool |office-productivity tools ,1.0
+minimal architecture |Minimal Architecture ,1.0
+xml header |XML header ,1.0
+use case |use cases ,1.0
+generic object |generic objects ,1.0
+element img |element img ,1.0
+web archive org |Web archive org ,1.0
+open-source xmlsh application |open-source xmlsh application ,1.0
+style sheet |Style Sheets ,1.0
+comments edit comment |Comments edit Comments ,1.0
+element-based syntax |element-based syntax ,1.0
+escaping edit xml |Escaping edit XML ,1.0
+xml protocol comparison |XML Protocol Comparison ,1.0
+vociferous protest |vociferous protests ,1.0
+rtf |RTF ,1.0
+schema or grammar |schema or grammar ,1.0
+well-formed xml attribute note |well-formed XML attribute note ,1.0
+encyclopedia jump |encyclopedia Jump ,1.0
+current item |current item ,1.0
+email |email ,1.0
+single xml element |single XML element ,1.0
+newer schema language |newer schema language ,1.0
+start- and end-tag |start- and end-tags ,1.0
+programming languages or database |programming languages or databases ,1.0
+programming interfaces edit |Programming interfaces edit ,1.0
+typed local variable |typed local variables ,1.0
+arbitrary fragment |arbitrary fragments ,1.0
+potentially dated statements commons category |potentially dated statements Commons category ,1.0
+xml emphasize simplicity |XML emphasize simplicity ,1.0
+colloquially |colloquially ,1.0
+dot-notation |dot-notation ,1.0
+uniform type identifier |Uniform Type Identifier ,1.0
+xml easier |XML easier ,1.0
+element name |element names ,1.0
+appointment |appointment ,1.0
+myth |Myth ,1.0
+encrypting xml content |encrypting XML content ,1.0
+clarity |clarity ,1.0
+wikimedia common |Wikimedia Commons ,1.0
+xml base attribute |xml base attribute ,1.0
+usable alternative |usable alternatives ,1.0
+birth |Birth ,1.0
+first conference |First conference ,1.0
+d kohn |D Kohn ,1.0
+heavy use |heavy use ,1.0
+sw xml-sw |SW XML-SW ,1.0
+schemas and validation edit |Schemas and validation edit ,1.0
+people |people ,1.0
+eleven member |eleven members ,1.0
+iso standard sgml |ISO standard SGML ,1.0
+day-to-day use |day-to-day use ,1.0
+expressiveness |expressiveness ,1.0
+confusion |confusion ,1.0
+topic |topic ,1.0
+dates article |dates Articles ,1.0
+glyph |glyphs ,1.0
+microsoft net framework use |Microsoft NET Framework use ,1.0
+random |random ,1.0
+resource description framework rdf |Resource Description Framework RDF ,1.0
+goal |Goals ,1.0
+xml information set infoset |XML Information Set infoset ,1.0
+specifically excluded control character |specifically excluded control characters ,1.0
+rick jelliffe xml |Rick Jelliffe XML ,1.0
+common encoding error |common encoding errors ,1.0
+combination |combination ,1.0
+range |range ,1.0
+complexity |complexity ,1.0
+null character |null character ,1.0
+ecmascript javascript language |ECMAScript JavaScript language ,1.0
+specific version |specific version ,1.0
+xmpp |XMPP ,1.0
+grammatical rule |grammatical rules ,1.0
+rationale |rationales ,1.0
+extreme |Extremes ,1.0
+treewalker |TreeWalker ,1.0
+plist file |PLIST files ,1.0
+fifth edition release |fifth edition release ,1.0
+ampersand |ampersand ,1.0
+delimiter |delimiters ,1.0
+following limitation |following limitations ,1.0
+semi-colon delimited list |semi-colon delimited list ,1.0
+notable contrast |notable contrast ,1.0
+fixed delimiter set |fixed delimiter set ,1.0
+consulting engagement |consulting engagement ,1.0
+resource encoding |resource encoding ,1.0
+common situation |common situation ,1.0
+method parameter |method parameters ,1.0
+following benefit |following benefits ,1.0
+kelly |Kelly ,1.0
+annex |Annex ,1.0
+whitespace character |Whitespace characters ,1.0
+dom document |DOM document ,1.0
+digital signature |digital signatures ,1.0
+xml lang attribute |xml lang attribute ,1.0
+adopts unicode |adopts Unicode ,1.0
+mark |mark ,1.0
+standard public entity set |standard public entity sets ,1.0
+five year |Five years ,1.0
+declarative retrieval |declarative retrieval ,1.0
+processing xml |Processing XML ,1.0
+start-tag or empty-element tag |start-tag or empty-element tag ,1.0
+unique identifier |unique identifiers ,1.0
+issue |issues ,1.0
+comments-- international use edit |comments-- International use edit ,1.0
+s-expression |S-Expressions ,1.0
+solution |solutions ,1.0
+datatype framework plug-in |datatype framework plug-ins ,1.0
+infoset augmentation facility |infoset augmentation facility ,1.0
+oasis |OASIS ,1.0
+availability |availability ,1.0
+beginning |beginning ,1.0
+technical debate |Technical debate ,1.0
+sgml standard |SGML standard ,1.0
+xml construct |XML constructs ,1.0
+unicode standard |Unicode standard ,1.0
+sueann ambron |Sueann Ambron ,1.0
+xml unicode code point |XML Unicode code points ,1.0
+document fragment |document fragments ,1.0
+storage |storage ,1.0
+closing keynote |Closing Keynote ,1.0
+grammar-based validation dtds |grammar-based validation DTDs ,1.0
+document type |document type ,1.0
+tree-traversal apis accessible |Tree-traversal APIs accessible ,1.0
+sgml wg |SGML WG ,1.0
+xml edit simple api |XML edit Simple API ,1.0
+first working draft |first Working Draft ,1.0
+xml format |XML format ,1.0
+schema author |schema author ,1.0
+characters vs byte |Characters vs Bytes ,1.0
+start- |start- ,1.0
+transmission |transmission ,1.0
+well-known |well-known ,1.0
+internal components element |internal components elements ,1.0
+dtds and xsd |DTDs and XSDs ,1.0
+example sax |example SAX ,1.0
+computer |Computer ,1.0
+idea |Ideas ,1.0
+text encoding initiative tei |Text Encoding Initiative TEI ,1.0
+vendor support |vendor support ,1.0
+numerous language |Numerous languages ,1.0
+error-handling edit main article |error-handling edit Main article ,1.0
+then-new world wide web |then-new World Wide Web ,1.0
+different human language |different human languages ,1.0
+inside comment |inside comments ,1.0
+risp lisp sgml text processor |RISP LISP SGML text processor ,1.0
+key syntax marker |key syntax markers ,1.0
+well-formedness rule |well-formedness rules ,1.0
+xml document transformation |XML document transformations ,1.0
+intermediate parsed result |intermediate parsed results ,1.0
+java vm |Java VM ,1.0
+large xml database |large XML databases ,1.0
+history |history ,1.0
+compact syntax |compact syntax ,1.0
+simpler definition and validation framework |simpler definition and validation framework ,1.0
+parent element |parent elements ,1.0
+xml binding jaxb |XML Binding JAXB ,1.0
+general use |general use ,1.0
+configuration |configuration ,1.0
+chinese armenian |Chinese Armenian ,1.0
+successor |successor ,1.0
+end element |end element ,1.0
+sending xml |sending XML ,1.0
+date help |date help ,1.0
+system xml xmlreader |System Xml XmlReader ,1.0
+open standard |open standards ,1.0
+deal |Deals ,1.0
+dom traversal api nodeiterator |DOM traversal API NodeIterator ,1.0
+run-time |run-time ,1.0
+presence or absence |presence or absence ,1.0
+xml application layer protocol |XML Application layer protocols ,1.0
+version number |version number ,1.0
+document component |document components ,1.0
+handler object |handler object ,1.0
+flavor |flavors ,1.0
+hello world |hello world ,1.0
+escaped form |escaped form ,1.0
+-- and end |-- and end ,1.0
+media types application xml |media types application xml ,1.0
+uniscope |Uniscope ,1.0
+xml schema instance |XML Schema instances ,1.0
+curie eme |CURIE EME ,1.0
+allowable parent child relationship |allowable parent child relationships ,1.0
+type system |type systems ,1.0
+phoenician script |Phoenician scripts ,1.0
+harold |Harold ,1.0
+adobe actionscript |Adobe Actionscript ,1.0
+consensus |consensus ,1.0
+generality and usability |generality and usability ,1.0
+linear traversal |linear traversal ,1.0
+declarative transformation language |Declarative transformation languages ,1.0
+reasonable result |reasonable result ,1.0
+verbosity and complexity |verbosity and complexity ,1.0
+integration |integration ,1.0
+empty-element empty syntax |empty-element empty syntax ,1.0
+css class name |CSS class names ,1.0
+dom node |DOM nodes ,1.0
+peculiar feature |peculiar features ,1.0
+functionality |functionality ,1.0
+less-than sign |less-than sign ,1.0
+unicode-defined encoding |Unicode-defined encodings ,1.0
+microsoft office office open xml |Microsoft Office Office Open XML ,1.0
+cyrillic letter |Cyrillic letters ,1.0
+schema languages edit |schema languages edit ,1.0
+dan connolly |Dan Connolly ,1.0
+xml schema edit |XML Schema edit ,1.0
+fennell |Fennell ,1.0
+networked context |networked context ,1.0
+cyrillic text |Cyrillic text ,1.0
+character repertoire constraints renaming |character repertoire constraints renaming ,1.0
+definition text-based itu-t |definition text-based ITU-T ,1.0
+libreoffice opendocument |LibreOffice OpenDocument ,1.0
+trang |Trang ,1.0
+text and or markup |text and or markup ,1.0
+document object model parser |Document Object Model parser ,1.0
+xml-based syntax |XML-based syntax ,1.0
+character escape |character escapes ,1.0
+defining datatype |defining datatypes ,1.0
+convenience |convenience ,1.0
+validation framework |validation framework ,1.0
+xml document node |XML document nodes ,1.0
+interleaf |Interleaf ,1.0
+individual xml file |individual XML files ,1.0
+xml working group |XML Working Group ,1.0
+xs schema element |xs schema element ,1.0
+minor revision |minor revisions ,1.0
+criticism edit xml |Criticism edit XML ,1.0
+series |series ,1.0
+human-readable and machine-readable |human-readable and machine-readable ,1.0
+entire repertoire |entire repertoire ,1.0
+xml based syntax |XML based syntax ,1.0
+publisher |Publishers ,1.0
+algorithm |algorithm ,1.0
+schematron edit schematron |Schematron edit Schematron ,1.0
+date value |date values ,1.0
+backwards incompatibility |backwards incompatibility ,1.0
+document encoding |document encoding ,1.0
+situation |situations ,1.0
+element-based schema language |element-based schema languages ,1.0
+pierre geneve |Pierre Geneves ,1.0
+first-class data type |first-class data type ,1.0
+similar notation |Similar notations ,1.0
+encoding problem |encoding problems ,1.0
+supported control character |supported control characters ,1.0
+extension |extensions ,1.0
+uti conformation public text |UTI conformation public text ,1.0
+proposal |proposals ,1.0
+markup-delineation role |markup-delineation roles ,1.0
+wikipedia |Wikipedia ,1.0
+callback |callbacks ,1.0
+denial-of-service attack |denial-of-service attack ,1.0
+chinese armenian and cyrillic character |Chinese Armenian and Cyrillic characters ,1.0
+public xml |public xml ,1.0
+server-side package |server-side packages ,1.0
+following range |following ranges ,1.0
+email and weekly teleconference |email and weekly teleconferences ,1.0
+openoffice org |OpenOffice org ,1.0
+valid xml document |valid XML document ,1.0
+websgml adaptation |WebSGML Adaptations ,1.0
+suitable name character |suitable name characters ,1.0
+processor and application |Processor and application ,1.0
+tokyo |Tokyo ,1.0
+no explicit support |no explicit support ,1.0
+schema system |schema systems ,1.0
+stackoverflow |Stackoverflow ,1.0
+specific object |specific objects ,1.0
+information item |information items ,1.0
+physical structures element |physical structures elements ,1.0
+mixed content |mixed content ,1.0
+non-validating depending |non-validating depending ,1.0
+section end-tag |section end-tags ,1.0
+stack |stack ,1.0
+space character |space character ,1.0
+sgml declaration xml |SGML declaration XML ,1.0
+syntactic support |syntactic support ,1.0
+equivalent |equivalent ,1.0
+loss |loss ,1.0
+distinct object |distinct objects ,1.0
+mgml minimal generalized markup language |MGML Minimal Generalized Markup Language ,1.0
+core-xml specification |core-XML specifications ,1.0
+online |Online ,1.0
+staff |staff ,1.0
+extent |extent ,1.0
+rise |rise ,1.0
+term xml |term XML ,1.0
+encoding header |encoding header ,1.0
+id attribute |ID attribute ,1.0
+special symbolic meaning |special symbolic meaning ,1.0
+stricter requirement |stricter requirements ,1.0
+different way |different ways ,1.0
+appleexaminer |appleexaminer ,1.0
+example image svg xml |example image svg xml ,1.0
+st laurent |St Laurent ,1.0
+unicode repertoire |Unicode repertoire ,1.0
+logical and physical structures element |logical and physical structures elements ,1.0
+transfer syntax |transfer syntax ,1.0
+application programming interface |application programming interfaces ,1.0
+string -- double-hyphen |string -- double-hyphen ,1.0
+removed |Removed ,1.0
+xslt and xquery |XSLT and XQuery ,1.0
+interest group mailing list |Interest Group mailing list ,1.0
+pull-parsing code |Pull-parsing code ,1.0
+majority vote |majority vote ,1.0
+xml com xml serialization |XML com XML Serialization ,1.0
+foreword |foreword ,1.0
+child element |child elements ,1.0
+src and alt |src and alt ,1.0
+processing instruction target |processing instruction target ,1.0
+default angle-bracket syntax |default angle-bracket syntax ,1.0
+weekly teleconference |weekly teleconferences ,1.0
+application profile |application profile ,1.0
+special syntax character |special syntax characters ,1.0
+place |place ,1.0
+newer feature |newer features ,1.0
+addison-wesley |Addison-Wesley ,1.0
+xmlreader |XMLReader ,1.0
+cobb group |Cobb Group ,1.0
+validating or non-validating depending |validating or non-validating depending ,1.0
+single root element |single root element ,1.0
+quote character |quote characters ,1.0
+xml schemas comparison |XML schemas Comparison ,1.0
+no organization |no organization ,1.0
+parent-child relationship |parent-child relationships ,1.0
+special feature |special features ,1.0
+yaml |YAML ,1.0
+elementtree iterparse |ElementTree iterparse ,1.0
+intense dispute |intense dispute ,1.0
+first four edition |first four editions ,1.0
+preliminary research |preliminary research ,1.0
+substantial work |substantial work ,1.0
+interface-oriented application programming interface |interface-oriented application programming interface ,1.0
+initiative |Initiatives ,1.0
+step number |step number ,1.0
+java architecture |Java Architecture ,1.0
+layout engine |layout engines ,1.0
+valid comment |valid comment ,1.0
+local link |local link ,1.0
+absence |absence ,1.0
+kristina hooper |Kristina Hooper ,1.0
+schematron assertion language |Schematron assertion language ,1.0
+expense |expense ,1.0
+entity expansion |entity expansion ,1.0
+pattern |patterns ,1.0
+chinese text |Chinese text ,1.0
+o reilly xml blog |O Reilly XML Blog ,1.0
+robustness |robustness ,1.0
+related specification |related specifications ,1.0
+encounter |encounters ,1.0
+example data binding system |Example data binding systems ,1.0
+dtd support |DTD support ,1.0
+ercs xml |ERCS XML ,1.0
+xml applications and initiative |XML Applications and Initiatives ,1.0
+representation processing instruction |representation processing instructions ,1.0
+css class or identifier name |CSS class or identifier names ,1.0
+xml binary characterization working group |XML Binary Characterization Working Group ,1.0
+association |Association ,1.0
+xml software |XML software ,1.0
+potential source |potential source ,1.0
+tag name |Tag names ,1.0
+higher-level method |higher-level methods ,1.0
+core syntax |Core Syntax ,1.0
+binary infoset |binary infoset ,1.0
+comparison history list |Comparison History List ,1.0
+input |input ,1.0
+generality |generality ,1.0
+alt foligno madonna |alt Foligno Madonna ,1.0
+no special significance |no special significance ,1.0
+project bray |project Bray ,1.0
+formats data modeling |formats Data modeling ,1.0
+external links edit |External links edit ,1.0
+verbosity |verbosity ,1.0
+regular expression syntax |regular expression syntax ,1.0
+greeting hello world |Greeting Hello world ,1.0
+raphael |Raphael ,1.0
+prior knowledge |prior knowledge ,1.0
+recursive-descent approach |recursive-descent approach ,1.0
+beginning and end tag |beginning and end tags ,1.0
+attribute class |attribute class ,1.0
+interactivity |interactivity ,1.0
+sequentially visit |sequentially visits ,1.0
+track |track ,1.0
+cyrillic character |Cyrillic characters ,1.0
+single collection |single collection ,1.0
+sources edit xml |Sources edit XML ,1.0
+skunkwork |skunkworks ,1.0
+unicode code point |Unicode code point ,1.0
+namespace-based routing |namespace-based routing ,1.0
+references edit |References edit ,1.0
+hundred |hundreds ,1.0
+class inner greeting-box |class inner greeting-box ,1.0
+unix timeline usage share feature |Unix Timeline Usage share Features ,1.0
+programming-language object |programming-language objects ,1.0
+severe markup error |severe markup errors ,1.0
+intense work |intense work ,1.0
+burden |burden ,1.0
+automated translation |automated translation ,1.0
+xml sax |XML SAX ,1.0
+xml extensible markup language xml |XML Extensible Markup Language XML ,1.0
+stream-oriented apis accessible |Stream-oriented APIs accessible ,1.0
+validation edit |validation edit ,1.0
+versions edit |Versions edit ,1.0
+record |record ,1.0
+schema type |schema types ,1.0
+xml document formatting |XML document formatting ,1.0
+xml contract |XML Contracts ,1.0
+b step |B step ,1.0
+xsd xml schema definition |XSD XML Schema Definition ,1.0
+registry |registry ,1.0
+document format |document formats ,1.0
+linux-like shell |Linux-like shell ,1.0
+internet markup |Internet Markup ,1.0
+multiple value |multiple values ,1.0
+reaction |reaction ,1.0
+comprehensive set |comprehensive set ,1.0
+pair |pair ,1.0
+line break code |line break codes ,1.0
+no method |no method ,1.0
+lower-level method |lower-level methods ,1.0
+data and metadata element |data and metadata elements ,1.0
+document object model edit |Document Object Model edit ,1.0
+effective |Effective ,1.0
+wikidata articles prone |Wikidata Articles prone ,1.0
+compile |compile ,1.0
+compact non-xml syntax |compact non-XML syntax ,1.0
+readability |readability ,1.0
+well-formed |Well-formed ,1.0
+apo |apos ,1.0
+programming language-specific binding |programming language-specific bindings ,1.0
+versatility |versatility ,1.0
+xml markup languages list |XML markup languages List ,1.0
+autodetection |Autodetection ,1.0
+fifth edition substitute |fifth edition substitutes ,1.0
+u fffe and u ffff |U FFFE and U FFFF ,1.0
+iterator design pattern |Iterator design pattern ,1.0
+scientific american |Scientific American ,1.0
+ten |Ten ,1.0
+xml tool |XML tools ,1.0
+different validator |different validators ,1.0
+xml entity value |XML entity values ,1.0
+scripts and character |scripts and characters ,1.0
+custom |custom ,1.0
+symbol |symbols ,1.0
+crl http http |CRL HTTP HTTPS ,1.0
+single screen |single screen ,1.0
+consideration |consideration ,1.0
+discover |discovers ,1.0
+sense |sense ,1.0
+typed class |typed classes ,1.0
+dtd designer |DTD designers ,1.0
+specific problem |specific problems ,1.0
+unstructured format |unstructured formats ,1.0
+xml schema datatype |XML Schema Datatypes ,1.0
+xml node list |XML node lists ,1.0
+following example |following example ,1.0
+primary design goal |primary design goal ,1.0
+close delimiter |close delimiter ,1.0
+example sax and stax |example SAX and StAX ,1.0
+related specifications edit |Related specifications edit ,1.0
+code development |code development ,1.0
+push pull |Push Pull ,1.0
+img src madonna |img src madonna ,1.0
+entityvalue definition |EntityValue definition ,1.0
+typical xml apis |Typical XML APIs ,1.0
+mistake |Mistakes ,1.0
+machine-readable |machine-readable ,1.0
+simpler definition |simpler definition ,1.0
+term |terms ,1.0
+video game console |video game console ,1.0
+book |book ,1.0
+course slide |Course Slides ,1.0

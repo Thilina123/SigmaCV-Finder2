@@ -1,0 +1,50 @@
+oop |OOP |Oop |oop ,10.0
+health care |health care ,2.0
+position |position ,2.0
+link |link ,2.0
+title |title ,2.0
+poker |poker ,2.0
+expense |expenses ,2.0
+expression |expression ,1.0
+out-of-pocket expense |Out-of-pocket expenses ,1.0
+project management oop |project management Oops ,1.0
+en wikipedia |en wikipedia ,1.0
+computer programming paradigm object-oriented positioning |computer programming paradigm Object-oriented positioning ,1.0
+operation |operations ,1.0
+search |search ,1.0
+microscopy order |microscopy Order ,1.0
+work |work ,1.0
+object-oriented programming |Object-oriented programming ,1.0
+insured party |insured party ,1.0
+encyclopedia jump |encyclopedia Jump ,1.0
+content |Contents ,1.0
+health care provider |health care provider ,1.0
+navigation |navigation ,1.0
+book or other work |book or other work ,1.0
+contest |contests ,1.0
+oop or oop |oop or OOP ,1.0
+article disambiguation page |article disambiguation pages ,1.0
+out-of-process plug-in |out-of-process plug-ins ,1.0
+wiktionary |Wiktionary ,1.0
+mathematics |mathematics ,1.0
+play oop |play Oop ,1.0
+tennis event |tennis event ,1.0
+order |order ,1.0
+disambiguation alley oop disambiguation |disambiguation Alley Oop disambiguation ,1.0
+rule |rules ,1.0
+feature-oriented positioning |feature-oriented positioning ,1.0
+douglas coupland |Douglas Coupland ,1.0
+software idea |software idea ,1.0
+internal link |internal link ,1.0
+disambiguation page |disambiguation page ,1.0
+play |Play ,1.0
+oopp |OOPP ,1.0
+dictionary |dictionary ,1.0
+print |print ,1.0
+intended article |intended article ,1.0
+schedule |schedule ,1.0
+article |articles ,1.0
+term |term ,1.0
+wikipedia |Wikipedia ,1.0
+position other edit order |Position Other edit Order ,1.0
+book |book ,1.0
