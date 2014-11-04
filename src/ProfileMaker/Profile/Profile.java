@@ -162,12 +162,15 @@ public class Profile {
     @Override
     public String toString() {
         String output=name+"\n"+title+"\n"+summary+"\n"+education+"\n";
+        if(experienceList!=null)
         for (Experience experience : experienceList) {
             output+=experience.toString();
         }
+        if(projectsList!=null)
         for (Project project : projectsList) {
             output+=project.toString();
         }
+        if(publicationList!=null)
         for (Publication publication : publicationList) {
             output+=publication.toString();
         }

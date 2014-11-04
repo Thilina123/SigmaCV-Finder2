@@ -75,3 +75,500 @@
 2014-11-02 23:45:16,972 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
 2014-11-02 23:45:16,979 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...RIDF_ALGORITHM
 2014-11-02 23:45:16,987 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:02:42,874 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/PhraseExtractor/test/example/ip2.txt
+2014-11-04 09:02:43,029 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-04 09:02:43,047 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/PhraseExtractor/test/example/ip2.txt
+2014-11-04 09:02:47,190 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-04 09:02:47,338 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:02:47,344 [Thread-0] INFO Thread-0 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/PhraseExtractor/test/example/ip2.txt
+2014-11-04 09:02:47,381 [Thread-0] INFO Thread-0 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-04 09:02:49,345 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:02:49,345 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/PhraseExtractor/test/example/ip2.txt
+2014-11-04 09:02:49,355 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-04 09:02:54,348 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:02:54,350 [Thread-2] INFO Thread-2 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-04 09:02:54,350 [Thread-5] INFO Thread-5 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-04 09:02:54,359 [Thread-6] INFO Thread-6 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:38
+2014-11-04 09:02:54,360 [Thread-3] INFO Thread-3 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-04 09:02:54,377 [Thread-4] INFO Thread-4 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:46
+2014-11-04 09:02:59,352 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:02:59,353 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/PhraseExtractor/test/example/ip2.txt
+2014-11-04 09:02:59,361 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/PhraseExtractor/test/example/imageProcessing.txt
+2014-11-04 09:03:01,362 [main] INFO main PhraseExtractor.AlgorithmTester - Running NP recognition...
+2014-11-04 09:03:01,362 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:03:01,381 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 09:03:01,399 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:03:01,574 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:03:01,588 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:03:01,596 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:03:01,608 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:03:01,616 [main] INFO main PhraseExtractor.AlgorithmTester - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:05:19,172 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/C++/C++.txt
+2014-11-04 09:05:19,242 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/C++/C++.txt
+2014-11-04 09:05:21,838 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:05:21,839 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/C++/C++.txt
+2014-11-04 09:05:23,843 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:05:23,844 [Thread-2] INFO Thread-2 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/C++/C++.txt
+2014-11-04 09:05:28,847 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:05:28,849 [Thread-3] INFO Thread-3 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:73
+2014-11-04 09:05:28,850 [Thread-6] INFO Thread-6 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:73
+2014-11-04 09:05:28,852 [Thread-5] INFO Thread-5 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:73
+2014-11-04 09:05:28,873 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:69
+2014-11-04 09:05:28,873 [Thread-4] INFO Thread-4 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:73
+2014-11-04 09:05:33,853 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:05:33,853 [Thread-8] INFO Thread-8 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/C++/C++.txt
+2014-11-04 09:05:35,861 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 09:05:35,862 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:05:35,879 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:05:35,899 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:05:35,913 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:05:35,939 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:05:35,953 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 09:05:35,969 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:05:35,981 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:05:38,142 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/C/C.txt
+2014-11-04 09:05:38,153 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/C/C.txt
+2014-11-04 09:05:38,743 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:05:38,744 [Thread-9] INFO Thread-9 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/C/C.txt
+2014-11-04 09:05:40,746 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:05:40,746 [Thread-10] INFO Thread-10 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/C/C.txt
+2014-11-04 09:05:45,748 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:05:45,748 [Thread-11] INFO Thread-11 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:73
+2014-11-04 09:05:45,752 [Thread-15] INFO Thread-15 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:69
+2014-11-04 09:05:45,752 [Thread-14] INFO Thread-14 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:73
+2014-11-04 09:05:45,756 [Thread-12] INFO Thread-12 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:73
+2014-11-04 09:05:45,760 [Thread-13] INFO Thread-13 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:73
+2014-11-04 09:05:50,749 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:05:50,750 [Thread-16] INFO Thread-16 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/C/C.txt
+2014-11-04 09:05:52,751 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 09:05:52,751 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:05:52,769 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:05:52,781 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:05:52,790 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 09:05:52,803 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:05:52,809 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:05:52,817 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:05:52,826 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:06:04,314 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Photoshop/Photoshop.txt
+2014-11-04 09:06:04,335 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Photoshop/Photoshop.txt
+2014-11-04 09:06:05,853 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:06:05,853 [Thread-17] INFO Thread-17 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Photoshop/Photoshop.txt
+2014-11-04 09:06:07,859 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:06:07,859 [Thread-18] INFO Thread-18 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Photoshop/Photoshop.txt
+2014-11-04 09:06:12,864 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:06:12,865 [Thread-19] INFO Thread-19 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:185
+2014-11-04 09:06:12,865 [Thread-21] INFO Thread-21 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:185
+2014-11-04 09:06:12,887 [Thread-23] INFO Thread-23 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:169
+2014-11-04 09:06:12,890 [Thread-20] INFO Thread-20 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:185
+2014-11-04 09:06:12,890 [Thread-22] INFO Thread-22 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:185
+2014-11-04 09:06:17,865 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:06:17,865 [Thread-24] INFO Thread-24 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Photoshop/Photoshop.txt
+2014-11-04 09:06:19,870 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 09:06:19,870 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:06:19,881 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:06:19,895 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:06:19,916 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 09:06:19,925 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:06:19,934 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:06:19,945 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:06:19,954 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:06:39,750 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/CSS/CSS.txt
+2014-11-04 09:06:39,779 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/CSS/CSS.txt
+2014-11-04 09:06:41,640 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:06:41,641 [Thread-25] INFO Thread-25 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/CSS/CSS.txt
+2014-11-04 09:06:43,647 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:06:43,647 [Thread-26] INFO Thread-26 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/CSS/CSS.txt
+2014-11-04 09:06:48,653 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:06:48,654 [Thread-27] INFO Thread-27 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:210
+2014-11-04 09:06:48,663 [Thread-29] INFO Thread-29 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:210
+2014-11-04 09:06:48,663 [Thread-28] INFO Thread-28 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:210
+2014-11-04 09:06:48,680 [Thread-31] INFO Thread-31 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:198
+2014-11-04 09:06:48,682 [Thread-30] INFO Thread-30 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:210
+2014-11-04 09:06:53,663 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:06:53,663 [Thread-32] INFO Thread-32 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/CSS/CSS.txt
+2014-11-04 09:06:55,669 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 09:06:55,669 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:06:55,674 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:06:55,710 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 09:06:55,717 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:06:55,721 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:06:55,731 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:06:55,740 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:06:55,748 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:06:57,528 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Subversion/Subversion.txt
+2014-11-04 09:06:57,537 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Subversion/Subversion.txt
+2014-11-04 09:06:58,357 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:06:58,357 [Thread-33] INFO Thread-33 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Subversion/Subversion.txt
+2014-11-04 09:07:00,361 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:07:00,362 [Thread-34] INFO Thread-34 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Subversion/Subversion.txt
+2014-11-04 09:07:05,364 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:07:05,365 [Thread-35] INFO Thread-35 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:143
+2014-11-04 09:07:05,365 [Thread-36] INFO Thread-36 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:143
+2014-11-04 09:07:05,374 [Thread-38] INFO Thread-38 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:143
+2014-11-04 09:07:05,375 [Thread-37] INFO Thread-37 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:143
+2014-11-04 09:07:05,375 [Thread-39] INFO Thread-39 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:127
+2014-11-04 09:07:10,375 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:07:10,375 [Thread-40] INFO Thread-40 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Subversion/Subversion.txt
+2014-11-04 09:07:12,378 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 09:07:12,378 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:07:12,420 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:07:12,424 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 09:07:12,432 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:07:12,437 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:07:12,440 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:07:12,444 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:07:12,448 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:07:16,354 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JSON/JSON.txt
+2014-11-04 09:07:16,367 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JSON/JSON.txt
+2014-11-04 09:07:17,310 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:07:17,311 [Thread-41] INFO Thread-41 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JSON/JSON.txt
+2014-11-04 09:07:19,314 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:07:19,314 [Thread-42] INFO Thread-42 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JSON/JSON.txt
+2014-11-04 09:07:24,317 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:07:24,318 [Thread-43] INFO Thread-43 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:126
+2014-11-04 09:07:24,318 [Thread-44] INFO Thread-44 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:126
+2014-11-04 09:07:24,325 [Thread-46] INFO Thread-46 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:126
+2014-11-04 09:07:24,326 [Thread-45] INFO Thread-45 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:126
+2014-11-04 09:07:24,326 [Thread-47] INFO Thread-47 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:110
+2014-11-04 09:07:29,318 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:07:29,318 [Thread-48] INFO Thread-48 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JSON/JSON.txt
+2014-11-04 09:07:31,321 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 09:07:31,321 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:07:31,327 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:07:31,335 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 09:07:31,348 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:07:31,351 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:07:31,354 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:07:31,357 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:07:31,359 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:07:35,418 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/ActionScript/ActionScript.txt
+2014-11-04 09:07:35,428 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/ActionScript/ActionScript.txt
+2014-11-04 09:07:36,554 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:07:36,554 [Thread-49] INFO Thread-49 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/ActionScript/ActionScript.txt
+2014-11-04 09:07:38,558 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:07:38,558 [Thread-50] INFO Thread-50 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/ActionScript/ActionScript.txt
+2014-11-04 09:07:43,562 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:07:43,563 [Thread-51] INFO Thread-51 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:151
+2014-11-04 09:07:43,574 [Thread-55] INFO Thread-55 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:135
+2014-11-04 09:07:43,574 [Thread-52] INFO Thread-52 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:151
+2014-11-04 09:07:43,581 [Thread-53] INFO Thread-53 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:151
+2014-11-04 09:07:43,581 [Thread-54] INFO Thread-54 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:151
+2014-11-04 09:07:48,573 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:07:48,574 [Thread-56] INFO Thread-56 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/ActionScript/ActionScript.txt
+2014-11-04 09:07:50,577 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 09:07:50,577 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 09:07:50,600 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:07:50,617 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:07:50,622 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:07:50,624 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:07:50,628 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:07:50,630 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:07:50,633 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:07:52,213 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JSP/JSP.txt
+2014-11-04 09:07:52,214 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JSP/JSP.txt
+2014-11-04 09:07:52,257 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:07:52,257 [Thread-57] INFO Thread-57 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JSP/JSP.txt
+2014-11-04 09:07:54,257 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:07:54,258 [Thread-58] INFO Thread-58 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JSP/JSP.txt
+2014-11-04 09:07:59,258 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:07:59,259 [Thread-59] INFO Thread-59 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:12
+2014-11-04 09:07:59,259 [Thread-60] INFO Thread-60 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:12
+2014-11-04 09:07:59,259 [Thread-61] INFO Thread-61 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:12
+2014-11-04 09:07:59,260 [Thread-62] INFO Thread-62 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:8
+2014-11-04 09:08:04,259 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:08:04,259 [Thread-63] INFO Thread-63 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JSP/JSP.txt
+2014-11-04 09:08:06,259 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 09:08:06,259 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:08:06,260 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:08:06,262 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:08:06,264 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:08:06,264 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:08:06,265 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 09:08:06,266 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:08:06,268 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:08:08,117 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JavaSE/JavaSE.txt
+2014-11-04 09:08:08,124 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JavaSE/JavaSE.txt
+2014-11-04 09:08:08,905 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:08:08,905 [Thread-64] INFO Thread-64 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JavaSE/JavaSE.txt
+2014-11-04 09:08:10,909 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:08:10,909 [Thread-65] INFO Thread-65 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JavaSE/JavaSE.txt
+2014-11-04 09:08:15,912 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:08:15,913 [Thread-66] INFO Thread-66 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:133
+2014-11-04 09:08:15,913 [Thread-68] INFO Thread-68 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:133
+2014-11-04 09:08:15,923 [Thread-67] INFO Thread-67 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:133
+2014-11-04 09:08:15,923 [Thread-69] INFO Thread-69 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:133
+2014-11-04 09:08:15,923 [Thread-70] INFO Thread-70 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:133
+2014-11-04 09:08:20,913 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:08:20,914 [Thread-71] INFO Thread-71 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/JavaSE/JavaSE.txt
+2014-11-04 09:08:22,916 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 09:08:22,916 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:08:22,922 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:08:22,926 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:08:22,930 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:08:22,939 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:08:22,942 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 09:08:22,945 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:08:22,950 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:08:27,876 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Ruby/Ruby.txt
+2014-11-04 09:08:27,884 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Ruby/Ruby.txt
+2014-11-04 09:08:28,536 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:08:28,536 [Thread-72] INFO Thread-72 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Ruby/Ruby.txt
+2014-11-04 09:08:30,538 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:08:30,539 [Thread-73] INFO Thread-73 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Ruby/Ruby.txt
+2014-11-04 09:08:35,541 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:08:35,542 [Thread-74] INFO Thread-74 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:112
+2014-11-04 09:08:35,548 [Thread-75] INFO Thread-75 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:112
+2014-11-04 09:08:35,550 [Thread-78] INFO Thread-78 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:108
+2014-11-04 09:08:35,556 [Thread-77] INFO Thread-77 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:112
+2014-11-04 09:08:35,556 [Thread-76] INFO Thread-76 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:112
+2014-11-04 09:08:40,548 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:08:40,549 [Thread-79] INFO Thread-79 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Ruby/Ruby.txt
+2014-11-04 09:08:42,550 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 09:08:42,550 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:08:42,555 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:08:42,559 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:08:42,591 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:08:42,594 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:08:42,597 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:08:42,600 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:08:42,604 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 09:08:48,448 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Servlets/Servlets.txt
+2014-11-04 09:08:48,454 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Servlets/Servlets.txt
+2014-11-04 09:08:48,955 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:08:48,959 [Thread-80] INFO Thread-80 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Servlets/Servlets.txt
+2014-11-04 09:08:50,961 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:08:50,961 [Thread-81] INFO Thread-81 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Servlets/Servlets.txt
+2014-11-04 09:08:55,963 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:08:55,964 [Thread-82] INFO Thread-82 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:56
+2014-11-04 09:08:55,964 [Thread-83] INFO Thread-83 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:56
+2014-11-04 09:08:55,966 [Thread-85] INFO Thread-85 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:56
+2014-11-04 09:08:55,966 [Thread-84] INFO Thread-84 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:56
+2014-11-04 09:08:55,966 [Thread-86] INFO Thread-86 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:56
+2014-11-04 09:09:00,964 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:09:00,964 [Thread-87] INFO Thread-87 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Servlets/Servlets.txt
+2014-11-04 09:09:02,967 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 09:09:02,967 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 09:09:02,970 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:09:02,973 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:09:02,976 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:09:02,977 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:09:02,980 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:09:02,982 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:09:02,984 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:09:04,842 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Hibernate/Hibernate.txt
+2014-11-04 09:09:04,848 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Hibernate/Hibernate.txt
+2014-11-04 09:09:05,409 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:09:05,410 [Thread-88] INFO Thread-88 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Hibernate/Hibernate.txt
+2014-11-04 09:09:07,411 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:09:07,411 [Thread-89] INFO Thread-89 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Hibernate/Hibernate.txt
+2014-11-04 09:09:12,413 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:09:12,414 [Thread-90] INFO Thread-90 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:98
+2014-11-04 09:09:12,414 [Thread-91] INFO Thread-91 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:98
+2014-11-04 09:09:12,419 [Thread-92] INFO Thread-92 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:98
+2014-11-04 09:09:12,419 [Thread-93] INFO Thread-93 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:98
+2014-11-04 09:09:12,424 [Thread-94] INFO Thread-94 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:90
+2014-11-04 09:09:17,419 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:09:17,419 [Thread-95] INFO Thread-95 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Hibernate/Hibernate.txt
+2014-11-04 09:09:19,421 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 09:09:19,421 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:09:19,424 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:09:19,427 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:09:19,444 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:09:19,453 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:09:19,457 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:09:19,459 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 09:09:19,461 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:09:21,286 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Unity3D/Unity3D.txt
+2014-11-04 09:09:21,290 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Unity3D/Unity3D.txt
+2014-11-04 09:09:21,605 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:09:21,606 [Thread-96] INFO Thread-96 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Unity3D/Unity3D.txt
+2014-11-04 09:09:23,607 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:09:23,608 [Thread-97] INFO Thread-97 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Unity3D/Unity3D.txt
+2014-11-04 09:09:28,608 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:09:28,634 [Thread-98] INFO Thread-98 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:35
+2014-11-04 09:09:28,635 [Thread-99] INFO Thread-99 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:35
+2014-11-04 09:09:28,635 [Thread-101] INFO Thread-101 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:35
+2014-11-04 09:09:28,635 [Thread-100] INFO Thread-100 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:35
+2014-11-04 09:09:28,636 [Thread-102] INFO Thread-102 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:31
+2014-11-04 09:09:33,609 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:09:33,609 [Thread-103] INFO Thread-103 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/SkillDocs/Unity3D/Unity3D.txt
+2014-11-04 09:09:35,610 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 09:09:35,610 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:09:35,612 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:09:35,613 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:09:35,615 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:09:35,617 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:09:35,618 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:09:35,619 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:09:35,621 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 09:18:34,625 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 09:18:34,713 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 09:18:34,725 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 09:18:36,010 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 09:18:36,260 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:18:36,261 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 09:18:36,262 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 09:18:38,264 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 09:18:38,266 [Thread-2] INFO Thread-2 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 09:18:38,266 [Thread-2] INFO Thread-2 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 09:18:43,269 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 09:18:43,270 [Thread-3] INFO Thread-3 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:13
+2014-11-04 09:18:43,669 [Thread-4] INFO Thread-4 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:13
+2014-11-04 09:18:43,669 [Thread-6] INFO Thread-6 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:13
+2014-11-04 09:18:43,669 [Thread-5] INFO Thread-5 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:13
+2014-11-04 09:18:43,669 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:1
+2014-11-04 09:18:48,273 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 09:18:48,273 [Thread-8] INFO Thread-8 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 09:18:48,274 [Thread-8] INFO Thread-8 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 09:18:50,282 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 09:18:50,282 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 09:18:50,286 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 09:18:50,291 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 09:18:50,296 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 09:18:50,299 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 09:18:50,302 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 09:18:50,304 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 09:18:50,309 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 10:02:10,921 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/wave%20sim.txt
+2014-11-04 10:02:10,940 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/flight%20sim.txt
+2014-11-04 10:02:10,942 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/bathromm%20planner.txt
+2014-11-04 10:02:10,943 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/tia.txt
+2014-11-04 10:02:10,945 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/oop%20assignment.txt
+2014-11-04 10:02:10,947 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 10:02:10,976 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/algo%20project.txt
+2014-11-04 10:02:10,981 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 10:02:10,983 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/luminary.txt
+2014-11-04 10:02:10,988 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/body%20gesture.txt
+2014-11-04 10:02:10,993 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/adaptive%20gesture.txt
+2014-11-04 10:02:10,999 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/wave%20sim.txt
+2014-11-04 10:02:12,877 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/flight%20sim.txt
+2014-11-04 10:02:12,897 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/bathromm%20planner.txt
+2014-11-04 10:02:12,932 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/tia.txt
+2014-11-04 10:02:12,994 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/oop%20assignment.txt
+2014-11-04 10:02:13,101 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 10:02:13,102 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/algo%20project.txt
+2014-11-04 10:02:13,404 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 10:02:13,477 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/luminary.txt
+2014-11-04 10:02:13,640 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/body%20gesture.txt
+2014-11-04 10:02:13,821 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/adaptive%20gesture.txt
+2014-11-04 10:02:14,065 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 10:02:14,066 [Thread-4] INFO Thread-4 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/luminary.txt
+2014-11-04 10:02:14,066 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/bathromm%20planner.txt
+2014-11-04 10:02:14,066 [Thread-3] INFO Thread-3 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 10:02:14,066 [Thread-2] INFO Thread-2 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/oop%20assignment.txt
+2014-11-04 10:02:14,069 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/flight%20sim.txt
+2014-11-04 10:02:14,072 [Thread-2] INFO Thread-2 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/tia.txt
+2014-11-04 10:02:14,072 [Thread-3] INFO Thread-3 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/adaptive%20gesture.txt
+2014-11-04 10:02:14,073 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/wave%20sim.txt
+2014-11-04 10:02:14,075 [Thread-2] INFO Thread-2 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/algo%20project.txt
+2014-11-04 10:02:14,079 [Thread-4] INFO Thread-4 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 10:02:14,094 [Thread-3] INFO Thread-3 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/body%20gesture.txt
+2014-11-04 10:02:16,075 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 10:02:16,077 [Thread-5] INFO Thread-5 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/bathromm%20planner.txt
+2014-11-04 10:02:16,077 [Thread-6] INFO Thread-6 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/oop%20assignment.txt
+2014-11-04 10:02:16,078 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 10:02:16,078 [Thread-8] INFO Thread-8 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/luminary.txt
+2014-11-04 10:02:16,078 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/adaptive%20gesture.txt
+2014-11-04 10:02:16,081 [Thread-6] INFO Thread-6 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/tia.txt
+2014-11-04 10:02:16,082 [Thread-5] INFO Thread-5 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/flight%20sim.txt
+2014-11-04 10:02:16,082 [Thread-6] INFO Thread-6 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/algo%20project.txt
+2014-11-04 10:02:16,083 [Thread-5] INFO Thread-5 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/wave%20sim.txt
+2014-11-04 10:02:16,089 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/body%20gesture.txt
+2014-11-04 10:02:16,090 [Thread-8] INFO Thread-8 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 10:02:21,086 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 10:02:21,088 [Thread-10] INFO Thread-10 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:148
+2014-11-04 10:02:21,089 [Thread-12] INFO Thread-12 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:148
+2014-11-04 10:02:21,122 [Thread-9] INFO Thread-9 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:148
+2014-11-04 10:02:21,130 [Thread-13] INFO Thread-13 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:132
+2014-11-04 10:02:21,137 [Thread-11] INFO Thread-11 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:148
+2014-11-04 10:02:26,090 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 10:02:26,091 [Thread-14] INFO Thread-14 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/bathromm%20planner.txt
+2014-11-04 10:02:26,091 [Thread-15] INFO Thread-15 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/oop%20assignment.txt
+2014-11-04 10:02:26,091 [Thread-14] INFO Thread-14 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/flight%20sim.txt
+2014-11-04 10:02:26,092 [Thread-14] INFO Thread-14 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/wave%20sim.txt
+2014-11-04 10:02:26,092 [Thread-15] INFO Thread-15 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/tia.txt
+2014-11-04 10:02:26,096 [Thread-16] INFO Thread-16 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 10:02:26,096 [Thread-17] INFO Thread-17 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/luminary.txt
+2014-11-04 10:02:26,097 [Thread-16] INFO Thread-16 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/adaptive%20gesture.txt
+2014-11-04 10:02:26,101 [Thread-17] INFO Thread-17 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 10:02:26,103 [Thread-15] INFO Thread-15 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/algo%20project.txt
+2014-11-04 10:02:26,108 [Thread-16] INFO Thread-16 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/body%20gesture.txt
+2014-11-04 10:02:28,098 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 10:02:28,098 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 10:02:28,112 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 10:02:28,127 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
+2014-11-04 10:02:28,142 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 10:02:28,180 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 10:08:58,276 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/wave%20sim.txt
+2014-11-04 10:08:58,294 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/flight%20sim.txt
+2014-11-04 10:08:58,296 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/bathromm%20planner.txt
+2014-11-04 10:08:58,297 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/tia.txt
+2014-11-04 10:08:58,298 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/oop%20assignment.txt
+2014-11-04 10:08:58,301 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 10:08:58,333 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/algo%20project.txt
+2014-11-04 10:08:58,339 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 10:08:58,341 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/luminary.txt
+2014-11-04 10:08:58,348 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/body%20gesture.txt
+2014-11-04 10:08:58,353 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/adaptive%20gesture.txt
+2014-11-04 10:08:58,359 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/wave%20sim.txt
+2014-11-04 10:09:00,387 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/flight%20sim.txt
+2014-11-04 10:09:00,408 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/bathromm%20planner.txt
+2014-11-04 10:09:00,440 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/tia.txt
+2014-11-04 10:09:00,498 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/oop%20assignment.txt
+2014-11-04 10:09:00,608 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 10:09:00,608 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/algo%20project.txt
+2014-11-04 10:09:00,902 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 10:09:00,977 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/luminary.txt
+2014-11-04 10:09:01,145 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/body%20gesture.txt
+2014-11-04 10:09:01,332 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.indexer.GlobalIndexBuilderMem - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/adaptive%20gesture.txt
+2014-11-04 10:09:01,568 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 10:09:01,569 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/bathromm%20planner.txt
+2014-11-04 10:09:01,570 [Thread-2] INFO Thread-2 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/oop%20assignment.txt
+2014-11-04 10:09:01,570 [Thread-3] INFO Thread-3 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 10:09:01,570 [Thread-4] INFO Thread-4 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/luminary.txt
+2014-11-04 10:09:01,572 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/flight%20sim.txt
+2014-11-04 10:09:01,576 [Thread-2] INFO Thread-2 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/tia.txt
+2014-11-04 10:09:01,576 [Thread-3] INFO Thread-3 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/adaptive%20gesture.txt
+2014-11-04 10:09:01,578 [Thread-1] INFO Thread-1 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/wave%20sim.txt
+2014-11-04 10:09:01,580 [Thread-2] INFO Thread-2 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/algo%20project.txt
+2014-11-04 10:09:01,584 [Thread-4] INFO Thread-4 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 10:09:01,590 [Thread-3] INFO Thread-3 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/body%20gesture.txt
+2014-11-04 10:09:03,582 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - About to build FeatureDocumentTermFrequency...
+2014-11-04 10:09:03,584 [Thread-8] INFO Thread-8 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/luminary.txt
+2014-11-04 10:09:03,584 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 10:09:03,584 [Thread-5] INFO Thread-5 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/bathromm%20planner.txt
+2014-11-04 10:09:03,585 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/adaptive%20gesture.txt
+2014-11-04 10:09:03,586 [Thread-6] INFO Thread-6 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/oop%20assignment.txt
+2014-11-04 10:09:03,586 [Thread-5] INFO Thread-5 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/flight%20sim.txt
+2014-11-04 10:09:03,588 [Thread-6] INFO Thread-6 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/tia.txt
+2014-11-04 10:09:03,588 [Thread-5] INFO Thread-5 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/wave%20sim.txt
+2014-11-04 10:09:03,589 [Thread-6] INFO Thread-6 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/algo%20project.txt
+2014-11-04 10:09:03,590 [Thread-8] INFO Thread-8 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 10:09:03,591 [Thread-7] INFO Thread-7 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderDocumentTermFrequencyMultiThread - For document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/body%20gesture.txt
+2014-11-04 10:09:08,594 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - About to build FeatureTermNest...
+2014-11-04 10:09:08,596 [Thread-9] INFO Thread-9 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:148
+2014-11-04 10:09:08,596 [Thread-13] INFO Thread-13 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:132
+2014-11-04 10:09:08,596 [Thread-12] INFO Thread-12 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:148
+2014-11-04 10:09:08,596 [Thread-10] INFO Thread-10 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:148
+2014-11-04 10:09:08,596 [Thread-11] INFO Thread-11 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderTermNestMultiThread - Total in batch:148
+2014-11-04 10:09:13,598 [main] INFO main uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - About to build FeatureCorpusTermFrequency...
+2014-11-04 10:09:13,599 [Thread-15] INFO Thread-15 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/oop%20assignment.txt
+2014-11-04 10:09:13,599 [Thread-14] INFO Thread-14 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/bathromm%20planner.txt
+2014-11-04 10:09:13,600 [Thread-14] INFO Thread-14 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/flight%20sim.txt
+2014-11-04 10:09:13,601 [Thread-15] INFO Thread-15 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/tia.txt
+2014-11-04 10:09:13,601 [Thread-14] INFO Thread-14 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/wave%20sim.txt
+2014-11-04 10:09:13,602 [Thread-15] INFO Thread-15 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/algo%20project.txt
+2014-11-04 10:09:13,604 [Thread-16] INFO Thread-16 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/out/
+2014-11-04 10:09:13,604 [Thread-16] INFO Thread-16 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/adaptive%20gesture.txt
+2014-11-04 10:09:13,607 [Thread-17] INFO Thread-17 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/luminary.txt
+2014-11-04 10:09:13,612 [Thread-17] INFO Thread-17 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/Thilina%20Premasiri.txt
+2014-11-04 10:09:13,624 [Thread-16] INFO Thread-16 uk.ac.shef.dcs.oak.jate.core.feature.FeatureBuilderCorpusTermFrequencyMultiThread - For Document file:/D:/Projects/Repositories/Final%20Year%20Project/SigmaCV%20finder%202/src/ProfileMaker/Skills/UserDocs/Thilina%20Premasiri/body%20gesture.txt
+2014-11-04 10:09:15,621 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running NP recognition...
+2014-11-04 10:09:15,621 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...RIDF_ALGORITHM
+2014-11-04 10:09:15,649 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...AverageCorpusTF_ALGORITHM
+2014-11-04 10:09:15,672 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Weirdness_ALGORITHM
+2014-11-04 10:09:15,692 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TermEx_ALGORITHM
+2014-11-04 10:09:15,715 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...TfIdf_ALGORITHM
+2014-11-04 10:09:15,765 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...Simple_term_frequency_ALGORITHM
+2014-11-04 10:09:15,777 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...IBM_GlossEx_ALGORITHM
+2014-11-04 10:09:15,801 [main] INFO main PhraseExtractor.PhraseAnalyzer - Running feature store builder and ATR...CValue_ALGORITHM
