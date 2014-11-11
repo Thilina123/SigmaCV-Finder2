@@ -40,7 +40,7 @@ public class SkillsExtractor {
         for (Element skillElement : skillElements) {
             System.out.println(skillElement.text());
 //            writeFile();
-            wiki.GetTerms(skillElement.text());
+            wiki.GetTermsGoogle(skillElement.text());
         }
     }
 

@@ -1,6 +1,7 @@
 package ProfileMaker.Skills;
 
 import PhraseExtractor.PhraseAnalyzer;
+import ProfileMaker.Google;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.jsoup.Jsoup;
@@ -21,11 +22,13 @@ public class Wikipedia {
     private NetworkManager networkManager;
     public String filePath="src/ProfileMaker/Skills/SkillDocs";
     PhraseAnalyzer phraseAnalyzer;
+    Google google;
     public Wikipedia() {
         networkManager=new NetworkManager();
         phraseAnalyzer=new PhraseAnalyzer();
+        google=new Google();
     }
-    public void GetTerms(String searchTerm){
+    public void GetTermsWikiAPI(String searchTerm){
         ArrayList<String> terms=new ArrayList<String>();
         JSONObject json = null;
         searchTerm=searchTerm.replace(' ','-');
@@ -44,7 +47,7 @@ public class Wikipedia {
                 System.out.println(key);
                 if (!key.equals("-1")){
                     String text=tokenizePage(key);
-                    writeFile(searchTerm,text);
+//                    writeFile(searchTerm,text);
                 }
             }
         } catch (JSONException e) {
@@ -52,9 +55,22 @@ public class Wikipedia {
         }
         return;
     }
-    private String tokenizePage(String pageId){
+    public void GetTermsGoogle(String searchTerm){
+
+        ArrayList<String> links=google.FindOnWikipedia(searchTerm);
+
+        for (int i = 0; i < links.size(); i++) {
+            String link = links.get(i);
+            String text = tokenizePage(link);
+            writeFile(searchTerm, i+"", text);
+        }
+
+        phraseAnalyzer.RecognizeTerms(filePath + "/" + searchTerm, filePath + "/" + searchTerm + "_out");
+        return;
+    }
+    private String tokenizePage(String url){
         ArrayList<String> terms=new ArrayList<String>();
-        String url="http://en.wikipedia.org/wiki?curid="+pageId;
+//        String url="http://en.wikipedia.org/wiki?curid="+url;
         Document doc = null;
         try {
             doc = Jsoup.connect(url).timeout(0).get();
@@ -67,10 +83,12 @@ public class Wikipedia {
 
         return body.text();
     }
-    private void writeFile(String skillName,String text){
+    private void writeFile(String skillName,String url,String text){
         boolean b = new File(filePath+"/"+skillName).mkdirs();
-        if(b) {
-            File file = new File(filePath + "/" + skillName + "/" + skillName + ".txt");
+//        if(b) {
+            File file = new File(filePath + "/" + skillName + "/" + url + ".txt");
+        if(file.exists())
+            return;
             // creates the file
             try {
                 file.createNewFile();
@@ -81,12 +99,12 @@ public class Wikipedia {
                 writer.flush();
                 writer.close();
                 new File(filePath + "/" + skillName+"_out").mkdirs();
-                phraseAnalyzer.RecognizeTerms(filePath + "/" + skillName, filePath + "/" + skillName + "_out");
+//                phraseAnalyzer.RecognizeTerms(filePath + "/" + skillName, filePath + "/" + skillName + "_out");
 
             } catch (IOException e) {
                 e.printStackTrace();
             }
-        }
+//        }
 
 //        new File(filePath + "/" + skillName,filePath + "/" + skillName+"_out").mkdirs();
 //        phraseAnalyzer.RecognizeTerms(filePath + "/" + skillName,filePath + "/" + skillName+"_out"  );
