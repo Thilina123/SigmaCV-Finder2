@@ -203,7 +203,7 @@ public class Profile {
 
     }
     private void extractPhrases(){
-        phraseAnalyzer.GenerateTF_IDF(profileDocsPath+"/"+name,profileDocsPath+"/"+name+"/out");
+        phraseAnalyzer.RecognizeTerms(profileDocsPath + "/" + name, profileDocsPath + "/" + name + "/out");
     }
 
 }

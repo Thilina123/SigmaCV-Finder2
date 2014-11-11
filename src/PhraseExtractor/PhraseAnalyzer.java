@@ -51,7 +51,7 @@ public class PhraseAnalyzer {
         }
     }
 
-    public void GenerateTF_IDF(String srcPath,String destPath) {
+    public void RecognizeTerms(String srcPath, String destPath) {
 //		if (args.length < 3) System.out.println("Usage: java PhraseAnalyzer [corpus_path] [reference_corpus_path] [output_folder]");
         if (false) System.out.println("Usage: java PhraseAnalyzer [corpus_path] [reference_corpus_path] [output_folder]");
         else {

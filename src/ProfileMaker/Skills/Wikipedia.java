@@ -6,7 +6,6 @@ import org.json.JSONObject;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
 import utils.NetworkManager;
 
 import java.io.File;
@@ -82,7 +81,7 @@ public class Wikipedia {
                 writer.flush();
                 writer.close();
                 new File(filePath + "/" + skillName+"_out").mkdirs();
-                phraseAnalyzer.GenerateTF_IDF(filePath + "/" + skillName,filePath + "/" + skillName+"_out"  );
+                phraseAnalyzer.RecognizeTerms(filePath + "/" + skillName, filePath + "/" + skillName + "_out");
 
             } catch (IOException e) {
                 e.printStackTrace();
@@ -90,7 +89,7 @@ public class Wikipedia {
         }
 
 //        new File(filePath + "/" + skillName,filePath + "/" + skillName+"_out").mkdirs();
-//        phraseAnalyzer.GenerateTF_IDF(filePath + "/" + skillName,filePath + "/" + skillName+"_out"  );
+//        phraseAnalyzer.RecognizeTerms(filePath + "/" + skillName,filePath + "/" + skillName+"_out"  );
 
 
     }
