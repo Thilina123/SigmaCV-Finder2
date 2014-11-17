@@ -9,6 +9,7 @@ import PhraseExtractor.PhraseAnalyzer;
 import ProfileMaker.GitHubExtractor;
 import ProfileMaker.GoogleScholarExtractor;
 import ProfileMaker.LinkedInExtractor;
+import utils.Config;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -47,7 +48,7 @@ public class Profile {
         System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 //        System.out.println(toString());
         writeFile();
-        extractPhrases();
+        ExtractPhrases();
     }
 
     public String getName() {
@@ -183,7 +184,7 @@ public class Profile {
     private void writeFile(){
         String text=toString();
         boolean b = new File(profileDocsPath+"/"+name).mkdirs();
-        b = new File(profileDocsPath+"/"+name+"/out").mkdirs();
+//        b = new File(profileDocsPath+"/"+name+"/out").mkdirs();
         if(b) {
             File file = new File(profileDocsPath + "/" + name + "/" + name + ".txt");
             // creates the file
@@ -202,8 +203,8 @@ public class Profile {
         }
 
     }
-    private void extractPhrases(){
-        phraseAnalyzer.RecognizeTerms(profileDocsPath + "/" + name, profileDocsPath + "/" + name + "/out");
+    public void ExtractPhrases(){
+        phraseAnalyzer.RecognizeTerms(profileDocsPath + "/" + name, Config.profilesOutputPath + "/" + name );
     }
 
 }

@@ -45,8 +45,9 @@ public class PhraseAnalyzer {
         for (Map.Entry<Algorithm, AbstractFeatureWrapper> en : _algregistry.entrySet()) {
             _logger.info("Running feature store builder and ATR..." + en.getKey().toString());
             Term[] result = en.getKey().execute(en.getValue());
-            writer.output(result, outFolder + File.separator + en.getKey().toString() + ".txt");
-            System.out.println(result[i]);
+            new File(outFolder).mkdirs();
+            writer.output(result, outFolder + File.separator + en.getKey().toString() + ".csv");
+//            System.out.println(result[i]);
             i++;
         }
     }
@@ -109,16 +110,11 @@ public class PhraseAnalyzer {
                 /* #1 Due to use of multi-threading, this can significantly occupy your CPU and memory resources. It is
                  better to use this way on dedicated server machines, and only for very large corpus
                 * */
-                FeatureCorpusTermFrequency wordFreq =
-                        new FeatureBuilderCorpusTermFrequencyMultiThread(wordcounter, lemmatizer).build(wordDocIndex);
-                FeatureDocumentTermFrequency termDocFreq =
-                        new FeatureBuilderDocumentTermFrequencyMultiThread(wordcounter, lemmatizer).build(termDocIndex);
-                FeatureTermNest termNest =
-                        new FeatureBuilderTermNestMultiThread().build(termDocIndex);
-                FeatureRefCorpusTermFrequency bncRef =
-                        new FeatureBuilderRefCorpusTermFrequency(JATEProperties.getInstance().getTestPath()+"/out/refStat.txt").build(null);
-                FeatureCorpusTermFrequency termCorpusFreq =
-                        new FeatureBuilderCorpusTermFrequencyMultiThread(wordcounter, lemmatizer).build(termDocIndex);
+                FeatureCorpusTermFrequency wordFreq = new FeatureBuilderCorpusTermFrequencyMultiThread(wordcounter, lemmatizer).build(wordDocIndex);
+                FeatureDocumentTermFrequency termDocFreq = new FeatureBuilderDocumentTermFrequencyMultiThread(wordcounter, lemmatizer).build(termDocIndex);
+                FeatureTermNest termNest = new FeatureBuilderTermNestMultiThread().build(termDocIndex);
+                FeatureRefCorpusTermFrequency bncRef = new FeatureBuilderRefCorpusTermFrequency(JATEProperties.getInstance().getTestPath()+"/out/refStat.txt").build(null);
+                FeatureCorpusTermFrequency termCorpusFreq = new FeatureBuilderCorpusTermFrequencyMultiThread(wordcounter, lemmatizer).build(termDocIndex);
 
                 /* #2 */
                 /*
@@ -142,7 +138,7 @@ public class PhraseAnalyzer {
                 //#         and also an instance of its feature wrapper.   #
                 //##########################################################
                 PhraseAnalyzer tester = new PhraseAnalyzer();
-                tester.registerAlgorithm(new TFIDFAlgorithm(), new TFIDFFeatureWrapper(termCorpusFreq));
+//                tester.registerAlgorithm(new TFIDFAlgorithm(), new TFIDFFeatureWrapper(termCorpusFreq));
                 tester.registerAlgorithm(new GlossExAlgorithm(), new GlossExFeatureWrapper(termCorpusFreq, wordFreq, bncRef));
                 tester.registerAlgorithm(new WeirdnessAlgorithm(), new WeirdnessFeatureWrapper(wordFreq, termCorpusFreq, bncRef));
                 tester.registerAlgorithm(new CValueAlgorithm(), new CValueFeatureWrapper(termCorpusFreq, termNest));
